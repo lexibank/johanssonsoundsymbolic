@@ -2,4 +2,6 @@
 
 Name | GitHub user | Role
 --- | --- | ---
- | @ | maintainer
+Sacha Beniamine | @XachaB | maintainer | Author, Patron
+Erben Johansson | | publication author | Author
+Kristina Pianykh | @Kristina-Pianykh | concept mapping | Author
