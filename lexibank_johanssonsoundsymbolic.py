@@ -3,10 +3,11 @@ import pylexibank
 from clldutils.misc import slug
 
 from openpyxl import load_workbook
-from pycldf import Source
 from itertools import groupby
 
 import csv
+
+
 # Customize your basic data.
 # if you need to store other data in columns than the lexibank defaults, then over-ride
 # the table type (pylexibank.[Language|Lexeme|Concept|Cognate|]) and add the required columns e.g.
@@ -61,7 +62,6 @@ class Dataset(pylexibank.Dataset):
             file = csv.reader(f)
             to_bibtexkey = dict(list(file))
 
-
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
             c_id = "{0}-{1}".format(concept.id.split("-")[-1],
@@ -96,19 +96,22 @@ class Dataset(pylexibank.Dataset):
                               read_only=True)
         data = data_iterator(excel['Blad2'].rows)
 
-        all_citations = set()
-
         ## Languages are the first six rows in the table, wide format.
         languages_wide = [next(data) for _ in range(6)]
         header = languages_wide[0]
         language_lookup = {}
+        iso_to_glot = self.glottolog.languoids_by_code()
         for language in transpose(languages_wide):
             lg_id = slug(language["Language name"])
             ref = language["Full Reference"]
             kwargs = {}
             if ref in to_bibtexkey:
                 kwargs["Source"] = to_bibtexkey[ref]
-
+            langoid = iso_to_glot.get(language["ISO 639-3"], None)
+            if langoid is not None:
+                kwargs["Glottocode"] = langoid.glottocode
+                kwargs["Latitude"] = langoid.latitude
+                kwargs["Longitude"] = langoid.longitude
             args.writer.add_language(
                 ID=lg_id,
                 Name=language["Language name"],
@@ -121,7 +124,6 @@ class Dataset(pylexibank.Dataset):
             # 245 languages in total !
             # Note: each language also has a Familu name according to Ethnologue, under "Family name (Ethnologue 2015-05-05)"
 
-
         # Some concepts were renamed, so we can not guess the English from the data
         with open("etc/renamed_concepts.csv", "r", encoding="utf-8") as f:
             file = csv.reader(f)
@@ -129,25 +131,28 @@ class Dataset(pylexibank.Dataset):
 
         ## Blocks of rows separated by empty rows represent each aligned cognate group.
         # Again the forms are in wide format
-        for i, (empty,  forms_wide) in enumerate(groupby(data, lambda r:r[0] is None)):
+        blocks = groupby(data, lambda r: r[0] is None)
+        for i, (empty, forms_wide) in enumerate(blocks):
             if not empty:
                 forms_wide = list(forms_wide)
                 concept = forms_wide[0][0].upper()
-                if i == 164: # No other way to recognize these, they both have "FLY"
+                # No other way to recognize "FLY (N)" and "(V)", both have "fly"
+                if i == 164:
                     concept = "FLY (N)"
                 elif i == 166:
-                     concept = "FLY (V)"
+                    concept = "FLY (V)"
                 elif concept not in concept_lookup:
                     concept = renamed_concepts[concept]
-
-                forms_wide[0][0] = "Ortho" # This changes for each concept, we need a consistent header
+                forms_wide[0][0] = "Ortho"
                 for row in transpose([header] + forms_wide):
                     if row["Ortho"] is not None \
                             and row['Present transciption system'] is not None:
                         args.writer.add_form(
-                                     Language_ID=language_lookup[row["Language name"]],
-                                     Parameter_ID=concept_lookup[concept],
-                                     Value=row['Ortho'],
-                                     Form=row['Present transciption system'],
-                            #         Source=[row['Source']], # This is a reference, but not very systematically formatted, would require manual matching to use.
-                            )
+                            Language_ID=language_lookup[row["Language name"]],
+                            Parameter_ID=concept_lookup[concept],
+                            Value=row['Ortho'],
+                            Form=row['Present transciption system'],
+                            # Source=[row['Source']],
+                            # This is a reference, but not very systematically
+                            # formatted, would require manual matching to use.
+                        )

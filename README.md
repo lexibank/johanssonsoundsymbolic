@@ -14,7 +14,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 83%](https://img.shields.io/badge/Concepticon-83%25-yellowgreen.svg "Concepticon: 83%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
