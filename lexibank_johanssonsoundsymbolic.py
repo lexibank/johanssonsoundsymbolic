@@ -52,25 +52,15 @@ class Dataset(pylexibank.Dataset):
         A `pylexibank.cldf.LexibankWriter` instance is available as `args.writer`. Use the methods
         of this object to add data.
         """
-        data_source = Source("article", "JohanssonEtAl2020",
-                             author="Niklas Erben Johansson "
-                                    "and Andrey Anikin and "
-                                    "Gerd Carling and Arthur Holmer",
-                             title="The typology of sound symbolism: "
-                                   "Defining macro-concepts via their "
-                                   "semantic and phonetic features",
-                             journal="Linguistic Typology",
-                             year="01 Jul. 2020",
-                             publisher="De Gruyter Mouton",
-                             address="Berlin, Boston",
-                             volume="24",
-                             number="2",
-                             doi="https://doi.org/10.1515/lingty-2020-2034",
-                             pages="253 - 310",
-                             url="https://www.degruyter.com/view"
-                                 "/journals/lity/24/2/article-p253.xml"
-                             )
-        args.writer.add_sources(data_source)
+        args.writer.add_sources()
+        ref = "JohanssonEtAl2020"
+
+        # Mapping from plain text refs to bibtex keys
+        # Note: bibliography parsed by https://anystyle.io/, with very little cleaning
+        with open("etc/ref_to_bib.csv", "r", encoding="utf-8") as f:
+            file = csv.reader(f)
+            to_bibtexkey = dict(list(file))
+
 
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
@@ -91,7 +81,7 @@ class Dataset(pylexibank.Dataset):
             for row in data:
                 yield [cell.value for cell in row][:-50]
 
-        def pivot_table(rows):
+        def transpose(rows):
             """Takes a table in wide form as a list of list and serves it in long form as dicts.
 
             rows: a list of lists of values. The first element of each inner list is the index of the row.
@@ -106,21 +96,29 @@ class Dataset(pylexibank.Dataset):
                               read_only=True)
         data = data_iterator(excel['Blad2'].rows)
 
+        all_citations = set()
+
         ## Languages are the first six rows in the table, wide format.
         languages_wide = [next(data) for _ in range(6)]
         header = languages_wide[0]
         language_lookup = {}
-        for language in pivot_table(languages_wide):
+        for language in transpose(languages_wide):
             lg_id = slug(language["Language name"])
+            ref = language["Full Reference"]
+            kwargs = {}
+            if ref in to_bibtexkey:
+                kwargs["Source"] = to_bibtexkey[ref]
+
             args.writer.add_language(
                 ID=lg_id,
+                Name=language["Language name"],
                 ISO639P3code=language["ISO 639-3"],
                 Family=language["Family name (Glottolog 2015-05-05)"],
-                Macroarea=language["Geograhpical macro-area"]
+                Macroarea=language["Geograhpical macro-area"],
+                **kwargs
             )
             language_lookup[language["Language name"]] = lg_id
             # 245 languages in total !
-            # Note: each language also has a full text citation under "Full Reference", do these need to go into the sources ?
             # Note: each language also has a Familu name according to Ethnologue, under "Family name (Ethnologue 2015-05-05)"
 
 
@@ -143,7 +141,7 @@ class Dataset(pylexibank.Dataset):
                     concept = renamed_concepts[concept]
 
                 forms_wide[0][0] = "Ortho" # This changes for each concept, we need a consistent header
-                for row in pivot_table([header] + forms_wide):
+                for row in transpose([header] + forms_wide):
                     if row["Ortho"] is not None \
                             and row['Present transciption system'] is not None:
                         args.writer.add_form(
@@ -151,5 +149,5 @@ class Dataset(pylexibank.Dataset):
                                      Parameter_ID=concept_lookup[concept],
                                      Value=row['Ortho'],
                                      Form=row['Present transciption system'],
-                            #         Source=[row['Source']],
+                            #         Source=[row['Source']], # This is a reference, but not very systematically formatted, would require manual matching to use.
                             )
