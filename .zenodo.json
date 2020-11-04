@@ -1,0 +1,33 @@
+{
+    "title": "CLDF dataset derived from the Johansson et al.'s \"The typology of sound symbolism\" from 2020 ",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Erben Johansson"
+        },
+        {
+            "name": "Kristina Pianykh"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Sacha Beniamine",
+            "type": "Other"
+        },
+        {
+            "name": "Sacha Beniamine",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Erben Johansson, N., Anikin, A., Carling, G., &amp; Holmer, A. (2020). The typology of sound symbolism: Defining macro-concepts via their semantic and phonetic features, Linguistic Typology , 24(2), 253-310. doi: https://doi.org/10.1515/lingty-2020-2034</p>\n</blockquote>"
+}
