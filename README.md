@@ -20,9 +20,9 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 245
 - **Concepts:** 344
-- **Lexemes:** 69,964
+- **Lexemes:** 70,788
 - **Sources:** 0
-- **Synonymy:** 1.00
+- **Synonymy:** 1.01
 
 ## Possible Improvements:
 
@@ -31,7 +31,7 @@ Conceptlists in Concepticon:
   - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
-- Entries missing sources: 69964/69964 (100.00%)
+- Entries missing sources: 70788/70788 (100.00%)
 
 # Contributors
 

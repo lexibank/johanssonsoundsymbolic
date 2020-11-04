@@ -152,12 +152,18 @@ class Dataset(pylexibank.Dataset):
                 for row in transpose([header] + forms_wide):
                     if row["Ortho"] is not None \
                             and row['Present transciption system'] is not None:
-                        args.writer.add_form(
-                            Language_ID=language_lookup[row["Language name"]],
-                            Parameter_ID=concept_lookup[concept],
-                            Value=row['Ortho'],
-                            Form=row['Present transciption system'],
-                            # Source=[row['Source']],
-                            # This is a reference, but not very systematically
-                            # formatted, would require manual matching to use.
-                        )
+
+                        ## Usually this is just one form, but if there is a "/",
+                        ## It separates several forms for this concept and language
+
+                        for ortho, form in zip(row['Ortho'].split("/"),
+                                               row['Present transciption system'].split("/")):
+                            args.writer.add_form(
+                                Language_ID=language_lookup[row["Language name"]],
+                                Parameter_ID=concept_lookup[concept],
+                                Value=ortho,
+                                Form=form,
+                                # Source=[row['Source']],
+                                # This is a reference, but not very systematically
+                                # formatted, would require manual matching to use.
+                            )
