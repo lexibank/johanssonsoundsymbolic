@@ -18,13 +18,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/johanssonsoundsymbolic",
-            "dc:created": "511ce46"
+            "dc:created": "fc06b1d"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes-2-g015e07ff89"
+            "dc:created": "v4.3-treedb-fixes"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,7 +36,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4-5-g4185301"
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [

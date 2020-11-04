@@ -100,14 +100,20 @@ class Dataset(pylexibank.Dataset):
         languages_wide = [next(data) for _ in range(6)]
         header = languages_wide[0]
         language_lookup = {}
-        iso_to_glot = self.glottolog.languoids_by_code()
+        langoids = self.glottolog.languoids_by_code()
         for language in transpose(languages_wide):
             lg_id = slug(language["Language name"])
             ref = language["Full Reference"]
             kwargs = {}
             if ref in to_bibtexkey:
                 kwargs["Source"] = to_bibtexkey[ref]
-            langoid = iso_to_glot.get(language["ISO 639-3"], None)
+            isocode = language["ISO 639-3"]
+            if isocode is not None and isocode != "N/A":
+                kwargs["ISO639P3code"] = isocode
+            if lg_id == "allentiac":
+                langoid = langoids["alle1238"]
+            else:
+                langoid = langoids.get(isocode, None)
             if langoid is not None:
                 kwargs["Glottocode"] = langoid.glottocode
                 kwargs["Latitude"] = langoid.latitude
@@ -115,7 +121,6 @@ class Dataset(pylexibank.Dataset):
             args.writer.add_language(
                 ID=lg_id,
                 Name=language["Language name"],
-                ISO639P3code=language["ISO 639-3"],
                 Family=language["Family name (Glottolog 2015-05-05)"],
                 Macroarea=language["Geograhpical macro-area"],
                 **kwargs

@@ -26,6 +26,9 @@ Conceptlists in Concepticon:
 
 ## Possible Improvements:
 
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Lenca-Salvador [lenc1244](http://glottolog.org/resource/languoid/id/lenc1244)
+  - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
 - Entries missing sources: 69964/69964 (100.00%)
