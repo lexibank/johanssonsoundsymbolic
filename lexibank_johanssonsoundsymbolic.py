@@ -58,9 +58,8 @@ class Dataset(pylexibank.Dataset):
 
         # Mapping from plain text refs to bibtex keys
         # Note: bibliography parsed by https://anystyle.io/, with very little cleaning
-        with open("etc/ref_to_bib.csv", "r", encoding="utf-8") as f:
-            file = csv.reader(f)
-            to_bibtexkey = dict(list(file))
+        to_bibtexkey = {key:ref for ref,key in self.raw_dir.read_csv("ref_to_bib.csv")}
+
 
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
@@ -130,9 +129,7 @@ class Dataset(pylexibank.Dataset):
             # Note: each language also has a Familu name according to Ethnologue, under "Family name (Ethnologue 2015-05-05)"
 
         # Some concepts were renamed, so we can not guess the English from the data
-        with open("etc/renamed_concepts.csv", "r", encoding="utf-8") as f:
-            file = csv.reader(f)
-            renamed_concepts = dict(list(file))
+        renamed_concepts = {concept_name:concept_id for concept_name,concept_id in self.raw_dir.read_csv("renamed_concepts.csv")}
 
         ## Blocks of rows separated by empty rows represent each aligned cognate group.
         # Again the forms are in wide format
