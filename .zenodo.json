@@ -7,16 +7,19 @@
     ],
     "creators": [
         {
-            "name": "Sacha Beniamine"
+            "name": "Erben Johansson"
+        },
+        {
+            "name": "Kristina Pianykh"
         }
     ],
     "contributors": [
         {
-            "name": "Erben Johansson",
+            "name": "Sacha Beniamine",
             "type": "Other"
         },
         {
-            "name": "Kristina Pianykh",
+            "name": "Sacha Beniamine",
             "type": "Other"
         }
     ],
