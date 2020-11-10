@@ -2,23 +2,7 @@ from pathlib import Path
 import attr
 import pylexibank
 from clldutils.misc import slug
-from collections import defaultdict
 from pylexibank import Lexeme, progressbar
-
-from itertools import groupby
-
-import csv
-
-
-# Customize your basic data.
-# if you need to store other data in columns than the lexibank defaults, then over-ride
-# the table type (pylexibank.[Language|Lexeme|Concept|Cognate|]) and add the required columns e.g.
-#
-# import attr
-#
-# @attr.s
-# class Concept(pylexibank.Concept):
-#    MyAttribute1 = attr.ib(default=None)
 
 @attr.s
 class CustomLexeme(Lexeme):
