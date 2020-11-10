@@ -1,18 +1,21 @@
 appdirs==1.4.4
+bs4==0.0.1
+cdstarcat==1.3.0
 certifi==2020.6.20
 chardet==3.0.4
 cldfbench==1.2.3
-cldfcatalog==1.3.0
-clldutils==3.5.4
+-e git+https://github.com/cldf/cldfcatalog@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
+-e git+https://github.com/LinguList/clldutils.git@37d9368b9bc1de2ed30ad700e285651859f9dfbd#egg=clldutils
 colorlog==4.4.0
-csvw==1.8.0
+-e git+https://github.com/cldf/csvw.git@b10174cf852b6006d8c0e129dc6966bf70509bad#egg=csvw
 decorator==4.4.2
 gitdb==4.0.5
 idna==2.10
 iniconfig==1.1.1
 isodate==0.6.0
 jdcal==1.4.1
-lingpy==2.6.6
+-e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
+-e git+https://github.com/lingpy/lingrex.git@9b3d7024c6b7302fbe1ffb4c4deab2db0c95d050#egg=lingrex
 Markdown==3.3.3
 networkx==2.2
 newick==1.0.0
@@ -22,23 +25,27 @@ pluggy==0.13.1
 purl==1.5
 py==1.9.0
 pybtex==0.23.0
+pycdstar==1.0.1
 pycldf==1.17.0
-pyclts==2.1.3
-pyconcepticon==2.7.0
+-e git+https://github.com/cldf-clts/pyclts@cbdb922948589670b140a0fc100fa1602f910eae#egg=pyclts
+-e git+https://github.com/concepticon/pyconcepticon.git@86cf8b33182298c709736360e65caf29570d940e#egg=pyconcepticon
 pycountry==20.7.3
-pyglottolog==3.2.2
+-e git+https://github.com/clld/pyglottolog.git@c17c4d48c35c0666d58eac89ba5ea806f62a14ff#egg=pyglottolog
 pylexibank==2.7.2
 pytest==6.1.2
 regex==2020.10.28
 requests==2.24.0
 rfc3986==1.4.0
 segments==2.1.3
+-e git+https://github.com/LinguList/chinese.git@b6b6372dbf08dc15cc6e58ea9f8ab25975b6e5c7#egg=sinopy
 six==1.15.0
 smmap==3.0.4
+soupsieve==2.0.1
 SQLAlchemy==1.3.20
 tabulate==0.8.7
 termcolor==1.1.0
 tqdm==4.51.0
+Unidecode==1.1.1
 uritemplate==3.0.1
 urllib3==1.25.11
 xlrd==1.2.0

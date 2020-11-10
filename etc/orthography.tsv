@@ -1,0 +1,1310 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				
+C	<?>	ɑCɑ	seri	1	U+0043
+H	<?>	dʒHam	kitja	1	U+0048
+I	<?>	nal_Iiltuije̞, alIa	northalaskaninupiatun, mailu, maranunggu, miskito, yawa	7	U+0049
+J	<?>	qitqaIJniit	northalaskaninupiatun	1	U+004a
+L	<?>	mɛɛLu	washo	1	U+004c
+U	<?>	kUffŋam	kitja	1	U+0055
+^	NULL				
+^!a	ǃa	!aah, !an	nama, juhoan, sandawe	14	U+005e U+0021 U+0061
+^!a$	ǃa	!a	nama	1	U+005e U+0021 U+0061 U+0024
+^!e̞	ǃe̞	!e̞ɾe̞	sandawe	1	U+005e U+0021 U+0065 U+031e
+^!g	ǃg	!gam, !gom	nama	9	U+005e U+0021 U+0067
+^!h	ǃh	!hu, !huu	juhoan, nama, taa, sandawe	14	U+005e U+0021 U+0068
+^!hw	ǃhw	!hwe̞na	sandawe	1	U+005e U+0021 U+0068 U+0077
+^!i$	ǃi	!i	sandawe	1	U+005e U+0021 U+0069 U+0024
+^!k	ǃk	!kxhaeb, !kxhas	nama	7	U+005e U+0021 U+006b
+^!kʼ	ǃkʼ	!kʼxʼa, !kʼxʼui	juhoan	2	U+005e U+0021 U+006b U+02bc
+^!n	ǃn	!no, !nubu	nama	8	U+005e U+0021 U+006e
+^!o	ǃo	!oma, !ommi	juhoan, nama	4	U+005e U+0021 U+006f
+^!o$	ǃo	!o	juhoan	2	U+005e U+0021 U+006f U+0024
+^!q	ǃq	!qaũ	taa	1	U+005e U+0021 U+0071
+^!qh	ǃqh	!qhaa, !qhuu	taa	7	U+005e U+0021 U+0071 U+0068
+^!u	ǃu	!uma, !ui	juhoan, nama	8	U+005e U+0021 U+0075
+^!u$	ǃu	!u	juhoan	1	U+005e U+0021 U+0075 U+0024
+^!uᵑ!	ǃuᵑǃ	!uᵑ!aʔan	juhoan	4	U+005e U+0021 U+0075 U+1d51 U+0021
+^!x	ǃx	!xom, !xui	juhoan	2	U+005e U+0021 U+0078
+^!ʔ	ǃʔ	!ʔam, !ʔu	taa, sandawe, juhoan	16	U+005e U+0021 U+0294
+^!ʔh	ǃʔh	!ʔhan, !ʔhoan	juhoan	5	U+005e U+0021 U+0294 U+0068
+^C	<?>	Cii	seri	1	U+005e U+0043
+^I	<?>	Iupa, Iaʔ	miskito, ahtena, yangman	6	U+005e U+0049
+^Ih	<?>	Ihigiʈi, Ihaɻaŋ	nunggubuyu	3	U+005e U+0049 U+0068
+^L	<?>	Lisiʔ	washo	1	U+005e U+004c
+^P	<?>	Pin	nisenan	1	U+005e U+0050
+^S	<?>	Saliit̪ɨ, Secə	northernsierramiwok, natchez	2	U+005e U+0053
+^W	<?>	Wəʃkup	natchez	1	U+005e U+0057
+^_	_	_ɔʈhotoaʈhuekaʈa, _pas	tiwi, greatandamanese, alabama, yana, wari, taushiro, kekchi, southernpomo	14	U+005e U+005f
+^a	a	aɾi, ariba	sanapanaangaite, ineseno, muinane, enapaworomaipu, toaripi, swedish, mongolian, japanese, warao, timucua, suri, aguaruna, pawnee, amarakaeri, katcha, alawa, qawasqar, maasai, aymara, ambulas, zarma, mairasi, limilngan, soo, terei, urarina, cofan, tima, rikbaktsa, gununakune, haidanorthern, suabo, nivacle, bororo, taushiro, imbaburaquechua, basque, hatam, takelma, mali, yimas, alsea, mojave, yuracare, movima, atakapa, krenak, kamula, wayuu, warapu, guahibo, kwaza, warembori, northalaskaninupiatun, ngarinyin, northernembera, guhusamane, tarifit, muruihuitoto, guarani, karok, ket, kanoe, mailu, sarakabanaa, awtuw, daga, alabama, berta, ainu, oroqen, sheko	100	U+005e U+0061
+^a$	a	a	sumerian, warapu, atakapa, toaripi, kiowa, kamula, nama, guarani, ket, lule, limilngan, soo, juhoan, yuwana, rikbaktsa, panoankatukina, haidanorthern, bororo, berik, muniche, guahibo, kwaza, pawnee, warembori, southeastijo, hruso, tarifit, gumuz, mandinka, bambassi, zarma, grasskoiari, kanoe, manange, yareba, kaluli, waorani, ainu, sentani	57	U+005e U+0061 U+0024
+^aa	aː	aar, aas	gaam, bari, baruya, tehuelche, achumawi, rungakibet, maasai, bambassi, tamil, ayoreo, adyghe, shompeng, muinane, kiowa, ahtena, yaqui, alabama, xicotepecdejuareztotonac, mojave, atakapa, northalaskaninupiatun, sheko, muruihuitoto, washo, karok, shasta, kekchi, oroqen, terei, alsea, wayuu, huave, pawnee, katcha, teiwa, guhusamane, ket	100	U+005e U+0061 U+0061
+^aa$	aː	aa	yukaghir, bari, pawnee, terei, hadza, katcha, guhusamane, adyghe, tehuelche	10	U+005e U+0061 U+0061 U+0024
+^a̤	a̤	a̤ʔa, a̤lu	taa	3	U+005e U+0061 U+0324
+^a̤$	a̤	a̤	taa	1	U+005e U+0061 U+0324 U+0024
+^a̰	a̰	a̰ntakʔi	southernnambikuara	1	U+005e U+0061 U+0330
+^b	b	bisãã, bɛɛtʃɛt	seediq, berta, mandinka, bari, urarina, yuwana, bezhta, basque, ongota, arapaho, jamamadi, zarma, yuracare, chachi, djeoromitxi, bamu, warembori, dime, gooniyandi, guhusamane, yangman, ambulas, djingili, puinave, karaja, garrwa, oroqen, rikbaktsa, nisenan, thaidialectkorat, bororo, maybrat, muinane, mali, suri, southernpomo, kamasau, hupde, sheko, alawa, gumuz, rungakibet, jarawa, kanuri, ket, bankanteydogon, shakacho, piraha, yareba, sarakabanaa, cavinena, greatandamanese, adyghe, sahu, waorani, sentani	100	U+005e U+0062
+^bh	bh	bhege	seediq	1	U+005e U+0062 U+0068
+^bw	bw	bweɛ, bwe̞ʔituk	yaqui, bangime, berik, uduk, bari, yuwana	27	U+005e U+0062 U+0077
+^c	c	cal, caŋald̪a	wintu, qawasqar, natchez, ngarluma, tima, yele, kayardild, georgian, nezperce, esselen, hupde, ngarinyin, greatandamanese, sahu, maranunggu, whitehmong, tol, suri, gumuz, jarawa, zarma, gaam, yuwana, coos, shompeng, nivacle, hatam, sandawe, maung, yana, kwaza, muruihuitoto, rungakibet, nivkh, bankanteydogon	100	U+005e U+0063
+^ch	ch	chuŋɠu, chi	swahili, yana, tol, sandawe, hruso, nivkh, jarawa, salinan, esselen	52	U+005e U+0063 U+0068
+^cw	cw	cwa	kwaza	1	U+005e U+0063 U+0077
+^cʼ	cʼ	cʼe̞p, cʼar	wintu, nisenan, coos, nezperce, qawasqar	41	U+005e U+0063 U+02bc
+^d	d	do, diiraj	bankanteydogon, mailu, yareba, sahu, moro, tuyuca, bari, limilngan, odoodee, berik, warao, kamula, trumai, guahibo, bangime, kamasau, gumuz, mandinka, miskito, yangman, grasskoiari, fur, shakacho, waorani, juhoan, karas, swedish, wageman, gununakune, bezhta, suabo, georgian, muinane, quileute, japanese, savosavo, sandawe, mali, taa, yuracare, moseten, ahtena, tsimshian, pume, djeoromitxi, aguaruna, warembori, dime, katcha, murrinhpatha, teiwa, hruso, marind, nakara, washo, kanuri, ambulas, ayoreo, puinave, cavinena, adyghe, karaja, awtuw	100	U+005e U+0064
+^dd	dd	ddəð, ddəxxan	tarifit	2	U+005e U+0064 U+0064
+^dh	dh	dhari, dheral	seediq, juhoan	3	U+005e U+0064 U+0068
+^dsh	dsh	dshauma, dshau	juhoan	2	U+005e U+0064 U+0073 U+0068
+^dw	dw	dwasianu, dwis	dadibi, berik, bangime, hatam, adyghe	13	U+005e U+0064 U+0077
+^dʃ	dʃ	dʃo, dʃi	juhoan	2	U+005e U+0064 U+0283
+^dʃh	dʃh	dʃhin, dʃhuun	juhoan	2	U+005e U+0064 U+0283 U+0068
+^dʒ	dʒ	dʒa, dʒuu	oroqen, bororo, achumawi, mandinka, berik, kitja, sarakabanaa, burushaski, cayuvava, urarina, ongota, abun, mairasi, cofan, uduk, haidanorthern, moskona, mocovi, bangime, dime, hadza, adyghe	100	U+005e U+0064 U+0292
+^dʒdʒ	dʒdʒ	dʒdʒiɾəθ	tarifit	1	U+005e U+0064 U+0292 U+0064 U+0292
+^d̪	d̪	d̪ek_n̪ɔɔi, d̪ata	highlandoaxacachontal, ket, moro, nimboran, thaidialectkorat, cayuvava, turkish, nara, uduk, garrwa, deraindonesia, whitehmong, sentani, gaam, hadza, bororo, kunimaipa, kiowa	100	U+005e U+0064 U+032a
+^d̪w	d̪w	d̪wonat̪a	moro	1	U+005e U+0064 U+032a U+0077
+^d̪ʒ	d̪ʒ	d̪ʒe̞, d̪ʒur̪iga	nara	2	U+005e U+0064 U+032a U+0292
+^e	e	eno, eŋgl̪a	natchez, cavinena, moskona, maasai, soo, sulka, waris, muruihuitoto, lule, greatandamanese, urarina, terei, yukaghir, tunica, yuracare, warapu, amarakaeri, northernembera, gumuz, tamil, daga, chinook, sumerian, karas, nivacle, meriam, salinan, kiowa, berik, moseten, halkomelem, timucua, estonian, trumai, pume, highlandoaxacachontal, kwaza, ngarinyin, guhusamane, marind, oneida, jamamadi, qawasqar, jarawa, grasskoiari, hadza, puinave, fasu, sahu, moro, kaingang	100	U+005e U+0065
+^e$	e	e	kamula, warapu, daga, sumerian, terei, juhoan, uduk, meriam, atakapa, rumu, kunimaipa, dadibi, northernembera, abun, jamamadi, guarani, lavukaleve, kanoe, lule	23	U+005e U+0065 U+0024
+^ee	eː	eema, eemathap	guhusamane, ayoreo, guahibo, oneida, bambassi, tamil, terei, shompeng, muinane, salinan, yuracare, urarina, swedish, ongota, moseten, mocovi, trumai, amarakaeri, muruihuitoto, gumuz, shakacho, mairasi	49	U+005e U+0065 U+0065
+^ee$	eː	ee	klamath, gumuz, ongota, ayoreo, guhusamane	7	U+005e U+0065 U+0065 U+0024
+^e̞	e̞	e̞ɾesa, e̞ma	basque, tehuelche, yareba, toaripi, nara, itelmen, achumawi, savosavo, bororo, ahtena, saliba, yawa, deraindonesia, yaqui, fasu, yana, alawa, shasta, rotokas	100	U+005e U+0065 U+031e
+^e̞$	e̞	e̞	kekchi, toaripi, tehuelche, fasu	5	U+005e U+0065 U+031e U+0024
+^e̞e̞	e̞ː	e̞e̞n̪un̪, e̞e̞tʃa_e̞he̞e̞wit̪uk_xukʼkʼa_kʼe̞he̞e̞haaʔ	shasta, achumawi, huave, yaqui	9	U+005e U+0065 U+031e U+0065 U+031e
+^e̤$	e̤	e̤	taa	3	U+005e U+0065 U+0324 U+0024
+^f	f	fu, fa	swedish, mapudungun, zarma, fur, toaripi, mandinka, southeastijo, lavukaleve, gaam, cofan, maybrat, moseten, kanuri, mairasi, thaidialectkorat, nivacle, japanese, deraindonesia, katcha, sheko, kaluli, swahili, alabama, berta, berik, ongota, burushaski, dime, tarifit, doromukoki, qawasqar, karok, kuot, hadza, mailu, nara, adyghe, sentani	100	U+005e U+0066
+^f$	f	f	gumuz	1	U+005e U+0066 U+0024
+^fs	fs	fsəs, fsajna	tarifit, qawasqar	3	U+005e U+0066 U+0073
+^fw	fw	fwerfwera, fwirna	berik, hruso, gumuz	5	U+005e U+0066 U+0077
+^g	g	gundi, gooɖo	gagadu, basque, sahu, tehuelche, tsimshian, bangime, dime, yangman, bambassi, bankanteydogon, ayoreo, waorani, daga, berta, gununakune, odoodee, muinane, kiowa, highlandoaxacachontal, suri, kunimaipa, doromukoki, kanuri, shakacho, sheko, turkish, tima, haidanorthern, suabo, shompeng, meriam, mongolian, georgian, hatam, berik, ongota, taa, ahtena, dadibi, deraindonesia, gooniyandi, teiwa, guhusamane, gumuz, rungakibet, ambulas, grasskoiari, rotokas, zarma, djingili, nunggubuyu, sarakabanaa, kwakiutl, moro, oroqen	100	U+005e U+0067
+^gg	gg	gg_arriħθ, gga	tarifit, hatam	2	U+005e U+0067 U+0067
+^gg$	gg	gg	tarifit	1	U+005e U+0067 U+0067 U+0024
+^gw	gw	gwɑl, gwes	ambulas, berik, tsimshian, moro, soo, abun, uduk, adyghe, hatam, hadza, daga, bangime	58	U+005e U+0067 U+0077
+^gw$	gw	gw	adyghe	1	U+005e U+0067 U+0077 U+0024
+^gwɕ	gwɕ	gwɕəʔaʁwaaj, gwɕəʔ	adyghe	2	U+005e U+0067 U+0077 U+0255
+^h	h	hekɔt̪ɑ, ha_ato	rumu, trumai, arapaho, djeoromitxi, yagua, yuwana, bezhta, atakapa, wayuu, northernembera, puinave, turkish, nisenan, tunica, warao, muniche, wappo, hupde, lavukaleve, zarma, shakacho, fasu, rikbaktsa, northernsierramiwok, panoankatukina, southernnambikuara, georgian, seediq, hatam, takelma, allentiac, moseten, movima, timucua, kamula, burushaski, whitehmong, tsimshian, chachi, zuni, nama, korean, nezperce, esselen, kunimaipa, dadibi, nivkh, wintu, marind, gumuz, grasskoiari, vietnamese, hadza, itelmen, cavinena, karaja, ninam, sahu, alabama, berta	100	U+005e U+0068
+^h$	h	h	deraindonesia	1	U+005e U+0068 U+0024
+^hs	hs	hsakajũte	oneida	1	U+005e U+0068 U+0073
+^hw	hw	hwi, hwecato	deraindonesia, yuwana, wari, hatam, oneida, jarawa, korean, chatino	32	U+005e U+0068 U+0077
+^i	i	ima, itʃi_hu	xicotepecdejuareztotonac, atakapa, lakota, mailu, yuwana, lencasalvador, muinane, maung, mojave, pume, saliba, northalaskaninupiatun, achumawi, karok, ayoreo, yareba, kekchi, daga, alabama, ainu, sentani, chayahuita, bari, soo, terei, cofan, tima, candoshishapra, panoankatukina, yukaghir, coos, suabo, chipaya, meriam, japanese, savosavo, takelma, warao, estonian, maranunggu, mocovi, trumai, wayuu, chachi, djeoromitxi, highlandoaxacachontal, kamasau, katcha, ngarinyin, northernembera, guhusamane, tarifit, nivkh, muruihuitoto, abun, cayuvava, mapudungun, jarawa, mandinka, bambassi, ket, grasskoiari, kuot, shakacho, yamana, enapaworomaipu, itelmen, karaja, sahu, purepecha, mairasi, oroqen, sumerian	100	U+005e U+0069
+^i$	i	i	burushaski, rumu, northernembera, abun, mandinka, ket, grasskoiari, puinave, soo, juhoan, panoankatukina, berik, nimboran, mali, yimas, warao, moseten, yuracare, kamula, whitehmong, trumai, tehuelche, chachi, pume, hruso, mapudungun, lakota, zarma, kuot, kanoe, itelmen, fasu, sarakabanaa, kaluli, daga, purepecha, sentani	45	U+005e U+0069 U+0024
+^ii	iː	iiʔa, iisalj	mojave, seri, ongota, pawnee, washo, ayoreo, alsea, burushaski, terei, muinane, bari, sheko, gumuz, rotokas, haidanorthern, tima, candoshishapra, yukaghir, gagadu, guahibo, teiwa, achumawi, rungakibet, bambassi, kekchi, oroqen, gaam	100	U+005e U+0069 U+0069
+^ii$	iː	ii	kekchi, takelma, aguaruna, pawnee, ayoreo, soo, terei, urarina, haidanorthern, maybrat, bororo, japanese, mali, nimboran, alsea, ahtena, warapu, katcha, ket, bankanteydogon	31	U+005e U+0069 U+0069 U+0024
+^iii	iːi	iiildʒi	burushaski	1	U+005e U+0069 U+0069 U+0069
+^i̤$	i̤	i̤	taa	2	U+005e U+0069 U+0324 U+0024
+^j	j	ja, jim	baruya, enapaworomaipu, lule, awtuw, ninam, nisenan, southernnambikuara, burushaski, tiwi, cofan, yukaghir, nivacle, tunica, krenak, aguaruna, tuyuca, kitja, alawa, gooniyandi, teiwa, yaqui, maxakali, manange, kaingang, swedish, wageman, yuwana, wari, panoankatukina, northernsierramiwok, candoshishapra, seri, yele, muinane, taushiro, yawa, allentiac, warao, maung, alsea, halkomelem, timucua, kayardild, maranunggu, andaqui, tehuelche, pume, southernpomo, hupde, copainalazoque, southeastijo, washo, sanapanaangaite, karok, yangman, ambulas, nunggubuyu, yamana, kwakiutl, adyghe, ngarluma, itonama	100	U+005e U+006a
+^j$	j	j	tol	1	U+005e U+006a U+0024
+^jj	jj	jjrjmɛk, jjrɛk	turkish	5	U+005e U+006a U+006a
+^js	js	jse, js_ants	lule, turkish	9	U+005e U+006a U+0073
+^js$	js	js	lule	2	U+005e U+006a U+0073 U+0024
+^jʃ	jʃ	jʃi	chatino	1	U+005e U+006a U+0283
+^j̃	j̃	j̃ijaso, j̃i	arabela	53	U+005e U+006a U+0303
+^k	k	kaɾ, kʊmʊintʃi	kaingang, maung, tima, southernpomo, katcha, mandinka, tamil, ninam, gaam, juhoan, maxakali, miskito, estonian, chachi, mapudungun, cavinena, southernnambikuara, nivacle, arabela, chatino, tol, peleata, suri, kwaza, shatt, dime, murrinhpatha, nakara, guarani, lakota, zarma, bankanteydogon, tiwi, swahili, alabama, sheko, candoshishapra, panoankatukina, thaidialectkorat, coos, meriam, yele, seediq, taushiro, kiowa, taa, pawnee, teiwa, jamamadi, karok, kanuri, rotokas, shakacho, kaluli, turkish, sulka, chipaya, japanese, basque, savosavo, nimboran, yimas, warao, natchez, aguaruna, copainalazoque, northernembera, shasta, kuot, ngarluma, chinook, karas, uncunwee, berik, timucua, atakapa, maranunggu, korean, bangime, gumuz, cayuvava, tuyuca	100	U+005e U+006b
+^k$	k	k	oneida, katcha, klamath	4	U+005e U+006b U+0024
+^kh	kʰ	khcʔhathel, khũtʃ	thaidialectkorat, lavukaleve, kaluli, swedish, cofan, tunica, paez, kiowa, southernpomo, uduk, georgian, basque, salinan, yana, manange, awtuw, purepecha, sumerian, chipaya, tol, doromukoki, juhoan, haidanorthern, shompeng, takelma, sandawe, moseten, ahtena, pume, korean, guhusamane, nivkh, lakota, hadza	100	U+005e U+006b U+0068
+^khs	khs	khsa	salinan	2	U+005e U+006b U+0068 U+0073
+^khw	khw	khwaltʼa, khwaaŋ	thaidialectkorat, uduk, takelma, hadza	7	U+005e U+006b U+0068 U+0077
+^kk	kk	kkʔapoʔ	nivacle	1	U+005e U+006b U+006b
+^ks	ks	ksa, kskiksaapits	oneida, tsimshian, paez, pawnee, seri, candoshishapra, hruso	22	U+005e U+006b U+0073
+^ks̪	ks̪	ks̪ɨ	purepecha	2	U+005e U+006b U+0073 U+032a
+^kw	kʷ	kwa, kwajɛ	arabela, baruya, andaqui, uncunwee, chatino, urarina, tima, purepecha, yele, halkomelem, natchez, ambulas, kanoe, cavinena, wari, quileute, sandawe, takelma, alsea, timucua, movima, abun, rungakibet, qawasqar, bari, coos, gununakune, southernnambikuara, hatam, paez, yimas, mocovi, korean, bangime, huave, bambassi, shasta, hadza, fur, tiwi, adyghe	100	U+005e U+006b U+0077
+^kw$	kʷ	kw	klamath, allentiac	2	U+005e U+006b U+0077 U+0024
+^kwh	kʷʰ	kwhman̪da, kwhɛŋua	purepecha	6	U+005e U+006b U+0077 U+0068
+^kwkw	kʷkʷ	kwkwenu	arabela	1	U+005e U+006b U+0077 U+006b U+0077
+^kws	kws	kwses, kwsonu	halkomelem, arabela	4	U+005e U+006b U+0077 U+0073
+^kws̪	kws̪	kws̪tan̪i	purepecha	1	U+005e U+006b U+0077 U+0073 U+032a
+^kww	kww	kwwan, kwwə	adyghe	2	U+005e U+006b U+0077 U+0077
+^kɕ	kɕ	kɕo̞r̪	tehuelche	1	U+005e U+006b U+0255
+^kʼ	kʼ	kʼo̞l, kʼiɬa	kunza, itelmen, kiowa, berta, coos, tehuelche, dime, bambassi, itonama, sandawe, tsimshian, gumuz, aymara, sheko, juhoan, nisenan, haidanorthern, georgian, takelma, ahtena, qawasqar, adyghe, uduk, gununakune, chipaya, quileute, taa, zuni, nezperce, southernpomo, ineseno, wintu, washo, lakota, kwakiutl, kekchi	100	U+005e U+006b U+02bc
+^kʼs	kʼs	kʼsəʔltas	coos	1	U+005e U+006b U+02bc U+0073
+^kʼs̪	kʼs̪	kʼs̪x, kʼs̪alx	itelmen	2	U+005e U+006b U+02bc U+0073 U+032a
+^kʼw	kʼw	kʼwaaj, kʼwaskam	halkomelem, haidanorthern, uduk, quileute, coos, adyghe, zuni, bambassi, hadza, shasta	29	U+005e U+006b U+02bc U+0077
+^l	l	laɻɪ, lqaiʔlaʁat	mocovi, wageman, highlandoaxacachontal, peleata, natchez, wintu, achumawi, limilngan, klamath, northernsierramiwok, chipaya, estonian, esselen, manange, yamana, greatandamanese, kunza, juhoan, swedish, yukaghir, sulka, georgian, quileute, xicotepecdejuareztotonac, savosavo, tunica, maung, ongota, alsea, mojave, halkomelem, movima, timucua, maranunggu, tsimshian, chachi, nezperce, baruya, ineseno, kitja, dime, alawa, gooniyandi, ngarinyin, teiwa, murrinhpatha, hruso, tarifit, nivkh, qawasqar, aymara, yangman, kuot, djingili, mailu, sarakabanaa, sahu, awtuw, moro, alabama, mairasi, kekchi, gaam	100	U+005e U+006c
+^lh	lh	lhawa, lhari	juhoan, tarifit	2	U+005e U+006c U+0068
+^ll	ll	lluhlluhaxaha, lle̞no̞h	saliba, tima, juhoan, lule	14	U+005e U+006c U+006c
+^ls	ls	lsi, lse̞xõ̞	timucua, saliba	3	U+005e U+006c U+0073
+^lw	lw	lwa, lwel	awtuw, moro, klamath	3	U+005e U+006c U+0077
+^lʃ	lʃ	lʃe	salinan	1	U+005e U+006c U+0283
+^l̥	l̥	l̥ojʔ, l̥ɛɛ	washo, klamath	14	U+005e U+006c U+0325
+^l̪	l̪	l̪a, l̪o̞o̞	mapudungun, chatino, basque, nunggubuyu, zuni, vietnamese, nara, thaidialectkorat, wappo, toaripi, waris, yana, whitehmong, tol, southernpomo, huave, haidanorthern	100	U+005e U+006c U+032a
+^m	m	mona, maa_bimɛ_ji_wɛ	baruya, burushaski, shatt, candoshishapra, yele, yawa, tarifit, tamil, nimboran, warao, bambassi, mojave, wayuu, korean, huave, wappo, ngarinyin, terei, yagua, moskona, tsimshian, dime, gooniyandi, murrinhpatha, marind, guarani, bankanteydogon, kanoe, itelmen, swahili, uduk, panoankatukina, northernsierramiwok, thaidialectkorat, mongolian, seediq, maybrat, imbaburaquechua, kiowa, gagadu, mali, dadibi, mandinka, mailu, sahu, kaingang, kekchi, limilngan, toaripi, swedish, wari, yimas, yana, whitehmong, guahibo, copainalazoque, abun, yaqui, maxakali, kuot, fasu, sarakabanaa, ngarluma, sentani, soo, uncunwee, gununakune, hatam, berik, halkomelem, mocovi, saliba, kunimaipa, bangime, amarakaeri, kitja, waris, gumuz, grasskoiari, puinave, daga, chayahuita	100	U+005e U+006d
+^m$	m	m	vietnamese, juhoan, seri, tehuelche, esselen	8	U+005e U+006d U+0024
+^mh	mh	mhel, mheŋak	seediq, sulka, shompeng, paez, hatam	16	U+005e U+006d U+0068
+^mm	mm	mmis_n_uma, mmi	tarifit, hatam, wayuu, limilngan, yana, sulka, tsimshian, seediq	19	U+005e U+006d U+006d
+^ms	ms	msaasiɾi, msibus	seediq, candoshishapra, gununakune, georgian, maybrat	10	U+005e U+006d U+0073
+^ms̪	ms̪	ms̪ĩʔ_t̪iʔ	chatino	1	U+005e U+006d U+0073 U+032a
+^mw	mw	mwaɻiŋa, mwaʈi	tiwi, swahili, manange, adyghe, yele, baruya, maybrat, yamana, abun, bangime	38	U+005e U+006d U+0077
+^mɕ$	mɕ	mɕ	tehuelche	1	U+005e U+006d U+0255 U+0024
+^mʂ	mʂ	mʂiiɾitʃ, mʂia	candoshishapra	2	U+005e U+006d U+0282
+^m̥	m̥	m̥aneɾo, m̥oŋv_av	ayoreo, whitehmong, washo	7	U+005e U+006d U+0325
+^n	n	nargwaŋga, nim	katcha, arabela, maybrat, jamamadi, nakara, alabama, sanapanaangaite, mairasi, yukaghir, southernnambikuara, hatam, moseten, atakapa, cuitlatec, ahtena, mocovi, krenak, warapu, bangime, dadibi, murrinhpatha, southeastijo, kanuri, daga, kaingang, sumerian, yagua, klamath, northernsierramiwok, wari, suabo, taushiro, xicotepecdejuareztotonac, gagadu, takelma, mali, paez, mojave, yuracare, whitehmong, tsimshian, saliba, kamasau, northalaskaninupiatun, hupde, sheko, abun, muruihuitoto, guhusamane, oneida, marind, mandinka, lavukaleve, miskito, kuot, fur, puinave, manange, piraha, enapaworomaipu, yareba, sarakabanaa, kaluli, moro, chinook, itonama, chayahuita	100	U+005e U+006e
+^n$	n	n	atakapa, kuot, kitja, klamath, sarakabanaa, mandinka, bangime	8	U+005e U+006e U+0024
+^nh	nh	nhar, nho	sulka, oneida, shompeng, meriam, seediq	7	U+005e U+006e U+0068
+^nn	nn	nnɒl̪, nndfa	wayuu, waris, tarifit, uduk	7	U+005e U+006e U+006e
+^nn$	nn	nn	northernembera	1	U+005e U+006e U+006e U+0024
+^ns	ns	nsitʃʔaʔ, nsjukwik	maybrat, tarifit, andaqui, cuitlatec, nivacle, hatam	14	U+005e U+006e U+0073
+^nw	nw	nwano, nweewolqaiʔ	moro, mocovi	2	U+005e U+006e U+0077
+^n̥	n̥	n̥aas, n̥umi	ayoreo, klamath	9	U+005e U+006e U+0325
+^n̪	n̪	n̪o, n̪a	huave, chatino, yele, mongolian, whitehmong, thaidialectkorat, korean, deraindonesia, wappo, mapudungun, nara, sentani, tol, rumu, basque, kunimaipa, purepecha, haidanorthern, yana, southernpomo, karok, vietnamese, itelmen, ngarluma, garrwa	100	U+005e U+006e U+032a
+^n̪$	n̪	n̪	tol	1	U+005e U+006e U+032a U+0024
+^n̪̥	n̪̥	n̪̥ov, n̪̥u	whitehmong	6	U+005e U+006e U+032a U+0325
+^o	o	oko, onʌ̃tshaʔ	oneida, moskona, southeastijo, uncunwee, itonama, timucua, warapu, northernembera, maasai, alabama, mairasi, sentani, terei, shompeng, chinook, japanese, peleata, hruso, abun, marind, doromukoki, puinave, mailu, awtuw, cofan, seri, yukaghir, warao, halkomelem, atakapa, kamula, esselen, bamu, kwaza, katcha, ngarinyin, muruihuitoto, nivkh, qawasqar, lakota, kuot, kanoe, shakacho, lule, sahu, moro, daga	100	U+005e U+006f
+^o$	o	o	djeoromitxi, kaluli, terei, northernembera, yuwana, yukaghir, meriam, lencasalvador, japanese, berik, atakapa, whitehmong, trumai, nama, rumu, warembori, muruihuitoto, kuot, kanoe, enapaworomaipu, greatandamanese	27	U+005e U+006f U+0024
+^oo	oː	oor, oobde	seri, ayoreo, ongota, gumuz, chinook, bari, yukaghir, japanese, takelma, halkomelem, oneida, alabama, sheko, swedish, uncunwee, maybrat, muinane, alsea, yuracare, atakapa, trumai, guhusamane, rungakibet, lakota, fur, tamil, shakacho, oroqen	62	U+005e U+006f U+006f
+^oo$	oː	oo	sarakabanaa, bari, terei, swedish, atakapa, cavinena, guhusamane	9	U+005e U+006f U+006f U+0024
+^o̞	o̞	o̞kwa, o̞mo̞pa_vo̞a	huave, toaripi, saliba, tehuelche, yareba, yaqui, bororo, rotokas, basque, turkish, kekchi, achumawi, savosavo, itelmen, fasu, nara, sandawe, yawa	100	U+005e U+006f U+031e
+^o̞$	o̞	o̞	turkish, bororo, fasu, toaripi	6	U+005e U+006f U+031e U+0024
+^o̞o̞	o̞ː	o̞o̞hwo̞ʔ_, o̞o̞mkʼ	achumawi, tehuelche, kekchi	4	U+005e U+006f U+031e U+006f U+031e
+^o̞o̞$	o̞ː	o̞o̞	yawa	1	U+005e U+006f U+031e U+006f U+031e U+0024
+^p	p	pu, põjã	panoankatukina, bororo, yuracare, kayardild, krenak, maranunggu, guahibo, ineseno, pawnee, miskito, meriam, arabela, takelma, timucua, warapu, bangime, wintu, maxakali, ninam, ngarluma, kaingang, terei, yagua, klamath, cofan, uduk, rikbaktsa, nisenan, yukaghir, candoshishapra, seri, mongolian, muinane, lencasalvador, savosavo, yawa, paez, yana, alsea, movima, kamula, estonian, whitehmong, muniche, wayuu, chachi, korean, bamu, warembori, dadibi, amarakaeri, ngarinyin, murrinhpatha, waris, rungakibet, maasai, guarani, bambassi, hadza, tamil, yamana, piraha, enapaworomaipu, cavinena, moro, purepecha, tuyuca, ainu, chayahuita	100	U+005e U+0070
+^p$	p	p	cayuvava, berik	2	U+005e U+0070 U+0024
+^ph	pʰ	phi, phe	manange, yana, korean, pume, aymara, chipaya, burushaski, uduk, tol, nivkh, wintu, awtuw, thaidialectkorat, tunica, halkomelem, wappo, kwakiutl, purepecha, shompeng, southernpomo, sumerian, klamath, southernnambikuara, seediq, paez, takelma, whitehmong, hruso, greatandamanese	100	U+005e U+0070 U+0068
+^phs	phs	phsin, phsi	klamath	2	U+005e U+0070 U+0068 U+0073
+^phw	phw	phwe̞l̪, phwa	tol, hruso	3	U+005e U+0070 U+0068 U+0077
+^ps	ps	psihe, psənkʼa	adyghe, djeoromitxi, hruso	11	U+005e U+0070 U+0073
+^pw	pw	pweɛ̃, pwatʃa	tiwi, yele, baruya, kanoe, bangime	8	U+005e U+0070 U+0077
+^pɕ	pɕ	pɕinɬx, pɕinɬx_laqaiʔɕt	alsea	2	U+005e U+0070 U+0255
+^pʂ	pʂ	pʂa, pʂiʂimaama	adyghe, candoshishapra	4	U+005e U+0070 U+0282
+^pʃ	pʃ	pʃũũ, pʃaaχwa	adyghe, lakota, paez	3	U+005e U+0070 U+0283
+^pʃʼ	pʃʼ	pʃʼə, pʃʼəkʼwtʼw	adyghe	3	U+005e U+0070 U+0283 U+02bc
+^pʼ	pʼ	pʼrena, pʼɔ̃n̪	kiowa, georgian, itelmen, berta, wintu, kwakiutl, halkomelem, tehuelche, nisenan, kunza, klamath, gununakune, tsimshian, quileute, takelma, ineseno, washo, aymara, bambassi, dime, gumuz	100	U+005e U+0070 U+02bc
+^pʼ$	pʼ	pʼ	washo	1	U+005e U+0070 U+02bc U+0024
+^pʼw	pʼw	pʼwaankʼa	adyghe	1	U+005e U+0070 U+02bc U+0077
+^q	q	qa, qχaɾ_witʼʃʼu	ket, sarakabanaa, northalaskaninupiatun, chipaya, seediq, alsea, qawasqar, xicotepecdejuareztotonac, taa, teiwa, adyghe, ongota, tehuelche, nezperce, itelmen, quileute, nivkh, yagua, haidanorthern, bezhta, mojave, mocovi, whitehmong, ineseno, tarifit, aymara, kwakiutl, chinook, kekchi	100	U+005e U+0071
+^qh	qh	qhaa, qhatʃ	haidanorthern, halkomelem, klamath, qawasqar, chipaya, aymara, whitehmong, nivkh, taa, seediq, ineseno	81	U+005e U+0071 U+0068
+^qhw	qhw	qhwaaj_jaatʼʃʼaa, qhwaa	haidanorthern	2	U+005e U+0071 U+0068 U+0077
+^qq	qq	qqən, qqim	tarifit	3	U+005e U+0071 U+0071
+^qs	qs	qsi, qstas	qawasqar, ineseno, tarifit, seediq	15	U+005e U+0071 U+0073
+^qs̪	qs̪	qs̪al	itelmen	1	U+005e U+0071 U+0073 U+032a
+^qw	qw	qwa, qwam_əqw	adyghe, kwakiutl, quileute, alsea, halkomelem, coos, qawasqar, tarifit	30	U+005e U+0071 U+0077
+^qwh	qwh	qwhannas	coos	1	U+005e U+0071 U+0077 U+0068
+^qwʂ	qwʂ	qwʂħa	adyghe	1	U+005e U+0071 U+0077 U+0282
+^qɕ	qɕ	qɕiiʔqɕoout, qɕuuuʔt	alsea	3	U+005e U+0071 U+0255
+^qʃ	qʃ	qʃo	chinook	1	U+005e U+0071 U+0283
+^qʼ	qʼ	qʼajaa, qʼun	haidanorthern, kekchi, itelmen, kwakiutl, klamath, chinook, halkomelem, bezhta, georgian, wintu, aymara, tsimshian, chipaya, tehuelche, qawasqar, quileute, nezperce	100	U+005e U+0071 U+02bc
+^qʼs̪	qʼs̪	qʼs̪x	itelmen	1	U+005e U+0071 U+02bc U+0073 U+032a
+^qʼw	qʼw	qʼwəliʔ, qʼwaɬubas	kwakiutl, quileute, halkomelem, haidanorthern	28	U+005e U+0071 U+02bc U+0077
+^r	r	ru, riu	warapu, rotokas, swedish, imbaburaquechua, terei, sahu, kekchi, moskona, seediq, andaqui, hruso, rungakibet, grasskoiari, bari, soo, suabo, maybrat, estonian, marind, mapudungun, lavukaleve, sarakabanaa, greatandamanese, toaripi, karas, ainu, tima, sulka, lencasalvador, georgian, tunica, nimboran, ongota, mojave, warembori, deraindonesia, tarifit, nivkh, abun, nakara, ambulas, kuot, fur, mailu, moro	100	U+005e U+0072
+^rr	rr	rrewkawʔs	klamath	1	U+005e U+0072 U+0072
+^rs	rs	rseno	seediq	1	U+005e U+0072 U+0073
+^rw	rw	rwis	lencasalvador	1	U+005e U+0072 U+0077
+^r̥	r̥	r̥aŋz_r̥aklu, r̥ain	nivkh	4	U+005e U+0072 U+0325
+^r̪	r̪	r̪agə, r̪iiʔi	bororo, yana, shasta, chatino	18	U+005e U+0072 U+032a
+^s	s	si, su	karas, vietnamese, kamasau, tuyuca, yagua, turkish, northernsierramiwok, japanese, kiowa, halkomelem, estonian, peleata, aguaruna, abun, marind, aymara, lavukaleve, miskito, alabama, ainu, kunza, soo, urarina, mairasi, klamath, cofan, rikbaktsa, panoankatukina, bezhta, suabo, meriam, nivacle, arabela, quileute, odoodee, imbaburaquechua, berik, sandawe, mali, taa, movima, timucua, kamula, mocovi, andaqui, muniche, trumai, bamu, dadibi, deraindonesia, copainalazoque, tarifit, hruso, nivkh, achumawi, wintu, yaqui, southeastijo, mandinka, kanuri, zarma, ambulas, bankanteydogon, puinave, manange, ayoreo, fasu, yareba, kaluli, greatandamanese, kekchi, chinook, itonama	100	U+005e U+0073
+^s$	s	s	deraindonesia, oneida	2	U+005e U+0073 U+0024
+^sh	sh	she̞x, shiefe	achumawi, oneida, chinook, esselen	6	U+005e U+0073 U+0068
+^ss	ss	ssnuffa, ssusəf	tarifit	6	U+005e U+0073 U+0073
+^sw	sw	swaji_mqedin, swaji_rseno	halkomelem, klamath, seediq, miskito, sandawe, oneida, ineseno, kwaza	22	U+005e U+0073 U+0077
+^sʼ	sʼ	sʼisʼia, sʼakʼa	berta, dime	20	U+005e U+0073 U+02bc
+^s̪	s̪	s̪kũ, s̪ii	haidanorthern, waris, thaidialectkorat, korean, ket, chatino, toaripi, nimboran, purepecha, itelmen, yana, zuni, lakota, nara, basque, southernpomo, karok, shasta, chipaya, tehuelche	100	U+005e U+0073 U+032a
+^s̪s̪	s̪s̪	s̪s̪ab	huave	1	U+005e U+0073 U+032a U+0073 U+032a
+^s̪w	s̪w	s̪wie	korean	1	U+005e U+0073 U+032a U+0077
+^t	t	tan, tafa	nivacle, karas, wari, berik, guarani, chayahuita, juhoan, allentiac, peleata, wayuu, chachi, northalaskaninupiatun, shatt, wappo, hupde, nivkh, achumawi, qawasqar, rotokas, purepecha, kekchi, terei, yagua, yuwana, uduk, sanapanaangaite, northernsierramiwok, moskona, bezhta, suabo, sulka, meriam, odoodee, taushiro, imbaburaquechua, savosavo, yawa, takelma, yimas, alsea, moseten, movima, timucua, cuitlatec, krenak, burushaski, atakapa, estonian, maranunggu, tsimshian, arapaho, nezperce, suri, saliba, bangime, bamu, dime, kitja, dadibi, northernembera, cayuvava, maxakali, grasskoiari, mailu, puinave, enapaworomaipu, lule, sarakabanaa, greatandamanese, waorani, daga, ninam	100	U+005e U+0074
+^t$	t	t	yagua, klamath, oneida	3	U+005e U+0074 U+0024
+^th	tʰ	thau, thu	tunica, halkomelem, guhusamane, nivkh, chipaya, lavukaleve, awtuw, pume, ninam, georgian, doromukoki, klamath, sandawe, wintu, swedish, paez, burushaski, purepecha, sumerian, cofan, wari, southernnambikuara, shompeng, seediq, salinan, taa, ahtena, korean, southernpomo, hruso, aymara, kwakiutl, greatandamanese	100	U+005e U+0074 U+0068
+^th$	tʰ	th	takelma	1	U+005e U+0074 U+0068 U+0024
+^ths	tsʰ	thsaakʼ	klamath	1	U+005e U+0074 U+0068 U+0073
+^thʃ	thʃ	thʃven, thʃrdili	georgian	4	U+005e U+0074 U+0068 U+0283
+^thʃh	thʃh	thʃhikha, thʃhu	tunica	4	U+005e U+0074 U+0068 U+0283 U+0068
+^ts	ts	tsi, tsʔupa	cofan, lencasalvador, ahtena, aguaruna, candoshishapra, juhoan, xicotepecdejuareztotonac, takelma, atakapa, guahibo, kwaza, gununakune, muniche, trumai, pawnee, copainalazoque, chipaya, seediq, japanese, ongota, moseten, hruso, oneida, kanoe, bezhta, quileute, chatino, taa, chachi, hadza, kwakiutl, adyghe, chinook, sumerian	100	U+005e U+0074 U+0073
+^tsh	tsh	tshaaj, tshuum	ahtena, nama, burushaski, cofan, chipaya, taa, seediq, chinook	50	U+005e U+0074 U+0073 U+0068
+^tsw	tsw	tsweq	ineseno	1	U+005e U+0074 U+0073 U+0077
+^tsʼ	tsʼ	tsʼinɟa, tsʼib	gumuz	4	U+005e U+0074 U+0073 U+02bc
+^ts̪	ts̪	ts̪ɨpambiti, ts̪iman̪i	purepecha	7	U+005e U+0074 U+0073 U+032a
+^ts̪h	ts̪h	ts̪hauapiti, ts̪hɛxkwn̪i	purepecha	4	U+005e U+0074 U+0073 U+032a U+0068
+^tt	tt	tta, ttin	hatam, chinook	4	U+005e U+0074 U+0074
+^tw	tw	twa, twaa	uncunwee, uduk, kanoe, bari, klamath, oneida, swahili, miskito, bangime, bambassi	16	U+005e U+0074 U+0077
+^twh	twh	twhut	chinook	1	U+005e U+0074 U+0077 U+0068
+^tɕ	tɕ	tɕaw_tɕaj, tɕaw_ɣaj	vietnamese, alsea, japanese	74	U+005e U+0074 U+0255
+^tɕw	tɕw	tɕweetɬ	alsea	1	U+005e U+0074 U+0255 U+0077
+^tʂ	ʈʂ	tʂiv_ɬo, tʂiv	whitehmong, adyghe	19	U+005e U+0074 U+0282
+^tʂh	tʂh	tʂhʌn, tʂha	whitehmong, burushaski	7	U+005e U+0074 U+0282 U+0068
+^tʃ	tʃ	tʃa, tʃim	arapaho, quileute, chatino, cayuvava, yaqui, kanuri, kekchi, rikbaktsa, yukaghir, bororo, moseten, mojave, andaqui, korean, tiwi, timucua, mocovi, muniche, copainalazoque, oroqen, shakacho, moro, alabama, uduk, ainu, klamath, candoshishapra, bezhta, panoankatukina, northernsierramiwok, yele, taushiro, salinan, xicotepecdejuareztotonac, basque, ongota, halkomelem, movima, cuitlatec, yuracare, tehuelche, chachi, warapu, huave, lakota, hadza, ayoreo, piraha, cavinena, chinook, kunza, itonama	100	U+005e U+0074 U+0283
+^tʃh	tʃh	tʃhan̪, tʃhixts	lakota, pume, chipaya, haidanorthern, klamath, uduk, burushaski, aymara, salinan, juhoan, mongolian, korean, paez, cofan, purepecha, wappo, southernpomo	100	U+005e U+0074 U+0283 U+0068
+^tʃh$	tʃh	tʃh	klamath	1	U+005e U+0074 U+0283 U+0068 U+0024
+^tʃʼ	tʃʼ	tʃʼekʼdijo, tʃʼanaʁo	bezhta	2	U+005e U+0074 U+0283 U+02bc
+^tʒ	tʒ	tʒin, tʒu	juhoan	2	U+005e U+0074 U+0292
+^tʼ	tʼ	tʼɬʼuŋ, tʼaj	quileute, ahtena, georgian, sandawe, takelma, tsimshian, kunza, wintu, kwakiutl, klamath, coos, halkomelem, dime, sheko, itonama, bezhta, gununakune, taa, gumuz, qawasqar, washo, bambassi, berta	100	U+005e U+0074 U+02bc
+^tʼs	tsʼ	tʼsitʼsʼil, tʼso̞o̞	quileute, sandawe	3	U+005e U+0074 U+02bc U+0073
+^tʼsʼ	tsʼ	tʼsʼe̞n, tʼsʼa	ahtena, gununakune, tsimshian, georgian, kekchi, kwakiutl, quileute, hadza, bezhta, sheko, sandawe, trumai, adyghe, washo, southernpomo, bambassi	100	U+005e U+0074 U+02bc U+0073 U+02bc
+^tʼsʼ$	tsʼ	tʼsʼ	ahtena	2	U+005e U+0074 U+02bc U+0073 U+02bc U+0024
+^tʼsʼw	tʼsʼw	tʼsʼwaa, tʼsʼwaʔa	sandawe	2	U+005e U+0074 U+02bc U+0073 U+02bc U+0077
+^tʼtʼ	tʼtʼ	tʼtʼɔ	southernpomo	1	U+005e U+0074 U+02bc U+0074 U+02bc
+^tʼw	tʼw	tʼwɛ, tʼwakʼə	adyghe, halkomelem	2	U+005e U+0074 U+02bc U+0077
+^tʼw$	tʼw	tʼw	adyghe	1	U+005e U+0074 U+02bc U+0077 U+0024
+^tʼʃʼ	tʼʃʼ	tʼʃʼam, tʼʃʼo̞tʼʃʼ	aymara, kunza, tehuelche, kekchi, dime, shasta, georgian, sheko, haidanorthern, chipaya, quileute, southernpomo, itonama, nivacle	92	U+005e U+0074 U+02bc U+0283 U+02bc
+^tʼʃʼh	tʼʃʼh	tʼʃʼholeekh, tʼʃʼhelks	klamath	11	U+005e U+0074 U+02bc U+0283 U+02bc U+0068
+^t̪	t̪	t̪u, t̪ɨmmalɨ	chatino, waris, whitehmong, nara, kayardild, tima, korean, katcha, murrinhpatha, lakota, vietnamese, tiwi, toaripi, uduk, mongolian, yele, rumu, deraindonesia, ngarluma, northernsierramiwok, thaidialectkorat, haidanorthern, nimboran, manange, nunggubuyu, turkish, kiowa, mojave, gooniyandi, shasta, ket, gaam	100	U+005e U+0074 U+032a
+^t̪$	t̪	t̪	tehuelche	2	U+005e U+0074 U+032a U+0024
+^t̪h	t̪h	t̪ham, t̪her	mongolian, yana, thaidialectkorat, manange, kiowa, vietnamese, lakota, tol, haidanorthern, basque, hadza, wappo, whitehmong, southernpomo	100	U+005e U+0074 U+032a U+0068
+^t̪h$	t̪h	t̪h	southernpomo	1	U+005e U+0074 U+032a U+0068 U+0024
+^t̪s	t̪s	t̪sa, t̪sɔɔʔjiɔ	kiowa, manange	24	U+005e U+0074 U+032a U+0073
+^t̪sh	t̪sh	t̪shʌɾ, t̪shimpʌ	manange	6	U+005e U+0074 U+032a U+0073 U+0068
+^t̪s̪	ts̪	t̪s̪it̪t̪a, t̪s̪e	wappo, mongolian, zuni, thaidialectkorat, whitehmong, huave	51	U+005e U+0074 U+032a U+0073 U+032a
+^t̪s̪h	t̪s̪h	t̪s̪haa, t̪s̪hin̪	wappo, mongolian, thaidialectkorat, whitehmong	16	U+005e U+0074 U+032a U+0073 U+032a U+0068
+^t̪t̪	t̪t̪	t̪t̪n̪	ket	1	U+005e U+0074 U+032a U+0074 U+032a
+^t̪w	t̪w	t̪waɲ	moro	1	U+005e U+0074 U+032a U+0077
+^t̪ww	t̪ww	t̪wwikhje̞wik	shasta	1	U+005e U+0074 U+032a U+0077 U+0077
+^t̪ʃ	t̪ʃ	t̪ʃa, t̪ʃampʌ	zuni, manange	35	U+005e U+0074 U+032a U+0283
+^t̪ʃh	t̪ʃh	t̪ʃhi, t̪ʃharaŋ	manange	6	U+005e U+0074 U+032a U+0283 U+0068
+^t̪ʼ	t̪ʼ	t̪ʼakʼan̪, t̪ʼaʔwn̪	haidanorthern, tehuelche, itelmen, kiowa, lakota, shasta	80	U+005e U+0074 U+032a U+02bc
+^t̪ʼs̪ʼ	ts̪ʼ	t̪ʼs̪ʼikʼɔ, t̪ʼs̪ʼummɛ	zuni	5	U+005e U+0074 U+032a U+02bc U+0073 U+032a U+02bc
+^u	u	uhmawano, uhi	itonama, grasskoiari, yamana, ayoreo, yareba, moro, uncunwee, muinane, imbaburaquechua, pume, korean, aguaruna, kamasau, katcha, doromukoki, aymara, rotokas, hadza, lule, oroqen, sumerian, limilngan, soo, urarina, yuwana, bezhta, shompeng, mongolian, nivacle, georgian, taushiro, basque, berik, yimas, mojave, yuracare, movima, burushaski, muniche, trumai, natchez, highlandoaxacachontal, guahibo, saliba, bamu, shatt, copainalazoque, teiwa, northernembera, hruso, guhusamane, achumawi, rungakibet, guarani, mapudungun, jarawa, shasta, lavukaleve, kuot, itelmen, kwakiutl, greatandamanese, sarakabanaa, swahili, ainu	100	U+005e U+0075
+^u$	u	u	karas, kuot, sumerian, sentani, terei, hruso, doromukoki, guarani, manange, itelmen, soo, juhoan, southernnambikuara, maybrat, cuitlatec, krenak, muniche, nama, djeoromitxi, rumu, lavukaleve, ket, fur, puinave, lule, kaluli	43	U+005e U+0075 U+0024
+^uu	uː	uuɻ, uuts	burushaski, pawnee, atakapa, xicotepecdejuareztotonac, northalaskaninupiatun, ayoreo, terei, rotokas, uncunwee, mongolian, muinane, takelma, mojave, estonian, trumai, wayuu, aguaruna, amarakaeri, muruihuitoto, rungakibet, yaqui, jarawa, mandinka, ket, bankanteydogon, tamil, shakacho, daga, oroqen, sheko	52	U+005e U+0075 U+0075
+^uu$	uː	uu	paez, oroqen, gaam	3	U+005e U+0075 U+0075 U+0024
+^v	v	ve̞ve̞t̪e̞, vandu_oχt	swedish, nivkh, ambulas, mailu, georgian, mojave, toaripi, yawa, karok, vietnamese, swahili, whitehmong, turkish, imbaburaquechua, paez, warapu, esselen, warembori, hruso, southeastijo, marind, mandinka, adyghe, daga, kunza	91	U+005e U+0076
+^w	w	waɭi, won_klakla	amarakaeri, natchez, yangman, nunggubuyu, klamath, tuyuca, miskito, ngarluma, maybrat, maranunggu, arapaho, kwaza, pawnee, murrinhpatha, mapudungun, lakota, ambulas, djingili, tiwi, waorani, ninam, juhoan, yagua, wageman, uduk, ainu, gununakune, wari, chipaya, imbaburaquechua, berik, gagadu, paez, yimas, yana, kayardild, kamula, mocovi, burushaski, tehuelche, zuni, nezperce, aguaruna, huave, dadibi, kamasau, deraindonesia, gooniyandi, ngarinyin, alawa, tarifit, nakara, washo, mandinka, hadza, itelmen, enapaworomaipu, fasu, kwakiutl, swahili, moro, alabama, kaingang, kekchi, sentani, chayahuita	100	U+005e U+0077
+^ws	ws	wsaxɨ	gununakune	1	U+005e U+0077 U+0073
+^ww	ww	wwəθ	tarifit	1	U+005e U+0077 U+0077
+^w̃	w̃	w̃aaw̃	bankanteydogon	1	U+005e U+0077 U+0303
+^x	x	xa, xantʃi	mongolian, muruihuitoto, aymara, yamana, purepecha, chipaya, nivacle, muinane, imbaburaquechua, salinan, takelma, guahibo, copainalazoque, haidanorthern, maybrat, taushiro, peleata, georgian, quileute, xicotepecdejuareztotonac, sandawe, paez, alsea, halkomelem, yana, burushaski, nama, saliba, esselen, shatt, achumawi, karok, lakota, vietnamese, kwakiutl, kekchi, sumerian	100	U+005e U+0078
+^x$	x	x	takelma	1	U+005e U+0078 U+0024
+^xs	xs	xsʔa	tarifit	1	U+005e U+0078 U+0073
+^xw	xw	xwin, xwossidat	halkomelem, quileute, coos, alsea, tarifit	19	U+005e U+0078 U+0077
+^xʼ	xʼ	xʼãhi	lakota	1	U+005e U+0078 U+02bc
+^y	y	yuliɳ, yati	jamamadi, chayahuita, miskito, ineseno, basque, murrinhpatha, yuracare, kamula, estonian, bangime, kanoe, kuot, jarawa, xicotepecdejuareztotonac	100	U+005e U+0079
+^y$	y	y	kanoe	1	U+005e U+0079 U+0024
+^z	z	zə, zrõã	vietnamese, adyghe, lule, kiowa, ahtena, northernembera, dime, shatt, zarma, georgian, tarifit, nivkh, gumuz, kanuri, bankanteydogon, swahili, sheko, xicotepecdejuareztotonac, ongota, juhoan, bezhta, savosavo, bangime, hruso, bambassi, fur, berta	100	U+005e U+007a
+^z$	z	z	vietnamese	1	U+005e U+007a U+0024
+^zh	zh	zhiwiɗi, zhiu	northernembera, hruso	2	U+005e U+007a U+0068
+^zz	zz	zzəɾ, zzaθ	tarifit, nivkh	3	U+005e U+007a U+007a
+^z̪	z̪	z̪i, z̪apt̪ã	lakota, kunimaipa, itelmen	7	U+005e U+007a U+032a
+^ã	ã	ãtã, ãtak	maxakali, cofan, saliba, southernnambikuara, kanoe, northernembera, tuyuca, kiowa, bezhta, yuwana, paez, pume, kwaza, lakota, ayoreo, puinave, waorani, bari, moseten, andaqui, guarani, ninam	100	U+005e U+00e3
+^ã$	ã	ã	maxakali, kanoe, waorani	4	U+005e U+00e3 U+0024
+^ãã	ãː	ããkai, ããtʃĩĩ	bari, shompeng, kaingang	8	U+005e U+00e3 U+00e3
+^ãã$	ãː	ãã	bari, taa	2	U+005e U+00e3 U+00e3 U+0024
+^æ	æ	æwææn, æʝ	tsimshian, ket, awtuw, maranunggu, berik, waorani, halkomelem, bezhta, waris, kamula, seri, nezperce	83	U+005e U+00e6
+^ææ	æː	ææp, ææk	seri, tsimshian, halkomelem	9	U+005e U+00e6 U+00e6
+^æ̃	æ̃	æ̃βo_nuti, æ̃ibæ	kanoe, bezhta, waorani	18	U+005e U+00e6 U+0303
+^æ̃$	æ̃	æ̃	kanoe	1	U+005e U+00e6 U+0303 U+0024
+^æ̃æ̃	æ̃ː	æ̃æ̃ĩdẽ	waorani	1	U+005e U+00e6 U+0303 U+00e6 U+0303
+^æ̃æ̃$	æ̃ː	æ̃æ̃	kanoe, waorani	2	U+005e U+00e6 U+0303 U+00e6 U+0303 U+0024
+^ç	ç	çohiç, çɯkɯç	maxakali, paez, imbaburaquechua, halkomelem, allentiac, muniche, greatandamanese, yukaghir	96	U+005e U+00e7
+^çʼ	ç’	çʼiçʼɬææm, çʼiiçʼetɬʼ	halkomelem	6	U+005e U+00e7 U+02bc
+^ð	ð	ðin, ðʔa	tarifit, swahili, moro	15	U+005e U+00f0
+^õ	õ	õãõã, õkɛ̃	waorani, cofan, northernembera, tuyuca, ayoreo, puinave, maxakali, ninam, karaja, kiowa, moseten, kanoe, bezhta	86	U+005e U+00f5
+^õ$	õ	õ	kanoe, djeoromitxi	2	U+005e U+00f5 U+0024
+^õõ	õ	õõbã, õõdæ	waorani	2	U+005e U+00f5 U+00f5
+^õ̞	õ̞	õ̞guaxaha, õ̞iuaxaha	saliba	7	U+005e U+00f5 U+031e
+^ø	ø	øs̪amtʃhon̪, øʒø	bezhta, korean, yukaghir, wari	16	U+005e U+00f8
+^øø	øː	øøga, øøvər	swedish	3	U+005e U+00f8 U+00f8
+^øø$	øː	øø	estonian	1	U+005e U+00f8 U+00f8 U+0024
+^ø̃	ø̃	ø̃qʼønæ	bezhta	1	U+005e U+00f8 U+0303
+^ħ	ħ	ħənna, ħuʔu	ongota, teiwa, tarifit, adyghe	29	U+005e U+0127
+^ħs	ħs	ħsa	tarifit	1	U+005e U+0127 U+0073
+^ĩ	ĩ	ĩsabajjanaani, ĩni	southernnambikuara, alabama, cofan, saliba, ninam, yuwana, bezhta, tuyuca, northernembera, paez, lakota, ayoreo, waorani, panoankatukina, shompeng, moseten, andaqui, pume, amarakaeri, maxakali, kanoe	79	U+005e U+0129
+^ĩ$	ĩ	ĩ	kwaza, southernnambikuara, djeoromitxi	5	U+005e U+0129 U+0024
+^ĩĩ	ĩː	ĩĩʃ, ĩĩbõ	bari, paez, waorani	7	U+005e U+0129 U+0129
+^ŋ	ŋ	ŋaala, ŋanuŋkum	kayardild, alawa, wageman, hatam, nivkh, nunggubuyu, garrwa, kunimaipa, gooniyandi, murrinhpatha, yangman, djingili, tima, gagadu, peleata, chachi, huave, kamasau, kitja, marind, maxakali, manange, itelmen, ngarluma, moro, oroqen, uduk, uncunwee, northernsierramiwok, sulka, shompeng, yele, nimboran, yimas, tol, maung, maranunggu, bangime, baruya, shatt, ngarinyin, hruso, gumuz, nakara, vietnamese, sarakabanaa, greatandamanese, sahu, kaingang	100	U+005e U+014b
+^ŋ$	ŋ	ŋ	terei	1	U+005e U+014b U+0024
+^ŋh	ŋh	ŋhɔp, ŋhim	hatam	2	U+005e U+014b U+0068
+^ŋw	ŋw	ŋwarbe, ŋwɛɲɛ	uncunwee, yele, hatam, hadza, tima, bangime, zarma	11	U+005e U+014b U+0077
+^œ	œ	œn̪dʒɛ, œl̪mɛk	turkish	5	U+005e U+0153
+^ũ	ũ	ũtʃi, ũko	lakota, oneida, paez, saliba, kanoe, northernembera, kaingang, tuyuca, yuwana, southernnambikuara, ayoreo, bezhta, andaqui, cayuvava	45	U+005e U+0169
+^ũ$	ũ	ũ	kaingang, fasu, kwaza, yuwana	4	U+005e U+0169 U+0024
+^ũũ	ũ	ũũkwe, ũũŋda	paez, oneida, bari	7	U+005e U+0169 U+0169
+^ǀ	ǀ	ǀkʼxʼaa, ǀoro	nama, taa, juhoan, hadza, sandawe	100	U+005e U+01c0
+^ǀh	ǀh	ǀhai, ǀhe	nama, juhoan	3	U+005e U+01c0 U+0068
+^ǀhw	ǀhw	ǀhwe̞e̞si	sandawe	1	U+005e U+01c0 U+0068 U+0077
+^ǁ	ǁ	ǁnuri, ǁna	nama, taa, sandawe, hadza, juhoan	91	U+005e U+01c1
+^ǁh	ǁh	ǁham, ǁhata	taa, sandawe, hadza	15	U+005e U+01c1 U+0068
+^ǁw	ǁw	ǁwa	sandawe	1	U+005e U+01c1 U+0077
+^ǂ	ǂ	ǂkʼxʼan, ǂqhẽẽ	taa, nama, juhoan	85	U+005e U+01c2
+^ǂh	ǂh	ǂhawa, ǂhal	nama, taa, juhoan	9	U+005e U+01c2 U+0068
+^ɑ	ɑ	ɑɸɑt, ɑnoɬ	seri, teiwa, peleata, chachi, doromukoki, bamu, shakacho, rumu, fasu	100	U+005e U+0251
+^ɑ$	ɑ	ɑ	teiwa, fasu, odoodee, peleata	7	U+005e U+0251 U+0024
+^ɑɑ	ɑː	ɑɑk, ɑɑ_ʔɑpɑ	seri, shakacho, chachi	49	U+005e U+0251 U+0251
+^ɑɑ$	ɑː	ɑɑ	seri	1	U+005e U+0251 U+0251 U+0024
+^ɒ	ɒ	ɒβ, ɒite̞	rotokas, nivacle, waris	48	U+005e U+0252
+^ɒɒ	ɒː	ɒɒko̞, ɒɒβuβɒ	rotokas	28	U+005e U+0252 U+0252
+^ɓ	ɓ	ɓʊɔ, ɓʊɔɓɔgɔtɛ	southeastijo, movima, vietnamese, soo, kekchi, gumuz, shatt, swahili, suri, kwaza, northernembera, sarakabanaa	100	U+005e U+0253
+^ɓw	ɓw	ɓwaham, ɓwakoje_emã_elele	uduk, kwaza	5	U+005e U+0253 U+0077
+^ɔ	ɔ	ɔk, ɔwa	maasai, ainu, katcha, uncunwee, wayuu, southeastijo, mongolian, pume, teiwa, oroqen, soo, odoodee, krenak, shatt, ket, kaluli, swedish, bankanteydogon, karaja, swahili, karas, kiowa, rumu, rungakibet, vietnamese, greatandamanese, gaam	100	U+005e U+0254
+^ɔ$	ɔ	ɔ	cayuvava, soo, karaja	3	U+005e U+0254 U+0024
+^ɔɔ	ɔː	ɔɔn, ɔɔʔgjɔ	kiowa, gaam, teiwa, wayuu, ainu, oroqen	14	U+005e U+0254 U+0254
+^ɔɔ$	ɔː	ɔɔ	oroqen, katcha	2	U+005e U+0254 U+0254 U+0024
+^ɔ̃	ɔ̃	ɔ̃m	kiowa	1	U+005e U+0254 U+0303
+^ɔ̃$	ɔ̃	ɔ̃	kiowa	1	U+005e U+0254 U+0303 U+0024
+^ɕ	ɕ	ɕawr̪wn̪, ɕiipkj	tehuelche, alsea, atakapa, japanese, adyghe, swedish	75	U+005e U+0255
+^ɖ	ɖ	ɖoɟi, ɖiɖek	uncunwee, greatandamanese, nakara, burushaski, tamil, murrinhpatha, gaam	34	U+005e U+0256
+^ɖw	ɖw	ɖwa	uncunwee	1	U+005e U+0256 U+0077
+^ɖʐ	ɖʐ	ɖʐuujʌs	burushaski	1	U+005e U+0256 U+0290
+^ɗ	ɗ	ɗa, ɗaŋi	movima, vietnamese, suri, southeastijo, kwaza, berta, soo, gumuz, swahili, maasai, dime, katcha, uduk, rungakibet	100	U+005e U+0257
+^ɗw	ɗw	ɗwa	kwaza	1	U+005e U+0257 U+0077
+^ɘ	ɘ	ɘtoɾa, ɘnəŋia	moro, karaja	3	U+005e U+0258
+^ə	ə	əɲja, əso	jarawa, oroqen, natchez, kwakiutl, nivkh, sentani, hruso, gaam, rungakibet, adyghe, moseten, shatt, copainalazoque, tarifit, ket, coos, wayuu, djeoromitxi, enapaworomaipu, moro	100	U+005e U+0259
+^ə$	ə	ə	sentani, vietnamese, oroqen, djeoromitxi	5	U+005e U+0259 U+0024
+^əə	əː	əər, əəm	gaam, enapaworomaipu, ket	6	U+005e U+0259 U+0259
+^əə$	əː	əə	ket	1	U+005e U+0259 U+0259 U+0024
+^ə̃	ə̃	ə̃nɨɾa	karaja	1	U+005e U+0259 U+0303
+^ɛ	ɛ	ɛnkaɪna, ɛk	maasai, greatandamanese, turkish, paez, rumu, swedish, ainu, soo, halkomelem, wayuu, chachi, suri, teiwa, bankanteydogon, swahili, odoodee, peleata, pume, southeastijo, cayuvava, doromukoki, washo, purepecha, karas, cofan, atakapa, kaluli, kaingang, gaam	100	U+005e U+025b
+^ɛ$	ɛ	ɛ	zuni, soo, kwaza	4	U+005e U+025b U+0024
+^ɛɛ	ɛː	ɛɛn, ɛɛs	burushaski, rungakibet, ainu, gaam, paez, swedish, tsimshian, wayuu	12	U+005e U+025b U+025b
+^ɛɛ$	ɛː	ɛɛ	paez, seri	2	U+005e U+025b U+025b U+0024
+^ɛ̃	ɛ̃	ɛ̃thĩgjɛ, ɛ̃s	paez, kwaza, cofan	3	U+005e U+025b U+0303
+^ɛ̃ɛ̃	ɛ̃ː	ɛ̃ɛ̃_çɛ̃j	paez	1	U+005e U+025b U+0303 U+025b U+0303
+^ɜ	ɜ	ɜppi	shakacho	1	U+005e U+025c
+^ɟ	ɟ	ɟalu, ɟɛmɛj̃	djingili, garrwa, guarani, wageman, gagadu, bankanteydogon, gooniyandi, greatandamanese, sandawe, hupde, zarma, hruso, gaam, shompeng, shatt, rungakibet, uncunwee, hatam, suri, northernembera, muruihuitoto, gumuz	100	U+005e U+025f
+^ɠ	ɠ	ɠɛuza, ɠusa	swahili, suri	7	U+005e U+0260
+^ɠw	ɠw	ɠwek	soo	1	U+005e U+0260 U+0077
+^ɢ	ɢ	ɢaɢəmph, ɢaɢas	kwakiutl, tsimshian, mongolian, ahtena, haidanorthern	50	U+005e U+0262
+^ɢw	ɢw	ɢwəntʼa	kwakiutl	1	U+005e U+0262 U+0077
+^ɣ	ɣ	ɣaa, ɣə	mali, yele, kamasau, savosavo, georgian, tarifit, sulka, vietnamese, huave, mapudungun, murrinhpatha, lakota, shompeng	57	U+005e U+0263
+^ɣw	ɣw	ɣwi, ɣwɨɾa	guarani	5	U+005e U+0263 U+0077
+^ɤ	ɤ	ɤhk, ɤnok	estonian, puinave	3	U+005e U+0264
+^ɥ	ɥ	ɥundu, ɥiɛ	bangime	2	U+005e U+0265
+^ɦ	ɦ	ɦe	hadza	1	U+005e U+0266
+^ɨ	ɨ	ɨʋɨtu, ɨɾẽka	guarani, enapaworomaipu, aguaruna, muruihuitoto, ineseno, muniche, tuyuca, yuwana, taushiro, ket, gununakune, panoankatukina, muinane, cayuvava, rikbaktsa, trumai, karaja, cofan, northernsierramiwok, sulka, kwaza, vietnamese, itonama	100	U+005e U+0268
+^ɨ$	ɨ	ɨ	guarani	1	U+005e U+0268 U+0024
+^ɨɨ	ɨː	ɨɨɮ, ɨɨxoʔo	aguaruna, ket, muruihuitoto, washo, muinane	7	U+005e U+0268 U+0268
+^ɨɨ$	ɨː	ɨɨ	muruihuitoto	8	U+005e U+0268 U+0268 U+0024
+^ɨ̃	ɨ̃	ɨ̃tã, ɨ̃kɨ̃ã	tuyuca, kwaza, cofan	14	U+005e U+0268 U+0303
+^ɪ	ɪ	ɪʂe̞ba, ɪɽʃu	uncunwee, basque, limilngan, turkish, southeastijo, soo, maasai, swedish, oroqen, tima, tsimshian	100	U+005e U+026a
+^ɪ$	ɪ	ɪ	southeastijo	2	U+005e U+026a U+0024
+^ɬ	ɬ	ɬabi, ɬaxuak	highlandoaxacachontal, nivacle, tsimshian, quileute, alsea, adyghe, sandawe, sanapanaangaite, xicotepecdejuareztotonac, halkomelem, chinook, seri, movima, whitehmong, kwakiutl, alabama, bezhta, gununakune, coos, haidanorthern, ahtena, nezperce	100	U+005e U+026c
+^ɬs	ɬs	ɬsaʔʃ, ɬsuk	chinook, nivacle	2	U+005e U+026c U+0073
+^ɬw	ɬw	ɬweleph	halkomelem	1	U+005e U+026c U+0077
+^ɬʃ	ɬʃ	ɬʃajkʔu	nivacle	1	U+005e U+026c U+0283
+^ɬʼ	ɬʼ	ɬʼə, ɬʼəʒə	adyghe	3	U+005e U+026c U+02bc
+^ɬ̪	ɬ̪	ɬ̪aʃʃikʼji, ɬ̪aa	zuni, haidanorthern	26	U+005e U+026c U+032a
+^ɬ̪ʼ	ɬ̪ʼ	ɬ̪ʼaan̪	haidanorthern	1	U+005e U+026c U+032a U+02bc
+^ɭ	ɭ	ɭawɭaw, ɭant̪urg	nunggubuyu, maung	5	U+005e U+026d
+^ɮ	ɮ	ɮɔs̪, ɮaath	ahtena, ket, adyghe	14	U+005e U+026e
+^ɯ	ɯ	ɯʃi, ɯɾɯje	ninam, japanese, puinave, mapudungun, turkish, northernembera, huave, pume	38	U+005e U+026f
+^ɯ$	ɯ	ɯ	ninam	1	U+005e U+026f U+0024
+^ɯɯ	ɯː	ɯɯtʃ	huave	1	U+005e U+026f U+026f
+^ɯ̃	ɯ̃	ɯ̃ŋniç, ɯ̃ŋ	maxakali, ninam, northernembera	14	U+005e U+026f U+0303
+^ɯ̃$	ɯ̃	ɯ̃	maxakali	3	U+005e U+026f U+0303 U+0024
+^ɰ	ɰ	ɰataɕitatɕi, ɰakai	japanese	6	U+005e U+0270
+^ɲ	ɲ	ɲa, ɲotshi	kamasau, mandinka, imbaburaquechua, cayuvava, guarani, soo, cofan, saliba, shatt, ambulas, swahili, krenak, whitehmong, copainalazoque, gooniyandi, hruso, gagadu, muniche, suri, bangime, ngarinyin, aymara, vietnamese, djingili, gaam, uncunwee, yukaghir, yele, muinane, taushiro, moseten, kwaza, abun, rungakibet, kanuri, fur, enapaworomaipu, sahu, ngarluma, oroqen	100	U+005e U+0272
+^ɲw	ɲw	ɲwɛlɛ, ɲwa	swahili	2	U+005e U+0272 U+0077
+^ɲ̊	ɲ̊	ɲ̊av	whitehmong	1	U+005e U+0272 U+030a
+^ɳ	ɳ	ɳin̪d̪u, ɳɖo_qau	garrwa, whitehmong, nunggubuyu	11	U+005e U+0273
+^ɴ	ɴ	ɴɢai, ɴɢa	whitehmong	3	U+005e U+0274
+^ɵ	ɵ	ɵβɵg_et̪s̪heg, ɵt̪hɵɮsɵn̪	mongolian, swedish	20	U+005e U+0275
+^ɵɵ	ɵː	ɵɵr	mongolian	1	U+005e U+0275 U+0275
+^ɸ	ɸ	ɸa, ɸe	muinane, kaingang, muruihuitoto, jamamadi, imbaburaquechua, kamasau, chachi, paez, yareba, trumai, odoodee, fasu, itelmen, teiwa, shompeng, saliba	100	U+005e U+0278
+^ɹ	ɹ	ɹɪgɪlɪ, ɹəβərəɣiŋgl	mali, alawa	10	U+005e U+0279
+^ɺ	ɺ	ɺʔaəɺʔa, ɺɛm	wayuu, paez	8	U+005e U+027a
+^ɻ	ɻ	ɻijalt̪a, ɻaja	nunggubuyu, burushaski, gagadu, kayardild, djingili, gooniyandi	32	U+005e U+027b
+^ɽ	ɽ	ɽopo, ɽikeɽo	rikbaktsa, kunimaipa, urarina, moro, guhusamane, tima, nakara	55	U+005e U+027d
+^ɾ	ɾ	ɾoʔapa, ɾɛ	yawa, pawnee, arabela, suri, cayuvava, ninam, mocovi, panoankatukina, rumu, muruihuitoto, ainu, yagua, yuwana, guarani, awtuw, cofan, kwaza, kamasau, doromukoki, fasu, rikbaktsa, savosavo, hatam, movima, muniche, guahibo, ngarinyin, yaqui, kanuri, yareba, cavinena, karaja	100	U+005e U+027e
+^ɾ$	ɾ	ɾ	cayuvava	1	U+005e U+027e U+0024
+^ɾs	ɾs	ɾsahmata	mocovi	1	U+005e U+027e U+0073
+^ɾ̪	ɾ̪	ɾ̪eu, ɾ̪uu_t̪s̪ak	thaidialectkorat, huave	6	U+005e U+027e U+032a
+^ʁ	ʁ	ʁani, ʁae̞ze̞ʔ	ahtena, hruso	21	U+005e U+0281
+^ʁw	ʁw	ʁwagw, ʁwaʑə	adyghe	2	U+005e U+0281 U+0077
+^ʁwʂ	ʁwʂ	ʁwʂa	adyghe	1	U+005e U+0281 U+0077 U+0282
+^ʂ	ʂ	ʂowantʃi, ʂaʔiʂo	basque, panoankatukina, whitehmong, candoshishapra, sheko, chipaya, burushaski, muniche, manange, adyghe	100	U+005e U+0282
+^ʂw	ʂw	ʂwa, ʂwanə	adyghe	3	U+005e U+0282 U+0077
+^ʃ	ʃ	ʃim, ʃoʔpaʔ	bambassi, tunica, georgian, wappo, kekchi, sumerian, seri, uncunwee, wari, panoankatukina, abun, lakota, manange, shakacho, berta, nivacle, arabela, lencasalvador, xicotepecdejuareztotonac, salinan, ongota, halkomelem, southernpomo, tarifit, oroqen, sheko, uduk, yukaghir, chipaya, mongolian, quileute, basque, takelma, moseten, yuracare, burushaski, natchez, kunza, aguaruna, kwaza, ineseno, copainalazoque, hruso, gumuz, maasai, washo, kanuri, itelmen, nara	100	U+005e U+0283
+^ʃ$	ʃ	ʃ	gumuz	1	U+005e U+0283 U+0024
+^ʃh	ʃh	ʃhəməcə, ʃhujə	natchez	2	U+005e U+0283 U+0068
+^ʃs	ʃs	ʃsi	tarifit	2	U+005e U+0283 U+0073
+^ʃw	ʃw	ʃweʔniwaʃ, ʃwa	uduk, uncunwee, adyghe, ineseno, tarifit, chipaya, salinan, bambassi	12	U+005e U+0283 U+0077
+^ʃʃ	ʃʃ	ʃʃuxɾəðʔ, ʃʃua	tarifit	2	U+005e U+0283 U+0283
+^ʃʃ$	ʃʃ	ʃʃ	tarifit	1	U+005e U+0283 U+0283 U+0024
+^ʃʼ	ʃʼ	ʃʼan, ʃʼən	adyghe	2	U+005e U+0283 U+02bc
+^ʃʼw	ʃʼw	ʃʼwajə, ʃʼwtʼsʼa	adyghe	3	U+005e U+0283 U+02bc U+0077
+^ʃʼw$	ʃʼw	ʃʼw	adyghe	2	U+005e U+0283 U+02bc U+0077 U+0024
+^ʄ	ʄ	ʄuu, ʄua	swahili, suri, soo	36	U+005e U+0284
+^ʈ	ʈ	ʈiɟaŋ, ʈaaʈaa	salinan, tamil, uncunwee, greatandamanese, nunggubuyu, whitehmong, manange, burushaski	90	U+005e U+0288
+^ʈh	ʈh	ʈhu, ʈhuhəb	greatandamanese, manange, jarawa, burushaski	11	U+005e U+0288 U+0068
+^ʈw	ʈw	ʈwale, ʈwaki	uncunwee	4	U+005e U+0288 U+0077
+^ʈʂ	ʈʂ	ʈʂɨʔa, ʈʂanga	imbaburaquechua, mapudungun, muniche, sheko, candoshishapra	52	U+005e U+0288 U+0282
+^ʈʃ	ʈʃ	ʈʃaʔ	salinan	1	U+005e U+0288 U+0283
+^ʉ	ʉ	ʉsitʃue, ʉsi	urarina	3	U+005e U+0289
+^ʉ$	ʉ	ʉ	urarina	1	U+005e U+0289 U+0024
+^ʉʉ	ʉː	ʉʉthe	swedish	1	U+005e U+0289 U+0289
+^ʊ	ʊ	ʊr, ʊnaadʒɪ	limilngan, chachi, mongolian, oroqen, uncunwee, turkish, swedish, burushaski, tima, southernpomo	73	U+005e U+028a
+^ʊ$	ʊ	ʊ	soo	1	U+005e U+028a U+0024
+^ʊʊ	ʊː	ʊʊrt̪hai, ʊʊɮ	mongolian, chachi, karok	8	U+005e U+028a U+028a
+^ʋ	ʋ	ʋennapoeg, ʋennatytar	estonian, moseten, tamil, guarani	91	U+005e U+028b
+^ʌ	ʌ	ʌmis, ʌpi	burushaski, tima	52	U+005e U+028c
+^ʌ̃	ʌ̃	ʌ̃hwatʌ̃, ʌ̃tehslijo	oneida	18	U+005e U+028c U+0303
+^ʍ	ʍ	ʍɪnn, ʍɛrna	swedish, ahtena	5	U+005e U+028d
+^ʎ	ʎ	ʎawe, ʎo̞ba	allentiac, basque, yele, imbaburaquechua, mocovi, chipaya, itelmen, mapudungun, chachi	69	U+005e U+028e
+^ʎ$	ʎ	ʎ	itelmen	1	U+005e U+028e U+0024
+^ʎw	ʎw	ʎwaʎqʼal	itelmen	1	U+005e U+028e U+0077
+^ʐ	ʐ	ʐau, ʐe	whitehmong	8	U+005e U+0290
+^ʑ	ʑ	ʑɯhi, ʑəm_daɬatajan	adyghe, japanese	8	U+005e U+0291
+^ʒ	ʒ	ʒəddi, ʒaaʒ	bangime, juhoan, tarifit, gumuz, sheko, adyghe, bezhta, mairasi	34	U+005e U+0292
+^ʒh	ʒh	ʒhəð	tarifit	1	U+005e U+0292 U+0068
+^ʒw	ʒw	ʒwaaʁwa	adyghe	1	U+005e U+0292 U+0077
+^ʒʒ	ʒʒ	ʒʒðið	tarifit	1	U+005e U+0292 U+0292
+^ʔ	ʔ	ʔapiʃi, ʔat̪ɾaax	karok, piraha, zuni, nezperce, nisenan, dime, guhusamane, seri, northernsierramiwok, suabo, tunica, quileute, kamasau, wappo, wari, thaidialectkorat, panoankatukina, chatino, salinan, tol, mocovi, peleata, chachi, hupde, washo, shasta, hadza, adyghe, sheko	100	U+005e U+0294
+^ʔ$	ʔ	ʔ	bezhta	1	U+005e U+0294 U+0024
+^ʔw	ʔw	ʔwaat̪ɬ̪ʊwaan̪, ʔwaqapi	haidanorthern, adyghe, tsimshian, bari, mocovi, nivacle	13	U+005e U+0294 U+0077
+^ʔʃ	ʔʃ	ʔʃin	dime	1	U+005e U+0294 U+0283
+^ʕ	ʕ	ʕabujte, ʕabuja	haidanorthern, ongota, tarifit	63	U+005e U+0295
+^ʘ	ʘ	ʘaa_ᶢ!a̤o, ʘxaa_ᶢ!a̤o	taa	28	U+005e U+0298
+^ʝ	ʝ	ʝaɨ_tʂiv, ʝo	whitehmong	10	U+005e U+029d
+^β	β	βoɾo, βɑnɑ	rotokas, grasskoiari, doromukoki, lavukaleve, cayuvava, yaqui, panoankatukina, peleata, mali, sulka, paez, movima, kanoe, waris, kunimaipa, savosavo, tarifit, saliba	100	U+005e U+03b2
+^βh	βh	βha	sulka	2	U+005e U+03b2 U+0068
+^θ	θ	θajjawθ, θʊxaθ	tarifit, berta, karok, arapaho, karaja, halkomelem, mojave, mapudungun	83	U+005e U+03b8
+^θs	θs	θsa	tarifit	1	U+005e U+03b8 U+0073
+^χ	χ	χa, χiiʔɑ	bezhta, halkomelem, seri, quileute, gumuz, achumawi, chipaya, nezperce, ongota, ahtena, kwakiutl, wintu, coos, tsimshian, haidanorthern	60	U+005e U+03c7
+^χs	χs	χskʼæænæχs, χsɪɪt	tsimshian	4	U+005e U+03c7 U+0073
+^χw	χw	χwijæje, χwraaj	halkomelem, adyghe, kwakiutl, quileute	5	U+005e U+03c7 U+0077
+^ᵑ!	ⁿǃ	ᵑ!om, ᵑ!aʔan	juhoan, sandawe, taa, hadza	42	U+005e U+1d51 U+0021
+^ᵑǀ	ⁿǀ	ᵑǀo̞me̞se̞, ᵑǀaʔan	juhoan, taa, sandawe, hadza	31	U+005e U+1d51 U+01c0
+^ᵑǀh	ⁿǀh	ᵑǀhuin	juhoan	1	U+005e U+1d51 U+01c0 U+0068
+^ᵑǀw	ᵑǀw	ᵑǀwe̞e̞	sandawe	1	U+005e U+1d51 U+01c0 U+0077
+^ᵑǁ	ⁿǁ	ᵑǁa̤ã, ᵑǁatɬan̪eja	taa, hadza, juhoan, sandawe	13	U+005e U+1d51 U+01c1
+^ᵑǁh	ⁿǁh	ᵑǁhan	juhoan	1	U+005e U+1d51 U+01c1 U+0068
+^ᵑǂ	ⁿǂ	ᵑǂu, ᵑǂuʔm	taa, juhoan	10	U+005e U+1d51 U+01c2
+^ᵑǂh	ⁿǂh	ᵑǂhaih, ᵑǂhao	juhoan	3	U+005e U+1d51 U+01c2 U+0068
+^ᵑʘ	ⁿʘ	ᵑʘa̤ã, ᵑʘõʕõʕ	taa	2	U+005e U+1d51 U+0298
+^ᶢ!	ᶢǃ	ᶢ!aʔan, ᶢ!u	juhoan, taa	30	U+005e U+1da2 U+0021
+^ᶢǀ	ᶢǀ	ᶢǀaoh, ᶢǀa̤ʕi	taa, juhoan	16	U+005e U+1da2 U+01c0
+^ᶢǁ	ᶢǁ	ᶢǁaʕ, ᶢǁaʕma	juhoan, taa	21	U+005e U+1da2 U+01c1
+^ᶢǂ	ᶢǂ	ᶢǂqhẽẽ, ᶢǂaʔin	taa, juhoan	21	U+005e U+1da2 U+01c2
+^ᶢǂh	ᶢǂh	ᶢǂhai, ᶢǂhuin	juhoan	2	U+005e U+1da2 U+01c2 U+0068
+^ᶢʘ	ᶢʘ	ᶢʘqai	taa	1	U+005e U+1da2 U+0298
+^ḭ̃	ḭ̃	ḭ̃jausʔu	southernnambikuara	1	U+005e U+1e2d U+0303
+^ṳ$	ṳ	ṳ	taa	2	U+005e U+1e73 U+0024
+^ẽ	ẽ	ẽg, ẽjẽ	amarakaeri, bezhta, waorani, kaingang, northernembera, kiowa, rikbaktsa, tuyuca	24	U+005e U+1ebd
+^ẽ̞	ẽ̞	ẽ̞go̞axaha, ẽ̞pigaxaha	saliba	2	U+005e U+1ebd U+031e
+^ẽẽ	ẽː	ẽẽʔpati	amarakaeri	1	U+005e U+1ebd U+1ebd
+_	_	maa_bimɛ_ji_wɛ, tʃũʔ_n̪d̪iʔĩ_l̪a	chatino, bangime, vietnamese, bankanteydogon, toaripi, thaidialectkorat, whitehmong, kamasau, doromukoki, ambulas, manange, yareba, waorani, seri, rikbaktsa, maybrat, taa, krenak, trumai, warapu, guhusamane, miskito, adyghe, alabama, ninam, juhoan, yagua, terei, tima, mali, mojave, maranunggu, wayuu, pume, rumu, korean, suri, shatt, dadibi, murrinhpatha, tarifit, southeastijo, jamamadi, maasai, mandinka, maxakali, kanuri, grasskoiari, rotokas, tiwi, enapaworomaipu, sarakabanaa, fasu, daga, kaingang, mairasi, kekchi, sumerian	100	U+005f
+_!	_ǃ	koa_!ʔan_ke, ʒu_!kʼxʼa_taʔm_ǀkʼxʼau	juhoan	2	U+005f U+0021
+_$	_	ngawo̞_be̞n_, lɛwd̪a_	ket, quileute, kanuri, achumawi, vietnamese, zarma, amarakaeri, guhusamane, muruihuitoto, swahili, taushiro, imbaburaquechua, lakota, gaam	26	U+005f U+0024
+__	__	monoŋgini__ni, mono__ni	sarakabanaa, hupde	9	U+005f U+005f
+_ᵑ	_ᵑ	ᶢǂqhẽẽ_ᵑǀan, thame̞si_ᵑǁo̞su	taa, sandawe	2	U+005f U+1d51
+_ᵑ!	_ᵑǃ	ᵑ!ani_ku_ᵑ!ani_ku_ᵑ!ani, ᵑ!ani_ku_ᵑ!ani	juhoan	5	U+005f U+1d51 U+0021
+_ᶢ	_ᶢ	o_ᶢǁoʕniᶢ!u	juhoan	1	U+005f U+1da2
+_ᶢ!	_ᶢǃ	ʘaa_ᶢ!a̤o, ʘxaa_ᶢ!a̤o	taa, juhoan	22	U+005f U+1da2 U+0021
+a	NULL	tagarap, ravarav	marind, adyghe, berik, aymara, cofan, rikbaktsa, arabela, murrinhpatha, nakara, ayoreo, kanuri, juhoan, wari, aguaruna, chinook, kunimaipa, enapaworomaipu, cavinena, yagua, wageman, moskona, southernnambikuara, xicotepecdejuareztotonac, tol, ahtena, warapu, shatt, dime, wintu, lakota, bankanteydogon, itelmen, alabama, klamath, tima, panoankatukina, taushiro, imbaburaquechua, takelma, paez, alsea, kayardild, zuni, kamasau, pawnee, alawa, karok, yangman, sahu, mairasi, itonama, bororo, basque, savosavo, tunica, nimboran, yimas, warao, yana, whitehmong, guahibo, deraindonesia, kuot, nunggubuyu, uncunwee, hatam, mojave, atakapa, estonian, mocovi, korean, nezperce, ineseno, amarakaeri, ngarinyin, lavukaleve, yareba, daga	100	U+0061
+a!	aǃ	tzama!kʼxʼui, ᶢ!a!kʼxʼui	juhoan	2	U+0061 U+0021
+a$	a	mona, ariba	mandinka, aymara, ainu, bezhta, baruya, nakara, alabama, candoshishapra, imbaburaquechua, zuni, savosavo, guahibo, copainalazoque, miskito, movima, wayuu, ngarinyin, gumuz, grasskoiari, yagua, cofan, wageman, haidanorthern, moskona, suabo, chatino, tol, gooniyandi, ambulas, tiwi, kwakiutl, swahili, thaidialectkorat, maybrat, gagadu, paez, kayardild, southernpomo, dadibi, katcha, guhusamane, jamamadi, kanuri, ket, berta, itonama, limilngan, toaripi, basque, tunica, yimas, yana, nama, pume, northernembera, southeastijo, yaqui, nunggubuyu, fasu, adyghe, ngarluma, sentani, urarina, karas, atakapa, korean, saliba, kunimaipa, bangime, waris, qawasqar, jarawa, lavukaleve, yamana, enapaworomaipu, lule, cavinena, tuyuca	100	U+0061 U+0024
+aa	aː	ʔwaat̪ɬ̪ʊwaan̪, ʔaa_kaat̪	baruya, haidanorthern, xicotepecdejuareztotonac, ayoreo, nezperce, pawnee, urarina, adyghe, arabela, gagadu, karok, tamil, alabama, klamath, thaidialectkorat, quileute, mojave, ahtena, bangime, southernpomo, oroqen, bari, uduk, shompeng, mongolian, kiowa, paez, yana, alsea, atakapa, burushaski, wayuu, tehuelche, guahibo, northalaskaninupiatun, oneida, rungakibet, yaqui, washo, shasta, bambassi, djingili, nunggubuyu, piraha, berta, swahili, ninam	100	U+0061 U+0061
+aa$	aː	t̪aʈaa, taa	haidanorthern, taa, quileute, wayuu, urarina, bezhta, takelma, yana, kayardild, gaam, coos, thaidialectkorat, arabela, gagadu, andaqui, bangime, pawnee, tamil, sarakabanaa, bari, sanapanaangaite, klamath, tima, yukaghir, maybrat, yele, chatino, mojave, ahtena, guahibo, northalaskaninupiatun, teiwa, guhusamane, yaqui, maasai, shasta, hadza, ayoreo, kwakiutl, tuyuca	100	U+0061 U+0061 U+0024
+aaa	aːa	apaaaxajoo, paaal	guahibo, takelma	3	U+0061 U+0061 U+0061
+aaa$	aːa	ʃuŋbaaa, kumaaa	bari	2	U+0061 U+0061 U+0061 U+0024
+a̤	a̤	ʘaa_ᶢ!a̤o, ʘxaa_ᶢ!a̤o	taa	30	U+0061 U+0324
+a̰	a̰	wa̰nnusu, ta̰ita̰in	southernnambikuara	14	U+0061 U+0330
+a̰$	a̰	ãna̰	southernnambikuara	1	U+0061 U+0330 U+0024
+aᵑ	aᵑ	t̪aᵑǀʔeja	hadza	1	U+0061 U+1d51
+aᵑ!	aᵑǃ	ǂabataᵑ!ang, ᶢ!oʔaᵑ!ang	juhoan	3	U+0061 U+1d51 U+0021
+b	b	wobojæ̃_bãboke, mawu_tɑba	waorani, rikbaktsa, whitehmong, tuyuca, amarakaeri, alawa, zarma, yareba, cavinena, greatandamanese, alabama, berta, urarina, cofan, wageman, tima, seediq, odoodee, japanese, georgian, dadibi, ambulas, bankanteydogon, tamil, karas, itonama, meriam, bororo, muinane, quileute, basque, yawa, gagadu, mali, moseten, timucua, arapaho, bangime, kamasau, dime, katcha, sheko, southeastijo, cayuvava, rungakibet, doromukoki, guarani, nakara, kanuri, miskito, ket, yangman, shakacho, ayoreo, piraha, sahu, moro, garrwa, oroqen, sentani	100	U+0062
+b$	b	ndab, ǁoab	nama, dime, shompeng, kamasau, nimboran, huave, hatam, hupde, marind, lakota, djingili, bezhta, washo, meriam, quileute, wintu, piraha, adyghe, sheko, soo, suabo, cuitlatec, estonian, arapaho, bangime, gooniyandi, jarawa, yangman, fur, greatandamanese, oroqen	100	U+0062 U+0024
+bb	bb	abba, djabba	nakara, shakacho, berta, suri, ongota, swedish, tarifit, kanuri, fur, rungakibet, seediq, zarma	55	U+0062 U+0062
+bb$	bb	t̪o̞bb, snabb	nara, tarifit, swedish	3	U+0062 U+0062 U+0024
+bh	bh	qbheni, mbbhege	seediq	2	U+0062 U+0068
+bs	bs	laqi_na_qbsuran, qbsuran_rseno	seediq, moskona, kwakiutl, maybrat, sheko	16	U+0062 U+0073
+bs̪	bs̪	eumbs̪a_ɒβ, t̪e̞mabs̪_o̞mal̪aɾ̪an̪	huave, waris	2	U+0062 U+0073 U+032a
+bw	bw	abwai, njəmbwaaləʔ	baruya, berik, yele, uduk, yaqui, moro, rungakibet	64	U+0062 U+0077
+bʑ$	bʑ	ɕədəbʑ	adyghe	1	U+0062 U+0291 U+0024
+bʒ	bʒ	gwbʒəpx, ʔabʒaan	adyghe	2	U+0062 U+0292
+c	c	khcʔhathel, n̪cuun̪cuu	yele, ngarluma, maung, yuwana, kayardild, greatandamanese, yana, cavinena, limilngan, yimas, tol, maranunggu, muniche, nezperce, ngarinyin, qawasqar, wageman, coos, shompeng, salinan, natchez, hupde, karas, candoshishapra, georgian, kwaza, shatt, jarawa, zarma	100	U+0063
+c$	c	ahic, cic	shatt, nezperce, maung, nivkh, greatandamanese, esselen, coos, ngarinyin, soo, yimas, gumuz, wintu, yagua, wageman, nivacle, tol, hupde, hruso, rungakibet, karok	100	U+0063 U+0024
+cc	cc	icci, ʔaccit̪	shasta, limilngan, greatandamanese	17	U+0063 U+0063
+cc$	cc	ʊɳʊɳɪcc, lɪɲaŋɪcc	limilngan	2	U+0063 U+0063 U+0024
+ch	ch	ʔun̪chʔajaun̪a, wiichutchʔawai	yana, swahili, hruso, jarawa, sandawe, whitehmong, natchez, salinan, tol	38	U+0063 U+0068
+ch$	ch	chach, pach	esselen, tol	2	U+0063 U+0068 U+0024
+chw	chw	kichwa	swahili	1	U+0063 U+0068 U+0077
+cs	cs	gicspa	esselen	1	U+0063 U+0073
+cs̪	cs̪	s̪t̪haucs̪a	yana	1	U+0063 U+0073 U+032a
+cw	cw	ʔahcwi, haacwal	yana, nezperce	3	U+0063 U+0077
+cʼ	cʼ	afcʼaɾ, jecʼoj	nisenan, nezperce, qawasqar, wintu, coos, gumuz	22	U+0063 U+02bc
+cʼ$	cʼ	kwacʼ	shasta	1	U+0063 U+02bc U+0024
+cʼcʼ	cʼcʼ	ʔacʼcʼuk	shasta	2	U+0063 U+02bc U+0063 U+02bc
+d	d	maɳdamaɳda, dãdõ_ẽdogadõ	waorani, gooniyandi, djingili, ahtena, tsimshian, rungakibet, doromukoki, yangman, grasskoiari, nunggubuyu, ayoreo, bari, quileute, japanese, hatam, ongota, moseten, suri, amarakaeri, dadibi, katcha, nakara, kanuri, yareba, sahu, wageman, uncunwee, tima, yukaghir, georgian, odoodee, savosavo, mojave, burushaski, kamula, muniche, trumai, saliba, southernpomo, dime, sheko, alawa, washo, zarma, bankanteydogon, mailu, puinave, cavinena, adyghe, karaja, purepecha, berta, itonama	100	U+0064
+d$	d	kid, hʉʉvɵd	swedish, marind, kamasau, soo, estonian, shatt, amarakaeri, hupde, meriam, alawa, kwakiutl, hatam, dime, nivkh, rungakibet, yangman, sheko, shompeng, paez, teiwa, bezhta, moskona, trumai, tsimshian, bangime, kitja, wintu, bambassi, djingili, shakacho, berta	100	U+0064 U+0024
+dd	dd	sodda, gaddaʕuni	ongota, nakara, tarifit, shakacho, dime, katcha, uncunwee, bezhta, shompeng, rungakibet, zarma	41	U+0064 U+0064
+dd$	dd	βədd, rɛdd	swedish, tarifit	3	U+0064 U+0064 U+0024
+dh	dh	wædhɔ, sdheriq	hupde, seediq, hatam, hruso	7	U+0064 U+0068
+ds	dz	ham_hemdsi, hundsiʔ	moseten	2	U+0064 U+0073
+ds$	dz	ads	rungakibet	1	U+0064 U+0073 U+0024
+dw	dw	andwan, sundwan	shatt, katcha	5	U+0064 U+0077
+dʐ	ɖʐ	ndʐe, ndʐɨ	whitehmong	11	U+0064 U+0290
+dʒ	dʒ	eɸedʒa, βadʒɔdʒɔhɔ	achumawi, moskona, cayuvava, sarakabanaa, turkish, bororo, kitja, mairasi, yukaghir, muinane, mocovi, oroqen, cofan, berik, burushaski, mandinka, adyghe, georgian, chatino, southeastijo, abun, hadza, karaja	100	U+0064 U+0292
+dʒ$	dʒ	dʒe̞e̞dʒ, eɸer_edʒ	achumawi, moskona, kitja, adyghe	46	U+0064 U+0292 U+0024
+dʒdʒ	dʒdʒ	jədʒdʒis_n_uma, adʒdʒəɣ	tarifit, shakacho, achumawi	19	U+0064 U+0292 U+0064 U+0292
+dʒh	dʒh	kitadʒhe̞	achumawi	1	U+0064 U+0292 U+0068
+dʒw	dʒw	koʃ_dʒwa_mo	uduk	1	U+0064 U+0292 U+0077
+d̪	d̪	ad̪amand̪a, mad̪umad̪u	kiowa, moro, bororo, turkish, katcha, highlandoaxacachontal, huave, yukaghir, chatino, basque, waris, garrwa, cayuvava, gaam, haidanorthern, thaidialectkorat, whitehmong, ket, sentani, uduk, nimboran, kunimaipa	100	U+0064 U+032a
+d̪$	d̪	ad̪, an̪d̪	gaam, huave, waris, nara, moro, haidanorthern, yukaghir, turkish, kunimaipa, kiowa	51	U+0064 U+032a U+0024
+d̪h	d̪h	in̪d̪hana	waris	1	U+0064 U+032a U+0068
+d̪s	d̪s	kʼãʔn̪d̪sapʼon̪jiɔ	kiowa	1	U+0064 U+032a U+0073
+d̪w	d̪w	in̪d̪wo̞nam, gaməd̪wano	moro, waris	2	U+0064 U+032a U+0077
+d̪ʂh	d̪ʂh	n̪d̪ʂhav, n̪d̪ʂhauv	whitehmong	3	U+0064 U+032a U+0282 U+0068
+e	NULL	tʃeʔeʋe, ieɾnei	georgian, moseten, karas, moskona, halkomelem, maasai, rikbaktsa, suabo, nivacle, arabela, nimboran, trumai, natchez, warapu, highlandoaxacachontal, wappo, ngarinyin, waris, muruihuitoto, jamamadi, bambassi, kuot, ayoreo, ninam, nisenan, yukaghir, bezhta, chipaya, gununakune, meriam, seediq, chatino, japanese, kiowa, allentiac, mojave, timucua, yuracare, cuitlatec, pume, djeoromitxi, rumu, korean, kunimaipa, bamu, amarakaeri, kamasau, hruso, marind, mapudungun, guarani, maxakali, lavukaleve, yangman, grasskoiari, vietnamese, mailu, puinave, yamana, enapaworomaipu, sarakabanaa, daga, moro, kunza	100	U+0065
+e$	e	kawe, laman̪e	bambassi, japanese, northernsierramiwok, timucua, warapu, rumu, zarma, lule, awtuw, yukaghir, muinane, ongota, moseten, kamula, mocovi, natchez, korean, highlandoaxacachontal, bamu, dime, muruihuitoto, guarani, kunza, itonama, soo, juhoan, urarina, yagua, uncunwee, rikbaktsa, berik, movima, atakapa, guahibo, kwaza, kamasau, amarakaeri, warembori, katcha, sheko, abun, oneida, jamamadi, marind, mapudungun, maasai, qawasqar, lakota, grasskoiari, fur, kanoe, shakacho, enapaworomaipu, fasu, cavinena, karaja, waorani, ninam, chinook, tuyuca	100	U+0065 U+0024
+ee	eː	niŋeegeel, xeebɨɨga_meeʔu	ayoreo, muinane, karok, klamath, northernsierramiwok, yukaghir, mocovi, alsea, guahibo, guhusamane, bambassi, swedish, nisenan, xicotepecdejuareztotonac, salinan, gagadu, thaidialectkorat, mongolian, arabela, atakapa, oneida, zarma, tamil, sheko, urarina, uncunwee, shompeng, tuyuca, wappo, gumuz, mailu, greatandamanese, mairasi, ninam	100	U+0065 U+0065
+ee$	eː	tee, nee	nisenan, yukaghir, tamil, yuracare, gagadu, guhusamane, swedish, estonian, guahibo, gumuz, maasai, klamath, uduk, tima, mongolian, taa, movima, bamu, southeastijo, bankanteydogon, karaja, terei, urarina, northernsierramiwok, thaidialectkorat, suabo, arabela, maybrat, alsea, atakapa, bangime, mandinka, lavukaleve, kaluli, chinook, tuyuca	99	U+0065 U+0065 U+0024
+eee	eːe	wainaeeeka, peeebaɾɨto	guahibo	2	U+0065 U+0065 U+0065
+e̞	e̞	kʼe̞kʼe̞le̞n̪e̞, le̞we̞q	ahtena, basque, itelmen, yawa, huave, saliba, wintu, tehuelche, toaripi, yareba, tol, alawa, rotokas, kekchi, bororo, achumawi, yaqui, hadza, nara, savosavo, deraindonesia, kanuri, fasu	100	U+0065 U+031e
+e̞$	e̞	age̞, ate̞	yawa, sandawe, yaqui, toaripi, rotokas, ahtena, saliba, yareba, savosavo, tol, itelmen, bororo, basque, tehuelche, wintu, achumawi, kekchi, chatino, deraindonesia, shasta, hadza, fasu	100	U+0065 U+031e U+0024
+e̞e̞	e̞ː	se̞e̞nu, dʒe̞e̞dʒ	yaqui, tehuelche, wintu, achumawi, yana, kekchi, shasta, sandawe, berta, chatino, rotokas, huave, burushaski, bororo	85	U+0065 U+031e U+0065 U+031e
+e̞e̞$	e̞ː	ǀʔe̞e̞, qe̞e̞	sandawe, achumawi, tehuelche, wintu, chatino, rotokas, yana, itelmen, shasta	43	U+0065 U+031e U+0065 U+031e U+0024
+e̤	e̤	ᵑǀe̤ẽ_teʔẽ	taa	1	U+0065 U+0324
+eⁿ	eⁿ	ɟeɟeⁿm	bankanteydogon	1	U+0065 U+207f
+f	f	tafa, õbafaʔfa	deraindonesia, maybrat, berik, southeastijo, alabama, karok, cofan, dime, mapudungun, moro, swedish, qawasqar, mandinka, toaripi, timucua, katcha, tarifit, doromukoki, zarma, sahu, adyghe, swahili, mairasi, berta, nivacle, salinan, ongota, moseten, muniche, gaam, djeoromitxi, highlandoaxacachontal, nivkh, kanuri, lavukaleve, yamana, kaluli, sheko	100	U+0066
+f$	f	pχwaraɬf, kɯrɯf	maybrat, adyghe, nivkh, mapudungun, kaluli, nivacle, sheko, tarifit, karok, yamana, berik, natchez, gaam, dime, turkish, cuitlatec, esselen, deraindonesia, bambassi, kuot, nara	99	U+0066 U+0024
+ff	ff	kUffŋam, ssnuffa	alabama, fur, tarifit, kitja	8	U+0066 U+0066
+ff$	ff	uff	tarifit	1	U+0066 U+0066 U+0024
+fh	fh	noheʃtʼʃʼe_nava_jifhus	nivacle	1	U+0066 U+0068
+fs	fs	afseɾe	qawasqar	1	U+0066 U+0073
+fs$	fs	arr_nnəfs	tarifit	1	U+0066 U+0073 U+0024
+fw	fw	fofwa, ofwa	berik, urarina, deraindonesia, yamana, esselen	15	U+0066 U+0077
+fʼ	fʼ	d̪ixafʼima_gaʔwi, iʔn̪ofʼguijaʔ	highlandoaxacachontal	4	U+0066 U+02bc
+g	g	nargwaŋga, pagas	dadibi, gununakune, mongolian, kanuri, waorani, mairasi, karas, haidanorthern, meriam, seediq, bororo, muinane, imbaburaquechua, gagadu, mocovi, estonian, tsimshian, nama, bamu, kamasau, shatt, deraindonesia, katcha, amarakaeri, alawa, jarawa, bankanteydogon, djingili, mailu, piraha, yareba, sarakabanaa, daga, bari, terei, turkish, yukaghir, odoodee, chatino, kiowa, berik, hatam, mali, yawa, cuitlatec, garrwa, saliba, gooniyandi, teiwa, waris, hruso, tarifit, abun, gumuz, fur, ayoreo, nunggubuyu, kwakiutl, moro	100	U+0067
+g$	g	ndig, ɲamʊg	nunggubuyu, moskona, soo, juhoan, swedish, shompeng, shatt, hupde, jarawa, yangman, gaam, sheko, mongolian, estonian, aguaruna, waris, washo, hatam, tsimshian, gooniyandi, tarifit, yukaghir, meriam, georgian, amarakaeri, huave, alawa, teiwa, nivkh, djingili, nara, mairasi, oroqen	100	U+0067 U+0024
+gg	gg	ruggitu, agga	warembori, shakacho, gaam, nara, ongota, swedish, yangman, karas, alawa, highlandoaxacachontal, hatam, zarma	26	U+0067 U+0067
+gg$	gg	ɸuɣe_niŋgg, ɛgg	kamasau, swedish	4	U+0067 U+0067 U+0024
+gh	gh	maghasuu, ɕaaghe̞	atakapa, tehuelche	2	U+0067 U+0068
+gs	gs	mgsama, magsut	bari, katcha, seediq	4	U+0067 U+0073
+gw	gw	ŋgwaaigwai, negwam	mairasi, highlandoaxacachontal, kwakiutl, baruya, ambulas, uduk, meriam, berik, yawa, shatt, katcha, tarifit, gumuz, haidanorthern, tsimshian, deraindonesia, adyghe, bororo, hatam, saliba, huave, abun, rungakibet, chatino, dadibi	100	U+0067 U+0077
+gw$	gw	qaamzagw, ʔiitʃagw	adyghe, gumuz	7	U+0067 U+0077 U+0024
+gʃ	gʃ	aɨgʃuu, xɵgʃin̪	bari, mongolian	4	U+0067 U+0283
+gʃ$	gʃ	t̪hegʃ	mongolian	1	U+0067 U+0283 U+0024
+h	h	uhmawano, bɛhɪɪhɪʔ	itonama, warao, estonian, natchez, arapaho, pawnee, urarina, yagua, tunica, moseten, pume, sanapanaangaite, tima, rikbaktsa, southernnambikuara, saliba, kunimaipa, aguaruna, southernpomo, hupde, oneida, jamamadi, guarani, maxakali, lakota, shasta, grasskoiari, ninam, turkish, yuwana, northernsierramiwok, seediq, xicotepecdejuareztotonac, yuracare, movima, trumai, chachi, rumu, korean, suri, kwaza, djeoromitxi, wappo, deraindonesia, hruso, guhusamane, cayuvava, marind, jarawa, puinave, cavinena, karaja, alabama	100	U+0068
+h$	h	maih, hũjʔah	karok, hupde, seediq, tima, paez, wintu, bari, moseten, natchez, juhoan, southernnambikuara, arapaho, wappo, marind, maxakali, karas, uduk, klamath, seri, moskona, haidanorthern, taushiro, takelma, ongota, mojave, movima, cuitlatec, ahtena, tehuelche, tsimshian, zuni, saliba, aguaruna, pawnee, berta	100	U+0068 U+0024
+hh	hh	ʔɔhhɔ, pahhaja	southernpomo, grasskoiari, southernnambikuara, zuni	7	U+0068 U+0068
+hs	hs	ohsiinaa, osnũhsaʔ	oneida, enapaworomaipu, itonama, saliba, southernnambikuara, achumawi	35	U+0068 U+0073
+hs$	hs	tənnahs	coos	1	U+0068 U+0073 U+0024
+hs̪	hs̪	hihs̪iʔjaun̪a, uhs̪i	yana, zuni, wappo, southernpomo	12	U+0068 U+0073 U+032a
+hw	hw	ʌ̃hwatʌ̃, atũhwʌ̃tsjo	oneida, itonama, urarina, wari, mojave, jarawa, paez, yuwana, tima, pawnee, wappo, deraindonesia, hupde, achumawi, korean, chatino, chinook	57	U+0068 U+0077
+hʃ	hʃ	kahʃiʔ, ʔahʃa	wappo, southernpomo	6	U+0068 U+0283
+i	NULL	nim, ŋiɭiwi	quileute, arabela, djingili, itelmen, sumerian, guhusamane, kanuri, rotokas, nisenan, oneida, miskito, nunggubuyu, sanapanaangaite, maung, movima, mocovi, amarakaeri, cayuvava, seri, bezhta, suabo, georgian, ongota, peleata, warapu, shatt, achumawi, rungakibet, washo, lakota, manange, ayoreo, tiwi, kanoe, waorani, moro, alabama, oroqen, uduk, tima, mongolian, muinane, kiowa, takelma, alsea, pawnee, dadibi, katcha, tarifit, nivkh, ninam, kekchi, berta, toaripi, wari, tunica, aguaruna, abun, kuot, ngarluma, kunza, soo, urarina, hatam, moseten, halkomelem, atakapa, chachi, korean, bangime, ngarinyin, muruihuitoto, doromukoki, mapudungun, grasskoiari, lule, cavinena, awtuw, daga, ainu, chayahuita	100	U+0069
+i!	iǃ	ǀkʼxʼai!aʕʔami, phi!ʔise̞e̞	juhoan, sandawe	2	U+0069 U+0021
+i$	i	kʊmʊintʃi, iqsi	yagua, seri, georgian, shatt, achumawi, ambulas, djingili, manange, ayoreo, sheko, gagadu, jamamadi, aguaruna, amarakaeri, daga, bari, terei, bezhta, southernnambikuara, nivacle, arabela, ongota, peleata, warapu, dime, gooniyandi, wintu, guarani, washo, bankanteydogon, tiwi, alabama, sumerian, panoankatukina, muinane, kiowa, taa, northalaskaninupiatun, kamasau, dadibi, katcha, tarifit, yangman, rotokas, mailu, piraha, berta, ninam, toaripi, juhoan, chipaya, japanese, tunica, nimboran, warao, yuracare, whitehmong, pume, deraindonesia, hruso, yaqui, maxakali, shasta, nunggubuyu, chinook, kunza, sanapanaangaite, quileute, halkomelem, mocovi, wayuu, chachi, korean, kunimaipa, ineseno, warembori, kitja, muruihuitoto, cayuvava, doromukoki, maasai, grasskoiari, nara, tuyuca, chayahuita	100	U+0069 U+0024
+ii	iː	tʼʃʼiips̪iit̪, diiraj	haidanorthern, seri, northalaskaninupiatun, thaidialectkorat, alsea, quileute, xicotepecdejuareztotonac, gagadu, pawnee, ayoreo, candoshishapra, northernsierramiwok, muinane, halkomelem, mojave, burushaski, guahibo, achumawi, yaqui, jarawa, karok, shasta, fur, bankanteydogon, piraha, alabama, swedish, klamath, tima, chipaya, seediq, arabela, takelma, paez, taa, atakapa, kayardild, ahtena, wayuu, zuni, chachi, bangime, aguaruna, wappo, teiwa, guhusamane, wintu, rungakibet, washo, tamil, nunggubuyu, greatandamanese, berta, sheko	100	U+0069 U+0069
+ii$	iː	kii, nii	haidanorthern, bangime, takelma, mojave, bari, piraha, tima, thaidialectkorat, japanese, xicotepecdejuareztotonac, gumuz, bankanteydogon, klamath, uduk, yukaghir, chatino, yuracare, yana, andaqui, wayuu, northalaskaninupiatun, ayoreo, karaja, tuyuca, seri, northernsierramiwok, chipaya, kiowa, yawa, nimboran, taa, halkomelem, ahtena, trumai, chachi, guahibo, aguaruna, pawnee, teiwa, southeastijo, maasai, washo, kanuri, shakacho, sarakabanaa, swahili, oroqen, gaam	100	U+0069 U+0069 U+0024
+iii	iːi	tʼaxiiit	quileute	1	U+0069 U+0069 U+0069
+iii$	iːi	waliii, kaiii	bari, piraha, northernsierramiwok	3	U+0069 U+0069 U+0069 U+0024
+iiii	iːiː	ɬkwiiiiʔntɕinɕt	alsea	1	U+0069 U+0069 U+0069 U+0069
+iiii$	iːiː	bibiiii	bari	1	U+0069 U+0069 U+0069 U+0069 U+0024
+i̪	i̪	ti̪f	gaam	1	U+0069 U+032a
+iᵑ	iᵑ	hiᵑǁa	sandawe	1	U+0069 U+1d51
+iᶢ!	iᶢǃ	o_ᶢǁoʕniᶢ!u	juhoan	1	U+0069 U+1da2 U+0021
+iⁿ$	iⁿ	ziiⁿ, suziⁿ	bankanteydogon	3	U+0069 U+207f U+0024
+j	j	ijikhaʔjɛɲɛ, thɪjajʔdʊʔwa	cofan, yagua, nivacle, nezperce, southernpomo, tiwi, waorani, sanapanaangaite, tima, paez, moseten, halkomelem, zuni, baruya, amarakaeri, hupde, nakara, lakota, puinave, cavinena, awtuw, adyghe, urarina, turkish, wageman, gununakune, panoankatukina, bezhta, lencasalvador, muinane, kiowa, tunica, gagadu, yimas, yana, mojave, kayardild, ahtena, maranunggu, tehuelche, wayuu, djeoromitxi, suri, bangime, shatt, wappo, kitja, katcha, alawa, ngarinyin, northernembera, hruso, yaqui, jarawa, karok, maxakali, aymara, yangman, ambulas, nunggubuyu, shakacho, enapaworomaipu, yareba, sarakabanaa, kaluli, ngarluma, fasu, mairasi, ninam, oroqen	100	U+006a
+j$	j	bukuj, iisalj	mojave, imbaburaquechua, hupde, vietnamese, yagua, nisenan, huave, haidanorthern, paez, tsimshian, nezperce, awtuw, sentani, klamath, uncunwee, yukaghir, nivacle, seediq, quileute, highlandoaxacachontal, suri, shatt, amarakaeri, copainalazoque, maxakali, bankanteydogon, kanoe, urarina, swedish, gununakune, bezhta, hatam, gagadu, maranunggu, tehuelche, southernpomo, dime, oneida, achumawi, wintu, qawasqar, karok, tamil, djingili, ayoreo, kaingang	100	U+006a U+0024
+jh	jh	ʔɪjha, iʃjhup	paez, wappo, alabama, southernpomo, urarina, hupde, cuitlatec, oneida, natchez, ainu	14	U+006a U+0068
+jh$	jh	pɛ̃tjh	paez	1	U+006a U+0068 U+0024
+jj	jj	nkapijjo, apujja	maasai, alabama, northernsierramiwok, tarifit, tamil, zuni, amarakaeri, fur, ongota, huave, dime, swedish, bankanteydogon, achumawi, nivacle, suri, southernpomo, zarma	100	U+006a U+006a
+jjj	jjj	bjjjkbaba, bjjjmɛk	turkish	4	U+006a U+006a U+006a
+jjj$	jjj	kʊʃ_t̪jjj	turkish	1	U+006a U+006a U+006a U+0024
+js	js	mosu_ojsura, ekok_ojsura	moskona, halkomelem, swedish, klamath, nisenan, lule, tsimshian, mongolian, imbaburaquechua, aymara, sheko	18	U+006a U+0073
+js$	js	pjs, lothnjs	klamath, turkish, lule, mongolian, sheko	6	U+006a U+0073 U+0024
+jss$	jss	pʼajss	klamath	1	U+006a U+0073 U+0073 U+0024
+js̪	js̪	ɢaal̪gaajs̪ii	haidanorthern	1	U+006a U+0073 U+032a
+js̪$	js̪	maʔhajs̪	wappo	1	U+006a U+0073 U+032a U+0024
+jw	jw	ejwe, kajwi	awtuw, yimas, yele, amarakaeri, nunggubuyu, klamath, ngarinyin, coos, haidanorthern, achumawi, tehuelche, yaqui, aymara, shasta, southernpomo	33	U+006a U+0077
+jɕ	jɕ	paɬkjɕt, hakjaiiʔkjɕloo	alsea	3	U+006a U+0255
+jʃ	jʃ	d̪jʃjn̪mɛk, kʔujʃi	turkish, nivacle, paez, lencasalvador, karok	7	U+006a U+0283
+jʃ$	jʃ	tʃjrjmjʃ, lajʃ	coos, turkish, chipaya	3	U+006a U+0283 U+0024
+j̃	j̃	nukwa_taɾaj̃anu, taɾaj̃anu	arabela, bankanteydogon, moseten	82	U+006a U+0303
+j̃$	j̃	ɟɛmɛj̃, dɔj̃ɔj̃	bankanteydogon, arabela	15	U+006a U+0303 U+0024
+j̊$	j̊	kʼoj̊	klamath	1	U+006a U+030a U+0024
+j̊s$	j̊s	mʔaj̊s	klamath	1	U+006a U+030a U+0073 U+0024
+j̰	j̰	waapcɪj̰awca, waj̰at	nezperce	4	U+006a U+0330
+j̰s$	j̰s	ʔæj̰s	nezperce	1	U+006a U+0330 U+0073 U+0024
+k	k	nokɬikiitʃa, ikokoida	sanapanaangaite, nezperce, maasai, lakota, ngarluma, alabama, mali, warao, krenak, maranunggu, warapu, saliba, copainalazoque, oneida, nakara, yaqui, miskito, mailu, itelmen, enapaworomaipu, waorani, ainu, bari, juhoan, urarina, turkish, seri, rikbaktsa, candoshishapra, yukaghir, thaidialectkorat, panoankatukina, sulka, nivacle, arabela, xicotepecdejuareztotonac, japanese, imbaburaquechua, paez, moseten, taa, movima, timucua, atakapa, kayardild, andaqui, trumai, wayuu, natchez, guahibo, baruya, aguaruna, korean, pawnee, kitja, murrinhpatha, nivkh, jamamadi, muruihuitoto, qawasqar, mapudungun, mandinka, cayuvava, karok, aymara, ambulas, bambassi, rotokas, yamana, fasu, itonama, chayahuita	100	U+006b
+k$	k	epepoteptk, tuʔk	tima, sanapanaangaite, krenak, mocovi, nivkh, rikbaktsa, maung, tehuelche, maxakali, puinave, chinook, seri, nivacle, maybrat, allentiac, mojave, estonian, maranunggu, tsimshian, nezperce, northalaskaninupiatun, hupde, copainalazoque, murrinhpatha, shasta, kekchi, soo, karas, klamath, gununakune, sulka, seediq, xicotepecdejuareztotonac, imbaburaquechua, mali, atakapa, burushaski, natchez, highlandoaxacachontal, aguaruna, pawnee, huave, dime, teiwa, waris, oneida, wintu, rungakibet, marind, yaqui, karok, kuot, vietnamese, enapaworomaipu, greatandamanese, ninam, sumerian	100	U+006b U+0024
+kh	kʰ	mkhlavi, jekhɾnakhe	awtuw, tunica, cofan, yana, sanapanaangaite, georgian, salinan, doromukoki, lavukaleve, swedish, pume, wappo, greatandamanese, alabama, sandawe, paez, tol, korean, saliba, manange, klamath, rikbaktsa, thaidialectkorat, haidanorthern, seediq, ahtena, southernpomo, guhusamane, lakota, aymara, chinook, sumerian	100	U+006b U+0068
+kh$	kʰ	makh, chikh	awtuw, klamath, salinan, korean, wappo, swedish, tol, uduk, ahtena, paez, haidanorthern, kaluli, achumawi, allentiac	83	U+006b U+0068 U+0024
+khh	khh	rikhhu, thʃhikhhi	tunica	2	U+006b U+0068 U+0068
+khkh	kʰkʰ	ʔakhkhaan̪a, mʊkhkhatʼ	southernpomo	4	U+006b U+0068 U+006b U+0068
+khs	khs	lapkhsephth, ntankhsephth	klamath, paez, swedish	5	U+006b U+0068 U+0073
+khs$	khs	lokhs, thopakhs	klamath, swedish	5	U+006b U+0068 U+0073 U+0024
+khs̪	khs̪	n̪okhs̪ækui	korean	1	U+006b U+0068 U+0073 U+032a
+khw	khw	aikhwaʈə, lukhwo	awtuw, jarawa, hadza, kwakiutl, oneida, chinook, takelma	29	U+006b U+0068 U+0077
+khw$	khw	khalakhw, phumphum_ɾokhw	awtuw	3	U+006b U+0068 U+0077 U+0024
+khʃ	khʃ	laphajkhʃa, mekhʃiʔ	salinan, wappo	2	U+006b U+0068 U+0283
+kk	kk	nmakkukka, ʔukkusu	limilngan, northernsierramiwok, nakara, alabama, yaqui, fur, ongota, kuot, zuni, amarakaeri, tamil, shakacho, ainu, nisenan, nara, seri, bezhta, chipaya, southernnambikuara, shompeng, nivacle, seediq, japanese, estonian, maranunggu, northalaskaninupiatun, dime, murrinhpatha, rungakibet, shasta, kanuri	100	U+006b U+006b
+kk$	kk	dawikk, maŋi_ŋilɪʊkalkk	limilngan, fur, estonian, tarifit	33	U+006b U+006b U+0024
+ks	ks	makstiʔnaʔx, sæksk	pawnee, chinook, estonian, nezperce, alabama, turkish, northernsierramiwok, tsimshian, copainalazoque, lule, maybrat, xicotepecdejuareztotonac, moseten, sanapanaangaite, paez, hruso, oneida, miskito, gununakune, moskona, quileute, imbaburaquechua, berik, allentiac, mojave, yuracare, northalaskaninupiatun, achumawi, ambulas, puinave	100	U+006b U+0073
+ks$	ks	tiwatsiɾiks, tʃiks	pawnee, tsimshian, estonian, klamath, copainalazoque, atakapa, chinook, lule, oneida, qawasqar, quileute, nezperce	42	U+006b U+0073 U+0024
+ks̪	ks̪	haks̪æm, liks̪i	ket, yana, chipaya	4	U+006b U+0073 U+032a
+ks̪$	ks̪	ɔks̪, muks̪	ket, chipaya	2	U+006b U+0073 U+032a U+0024
+kw	kʷ	n̪kwɔn̪kwɔ, ukwa	movima, arabela, cavinena, oneida, purepecha, yuwana, sanapanaangaite, paez, alsea, timucua, andaqui, hadza, quileute, chatino, chinook, yele, natchez, zuni, gumuz, kanoe, tiwi, haidanorthern, southernnambikuara, takelma, mojave, maranunggu, amarakaeri, deraindonesia, katcha, abun, achumawi, bambassi, ambulas, enapaworomaipu, adyghe	100	U+006b U+0077
+kw$	kʷ	kaʃakw, itjũkwahkw	seri, arabela, takelma, halkomelem, gumuz, tsimshian, quileute, oneida, purepecha	19	U+006b U+0077 U+0024
+kwkw	kʷkʷ	n̪an̪a_kwkwl̪a, phukwkwa	purepecha	2	U+006b U+0077 U+006b U+0077
+kws	kws	ɑkwsχɑx	seri	1	U+006b U+0077 U+0073
+kws$	kws	tθʼookws	halkomelem	1	U+006b U+0077 U+0073 U+0024
+kɕ	kɕ	ɕokɕooɕ	atakapa	1	U+006b U+0255
+kɕ$	kɕ	tɬakɕ	atakapa	1	U+006b U+0255 U+0024
+kʃ	kʃ	ntakʃitʃʔa, lekʃi	lakota, oroqen, nivacle, northalaskaninupiatun, xicotepecdejuareztotonac, natchez, karok, takelma, turkish, copainalazoque, yamana, hruso, zuni, bambassi, ninam, chinook	41	U+006b U+0283
+kʃ$	kʃ	ɑʃkʃ, tikʃ	chipaya, seri, cuitlatec, natchez, chinook, ineseno	10	U+006b U+0283 U+0024
+kʃh	kʃh	helekʃhen	natchez	1	U+006b U+0283 U+0068
+kʼ	kʼ	e̞t̪ʼn̪kʼn̪, ʒikʼnʒikʼn	kunza, bambassi, itelmen, nisenan, itonama, sandawe, zuni, taa, ahtena, tehuelche, tsimshian, juhoan, bezhta, georgian, southernpomo, adyghe, sheko, klamath, haidanorthern, highlandoaxacachontal, dime, washo, berta, kekchi, coos, quileute, nezperce, ineseno, aymara, shasta, chinook	100	U+006b U+02bc
+kʼ$	kʼ	ɬgææwkʼ, tʃoʔotskʼ	itelmen, sheko, takelma, nisenan, highlandoaxacachontal, kekchi, klamath, quileute, tehuelche, tsimshian, qawasqar, uduk, georgian, ahtena, washo, bezhta, ineseno, bambassi, adyghe, chinook, coos, nezperce, southernpomo, dime, gumuz, shasta, kunza	98	U+006b U+02bc U+0024
+kʼkʼ	kʼkʼ	ʔappakikʼkʼaʔ, e̞e̞tʃa_e̞he̞e̞wit̪uk_xukʼkʼa_kʼe̞he̞e̞haaʔ	shasta, kunza	8	U+006b U+02bc U+006b U+02bc
+kʼkʼ$	kʼkʼ	ləkʼkʼ	dime	1	U+006b U+02bc U+006b U+02bc U+0024
+kʼs	kʼs	sekʼstʼʃʼaɾ, lakʼsi	kunza	2	U+006b U+02bc U+0073
+kʼs$	kʼs	nkhililkʼs, itʼʃʼansikʼs	kunza, klamath	4	U+006b U+02bc U+0073 U+0024
+kʼw	kʼw	kʼwokʼwes, xixkʼwoom	halkomelem, adyghe, gumuz, tsimshian, zuni, shasta	18	U+006b U+02bc U+0077
+kʼw$	kʼw	θekʼw, xwixwekʼw	halkomelem, adyghe, haidanorthern	6	U+006b U+02bc U+0077 U+0024
+l	l	xilaxila, kulala	peleata, georgian, kamula, suri, ineseno, kwakiutl, limilngan, karas, tima, northernsierramiwok, southernnambikuara, xicotepecdejuareztotonac, salinan, esselen, northalaskaninupiatun, kitja, katcha, alawa, ngarinyin, mandinka, itelmen, yamana, greatandamanese, alabama, berta, oroqen, sanapanaangaite, klamath, wageman, nisenan, odoodee, quileute, takelma, mali, maung, alsea, cuitlatec, kayardild, mocovi, tsimshian, natchez, chachi, kunza, guahibo, nezperce, dadibi, southeastijo, nivkh, oneida, achumawi, wintu, yaqui, aymara, kanuri, yangman, zarma, ambulas, hadza, fur, tamil, manange, nunggubuyu, lule, sentani, ngarluma, moro, itonama	100	U+006c
+l$	l	kal, hal	kekchi, atakapa, itelmen, uncunwee, korean, ineseno, wintu, greatandamanese, yukaghir, lencasalvador, maung, burushaski, natchez, alawa, wageman, tima, halkomelem, estonian, esselen, lavukaleve, yangman, tamil, gaam, sumerian, limilngan, karas, swedish, nisenan, bezhta, sulka, seediq, berik, gagadu, takelma, ongota, taa, maranunggu, tsimshian, shatt, ngarinyin, nivkh, achumawi, qawasqar, bambassi, ambulas, kuot, nunggubuyu, awtuw, chinook, berta	100	U+006c U+0024
+lh	lh	onũlha, kilhalhʔu	oneida, southernnambikuara, alabama, alsea, shompeng, korean, bambassi, hruso, tsimshian, natchez, zuni	54	U+006c U+0068
+lh$	lh	elh, alh	achumawi, oneida	2	U+006c U+0068 U+0024
+ll	ll	kulle, kello	northernsierramiwok, saliba, katcha, fur, shakacho, swedish, halkomelem, suri, northalaskaninupiatun, tamil, alabama, bezhta, quileute, kanuri, klamath, highlandoaxacachontal, korean, nezperce, achumawi, jarawa, zarma, greatandamanese, oroqen, nisenan, coos, yukaghir, sulka, ongota, atakapa, estonian, dime, yaqui, hadza, lule, berta	100	U+006c U+006c
+ll$	ll	lell, khall	estonian, swedish, taa, ngarinyin	12	U+006c U+006c U+0024
+ls	ls	ejxjolseles, matawolsip_pura_wol	miskito, kwakiutl, qawasqar, ineseno, nivkh, awtuw, tsimshian, highlandoaxacachontal, esselen, yawa	14	U+006c U+0073
+ls$	ls	dɪduuls, paals	tsimshian, halkomelem, swedish, takelma	8	U+006c U+0073 U+0024
+lw	lw	apkitka_ankilwana, ʃthelwaʔ	sanapanaangaite, nunggubuyu, awtuw, moro, wageman, tima, coos, salinan, highlandoaxacachontal, ngarinyin, limilngan, uncunwee, gagadu, allentiac, kayardild, maranunggu, tsimshian, nezperce, shatt, deraindonesia, achumawi, miskito, itelmen, garrwa	40	U+006c U+0077
+lɕ	lɕ	kʊlɕa, pilɕkwiiʔɕt	atakapa, alsea	10	U+006c U+0255
+lʃ	lʃ	galʃan̪s, wexlʃi	highlandoaxacachontal, chipaya, lencasalvador, bambassi, kunza	7	U+006c U+0283
+lʃ$	lʃ	xulʃ, χalʃ	chipaya	2	U+006c U+0283 U+0024
+lʒ	lʒ	polʒiçø	yukaghir	1	U+006c U+0292
+l̥	l̥	ʔɛl̥ɛl̥iʔ, daʔil̥ʔmol̥ʔmol̥i	washo, klamath	50	U+006c U+0325
+l̥$	l̥	atʃhkaal̥, ʔɛl̥ɛl̥	washo, klamath	20	U+006c U+0325 U+0024
+l̥ʃ	l̥ʃ	gɛl̥ʃɨm	washo	1	U+006c U+0325 U+0283
+l̪	l̪	eŋgl̪a, kal̪u	turkish, yana, wappo, waris, toaripi, chatino, tehuelche, basque, haidanorthern, tol, huave, mapudungun, thaidialectkorat, southernpomo, kiowa, zuni, kunimaipa, nara, whitehmong, ngarluma	100	U+006c U+032a
+l̪$	l̪	ko̞l̪, n̪ajal̪	waris, yana, kiowa, turkish, haidanorthern, basque, tol, huave, nara, tehuelche, wappo, mapudungun, toaripi, southernpomo	100	U+006c U+032a U+0024
+l̪h	l̪h	aɾ̪al̪haba, al̪haba	basque, southernpomo, wappo, waris	14	U+006c U+032a U+0068
+l̪l̪	l̪l̪	bal̪l̪a, tal̪l̪a	yana, nara, zuni, southernpomo, waris, turkish	29	U+006c U+032a U+006c U+032a
+l̪s̪	l̪s̪	til̪s̪i, dul̪s̪eʔ	yana, wappo	3	U+006c U+032a U+0073 U+032a
+l̪w	l̪w	wo̞l̪wo̞l̪, al̪wɯʃ	huave, nara	2	U+006c U+032a U+0077
+l̰	l̰	wæl̰æjkʼɪpæ	nezperce	1	U+006c U+0330
+m	m	amɔmɔɺʔia, amumui	kaingang, moskona, georgian, bankanteydogon, gagadu, mali, alsea, southernpomo, kamasau, alawa, guhusamane, jamamadi, ninam, wari, yuracare, deraindonesia, copainalazoque, sentani, mojave, wayuu, ainu, wageman, bezhta, nivacle, suri, nakara, guarani, zarma, itelmen, alabama, oroqen, thaidialectkorat, yukaghir, yele, imbaburaquechua, allentiac, yawa, cuitlatec, kayardild, kamula, muniche, zuni, karok, mandinka, kanuri, yangman, shakacho, kaluli, garrwa, itonama, limilngan, toaripi, nisenan, bororo, yimas, rumu, guahibo, northernembera, southeastijo, yaqui, bambassi, fasu, adyghe, sanapanaangaite, maung, moseten, timucua, chachi, bangime, amarakaeri, wappo, kitja, ngarinyin, cayuvava, aymara, puinave, lule, purepecha	100	U+006d
+m!	mǃ	ʃom!o	juhoan	1	U+006d U+0021
+m$	m	arm, nim	puinave, swedish, nisenan, aguaruna, abun, ninam, seri, sulka, meriam, allentiac, yawa, nezperce, kitja, waris, karas, hatam, moseten, atakapa, tsimshian, katcha, yaqui, karok, kuot, tamil, bankanteydogon, juhoan, klamath, georgian, maybrat, chinook, kiowa, sandawe, mali, mojave, halkomelem, mocovi, estonian, whitehmong, tehuelche, esselen, hupde, copainalazoque, nivkh, gumuz, achumawi, marind, mapudungun, maxakali, kanuri, greatandamanese, adyghe, awtuw, mairasi, sumerian	100	U+006d U+0024
+mh	mh	ɬguɬgmhænæʔæ, ɟʔɔmham	maxakali, tsimshian, hupde, sanapanaangaite, krenak, washo, korean, moskona, tehuelche, natchez, karok, ninam, kiowa, southernpomo, allentiac	24	U+006d U+0068
+mh$	mh	ǀkʼxʼoromh	juhoan	1	U+006d U+0068 U+0024
+mm	mm	t̪ɨmmalɨ, gammal	northernsierramiwok, nama, swedish, southernpomo, estonian, shakacho, seediq, northalaskaninupiatun, dime, tarifit, maxakali, shasta, alabama, uncunwee, halkomelem, movima, zuni, achumawi, nara, kunza, sumerian, wageman, uduk, turkish, coos, bezhta, highlandoaxacachontal, esselen, bangime, bambassi, bankanteydogon, tamil, moro	100	U+006d U+006d
+mm$	mm	thʊmm, fɛmm	swedish, achumawi, juhoan	10	U+006d U+006d U+0024
+ms	ms	yamsi, kimsa	miskito, qawasqar, aymara, klamath, northernsierramiwok, moskona, mongolian, seediq, imbaburaquechua, salinan, berik, sandawe, taa, tsimshian, nezperce, dime, hruso, nivkh, rungakibet, kwakiutl, kekchi, gaam, sumerian	30	U+006d U+0073
+ms$	ms	cams, mɔɔms	qawasqar, tsimshian, nama, atakapa, kwakiutl	9	U+006d U+0073 U+0024
+ms̪	ms̪	xims̪xin̪, n̪æms̪ærɯl_matht̪a	yana, itelmen, karok, korean, chatino	9	U+006d U+0073 U+032a
+ms̪w	ms̪w	s̪ums̪wit̪a	korean	1	U+006d U+0073 U+032a U+0077
+mw	mw	amwi, nəmwai	baruya, uduk, tiwi, berik, mapudungun, alsea, manange, rikbaktsa, awtuw, swahili, moro	31	U+006d U+0077
+mw$	mw	ɾam_omw	awtuw	1	U+006d U+0077 U+0024
+mɕ$	mɕ	hakjiʔmɕ, o̞mɕ	tehuelche, alsea	2	U+006d U+0255 U+0024
+mʃ	mʃ	ʃɪmʃɛk, hamʃu	turkish, seri, candoshishapra, kekchi, sheko	5	U+006d U+0283
+m̥	m̥	oo_m̥aɾa_m̥aɾa, tʃom̥aɾa_ihi_jim̥anuɲaai	ayoreo, washo, klamath, whitehmong	20	U+006d U+0325
+m̰	m̰	taam̰am, ʔæχɪm̰ɪl	nezperce	5	U+006d U+0330
+m̰$	m̰	hɪm̰	nezperce	1	U+006d U+0330 U+0024
+n	n	jenkina, wune_namb	alawa, candoshishapra, arabela, jarawa, yamana, juhoan, yawa, chachi, suri, guahibo, amarakaeri, kamasau, oneida, maasai, maxakali, zarma, lavukaleve, nunggubuyu, enapaworomaipu, kunza, klamath, nisenan, wari, bezhta, moskona, chipaya, maybrat, taushiro, imbaburaquechua, xicotepecdejuareztotonac, chinook, berik, yimas, ongota, moseten, yuracare, movima, atakapa, kayardild, mocovi, maranunggu, trumai, wayuu, natchez, djeoromitxi, saliba, baruya, esselen, ineseno, katcha, gooniyandi, ngarinyin, copainalazoque, waris, abun, muruihuitoto, wintu, marind, aymara, bambassi, kanuri, lakota, puinave, mailu, tiwi, lule, cavinena, kekchi, ngarluma, mairasi, berta, ainu, itonama, chayahuita	100	U+006e
+n$	n	tan, ǂʔhan	xicotepecdejuareztotonac, juhoan, adyghe, karas, krenak, northalaskaninupiatun, yangman, kuot, enapaworomaipu, daga, chayahuita, sanapanaangaite, wageman, ainu, nisenan, yukaghir, yawa, maung, yimas, takelma, burushaski, tsimshian, shatt, ngarinyin, teiwa, tarifit, miskito, oroqen, bari, wari, bezhta, taushiro, hatam, berik, atakapa, trumai, wayuu, warapu, nezperce, bangime, aguaruna, dime, copainalazoque, murrinhpatha, southeastijo, wintu, maasai, jarawa, maxakali, kanuri, zarma, bambassi, nunggubuyu, yamana, mairasi, kekchi, sheko	100	U+006e U+0024
+nh	nh	inha, tanhaai	taushiro, southernnambikuara, shompeng, oneida, aguaruna, hupde, puinave, alabama, sanapanaangaite, alsea, muniche, wayuu, natchez, sulka, moseten, alawa, tarifit, jarawa, maxakali	61	U+006e U+0068
+nh$	nh	gununh	cuitlatec	1	U+006e U+0068 U+0024
+nn	nn	kunnɛ, pannɨ	baruya, ainu, northernsierramiwok, nisenan, northalaskaninupiatun, alabama, kunza, terei, swedish, coos, gununakune, southernnambikuara, movima, tarifit, maxakali, shakacho, berik, maranunggu, nama, amarakaeri, katcha, kanuri, zarma, bankanteydogon, greatandamanese, limilngan, wageman, seediq, japanese, ongota, estonian, chachi, guahibo, kwaza, dime, fur, tamil, djingili, yareba, chinook, berta	100	U+006e U+006e
+nn$	nn	ʍɪnn, mɵnn	swedish, ahtena, dime	7	U+006e U+006e U+0024
+ns	ns	katḛnsu, jɨnsɨn	southernnambikuara, bambassi, yawa, chayahuita, zarma, juhoan, yagua, sanapanaangaite, berik, yuracare, movima, atakapa, ahtena, warembori, miskito, fur, enapaworomaipu, daga, kaingang, mairasi, karas, swedish, uduk, northernsierramiwok, maybrat, salinan, hatam, ongota, taa, cuitlatec, tsimshian, arapaho, chachi, dime, hruso, tarifit, mandinka, aymara, kwakiutl, kunza	82	U+006e U+0073
+ns$	ns	tens, kʼaɾns	atakapa, sheko, bambassi, swedish, tsimshian, qawasqar, nama	27	U+006e U+0073 U+0024
+nss	nss	lnssakkeenu	northernsierramiwok	1	U+006e U+0073 U+0073
+ns̪	ns̪	kins̪aqalku	chipaya	1	U+006e U+0073 U+032a
+nw	nw	pəxə_pɔnwan, jɨknwun	shatt, ambulas, sanapanaangaite, enapaworomaipu, kaingang, yimas, southeastijo, chayahuita, movima, puinave, kwakiutl, wayuu, moro, maybrat, taushiro, kwaza	43	U+006e U+0077
+nw$	nw	tʃhonw, ponw	klamath	2	U+006e U+0077 U+0024
+nɕ	nɕ	mətɕaʔntɕinɕt, ɬkwiiiiʔntɕinɕt	alsea	3	U+006e U+0255
+nɕ$	nɕ	nuunɕ	alsea	1	U+006e U+0255 U+0024
+nʂ$	nʂ	ʂoʂknʂ	sheko	1	U+006e U+0282 U+0024
+nʃ	nʃ	panʃika_ʔajiʔ, inʃinan_kɨɾan	tarifit, wari, bari, seri, krenak, esselen, candoshishapra, wayuu, nivacle, natchez, berta, kekchi, chayahuita	15	U+006e U+0283
+nʃ$	nʃ	phalanʃ, thonʃ	chipaya, takelma, sheko	8	U+006e U+0283 U+0024
+nʒ	nʒ	θaħənʒiaθ, aħənʒia	tarifit, sheko	3	U+006e U+0292
+n̥	n̥	aan̥ame, in̥oŋama	ayoreo, klamath	45	U+006e U+0325
+n̪	n̪	jan̪ɯn̪d̪a, laman̪e	turkish, tehuelche, itelmen, yana, rumu, haidanorthern, mongolian, yele, highlandoaxacachontal, korean, huave, sentani, chatino, nimboran, zuni, achumawi, mapudungun, shasta, bororo, tol, waris, ket, vietnamese, hadza, garrwa, basque, whitehmong, southernpomo, deraindonesia, nara, purepecha	100	U+006e U+032a
+n̪!	n̪ǃ	han̪!a	hadza	1	U+006e U+032a U+0021
+n̪$	n̪	e̞t̪ʼn̪kʼn̪, kan̪	tehuelche, basque, huave, korean, mongolian, vietnamese, turkish, itelmen, thaidialectkorat, mapudungun, haidanorthern, ket, kiowa, achumawi, karok, murrinhpatha, southernpomo, nimboran	100	U+006e U+032a U+0024
+n̪h	n̪h	abe̞n̪ho̞, an̪hatapu	nara, purepecha, korean, kiowa, southernpomo, karok	20	U+006e U+032a U+0068
+n̪n̪	n̪n̪	kan̪n̪a, s̪on̪n̪jeo	yana, turkish, shasta, zuni, korean, highlandoaxacachontal, nimboran, itelmen, nara, southernpomo	43	U+006e U+032a U+006e U+032a
+n̪n̪$	n̪n̪	e̞l̪kʼn̪n̪, t̪ʼal̪e̞ʔn̪n̪	tehuelche, achumawi	6	U+006e U+032a U+006e U+032a U+0024
+n̪s	n̪s	pʼɔ̃n̪sẽĩ, ad̪an̪ska	kiowa, mongolian, turkish, highlandoaxacachontal	5	U+006e U+032a U+0073
+n̪s$	n̪s	galʃan̪s, un̪s	highlandoaxacachontal, achumawi, mongolian	5	U+006e U+032a U+0073 U+0024
+n̪s̪	n̪s̪	n̪en̪s̪kiŋ, mon̪s̪eʔ	haidanorthern, ket, nimboran, karok, wappo, itelmen	21	U+006e U+032a U+0073 U+032a
+n̪s̪$	n̪s̪	ʔwaad̪uwaan̪s̪	haidanorthern	1	U+006e U+032a U+0073 U+032a U+0024
+n̪w	n̪w	adʒun̪wi, əmun̪wi	achumawi, mapudungun, yele	10	U+006e U+032a U+0077
+n̪ɕ$	n̪ɕ	t̪ʼe̞e̞n̪ɕ	tehuelche	1	U+006e U+032a U+0255 U+0024
+n̪ʃ	n̪ʃ	ɬon̪ʃaxmaʔ, hĩ_n̪ʃkã	highlandoaxacachontal, chatino	5	U+006e U+032a U+0283
+n̪̥	n̪̥	ɳɖuə_n̪̥u	whitehmong	1	U+006e U+032a U+0325
+n̪̰	n̪̰	hæælæækɪn̪̰ɪkæ, kæætwæn̪̰æsɪn̪̰	nezperce	4	U+006e U+032a U+0330
+n̪̰$	n̪̰	kæætwæn̪̰æsɪn̪̰, hɪn̪̰	nezperce	4	U+006e U+032a U+0330 U+0024
+nᵑ	nⁿ	ᵑǀoʕnᵑǀoʕni	juhoan	1	U+006e U+1d51
+nᵑ!	nᵑǃ	dinᵑ!ang	juhoan	1	U+006e U+1d51 U+0021
+o	NULL	wobojæ̃_bãboke, ikokoida	korean, cofan, candoshishapra, allentiac, mocovi, cavinena, waorani, bari, juhoan, klamath, seediq, quileute, moseten, kamula, jamamadi, qawasqar, mailu, ayoreo, lule, awtuw, alabama, mairasi, tuyuca, kunza, yuwana, nisenan, thaidialectkorat, northernsierramiwok, itonama, sulka, southernnambikuara, nivacle, georgian, maybrat, chinook, japanese, lencasalvador, yuracare, movima, estonian, whitehmong, wayuu, warapu, nama, rumu, kunimaipa, esselen, warembori, dime, hupde, nivkh, gumuz, doromukoki, maasai, jarawa, mapudungun, maxakali, lakota, bankanteydogon, puinave, fasu, greatandamanese, sahu, sentani, karaja, sheko, chayahuita	100	U+006f
+o$	o	bobo, wibo	bezhta, dadibi, dime, bankanteydogon, shakacho, moro, terei, yuwana, uduk, suabo, seediq, nimboran, timucua, kamula, kunimaipa, kwaza, southeastijo, muruihuitoto, greatandamanese, sahu, ninam, cofan, sanapanaangaite, candoshishapra, panoankatukina, seri, yukaghir, sulka, arabela, odoodee, yele, maybrat, salinan, japanese, quileute, gagadu, warao, moseten, yuracare, cuitlatec, mocovi, warapu, nama, highlandoaxacachontal, djeoromitxi, guahibo, bamu, kamasau, katcha, ngarinyin, hruso, abun, guhusamane, rungakibet, doromukoki, maasai, jarawa, lakota, lavukaleve, vietnamese, hadza, kanoe, manange, piraha, ayoreo, fasu, puinave, cavinena, kaluli, karaja, tuyuca, kunza, itonama	100	U+006f U+0024
+oo	oː	pooɾaooi, moobijumoobiju	gagadu, candoshishapra, alabama, swedish, quileute, halkomelem, ayoreo, atakapa, zarma, takelma, seri, northernsierramiwok, muinane, maybrat, ongota, alsea, estonian, wappo, guhusamane, chinook, bari, nisenan, yukaghir, arabela, japanese, taa, timucua, mocovi, natchez, bangime, muruihuitoto, gumuz, rungakibet, jarawa, karok, bambassi, tamil, shakacho, berta, cavinena, greatandamanese, ninam, kunza, sheko	100	U+006f U+006f
+oo$	oː	moo, noo	nisenan, swedish, yukaghir, mojave, guahibo, terei, japanese, halkomelem, bankanteydogon, klamath, bezhta, northernsierramiwok, yele, maybrat, bari, alsea, peleata, karok, sanapanaangaite, panoankatukina, suabo, taushiro, arabela, xicotepecdejuareztotonac, quileute, gagadu, takelma, ongota, taa, yuracare, cuitlatec, mocovi, bangime, guhusamane, southeastijo, muruihuitoto, maasai, fur, tamil, mailu, shakacho, sarakabanaa, kunza	100	U+006f U+006f U+0024
+ooo	oːo	ɬoooʔkuɕt	alsea	1	U+006f U+006f U+006f
+ooo$	oːo	pooo	southeastijo	1	U+006f U+006f U+006f U+0024
+o̞	o̞	po̞to̞po̞to̞, ko̞l̪	toaripi, savosavo, bororo, yawa, rotokas, huave, achumawi, turkish, basque, nara, yareba, saliba, waris, yaqui, kekchi, ahtena, tehuelche, kanuri, fasu, tol, deraindonesia, wintu, hadza, itelmen	100	U+006f U+031e
+o̞$	o̞	ko̞, be̞ʂo̞	rotokas, kanuri, bororo, yawa, yareba, basque, savosavo, nara, saliba, toaripi, deraindonesia, yaqui, fasu, achumawi, chatino, hadza, tol, burushaski, tehuelche, waris, wintu, berta	100	U+006f U+031e U+0024
+o̞o̞	o̞ː	no̞o̞e̞, tho̞o̞tʼsʼe̞_baʔase̞ŋ	burushaski, wintu, tehuelche, sandawe, achumawi, yaqui, rotokas, kekchi, yana, saliba, chatino, itelmen, berta	71	U+006f U+031e U+006f U+031e
+o̞o̞$	o̞ː	ijo̞o̞, go̞o̞	sandawe, tehuelche, chatino, rotokas, saliba, wintu, achumawi	44	U+006f U+031e U+006f U+031e U+0024
+o̤	o̤	tso̤ũ, ǀo̤ã	taa	4	U+006f U+0324
+o̰	o̰	ko̰nʔtesu, ko̰nton	southernnambikuara	5	U+006f U+0330
+oᵑ!	oᵑǃ	!ʔoᵑ!ang	juhoan	1	U+006f U+1d51 U+0021
+p	p	wipapɨ, kupia_kaptiwan	sanapanaangaite, miskito, yimas, wayuu, ineseno, ambulas, enapaworomaipu, seri, rikbaktsa, lencasalvador, yele, nimboran, kamula, pume, huave, maasai, jarawa, lakota, kanoe, manange, lule, daga, ninam, chayahuita, limilngan, wageman, cofan, nisenan, panoankatukina, nivacle, quileute, imbaburaquechua, maung, yuracare, mojave, movima, timucua, cuitlatec, krenak, kayardild, estonian, tsimshian, rumu, djeoromitxi, kunimaipa, aguaruna, pawnee, kitja, tuyuca, amarakaeri, copainalazoque, guhusamane, yaqui, guarani, mapudungun, maxakali, aymara, bambassi, rotokas, yamana, tiwi, fasu, kaluli, piraha, adyghe, alabama, ainu	100	U+0070
+p$	p	ep, asgap	lule, daga, natchez, maxakali, karas, puinave, gununakune, berik, kiowa, kaluli, ninam, ainu, seri, chipaya, mali, atakapa, krenak, hupde, nivkh, qawasqar, karok, sumerian, sanapanaangaite, wari, sulka, meriam, hatam, nimboran, takelma, yana, cuitlatec, tehuelche, tsimshian, nezperce, aguaruna, ineseno, huave, dime, wintu, marind, rungakibet, ambulas, vietnamese, manange, greatandamanese	100	U+0070 U+0024
+ph	pʰ	ʈʔophokʔh, aphtha	tunica, awtuw, uduk, greatandamanese, salinan, korean, sanapanaangaite, yana, klamath, sandawe, tol, halkomelem, southernpomo, hruso, achumawi, aymara, basque, pume, cofan, southernnambikuara, shompeng, kiowa, paez, wappo, nivkh, qawasqar, karok, lavukaleve, manange, chinook	100	U+0070 U+0068
+ph$	pʰ	ɢaɢəmph, umph	kwakiutl, korean, halkomelem, klamath, swedish, awtuw, salinan, paez, wappo, uduk, tol, moseten	49	U+0070 U+0068 U+0024
+phh	phh	iiaphhakij	achumawi	1	U+0070 U+0068 U+0068
+phph	pʰpʰ	l̪ɪphphʊ, n̪ɔphphɔ	southernpomo, uduk	5	U+0070 U+0068 U+0070 U+0068
+phs	phs	tʼaphsniiqh, aphsa	klamath	2	U+0070 U+0068 U+0073
+phs̪	phs̪	iphs̪ul	korean	1	U+0070 U+0068 U+0073 U+032a
+phw	phw	phamphwej, thaphwo	awtuw	2	U+0070 U+0068 U+0077
+phw$	phw	i_jphaphw	awtuw	1	U+0070 U+0068 U+0077 U+0024
+pp	pp	mippɔ, udanpiɾappin_maɦan	tamil, kuot, ainu, shasta, northernsierramiwok, shakacho, japanese, zuni, achumawi, shatt, dime, maxakali, limilngan, uduk, nisenan, yukaghir, sulka, ongota, yana, maranunggu, wayuu, southernpomo, northalaskaninupiatun, rungakibet, fur, alabama	100	U+0070 U+0070
+pp$	pp	tʼʃʼipp, kapp	kuot, estonian, shasta, swedish	4	U+0070 U+0070 U+0024
+ps	ps	ʔɨpsa, qæpsɪʔs	northernsierramiwok, nezperce, chinook, lule, adyghe, yuracare, puinave, copainalazoque, coos, muniche, achumawi, yaqui, ainu, ambulas, takelma	41	U+0070 U+0073
+ps$	ps	ɬekʼups, qæpsqæps	nezperce, estonian, copainalazoque, kamula, adyghe, tsimshian, chinook, kunza	12	U+0070 U+0073 U+0024
+ps̪	ps̪	naps̪u, ʔaps̪iih	shasta, lakota, waris, karok	6	U+0070 U+0073 U+032a
+ps̪$	ps̪	kexps̪	chipaya	1	U+0070 U+0073 U+032a U+0024
+pw	pw	mpwa, kupwana	swahili, yimas, baruya, tiwi, yele, warapu, dadibi, hupde, nisenan, adyghe, meriam, moro	45	U+0070 U+0077
+pɕ	pɕ	iiʔpɕin, waʃwaapɕa	adyghe, alsea	3	U+0070 U+0255
+pɕ$	pɕ	tapɕ	alsea	1	U+0070 U+0255 U+0024
+pʂ	pʂ	kapʂi, qwpʂħa	adyghe, candoshishapra	3	U+0070 U+0282
+pʃ	pʃ	ʃupʃupʼ, ottosoipʃa	ineseno, krenak, candoshishapra, achumawi, adyghe, natchez, zuni, karok, esselen	12	U+0070 U+0283
+pʃ$	pʃ	axtʼɨʔpʃ, tʃipʃ	ineseno, chipaya, washo	8	U+0070 U+0283 U+0024
+pʃh	pʃh	jəkupʃhə	natchez	1	U+0070 U+0283 U+0068
+pʃʼ	pʃʼ	ʔwəpʃʼa	adyghe	1	U+0070 U+0283 U+02bc
+pʼ	pʼ	aapʼu, nikneja_pʼiʃe	kiowa, bambassi, georgian, halkomelem, sheko, washo, aymara, kwakiutl, nisenan, takelma, tsimshian, itelmen, kunza, klamath, uduk, gununakune, chipaya, tehuelche, nezperce, gumuz, quileute, ineseno, dime, wintu, lakota	100	U+0070 U+02bc
+pʼ$	pʼ	e̞ɕaapʼ, t̪ʼe̞e̞pʼ	nisenan, tehuelche, takelma, klamath, itelmen, ineseno	14	U+0070 U+02bc U+0024
+pʼw	pʼw	sədaa_pʼwama	adyghe	1	U+0070 U+02bc U+0077
+pʼɕ$	pʼɕ	kaɕpʼɕ	tehuelche	1	U+0070 U+02bc U+0255 U+0024
+q	q	qsqeɾqjena, lqaiʔlaʁat	xicotepecdejuareztotonac, qawasqar, sarakabanaa, mocovi, northalaskaninupiatun, achumawi, seediq, bari, taa, burushaski, whitehmong, nezperce, ineseno, nivkh, aymara, ket, adyghe, ongota, alsea, tehuelche, teiwa, itelmen, kekchi, yukaghir, bezhta, chipaya, quileute, mojave, esselen, kwakiutl, chinook, kunza	100	U+0071
+q$	q	taliq, le̞we̞q	northalaskaninupiatun, wintu, seediq, mocovi, kekchi, qawasqar, itelmen, chipaya, xicotepecdejuareztotonac, alsea, mojave, ineseno, ket, kwakiutl, coos, quileute, ongota, burushaski, teiwa, tarifit, nivkh, chinook	100	U+0071 U+0024
+qh	qh	s̪qhaan̪, ǂqhẽẽ	taa, halkomelem, qawasqar, klamath, haidanorthern, aymara, chipaya, whitehmong, ineseno	100	U+0071 U+0068
+qh$	qh	weqh, keqh	klamath, halkomelem	11	U+0071 U+0068 U+0024
+qhs	qhs	meqhsel, ʔoqhsoʔ	halkomelem, klamath	2	U+0071 U+0068 U+0073
+qhw	qhw	taqhwale̞	achumawi	1	U+0071 U+0068 U+0077
+qq	qq	aməqqrʔan, utuqqau	tarifit, northalaskaninupiatun, ongota, zuni, nezperce	16	U+0071 U+0071
+qs	qs	seqwajoqseles, taqso	qawasqar, northalaskaninupiatun, xicotepecdejuareztotonac, kwakiutl, nezperce, ineseno	45	U+0071 U+0073
+qs$	qs	qjepcaqs, paɾoqs	qawasqar, nezperce, kekchi, quileute	14	U+0071 U+0073 U+0024
+qs̪	qs̪	xaqs̪i, æqs̪aq	itelmen, ket, chipaya	3	U+0071 U+0073 U+032a
+qs̪$	qs̪	is̪qs̪	chipaya	1	U+0071 U+0073 U+032a U+0024
+qw	qw	seqwajoqseles, soseqwth	qawasqar, halkomelem, quileute, kwakiutl, mojave, ineseno, adyghe, alsea, achumawi, kekchi	66	U+0071 U+0077
+qw$	qw	qwam_əqw, hejeqw	halkomelem, quileute, adyghe, kwakiutl	20	U+0071 U+0077 U+0024
+qws	qws	tɬəpqani_jəxajəqwsi, tɬapqani_ʔixwɛuqwsi	coos	2	U+0071 U+0077 U+0073
+qws$	qws	ʔotsoqws, tʼabooqws	quileute	3	U+0071 U+0077 U+0073 U+0024
+qɕ	qɕ	qɕiiʔqɕoout, paaʔqɕt	alsea	5	U+0071 U+0255
+qʃ	qʃ	iʔʃoʔqʃaʔ, peqʃukix	xicotepecdejuareztotonac, bari, ineseno	13	U+0071 U+0283
+qʃ$	qʃ	paxqʃ, moqʃ	chipaya	2	U+0071 U+0283 U+0024
+qʃʼ	qʃʼ	aqʃʼɨtɨʔ, aqʃʼɨʔw	ineseno	2	U+0071 U+0283 U+02bc
+qʼ	qʼ	sqʼoqʼej, mqʼari	bezhta, itelmen, halkomelem, nezperce, kwakiutl, georgian, chinook, aymara, kekchi, haidanorthern, klamath, quileute, taa, highlandoaxacachontal, chipaya, tsimshian, qawasqar	100	U+0071 U+02bc
+qʼ$	qʼ	makooqʼ, saaqʼ	klamath, itelmen, kekchi, halkomelem, tehuelche	31	U+0071 U+02bc U+0024
+qʼqʼ	qʼqʼ	qʼeqʼqʼo, æqʼqʼø	bezhta	2	U+0071 U+02bc U+0071 U+02bc
+qʼs$	qʼs	kaijaqʼs	chinook	1	U+0071 U+02bc U+0073 U+0024
+qʼw	qʼw	waqʼwa, botsitsqʼwaʔ	kwakiutl, halkomelem, quileute	23	U+0071 U+02bc U+0077
+qʼw$	qʼw	ɛɬtʼeqʼw, dooqʼw	halkomelem, quileute	2	U+0071 U+02bc U+0077 U+0024
+q̓	q̓	thəq̓i	kwakiutl	1	U+0071 U+0313
+r	r	o_koruroro, peʔe_koruriri	rotokas, toaripi, warapu, terei, nunggubuyu, manange, moro, turkish, moskona, suabo, georgian, berik, estonian, warembori, katcha, teiwa, northernembera, southeastijo, ket, greatandamanese, sahu, ngarluma, swedish, wageman, uncunwee, tima, mongolian, tunica, mali, timucua, chachi, nama, highlandoaxacachontal, kitja, alawa, ngarinyin, wintu, marind, nakara, mapudungun, jarawa, mandinka, miskito, bambassi, ambulas, zarma, kuot, grasskoiari, bankanteydogon, mailu, djingili, shakacho, sarakabanaa, swahili, daga, mairasi, kekchi	100	U+0072
+r$	r	ʊr, əər	mairasi, mongolian, swedish, berik, gaam, tima, uncunwee, moskona, meriam, teiwa, mali, mojave, maranunggu, wintu, maybrat, estonian, alawa, nivkh, marind, rungakibet, berta, soo, karas, uduk, yukaghir, sulka, seediq, imbaburaquechua, cuitlatec, burushaski, natchez, nezperce, ngarinyin, murrinhpatha, abun, gumuz, mapudungun, kuot, nunggubuyu, manange, garrwa, oroqen	100	U+0072 U+0024
+rh	rh	farha	zarma	1	U+0072 U+0068
+rr	rr	kant̪arri, waɲaparriku	ngarluma, tarifit, fur, moro, ongota, zarma, katcha, uncunwee, sulka, saliba	79	U+0072 U+0072
+rr$	rr	paɭparr, jicirr	ngarluma, swedish	9	U+0072 U+0072 U+0024
+rs	rs	brʊrsdɔtthər, bruursoon	swedish, seediq, berik, moskona, georgian, soo, karas, bankanteydogon, estonian, sulka, rungakibet	33	U+0072 U+0073
+rs$	rs	kæsiʋars, jʌʈrs	burushaski, estonian, georgian	5	U+0072 U+0073 U+0024
+rw	rw	ŋirwut̪inŋirwut̪inta, gurwuj	alawa, kayardild, moro, bari, shatt, murrinhpatha, sarakabanaa, nezperce, zarma, kanuri, tunica	15	U+0072 U+0077
+rʃ	rʃ	karʃat, aβarʃan	uncunwee, berta, tarifit, nivkh	6	U+0072 U+0283
+rʒ	rʒ	jarʒi	yukaghir	1	U+0072 U+0292
+r̃	r̃	ar̃ajim, poor̃am	bankanteydogon, bangime	31	U+0072 U+0303
+r̥	r̥	r̥aŋz_r̥aklu	nivkh	1	U+0072 U+0325
+r̥$	r̥	ŋəɣr̥, khikr̥	nivkh	6	U+0072 U+0325 U+0024
+r̪	r̪	dʒar̪ur̪u_kɨr̪i, ike̞r̪a_pud̪o̞gid̪ure̞_mar̪e̞_iar̪e̞_mit̪o̞	bororo, nara, yana, waris, tehuelche, shasta, itelmen, huave, basque, achumawi, chatino	100	U+0072 U+032a
+r̪$	r̪	ɕawr̪, o̞r̪	tehuelche, basque, nara, itelmen, shasta	76	U+0072 U+032a U+0024
+r̪s̪	r̪s̪	pʼir̪s̪e̞t̪ʼa	itelmen	1	U+0072 U+032a U+0073 U+032a
+r̪w	r̪w	ɕawr̪wn̪, kʼar̪wn̪	tehuelche, yana	16	U+0072 U+032a U+0077
+r̪ɕ	r̪ɕ	ko̞kʼr̪ɕo̞	tehuelche	1	U+0072 U+032a U+0255
+s	s	muukesmise, kuseʔ_kuseʔ	alabama, bambassi, ayoreo, fasu, odoodee, enapaworomaipu, yareba, mali, trumai, arapaho, esselen, aguaruna, dadibi, copainalazoque, southeastijo, kanuri, miskito, mairasi, bari, urarina, yagua, karas, candoshishapra, panoankatukina, nisenan, moskona, northernsierramiwok, suabo, sulka, nivacle, arabela, muinane, xicotepecdejuareztotonac, japanese, salinan, savosavo, yawa, tol, warao, paez, moseten, halkomelem, mojave, burushaski, estonian, mocovi, ahtena, andaqui, tsimshian, suri, bangime, northalaskaninupiatun, warembori, guhusamane, abun, oneida, achumawi, hruso, maasai, qawasqar, aymara, ambulas, vietnamese, rotokas, fur, greatandamanese, sahu, swahili, ainu, kunza	100	U+0073
+s$	s	pagas, pɛs	soo, uduk, qawasqar, kwakiutl, tsimshian, coos, tol, moseten, estonian, nezperce, shatt, klamath, nivacle, meriam, mongolian, maybrat, mali, halkomelem, burushaski, ineseno, pawnee, teiwa, lavukaleve, mairasi, karas, nisenan, gununakune, moskona, bezhta, sulka, seediq, georgian, quileute, berik, mojave, movima, ahtena, arapaho, nama, esselen, dime, tarifit, abun, gumuz, achumawi, marind, rungakibet, maasai, miskito, ambulas, shakacho, yamana, kaluli, ainu, itonama, sumerian	100	U+0073 U+0024
+sh	sh	tɬkushkashka, tɬkukkashus	chinook, oneida, moskona, qawasqar, taushiro, gagadu	13	U+0073 U+0068
+ss	ss	massi, ittohissi	northernsierramiwok, shakacho, alabama, swedish, tarifit, kunza, turkish, candoshishapra, zarma, fur, berta, sumerian, nisenan, bezhta, quileute, japanese, cuitlatec, estonian, suri, dime, katcha, achumawi, rungakibet, bambassi, gaam	58	U+0073 U+0073
+ss$	ss	iss, vass	achumawi, chinook, swedish, klamath, estonian, tarifit, esselen	9	U+0073 U+0073 U+0024
+ssw	ssw	asswali	achumawi	1	U+0073 U+0073 U+0077
+sw	sw	laqi_na_swaji, apiswi	seediq, achumawi, qawasqar, alabama, sanapanaangaite, nezperce, halkomelem, klamath, tunica, meriam, nivacle, mairasi, miskito, sheko, sandawe	30	U+0073 U+0077
+sʃ	sʃ	disʃvili, dʒmisʃvili	georgian, nivacle	19	U+0073 U+0283
+sʼ	sʼ	sʼisʼia, kʼasʼi	berta, dime	21	U+0073 U+02bc
+sʼ$	sʼ	afaŋfarasʼ, kiisʼ	berta, dime	2	U+0073 U+02bc U+0024
+s̪	s̪	s̪ɛs̪i_s̪as̪ɨ, ʔas̪i	haidanorthern, purepecha, toaripi, yana, zuni, waris, lakota, korean, wappo, itelmen, ket, karok, chipaya, chatino, nimboran, kunimaipa, huave, nara, tehuelche, southernpomo	100	U+0073 U+032a
+s̪$	s̪	papuuʔas̪, ko̞s̪	ket, wappo, nara, karok, waris, huave, itelmen, shasta, haidanorthern, chipaya, kunimaipa, yana	80	U+0073 U+032a U+0024
+s̪h	s̪h	meis̪hanam, mas̪hopil̪ewin̪ʔ	waris, wappo	2	U+0073 U+032a U+0068
+s̪h$	s̪h	mɒs̪h	waris	1	U+0073 U+032a U+0068 U+0024
+s̪s̪	s̪s̪	ʔis̪s̪iit̪itʃ, pis̪s̪ɛ	nara, zuni, shasta, ket, waris, southernpomo	13	U+0073 U+032a U+0073 U+032a
+t	t	atataɾi, niptamin	yagua, southernnambikuara, arabela, ngarinyin, adyghe, kunza, terei, sanapanaangaite, chipaya, japanese, allentiac, ongota, alsea, kayardild, peleata, guahibo, shatt, pawnee, achumawi, miskito, tuyuca, bari, karas, yuwana, urarina, rikbaktsa, bezhta, suabo, maybrat, xicotepecdejuareztotonac, yawa, yimas, takelma, yuracare, moseten, warao, kamula, mocovi, estonian, krenak, trumai, wayuu, natchez, chachi, warapu, djeoromitxi, baruya, amarakaeri, northalaskaninupiatun, guhusamane, muruihuitoto, wintu, marind, jamamadi, guarani, qawasqar, mandinka, maxakali, aymara, kanuri, grasskoiari, kuot, rotokas, fasu, enapaworomaipu, cavinena, sahu, swahili, daga, purepecha, mairasi, ainu, sheko	100	U+0074
+t$	t	bɛɛtʃɛt, lqaiʔlaʁat	alsea, mocovi, mali, nezperce, aguaruna, northalaskaninupiatun, quileute, estonian, arapaho, pawnee, oneida, maasai, soo, gununakune, sulka, nivacle, maybrat, chinook, ineseno, ngarinyin, teiwa, abun, rungakibet, karas, uncunwee, panoankatukina, bezhta, coos, southernnambikuara, xicotepecdejuareztotonac, maung, paez, takelma, krenak, burushaski, trumai, natchez, kamasau, dime, achumawi, yaqui, mandinka, maxakali, miskito, bambassi, kuot, puinave, lule, greatandamanese, mairasi, kunza, sheko, sumerian	100	U+0074 U+0024
+th	tʰ	khcʔhathel, kaɾaka_thethepək	guhusamane, tunica, halkomelem, swedish, cofan, georgian, doromukoki, awtuw, salinan, lavukaleve, ninam, ahtena, oneida, kwakiutl, klamath, korean, southernpomo, sumerian, takelma, atakapa, wappo, hruso, aymara, greatandamanese, chinook	100	U+0074 U+0068
+th$	tʰ	ze̞th, tath	halkomelem, swedish, korean, klamath, ahtena, salinan, awtuw, paez, chinook, lavukaleve, wappo, uduk, tunica	100	U+0074 U+0068 U+0024
+ths	tsʰ	smɵthsɪg, spɛthsɪg	swedish	2	U+0074 U+0068 U+0073
+ths$	tsʰ	ejenouths	esselen	1	U+0074 U+0068 U+0073 U+0024
+ths̪	ths̪	moths̪æŋkin̪	korean	1	U+0074 U+0068 U+0073 U+032a
+thth	tʰtʰ	tʃhiththaan	uduk	2	U+0074 U+0068 U+0074 U+0068
+thw	thw	ənahothwag, athweʔnũni	oneida, jarawa	3	U+0074 U+0068 U+0077
+thʃ	thʃ	pʼrthʃxili, thuthʃebi	georgian	3	U+0074 U+0068 U+0283
+thʃh	thʃh	hthʃhathohkhu, hthʃha	tunica	55	U+0074 U+0068 U+0283 U+0068
+thʃh$	thʃh	hinjathihthʃh	tunica	1	U+0074 U+0068 U+0283 U+0068 U+0024
+thʃhw	thʃhw	hthʃhwaʃi	tunica	1	U+0074 U+0068 U+0283 U+0068 U+0077
+ts	ts	axtsʔatsʔax, itsʔitsʔi	pawnee, gununakune, bezhta, trumai, guahibo, lencasalvador, oneida, atakapa, aguaruna, ineseno, copainalazoque, sanapanaangaite, moseten, highlandoaxacachontal, candoshishapra, quileute, xicotepecdejuareztotonac, takelma, ahtena, muniche, kanoe, seediq, maybrat, chatino, japanese, tsimshian, wayuu, esselen, hruso, achumawi, adyghe, chinook	100	U+0074 U+0073
+ts$	ts	tʃhixts, kaats	lule, pawnee, seediq, atakapa, gununakune, dime, burushaski, moseten, ahtena, copainalazoque, sheko, chipaya, quileute, tsimshian, tol, estonian, nezperce, aguaruna, gumuz, bambassi, chinook, sumerian	100	U+0074 U+0073 U+0024
+tsh	tsh	tsutshde̞, dɨtshiʔjɛ	cofan, ahtena, oneida, chinook, ineseno	38	U+0074 U+0073 U+0068
+tsh$	tsh	niitsh, tɬpeatsh	ahtena, chinook, nama	8	U+0074 U+0073 U+0068 U+0024
+tss	tss	kilatssp	lule	1	U+0074 U+0073 U+0073
+tsts	tsts	katstsɪ, kɪtstsɪdʊ	southernpomo	3	U+0074 U+0073 U+0074 U+0073
+tsw	tsw	gɨtsɨtswal, pjatswituʔu	gununakune, copainalazoque	2	U+0074 U+0073 U+0077
+tsʼ	tsʼ	matsʼa, matsʼala	chinook, gumuz	4	U+0074 U+0073 U+02bc
+tsʼ$	tsʼ	ɓatsʼ	gumuz	1	U+0074 U+0073 U+02bc U+0024
+ts̪	ts̪	its̪ɨman̪i, xuɹin̪ts̪kwa	purepecha	22	U+0074 U+0073 U+032a
+tt	tt	tettobak, noŋmbajo_mbottaʔ_mbottaʔ_mbapih_eʔaiwa_	shakacho, alabama, wayuu, northernsierramiwok, ongota, amarakaeri, maranunggu, uncunwee, kanuri, fur, cuitlatec, southernpomo, yaqui, zarma, greatandamanese, swedish, tarifit, maxakali, lule, chinook, ainu, limilngan, nisenan, southernnambikuara, seediq, allentiac, yuracare, atakapa, krenak, estonian, nezperce, esselen, dime, rungakibet	100	U+0074 U+0074
+tt$	tt	tehtt, katt	atakapa, yuracare, swedish, dime, tarifit	6	U+0074 U+0074 U+0024
+tw	tw	itwa, mitwap	nezperce, miskito, shatt, paez, kanoe, marind, achumawi, meriam, yaqui, ineseno	15	U+0074 U+0077
+tw$	tw	aatw	achumawi	1	U+0074 U+0077 U+0024
+twh	twh	aputwhe, estwhuɬ	chinook	2	U+0074 U+0077 U+0068
+tɕ	tɕ	tɕaw_tɕaj, mətɕaʔntɕinɕt	alsea, vietnamese, japanese	62	U+0074 U+0255
+tɕ$	tɕ	tkooʔtɕ, piijatɕ	alsea, vietnamese	18	U+0074 U+0255 U+0024
+tʂ	ʈʂ	ʌtʂo̞, ʝaɨ_tʂiv	burushaski, whitehmong, adyghe	14	U+0074 U+0282
+tʂh	tʂh	ntʂhai_ʂeŋn̪d̪z̪ɨv, dtʂhʌɻʊrʌs	whitehmong, burushaski	6	U+0074 U+0282 U+0068
+tʃ	tʃ	bɛɛtʃɛt, itʃi_hu	arapaho, northernsierramiwok, alabama, paez, candoshishapra, quileute, mojave, aymara, itonama, rikbaktsa, nivacle, yuracare, timucua, wayuu, chachi, pume, djeoromitxi, cayuvava, guarani, ayoreo, piraha, purepecha, kekchi, bari, yagua, turkish, uduk, gununakune, chipaya, taushiro, xicotepecdejuareztotonac, ongota, moseten, halkomelem, krenak, mocovi, andaqui, muniche, tehuelche, natchez, korean, highlandoaxacachontal, ineseno, huave, wappo, copainalazoque, northernembera, yaqui, maasai, karok, kanuri, lakota, shasta, shakacho, itelmen, tiwi, enapaworomaipu, cavinena, kunza, chayahuita	100	U+0074 U+0283
+tʃ$	tʃ	qhatʃ, khũtʃ	candoshishapra, karok, paez, mojave, soo, haidanorthern, nivacle, ineseno, gununakune, coos, chipaya, huave, turkish, itelmen, mongolian, moseten, arapaho, southernpomo, moskona, yukaghir, quileute, aguaruna, tarifit, gumuz, mandinka, shasta, shakacho, kekchi, sheko	100	U+0074 U+0283 U+0024
+tʃh	tʃh	atʃh_ɔxin̪, atʃh_xuu	pume, mongolian, korean, lakota, klamath, uduk, salinan, aymara, haidanorthern, paez, southernpomo, cofan, moskona, chipaya, natchez, wappo, karok, alabama, chinook	100	U+0074 U+0283 U+0068
+tʃh$	tʃh	aβaɢ_egtʃh, n̪aɢat̪s̪h_egtʃh	mongolian, klamath, paez, uduk, haidanorthern, natchez, salinan	28	U+0074 U+0283 U+0068 U+0024
+tʃhtʃh	tʃhtʃh	ʔetʃhtʃhoʔ	klamath	1	U+0074 U+0283 U+0068 U+0074 U+0283 U+0068
+tʃhw	tʃhw	thantʃhwaanel, skʼajaatʃhwʔ	salinan, klamath	2	U+0074 U+0283 U+0068 U+0077
+tʃtʃ	tʃtʃ	guutʃtʃo, kɑtʃtʃi	shakacho, northernsierramiwok, southernpomo, ongota, dime, bezhta, shasta	33	U+0074 U+0283 U+0074 U+0283
+tʃw	tʃw	qatʃwl̪	tehuelche	1	U+0074 U+0283 U+0077
+tʃʂ	tʃʂ	itʃʂapa, tokopitʃʂa	panoankatukina	5	U+0074 U+0283 U+0282
+tʃʃ	tʃʃ	pintʃʃo	kunza	1	U+0074 U+0283 U+0283
+tʃʼ	tʃʼ	mætʃʼæ, batʃʼa	uduk, bezhta, hadza, gumuz	8	U+0074 U+0283 U+02bc
+tʃʼ$	tʃʼ	mytʃʼ, t̪it̪ʼ_d̪aratʃʼ	uduk, gumuz, bezhta	5	U+0074 U+0283 U+02bc U+0024
+tʃʼtʃʼ	tʃʼtʃʼ	qætʃʼtʃʼø, ætʃʼtʃʼø	bezhta	4	U+0074 U+0283 U+02bc U+0074 U+0283 U+02bc
+tʼ	tʼ	uhwaɾastʼaʔtʼa, tookkwiintʼe	bezhta, ahtena, georgian, quileute, takelma, kwakiutl, nezperce, bambassi, itonama, aymara, sheko, gununakune, halkomelem, tsimshian, highlandoaxacachontal, dime, washo, adyghe, klamath, coos, sandawe, trumai, ineseno, wintu, hadza, kunza	100	U+0074 U+02bc
+tʼ$	tʼ	kuutʼ, utʼ	ahtena, bezhta, bambassi, southernpomo, takelma, dime, klamath, wintu, georgian, sheko, ineseno	30	U+0074 U+02bc U+0024
+tʼs	tsʼ	kʼatʼsiil	quileute	1	U+0074 U+02bc U+0073
+tʼsʼ	tsʼ	tʼsʼəmtʼsʼəmxtʼsʼaneʔ, stʼsʼori	kwakiutl, bambassi, georgian, quileute, ahtena, sandawe, tsimshian, gununakune, bezhta, highlandoaxacachontal, hadza, trumai, adyghe, washo, haidanorthern, kekchi, sheko, southernpomo, chinook	100	U+0074 U+02bc U+0073 U+02bc
+tʼsʼ$	tsʼ	mʊtʼsʼ, tʃatʼsʼ	southernpomo, ahtena, sheko, bezhta, bambassi, highlandoaxacachontal, chinook, sandawe, trumai, adyghe, quileute, kekchi	44	U+0074 U+02bc U+0073 U+02bc U+0024
+tʼsʼtʼsʼ	tʼsʼtʼsʼ	itʼsʼtʼsʼo, qʼatʼsʼtʼsʼo	bezhta	4	U+0074 U+02bc U+0073 U+02bc U+0074 U+02bc U+0073 U+02bc
+tʼtʼ	tʼtʼ	bøtʼtʼø, hætʼtʼø	bezhta, southernpomo	4	U+0074 U+02bc U+0074 U+02bc
+tʼw	tʼw	tetʼwa	uduk	1	U+0074 U+02bc U+0077
+tʼw$	tʼw	pʃʼəkʼwtʼw	adyghe	1	U+0074 U+02bc U+0077 U+0024
+tʼʂʼ	tʼʂʼ	ətʼʂʼaʁə	adyghe	1	U+0074 U+02bc U+0282 U+02bc
+tʼʃ	tʼʃ	umbotʼʃape	bambassi	1	U+0074 U+02bc U+0283
+tʼʃʼ	tʼʃʼ	pitʼʃʼipani, qχaɾ_witʼʃʼu	kunza, kekchi, aymara, itonama, georgian, quileute, dime, haidanorthern, chipaya, southernpomo, sheko, shasta, nivacle, zuni, highlandoaxacachontal	75	U+0074 U+02bc U+0283 U+02bc
+tʼʃʼ$	tʼʃʼ	tʼʃʼo̞tʼʃʼ, keetʼʃʼ	kekchi, sheko, dime, tehuelche, southernpomo	9	U+0074 U+02bc U+0283 U+02bc U+0024
+tʼʃʼh	tʼʃʼh	snʔeweetʼʃʼhkʼa, phtʼʃʼhooqʼ	klamath	7	U+0074 U+02bc U+0283 U+02bc U+0068
+tʼʃʼh$	tʼʃʼh	lokootʼʃʼh, pʼatʼʃʼh	klamath	8	U+0074 U+02bc U+0283 U+02bc U+0068 U+0024
+tʼʃʼhs$	tʼʃʼhs	ʔetʼʃʼhs, latʼʃʼhs	klamath	2	U+0074 U+02bc U+0283 U+02bc U+0068 U+0073 U+0024
+tʼʃʼtʼʃʼ	tʼʃʼtʼʃʼ	hatʼʃʼtʼʃʼɔw	southernpomo	1	U+0074 U+02bc U+0283 U+02bc U+0074 U+02bc U+0283 U+02bc
+t̪	t̪	hekɔt̪ɑ, mɔɾiɔ_mɔɾiɔ_mɛt̪ɛ_t̪ɛ	rumu, lakota, korean, tiwi, moro, toaripi, seri, basque, murrinhpatha, karok, ket, turkish, haidanorthern, deraindonesia, mapudungun, tima, mongolian, yele, chatino, nimboran, mojave, highlandoaxacachontal, kunimaipa, nunggubuyu, manange, nara, northernsierramiwok, thaidialectkorat, bororo, kiowa, whitehmong, southernpomo, huave, katcha, waris, shasta, vietnamese, hadza, tamil, ngarluma	100	U+0074 U+032a
+t̪$	t̪	kit̪, bout̪	ket, thaidialectkorat, huave, seri, mojave, vietnamese, turkish, mongolian, haidanorthern, tehuelche, kiowa, karok, northernsierramiwok, basque, trumai, kunimaipa, waris, shasta, nara	100	U+0074 U+032a U+0024
+t̪h	t̪h	apt̪hjʌpʌ, amt̪hjʌpʌ	mongolian, manange, yana, kiowa, thaidialectkorat, haidanorthern, basque, waris, hadza, southernpomo, tol, wappo, uduk	78	U+0074 U+032a U+0068
+t̪h$	t̪h	ʕxit̪ʼiit̪h, ʕkan̪_ʊn̪s̪at̪h	haidanorthern, mongolian, uduk	12	U+0074 U+032a U+0068 U+0024
+t̪hs	t̪hs	kat̪hsẽĩ	kiowa	1	U+0074 U+032a U+0068 U+0073
+t̪ht̪h	t̪ht̪h	amt̪ht̪hai	mongolian	1	U+0074 U+032a U+0068 U+0074 U+032a U+0068
+t̪s	t̪s	anolʌt̪sa, anolʌt̪sami	manange, kiowa, shasta	34	U+0074 U+032a U+0073
+t̪s$	t̪s	mãn̪t̪s	kiowa	1	U+0074 U+032a U+0073 U+0024
+t̪s̪	ts̪	akt̪s̪ɛki, ʃit̪s̪ʔ	wappo, basque, zuni, thaidialectkorat, huave, mongolian, haidanorthern, karok	58	U+0074 U+032a U+0073 U+032a
+t̪s̪$	ts̪	ʂo̞ɾ̪o̞t̪s̪, mikiat̪s̪	huave, basque	20	U+0074 U+032a U+0073 U+032a U+0024
+t̪s̪h	t̪s̪h	ʔet̪s̪hpi, n̪aɢt̪s̪h_ax	wappo, mongolian, thaidialectkorat, whitehmong	51	U+0074 U+032a U+0073 U+032a U+0068
+t̪s̪h$	t̪s̪h	xʊrt̪s̪h, t̪s̪hat̪s̪h	wappo, mongolian	4	U+0074 U+032a U+0073 U+032a U+0068 U+0024
+t̪s̪t̪s̪	t̪s̪t̪s̪	kʼjɛt̪s̪t̪s̪an̪a, wat̪s̪t̪s̪it̪a	zuni	3	U+0074 U+032a U+0073 U+032a U+0074 U+032a U+0073 U+032a
+t̪t̪	t̪t̪	t̪s̪it̪t̪a, hɔt̪t̪a	northernsierramiwok, zuni, tamil, nara, southernpomo, yukaghir, shasta, ket	59	U+0074 U+032a U+0074 U+032a
+t̪w	t̪w	pe̞t̪wa, ʊt̪waaɽi	deraindonesia, tima	6	U+0074 U+032a U+0077
+t̪ʃ	t̪ʃ	at̪ʃuŋ, t̪ɛt̪ʃi	zuni, manange	15	U+0074 U+032a U+0283
+t̪ʃh	t̪ʃh	at̪ʃher	manange	1	U+0074 U+032a U+0283 U+0068
+t̪ʃt̪ʃ	t̪ʃt̪ʃ	t̪at̪ʃt̪ʃu	zuni	6	U+0074 U+032a U+0283 U+0074 U+032a U+0283
+t̪ʼ	t̪ʼ	mit̪ʼx, qʼit̪ʼkʼin̪e̞n̪	itelmen, kiowa, haidanorthern, tehuelche, uduk, shasta, southernpomo, trumai, lakota	100	U+0074 U+032a U+02bc
+t̪ʼ$	t̪ʼ	maat̪ʼ, kʼo̞o̞t̪ʼ	tehuelche, uduk, itelmen, southernpomo	18	U+0074 U+032a U+02bc U+0024
+t̪ʼs	t̪ʼs	jɔ̃t̪ʼsẽĩ, kaaʔt̪ʼsjãn̪	kiowa	3	U+0074 U+032a U+02bc U+0073
+t̪ʼs̪ʼ	ts̪ʼ	ɬ̪it̪ʼs̪ʼit̪ʼs̪ʼi, hat̪ʼs̪ʼit̪ʼs̪ʼi	zuni	9	U+0074 U+032a U+02bc U+0073 U+032a U+02bc
+t̪ʼw$	t̪ʼw	we̞t̪ʼw	itelmen	1	U+0074 U+032a U+02bc U+0077 U+0024
+t̪ʼɕ$	t̪ʼɕ	t̪ʼaar̪t̪ʼɕ	tehuelche	1	U+0074 U+032a U+02bc U+0255 U+0024
+u	NULL	xuntuɲ, kukukwaj	ngarluma, mali, saliba, northalaskaninupiatun, guhusamane, terei, rikbaktsa, chipaya, ongota, krenak, maranunggu, korean, guahibo, ineseno, deraindonesia, teiwa, washo, miskito, ambulas, bankanteydogon, manange, nunggubuyu, tiwi, fasu, yagua, tima, northernsierramiwok, yukaghir, thaidialectkorat, sulka, southernnambikuara, yele, odoodee, muinane, arabela, chatino, gagadu, maung, tunica, alsea, taa, kayardild, estonian, natchez, warapu, pume, highlandoaxacachontal, suri, baruya, aguaruna, kamasau, hupde, hruso, muruihuitoto, nivkh, cayuvava, nakara, maasai, mapudungun, karok, yangman, zarma, rotokas, mailu, nara, greatandamanese, moro, tuyuca, kunza, sentani	100	U+0075
+u!	uǃ	ᶢ!au!aʕʔami, ᶢ!au!uʔuru	juhoan	2	U+0075 U+0021
+u$	u	pacawaɳilku, nd̪urt̪u	terei, uncunwee, arabela, bororo, copainalazoque, zarma, tamil, mailu, fasu, yareba, ngarluma, yagua, chipaya, yele, hatam, whitehmong, kwaza, wappo, guhusamane, hruso, kuot, greatandamanese, sahu, moro, berta, toaripi, yukaghir, meriam, odoodee, seediq, imbaburaquechua, gagadu, takelma, ongota, kayardild, peleata, wayuu, nama, djeoromitxi, korean, aguaruna, bamu, pawnee, deraindonesia, dime, kitja, sheko, ngarinyin, dadibi, abun, doromukoki, guarani, aymara, yangman, hadza, rotokas, puinave, yamana, tiwi, sarakabanaa, nunggubuyu, karaja, swahili, sentani	100	U+0075 U+0024
+uu	uː	buluubuluu, kʼuuloʃke	pawnee, arabela, xicotepecdejuareztotonac, mojave, aguaruna, thaidialectkorat, muinane, ahtena, burushaski, tsimshian, wintu, bambassi, bari, swedish, tima, northernsierramiwok, takelma, alsea, atakapa, estonian, rotokas, tamil, ayoreo, berta, terei, juhoan, uduk, uncunwee, coos, yukaghir, yele, seediq, chatino, sandawe, paez, ongota, wappo, dime, sheko, teiwa, southeastijo, guhusamane, gumuz, yaqui, washo, shasta, bankanteydogon, shakacho, kekchi, gaam	100	U+0075 U+0075
+uu$	uː	kuu, huu	alsea, atakapa, yele, bari, mojave, taa, tsimshian, swahili, oroqen, terei, chatino, bankanteydogon, tima, nisenan, thaidialectkorat, takelma, allentiac, yana, andaqui, northalaskaninupiatun, southeastijo, mailu, mongolian, arabela, xicotepecdejuareztotonac, sandawe, gagadu, ahtena, trumai, peleata, wayuu, guahibo, guhusamane, wintu, miskito, ket, rotokas, tamil, karaja, gaam	100	U+0075 U+0075 U+0024
+uuu	uːu	puuuʔt, huuuɺʔia_wəraitʃi	bari, alsea, wayuu	5	U+0075 U+0075 U+0075
+uuu$	uːu	çewarlpuuu, ahtuuu	bari, allentiac	2	U+0075 U+0075 U+0075 U+0024
+v	v	evaeva, mkhlavi	georgian, toaripi, guhusamane, yawa, mairasi, mojave, northalaskaninupiatun, nivkh, marind, mailu, swedish, turkish, warembori, karok, whitehmong, warapu, swahili, daga, teiwa, hruso, hadza, adyghe	100	U+0076
+v$	v	tato_tatov, aʔav	whitehmong, mojave, mairasi, yawa, marind, swedish, kitja, turkish, jarawa, karok	100	U+0076 U+0024
+vs	vs	ivsuu, ilivsi	georgian, northalaskaninupiatun, mojave	4	U+0076 U+0073
+vs$	vs	tivs	nivkh	1	U+0076 U+0073 U+0024
+vv	vv	avvaq, uvva	northalaskaninupiatun	3	U+0076 U+0076
+vw	vw	nan_navwer, dʒanavwer	mairasi	6	U+0076 U+0077
+vʃ	vʃ	skhesobrivi_kʼavʃiri	georgian	1	U+0076 U+0283
+w	w	əwəʒ_jətawə, bõ_wãwã	yagua, yuwana, adyghe, tarifit, ambulas, bankanteydogon, tiwi, gununakune, haidanorthern, suabo, korean, bangime, huave, kitja, wappo, washo, miskito, bambassi, nunggubuyu, yareba, greatandamanese, wageman, klamath, uncunwee, sanapanaangaite, mairasi, wari, chipaya, itonama, nivacle, meriam, arabela, yele, taushiro, imbaburaquechua, yawa, tol, yimas, maung, yana, yuracare, movima, burushaski, maranunggu, tsimshian, arapaho, chachi, zuni, nama, highlandoaxacachontal, baruya, kamasau, copainalazoque, gooniyandi, oneida, jamamadi, nakara, wintu, aymara, kanuri, djingili, enapaworomaipu, cavinena, kwakiutl, ngarluma, sahu, chinook, gaam, chayahuita	100	U+0077
+w$	w	aw, səw	awtuw, huave, wintu, vietnamese, nisenan, nezperce, moskona, ongota, mojave, wappo, hupde, kanoe, sentani, haidanorthern, bezhta, takelma, halkomelem, cuitlatec, tehuelche, bangime, southernpomo, ineseno, achumawi, qawasqar, washo, ainu, sheko, uduk, klamath, gununakune, meriam, salinan, hatam, paez, maung, maranunggu, tsimshian, arapaho, suri, hruso, mapudungun, bambassi, yangman, zarma, djingili, sarakabanaa, kekchi, kaingang	100	U+0077 U+0024
+wh	wh	l̥ɛwhu, hʔihatĩhna_whãina_hali_wʔahaitsoʔinũnsʔã	southernnambikuara, chinook, washo	3	U+0077 U+0068
+ws	ws	jawsɨgɨ, towsaɾqsens	gununakune, northernsierramiwok, qawasqar, imbaburaquechua, ainu	7	U+0077 U+0073
+ws$	ws	pʼɛljiiws, pææws	halkomelem, tsimshian, qawasqar, nezperce	17	U+0077 U+0073 U+0024
+ww	ww	ewwaso, θanəwwaʃθ	northernsierramiwok, maasai, tarifit, sentani, fur, hupde, nisenan, alabama, southernpomo	22	U+0077 U+0077
+ww$	ww	hʊww	southernpomo	2	U+0077 U+0077 U+0024
+wʃ	wʃ	n̪awʃiʔ	wappo	1	U+0077 U+0283
+wʃ$	wʃ	laawʃ, əwʃ	chipaya, tarifit	3	U+0077 U+0283 U+0024
+w̃	w̃	ɔw̃m, bweɛ_kɔw̃e	bangime, bankanteydogon	2	U+0077 U+0303
+w̃$	w̃	w̃aaw̃, nɔɔw̃	bankanteydogon, bangime	4	U+0077 U+0303 U+0024
+w̰	w̰	wææw̰ɯɯq, hɪcaaw̰ɪc	nezperce	3	U+0077 U+0330
+w̰$	w̰	taʔaw̰	nezperce	1	U+0077 U+0330 U+0024
+wⁿ$	wⁿ	mawⁿ	bankanteydogon	2	U+0077 U+207f U+0024
+x	x	ixo̞xo̞, naxaxax	guahibo, saliba, lakota, alsea, gununakune, taushiro, muinane, peleata, lule, maybrat, ineseno, hruso, chinook, nivacle, salinan, shatt, copainalazoque, sumerian, seri, coos, haidanorthern, mongolian, georgian, xicotepecdejuareztotonac, sandawe, takelma, paez, taa, trumai, arapaho, highlandoaxacachontal, nezperce, esselen, karok, aymara, miskito, itelmen, yamana, kwakiutl, greatandamanese, adyghe, kekchi	100	U+0078
+x$	x	mtax, ʔat̪ɾaax	mongolian, seri, nivacle, maybrat, chinook, takelma, karok, itelmen, chipaya, alsea, ineseno, arapaho, nezperce, gununakune, seediq, halkomelem, esselen, yamana, quileute, imbaburaquechua, trumai, tehuelche, tsimshian, nivkh, shasta, adyghe, kekchi, sumerian	100	U+0078 U+0024
+xh	xh	haxha, kxhoese	nama, chinook, tsimshian	35	U+0078 U+0068
+xs	xs	təŋgəxsic, moxsaʔj	shatt, copainalazoque, kwakiutl, nezperce, aymara	15	U+0078 U+0073
+xs$	xs	malaxs	lule	2	U+0078 U+0073 U+0024
+xs̪	xs̪	luxs̪x, uxs̪iwai	itelmen, yana, chipaya	19	U+0078 U+0073 U+032a
+xw	xw	qaaxwolit, tʼsʼuxwtɬəmaɢas	halkomelem, quileute, kwakiutl, gununakune, coos, kekchi, ineseno, alsea, seri, esselen, nezperce, salinan, miskito, takelma	84	U+0078 U+0077
+xw$	xw	taʔaawaχw_ʔaxw, ɬeqʼellexw	halkomelem, quileute, seri, coos, kwakiutl	18	U+0078 U+0077 U+0024
+xx	xx	ddəxxan, ɾəxxu	tarifit, halkomelem, nivacle	4	U+0078 U+0078
+xɕ$	xɕ	waxɕ, juuʔltɕuxɕ	atakapa, alsea	9	U+0078 U+0255 U+0024
+xʃ	xʃ	uxʃnɨ, waxʃaqiɓ	ineseno, chipaya, nivacle, highlandoaxacachontal, kekchi	6	U+0078 U+0283
+xʃ$	xʃ	phuxʃ, noxʃ	chipaya, ineseno	5	U+0078 U+0283 U+0024
+xʼ	xʼ	ǂkʼxʼan, ǀkʼxʼaa	taa, juhoan, lakota, kwakiutl	50	U+0078 U+02bc
+y	y	aʂyʂkyl̪y, hyɾ̪yn̪	basque, yuracare, miskito, ineseno, estonian, jamamadi, chayahuita, bezhta, meriam, kamula, xicotepecdejuareztotonac, bangime, kanoe, baruya, murrinhpatha, jarawa	100	U+0079
+y$	y	nəwuy, ʃaʔy	ineseno, basque, kanoe, murrinhpatha, meriam, xicotepecdejuareztotonac, yuracare, bangime	64	U+0079 U+0024
+yy	yː	nyyd, fyyra	swedish, estonian	7	U+0079 U+0079
+yy$	yː	nyy	swedish	1	U+0079 U+0079 U+0024
+z	z	aze̞aze̞, nizo	ahtena, tarifit, katcha, savosavo, tsimshian, adyghe, guhusamane, georgian, gumuz, turkish, meriam, hruso, zarma, juhoan, cofan, bezhta, paez, taa, dime, marind, kanuri, yareba, kwakiutl, kiowa, ongota, djeoromitxi, kamasau, shatt, nivkh, bambassi, vietnamese, hadza, bankanteydogon, lule, swahili, kekchi	100	U+007a
+z$	z	kɯz, bɪz	turkish, paez, sheko, gumuz, kamasau, marind, dime, ahtena, tarifit, abun, nivkh, adyghe, tsimshian, hatam, bambassi	49	U+007a U+0024
+zh	zh	mazhiu, dzham	taa, hruso	3	U+007a U+0068
+zz	zz	azzəɾ, ħizza	tarifit, ongota	3	U+007a U+007a
+zz$	zz	jizz	dime	1	U+007a U+007a U+0024
+z̪	z̪	n̪d̪z̪ai, iz̪apu	kunimaipa, whitehmong, itelmen, lakota	72	U+007a U+032a
+z̪$	z̪	ŋaqaz̪, tʃe̞klkʼaz̪	itelmen	13	U+007a U+032a U+0024
+ã	ã	ᶢ!qãʕãʕ, ɾakãkãhɛ	waorani, pume, kaingang, yuwana, yagua, southernnambikuara, northernembera, maxakali, lakota, tuyuca, cofan, cayuvava, panoankatukina, chatino, taa, andaqui, amarakaeri, guarani, puinave, ninam, bari, rikbaktsa, shompeng, kiowa, paez, saliba, kwaza, karaja	100	U+00e3
+ã$	ã	põjã, bõ_wãwã	lakota, tuyuca, yuwana, chatino, taa, northernembera, waorani, pume, panoankatukina, kwaza, yagua, guarani, maxakali, cofan, southernnambikuara, saliba, bari, rikbaktsa, moseten, djeoromitxi, bangime, puinave, kanoe, kaingang	100	U+00e3 U+0024
+ãã	ãː	mããʔd̪a, xeaaidãão	kiowa, shompeng, bari, paez, waorani, cayuvava	27	U+00e3 U+00e3
+ãã$	ãː	iãã, n̪ãã	bari, taa, shompeng, chatino, paez, kiowa, tuyuca, alsea, bezhta, bangime	35	U+00e3 U+00e3 U+0024
+ã̰	ã̰	hã̰inusu, hã̰nusu	southernnambikuara	18	U+00e3 U+0330
+æ	æ	jæχjæqɪɪtʼæs, ɢætsqʼoldzæχ	tsimshian, nezperce, ket, maranunggu, awtuw, halkomelem, waorani, korean, estonian, hupde, seri, bezhta, berik, cayuvava	100	U+00e6
+æ$	æ	pæ, æ̃ibæ	nezperce, waorani, maranunggu, cayuvava, bezhta, tsimshian, seri, korean, halkomelem, ket, hupde, kamula, yele, berik	100	U+00e6 U+0024
+ææ	æː	hæælæækɪn̪̰ɪkæ, tʼmɬææm	nezperce, tsimshian, halkomelem, seri, bezhta, cayuvava	100	U+00e6 U+00e6
+ææ$	æː	mææ, bæχjææ	tsimshian, bezhta, seri, waorani, nezperce	17	U+00e6 U+00e6 U+0024
+æ̃	æ̃	tæ̃h, bæ̃bæ̃	waorani, hupde, kanoe, bezhta	100	U+00e6 U+0303
+æ̃$	æ̃	itẽkyokwæ̃, bæ̃bæ̃	waorani, kanoe	72	U+00e6 U+0303 U+0024
+æ̃æ̃	æ̃ː	tæ̃æ̃_kõta	waorani	1	U+00e6 U+0303 U+00e6 U+0303
+æ̃æ̃$	æ̃ː	tæ̃_wæ̃æ̃	waorani	1	U+00e6 U+0303 U+00e6 U+0303 U+0024
+ç	ç	paçikoçɯk, cçiɾkin	maxakali, imbaburaquechua, maranunggu, muniche, yukaghir, halkomelem, paez, kwaza, allentiac, greatandamanese	100	U+00e7
+ç$	ç	çohiç, çɯkɯç	maxakali, hupde, paez, maranunggu, halkomelem, yukaghir	100	U+00e7 U+0024
+çh	çh	waʔçhu, pɯçhep	paez, maxakali	2	U+00e7 U+0068
+çʼ	ç’	leçʼɛ, çʼiçʼɬææm	halkomelem	10	U+00e7 U+02bc
+ð	ð	t̪aaða, qðʔəʕ	tarifit, gaam	53	U+00f0
+ð$	ð	məəð, jaað	gaam, tarifit	16	U+00f0 U+0024
+õ	õ	põjã, tʃiktʃiɾõɾõ	waorani, djeoromitxi, maxakali, kiowa, tuyuca, yuwana, panoankatukina, rikbaktsa, amarakaeri, puinave, yagua, cofan, moseten, northernembera, bari, bezhta, shompeng, basque, kwaza, ninam, karaja	100	U+00f5
+õ$	õ	wẽtabõ, mõ	waorani, djeoromitxi, yuwana, tuyuca, yagua, rikbaktsa, puinave, panoankatukina, karaja, shompeng, moseten, kanoe, taa, cofan, ninam, guarani, kwaza	100	U+00f5 U+0024
+õõ	õ	gõõ_kæ, qõõʔtʔəmxt	alsea, waorani	2	U+00f5 U+00f5
+õõ$	õ	jõõ, dõõ	tuyuca, bari, waorani	7	U+00f5 U+00f5 U+0024
+õ̞	õ̞	sõ̞ko̞baxe̞, pãĩxõ̞te̞	saliba, fasu	10	U+00f5 U+031e
+õ̞$	õ̞	e̞mixõ̞, kau_hõ̞	saliba, fasu	3	U+00f5 U+031e U+0024
+õ̞õ̞$	õ̞	xũβõ̞õ̞	saliba	1	U+00f5 U+031e U+00f5 U+031e U+0024
+ø	ø	tøgøndel, ɬøwa	bezhta, yukaghir, korean, estonian	23	U+00f8
+ø$	ø	emdʒø, øʒø	yukaghir, bezhta, korean, wari	71	U+00f8 U+0024
+øø	øː	døøda, jøøra	swedish, estonian	18	U+00f8 U+00f8
+øø$	øː	ad̪øø, døø	yukaghir, swedish	6	U+00f8 U+00f8 U+0024
+ø̃	ø̃	tɬø̃wæ, hø̃ʃʃøna	bezhta	2	U+00f8 U+0303
+ħ	ħ	ɑħɑlɛr, wa_jəħɾi	teiwa, adyghe, tarifit, ongota	46	U+0127
+ħ$	ħ	bɑħ, qsəħ	teiwa, tarifit	8	U+0127 U+0024
+ĩ	ĩ	mĩkusua, ẽsĩwĩʔ	waorani, maxakali, tuyuca, yagua, cofan, djeoromitxi, kaingang, pume, saliba, chatino, kiowa, andaqui, amarakaeri, yuwana, northernembera, lakota, puinave, southernnambikuara, taa, guarani, ninam	100	U+0129
+ĩ$	ĩ	nĩ, hĩ	djeoromitxi, pume, kaingang, chatino, panoankatukina, tuyuca, manange, yagua, northernembera, lakota, waorani, bari, yuwana, taa, kwaza, guarani, cofan, southernnambikuara, rikbaktsa, kiowa, puinave, ayoreo, fasu	100	U+0129 U+0024
+ĩĩ	ĩː	tʃĩĩn, wĩĩ_waẽbõ	tuyuca, alsea, andaqui, waorani	6	U+0129 U+0129
+ĩĩ$	ĩː	akĩĩ, hĩĩ	bangime, bari, waorani, tuyuca, urarina, alsea, andaqui, chatino	23	U+0129 U+0129 U+0024
+ŋ	ŋ	suxiŋɛŋi, nargwaŋga	tiwi, peleata, djingili, mairasi, karas, northernsierramiwok, mali, kitja, murrinhpatha, guhusamane, bari, lencasalvador, gagadu, yimas, korean, baruya, shatt, amarakaeri, waris, southeastijo, gumuz, marind, jarawa, yangman, nunggubuyu, ayoreo, swahili, kaingang, gaam, limilngan, uncunwee, candoshishapra, thaidialectkorat, haidanorthern, seediq, savosavo, bangime, kamasau, deraindonesia, alawa, ngarinyin, nivkh, nakara, maasai, mandinka, miskito, bambassi, vietnamese, fur, bankanteydogon, manange, sarakabanaa, greatandamanese, berta, oroqen, sumerian	100	U+014b
+ŋ$	ŋ	maŋ, tʼɬʼuŋ	thaidialectkorat, vietnamese, tima, haidanorthern, sandawe, nimboran, manange, kaingang, sanapanaangaite, mali, washo, nunggubuyu, moro, limilngan, karas, uncunwee, sulka, shompeng, atakapa, rungakibet, mapudungun, maasai, jarawa, mandinka, maxakali, ket, kuot, soo, wageman, yukaghir, seediq, lencasalvador, hatam, allentiac, yimas, burushaski, whitehmong, korean, suri, dime, murrinhpatha, gumuz, yangman, itelmen, nara, greatandamanese, berta, gaam	100	U+014b U+0024
+ŋh	ŋh	iŋhapitik, uŋhae̞	korean, sanapanaangaite, ahtena, southeastijo, kaingang	9	U+014b U+0068
+ŋhw	ŋhw	tʃeoŋhwakhan̪	korean	1	U+014b U+0068 U+0077
+ŋs	ŋs	ʔaŋsi, koŋsop	northernsierramiwok, swedish, copainalazoque, sulka, allentiac	6	U+014b U+0073
+ŋsʼ	ŋsʼ	aŋsʼasʼir	berta	1	U+014b U+0073 U+02bc
+ŋs̪	ŋs̪	jeot̪oŋs̪æŋ, n̪amt̪oŋs̪æŋ	korean	6	U+014b U+0073 U+032a
+ŋw	ŋw	peheŋwe_ɾaɟɨ, peheŋwe_ɾaʔɨ	guarani, tiwi, baruya, gagadu, yele, hatam, alawa, bangime, yangman, zarma	35	U+014b U+0077
+ŋw$	ŋw	əŋw	tarifit	1	U+014b U+0077 U+0024
+ŋŋ	ŋŋ	haŋŋɨ, tʃʊŋŋʊrʊ	northernsierramiwok, swedish, oroqen, wageman, northalaskaninupiatun, fur, bankanteydogon, uncunwee, kaingang	34	U+014b U+014b
+ŋŋ$	ŋŋ	lɔŋŋ, tɵŋŋ	swedish	3	U+014b U+014b U+0024
+ŋʃ	ŋʃ	iŋʃaliŋ	lencasalvador	1	U+014b U+0283
+ŋʒ	ŋʒ	joŋʒø	yukaghir	1	U+014b U+0292
+œ	œ	wœntœpœɾ, wœnœŋœ	maranunggu, turkish, swedish	37	U+0153
+œ$	œ	pœlœ, pœnnœ	maranunggu	7	U+0153 U+0024
+ũ	ũ	hũnũtjã, kũkũj	oneida, yagua, kiowa, kanoe, hupde, tuyuca, kwaza, paez, andaqui, southernnambikuara, kaingang, chatino, yuwana, lakota, shompeng, ayoreo, northernembera, bezhta	100	U+0169
+ũ$	ũ	hũ, kʼõũ	yagua, oneida, kwaza, kiowa, tuyuca, chatino, taa, guarani, lakota, kanoe, kaingang, northernembera, bari, paez, urarina, rikbaktsa, southernnambikuara, bangime, hupde, fasu	100	U+0169 U+0024
+ũũ	ũ	jũũkwɛ, onũũtaʔ	paez, oneida, tuyuca, taa	17	U+0169 U+0169
+ũũ$	ũ	kũũ, pʃũũ	paez, taa, bangime, bari, tuyuca	8	U+0169 U+0169 U+0024
+ǀ	ǀ	huǀʔuǀʔume̞ko̞, taa_ᶢ!aʔn_ǀee	hadza, juhoan, taa, nama, sandawe	12	U+01c0
+ǁ	ǁ	hiǁʔi, o_ᶢǁoʕniᶢ!u	sandawe, hadza, taa, juhoan	8	U+01c1
+ǁh	ǁh	uʔǁhu	sandawe	1	U+01c1 U+0068
+ǂ	ǂ	goaʕǂʔan, ǂaʔabaǂaʔaba	juhoan, taa	3	U+01c2
+ɑ	ɑ	βɑnɑ_thu, βɑβɑlɑ	teiwa, seri, rumu, bamu, peleata, doromukoki, chachi, ambulas, shakacho, fasu, kitja, gooniyandi, odoodee	100	U+0251
+ɑ$	ɑ	hekɔt̪ɑ, tjɑɑpɑ	chachi, rumu, doromukoki, bamu, ambulas, peleata, fasu, odoodee, shakacho, seri, teiwa	100	U+0251 U+0024
+ɑɑ	ɑː	jɑɑk, kɑɑkɑɑ	shakacho, seri, chachi, swedish, yele, peleata, rumu	100	U+0251 U+0251
+ɑɑ$	ɑː	wɑɑ, kɑɑkɑɑ	yele, seri, chachi, peleata, shakacho, swedish	40	U+0251 U+0251 U+0024
+ɒ	ɒ	kɒtɒi_tɒu_kɒtɒi, tɒβirɒuto̞	rotokas, nivacle, tsimshian, waris	100	U+0252
+ɒ$	ɒ	ɒkukuɒ, kukue̞βɒ	rotokas, waris, nivacle, tsimshian	100	U+0252 U+0024
+ɒɒ	ɒː	pɒɒpɒɒto̞, tɒɒtɒɒto̞	rotokas	34	U+0252 U+0252
+ɓ	ɓ	ɪlɓʊsʊɓʊs, ɛmɓamɓa	southeastijo, maasai, swahili, movima, northernembera, kekchi, sarakabanaa, soo, shatt, uduk, sahu, katcha, gumuz, suri, vietnamese, tima, kwaza	100	U+0253
+ɓ$	ɓ	iʄiɓ, haɓ	kekchi, soo, uduk, maasai	37	U+0253 U+0024
+ɓw	ɓw	mɓwa, kuɓwa	swahili, kwaza	6	U+0253 U+0077
+ɔ	ɔ	kɔlɔs, hekɔt̪ɑ	cayuvava, swahili, mongolian, odoodee, arapaho, shatt, southeastijo, mandinka, ket, tima, yele, hatam, krenak, wayuu, southernpomo, katcha, hupde, bankanteydogon, karas, wageman, kiowa, zuni, rumu, nezperce, sarakabanaa, greatandamanese, ainu, oroqen, gaam, toaripi, swedish, shompeng, tunica, mali, maasai, vietnamese, kwakiutl, karaja, kaingang	100	U+0254
+ɔ$	ɔ	jɔ, bulɔ	mandinka, suri, swahili, odoodee, cayuvava, yele, kiowa, kaluli, sarakabanaa, katcha, southeastijo, vietnamese, kaingang, mongolian, krenak, zuni, southernpomo, karaja, ainu, soo, tima, thaidialectkorat, hatam, tunica, mali, pume, rumu, maasai, kwakiutl, oroqen, gaam	100	U+0254 U+0024
+ɔɔ	ɔː	sɛnɪɪsnɔɔkʊtʃɔɔʔ, hɔɔwɔθɔɔwɔ	arapaho, thaidialectkorat, tsimshian, kiowa, oroqen, mongolian, nezperce, bankanteydogon, tima, southernpomo, wayuu, zuni, gaam, sarakabanaa, greatandamanese, karaja, yele, rungakibet	100	U+0254 U+0254
+ɔɔ$	ɔː	nɛɪsɔnɔɔ, tʃɛnɛɛtɛɛjɔɔ	arapaho, yele, tsimshian, bankanteydogon, sarakabanaa, mongolian, thaidialectkorat, tima, southeastijo, swahili, mandinka, oroqen, gaam, suri, wayuu, nezperce, maasai, bangime	96	U+0254 U+0254 U+0024
+ɔɔɔ	ɔːɔ	hɪnɔɔɔx	arapaho	1	U+0254 U+0254 U+0254
+ɔɔɔ$	ɔːɔ	bɛtɛnɛjɔɔɔ, bɔhʔɔɔɔ	arapaho, sarakabanaa	4	U+0254 U+0254 U+0254 U+0024
+ɔ̃	ɔ̃	mitɔ̃ɾɛnɛ, pɔ̃pɔ̃h	pume, kiowa, hupde, cayuvava, krenak	68	U+0254 U+0303
+ɔ̃$	ɔ̃	hɔ̃, ʒoɔ̃	pume, kiowa, bangime, hupde, cayuvava, shompeng	37	U+0254 U+0303 U+0024
+ɔ̃ɔ̃	ɔ̃	t̪ʼɔ̃ɔ̃ʔgiɔ, mɔ̃ɔ̃jĩɔ̃	kiowa	6	U+0254 U+0303 U+0254 U+0303
+ɕ	ɕ	woɕ_iɕol_han, tɕuum_ɕauuʔtiɕt	alsea, japanese, atakapa, tehuelche, adyghe	86	U+0255
+ɕ$	ɕ	təmaaʔmiɕ, iɕ	alsea, atakapa, tehuelche, adyghe	44	U+0255 U+0024
+ɖ	ɖ	kaɖdja, naɖal	gagadu, nakara, djingili, tamil, wageman, uncunwee, murrinhpatha, gooniyandi, greatandamanese, whitehmong, jarawa, yangman, burushaski	100	U+0256
+ɖ$	ɖ	gaɖ, tateɖaɖ	gooniyandi, ngarinyin, djingili, jarawa	11	U+0256 U+0024
+ɖɖ	ɖɖ	uuɖɖu	jarawa	1	U+0256 U+0256
+ɗ	ɗ	uɗuɗu, aɗeɗe	maasai, katcha, northernembera, movima, swahili, kwaza, uduk, suri, berta, shatt, soo, southeastijo, dime, karaja, rungakibet	100	U+0257
+ɗ$	ɗ	meɗ, ʄuɗ	uduk, soo, gumuz	24	U+0257 U+0024
+ɗw	ɗw	ɓuʔũɗwa	kwaza	1	U+0257 U+0077
+ɗʒ	ɗʒ	nɗʒɛ, nɗʒia	swahili	3	U+0257 U+0292
+ɘ	ɘ	tʃʔungɘtʔo, iwebɘθe	karaja, moro, shakacho	22	U+0258
+ɘ$	ɘ	lajiɾɘ	karaja	4	U+0258 U+0024
+ə	ə	zəwəʔaʃən, aŋəɹiki	adyghe, natchez, wayuu, mali, jarawa, moro, enapaworomaipu, baruya, shatt, copainalazoque, nivkh, vietnamese, kwakiutl, tarifit, ninam, swedish, kitja, achumawi, ket, oroqen, tima, alsea, hupde, rungakibet, kanuri, kuot, sentani, sheko	100	U+0259
+ə$	ə	japə, mə	sentani, adyghe, wayuu, natchez, oroqen, kanuri, enapaworomaipu, yele, djeoromitxi, whitehmong, murrinhpatha, jarawa, kitja, vietnamese, copainalazoque, hruso, kuot, swedish, baruya, ninam	100	U+0259 U+0024
+əə	əː	məəð, kəələj	gaam, yele, oroqen, nisenan, wayuu, natchez, enapaworomaipu, jarawa	27	U+0259 U+0259
+əə$	əː	kəə, uləə	yele, oroqen, gaam, nisenan, ket	16	U+0259 U+0259 U+0024
+ə̃	ə̃	jiaɾə̃_boho, lə̃ɾe	karaja, ninam	11	U+0259 U+0303
+ə̃$	ə̃	eɾə̃, deiãθə̃	karaja	9	U+0259 U+0303 U+0024
+ɛ	ɛ	tʃɛsɛʔɛɪhɪɪ, dɛwtʼɛʔɛʃ	arapaho, peleata, cofan, odoodee, suri, southeastijo, washo, purepecha, paez, chachi, rumu, karas, turkish, yele, hatam, takelma, krenak, burushaski, bangime, shatt, bankanteydogon, kaluli, kaingang, ainu, soo, swedish, wageman, uncunwee, tima, coos, mali, halkomelem, wayuu, pume, djeoromitxi, southernpomo, katcha, teiwa, cayuvava, doromukoki, maasai, vietnamese, greatandamanese, gaam	100	U+025b
+ɛ$	ɛ	ɲaβɛ, õboɛ	cofan, rumu, bangime, cayuvava, paez, peleata, shatt, turkish, yele, burushaski, chachi, djeoromitxi, southernpomo, southeastijo, doromukoki, swahili, swedish, odoodee, hatam, halkomelem, zuni, pume, kwaza, katcha, maasai, ainu, soo, krenak, wayuu, arapaho, suri, rungakibet, washo, kaluli, gaam	100	U+025b U+0024
+ɛɛ	ɛː	tʃɛnɛɛtɛɛjɔɔ, bɛɛtʃɛt	arapaho, swedish, thaidialectkorat, gaam, chachi, coos, paez, wayuu, southernpomo, washo, tsimshian, oroqen, tima, yele, zuni, greatandamanese, takelma, burushaski, peleata, teiwa, southeastijo, maasai, bankanteydogon	100	U+025b U+025b
+ɛɛ$	ɛː	kɛɛ, abɛɛ	arapaho, yele, paez, tsimshian, bankanteydogon, swahili, gaam, bangime, sarakabanaa, thaidialectkorat, coos, takelma, peleata, swedish, tima, wayuu, chachi, zuni, suri, southernpomo, southeastijo, maasai, washo	87	U+025b U+025b U+0024
+ɛ̃	ɛ̃	jakhthɛ̃ʔh, mɛ̃mɛ̃ɾɛ̃pa	kaingang, pume, paez, cofan, shompeng, kwaza	80	U+025b U+0303
+ɛ̃$	ɛ̃	tʃõgɛ̃, nɛ̃	cofan, pume, kaingang, djeoromitxi, paez, kwaza, bangime, cayuvava	73	U+025b U+0303 U+0024
+ɜ	ɜ	okkɜbinɑ, okkɜbi	shakacho	36	U+025c
+ɜɜ	ɜː	kɜɜdʒdʒo	shakacho	1	U+025c U+025c
+ɟ	ɟ	guɟgaruɳaguɟgaruɳa, ruɟou	djingili, gagadu, wageman, garrwa, uncunwee, hruso, muruihuitoto, shompeng, guarani, hatam, alawa, gooniyandi, katcha, hupde, nivkh, gumuz, bankanteydogon, tima, savosavo, sandawe, suri, northernembera, jarawa, zarma, greatandamanese, gaam	100	U+025f
+ɟ$	ɟ	kaaɟ, aɟ	nivkh, djingili, shompeng, gaam, hupde, gooniyandi, gumuz, hatam	81	U+025f U+0024
+ɟh	ɟh	siɟhagin	nivkh	1	U+025f U+0068
+ɠ	ɠ	nɗuɠu, ʃaŋɠazi	swahili, maasai, soo, sahu, suri	60	U+0260
+ɠ$	ɠ	ɛɠ, aɪraɠ	soo, maasai	3	U+0260 U+0024
+ɠw	ɠw	keɓtʃat_ɠwek	soo	1	U+0260 U+0077
+ɢ	ɢ	dluʔliʔɢas, n̪aɢt̪s̪h_ax	mongolian, kwakiutl, ahtena, haidanorthern, whitehmong, nivkh, tsimshian, ket	85	U+0262
+ɢ$	ɢ	t̪ʊɢariɢ, pheŋɢ	mongolian, nivkh	2	U+0262 U+0024
+ɢs	ɢs	t̪s̪ɔɢsɔx	mongolian	1	U+0262 U+0073
+ɢw	ɢw	s̪ɢwaan̪, t̪ɬ̪aaɬ̪_ʔwaag_s̪ɢwaan̪s̪aŋ	haidanorthern	2	U+0262 U+0077
+ɣ	ɣ	aɣəlaɣuas, ikulaɻiɣamuɣi	mali, savosavo, tiwi, northalaskaninupiatun, turkish, lakota, nivkh, sulka, ket, georgian, maung, paez, huave, murrinhpatha, tarifit, mapudungun, oroqen, cofan, bangime, vietnamese	100	U+0263
+ɣ$	ɣ	mikwal̪_mutʃiiɣ, adʒdʒəɣ	huave, tarifit, turkish, maung, dime, mapudungun, ket	44	U+0263 U+0024
+ɣs$	ɣs	eɣs	nivkh	1	U+0263 U+0073 U+0024
+ɣw	ɣw	kuɲa_ɣwãiɣwĩ, taɣwe	guarani	13	U+0263 U+0077
+ɣɣ	ɣɣ	iɣɣəð, iɣɣiaq	northalaskaninupiatun, tarifit	2	U+0263 U+0263
+ɤ	ɤ	ibɤi, sɤtse	puinave, estonian, thaidialectkorat	76	U+0264
+ɤ$	ɤ	sɤnɤ, jɤ	puinave	4	U+0264 U+0024
+ɤɤ	ɤː	t̪haaŋ_d̪ɤɤn̪, bɤɤŋ	thaidialectkorat, estonian	3	U+0264 U+0264
+ɤɤ$	ɤː	s̪a_mɤɤ, khii_t̪hɤɤ	thaidialectkorat, puinave	4	U+0264 U+0264 U+0024
+ɤ̃	ɤ̃	hɤ̃iwãi, hɤ̃iwãida	puinave, pume	25	U+0264 U+0303
+ɤ̃$	ɤ̃	nɤ̃, to_takɤ̃	pume	7	U+0264 U+0303 U+0024
+ɥ	ɥ	kuɥi, bʊɥɪɛ	bangime	8	U+0265
+ɦ	ɦ	udanpiɾappin_maɦan, maɦan	tamil, shompeng	39	U+0266
+ɨ	ɨ	gɨpɨn, t̪ɨmmalɨ	guarani, gununakune, ambulas, enapaworomaipu, rikbaktsa, muniche, vietnamese, chayahuita, northernsierramiwok, ineseno, itonama, panoankatukina, nisenan, muinane, aguaruna, muruihuitoto, bari, cofan, tol, whitehmong, trumai, kwaza, yuwana, tima, yele, bororo, taushiro, guahibo, dime, ket, karaja, kaingang, purepecha, tuyuca	100	U+0268
+ɨ$	ɨ	t̪ɨmmalɨ, aʔxɨ	northernsierramiwok, gununakune, taushiro, karaja, yuwana, muinane, muruihuitoto, ambulas, rikbaktsa, muniche, guahibo, cayuvava, guarani, cofan, panoankatukina, nimboran, whitehmong, aguaruna, enapaworomaipu, purepecha, itonama, nisenan, yele, bororo, tol, trumai, kaingang, tuyuca, chayahuita	100	U+0268 U+0024
+ɨɨ	ɨː	pexianɨɨjoo, jatsut_ɨɨmkau	guahibo, muinane, thaidialectkorat, northernsierramiwok, enapaworomaipu, nisenan, aguaruna, bari, cayuvava, sulka, yele, tuyuca, takelma	79	U+0268 U+0268
+ɨɨ$	ɨː	paxuanɨɨ, pexianɨɨ	guahibo, thaidialectkorat, yele, nisenan, karaja, muinane, tuyuca, aguaruna, ket	46	U+0268 U+0268 U+0024
+ɨ̃	ɨ̃	sõwɨ̃bãkõ, sõwɨ̃bãkɨ̃	tuyuca, kwaza, panoankatukina, yuwana, cofan, guarani, kaingang, hupde, bari	82	U+0268 U+0303
+ɨ̃$	ɨ̃	sõwɨ̃bãkɨ̃, jẽkɨ̃	tuyuca, kwaza, yuwana, kaingang, rikbaktsa, panoankatukina, guarani	74	U+0268 U+0303 U+0024
+ɨ̃ɨ̃	ɨ̃	atɨ̃ɨ̃tã_aβaɾakamɛ	cayuvava	1	U+0268 U+0303 U+0268 U+0303
+ɨ̃ɨ̃$	ɨ̃	sɨ̃ɨ̃, õpɨ̃ɨ̃	tuyuca, bari	4	U+0268 U+0303 U+0268 U+0303 U+0024
+ɪ	ɪ	hæælæækɪn̪̰ɪkæ, waqʼɪswɪtɪn	nezperce, arapaho, wageman, alawa, limilngan, southeastijo, southernpomo, swedish, basque, burushaski, tsimshian, maasai, soo, karas, bangime, oroqen, uncunwee, turkish	100	U+026a
+ɪ$	ɪ	laɻɪ, mɯ̞rjɪ	alawa, limilngan, basque, wageman, southeastijo, tsimshian, arapaho, southernpomo, turkish, nezperce, maasai, oroqen	100	U+026a U+0024
+ɪɪ	ɪː	tʃɛbɪɪsɪhɪhɪɪtɛɛnɪɪhɪʔ, bɪɪkɔʊsɪɪs	arapaho, nezperce, tsimshian, southernpomo, southeastijo	100	U+026a U+026a
+ɪɪ$	ɪː	n_tɪɪ, kɪɪ	arapaho, nezperce, tsimshian, bangime, limilngan, oroqen, southernpomo	34	U+026a U+026a U+0024
+ɪɪɪ	ɪːɪ	bɛsɪɪɪsɛʔ, nɪɪɪt	arapaho	3	U+026a U+026a U+026a
+ɪɪɪ$	ɪːɪ	bɪɪɪ	arapaho	1	U+026a U+026a U+026a U+0024
+ɪ̃ɪ̃$	ɪ̃ː	gɪ̃ɪ̃	bangime	1	U+026a U+0303 U+026a U+0303 U+0024
+ɬ	ɬ	tʃoiɬaɬa, tɬakwuɬk	chinook, xicotepecdejuareztotonac, bezhta, sanapanaangaite, movima, halkomelem, kwakiutl, coos, alsea, wintu, seri, highlandoaxacachontal, hadza, alabama, nivacle, tsimshian, quileute, atakapa, ahtena, northalaskaninupiatun, adyghe	100	U+026c
+ɬ$	ɬ	ɑnoɬ, tʃitʃeɬ	seri, chinook, halkomelem, coos, quileute, highlandoaxacachontal, movima, gununakune, nivacle, alsea, bezhta, kwakiutl, xicotepecdejuareztotonac, wintu, trumai, tsimshian, ahtena	100	U+026c U+0024
+ɬh	ɬh	ɛkwtɬhɛtʃ, opeɬhost	chinook, coos	7	U+026c U+0068
+ɬh$	ɬh	ɬzaathɬh, tɬokwunɬh	chinook, ahtena	2	U+026c U+0068 U+0024
+ɬw	ɬw	qatʼsʼaqwoɬwa, mankoɬkak_awaɬwok	sanapanaangaite, chinook, gununakune, quileute	7	U+026c U+0077
+ɬwh	ɬwh	xɬwhaiit	chinook	1	U+026c U+0077 U+0068
+ɬɬ	ɬɬ	shuɬɬojapa, tiɬɬikhum	chinook, alabama	9	U+026c U+026c
+ɬʃ	ɬʃ	taqaɬʃqaʔpaaʔta	xicotepecdejuareztotonac	1	U+026c U+0283
+ɬʼ	ɬʼ	tʼɬʼuŋ, ẽχetʼɬʼaltʼɬʼaaẽtʼɬʼe	halkomelem, quileute, bezhta, kwakiutl, sandawe, ahtena, wintu, highlandoaxacachontal, coos, adyghe, hadza, chinook	100	U+026c U+02bc
+ɬʼ$	ɬʼ	ɬawutʼɬʼ, tʃmitɬʼ	highlandoaxacachontal, halkomelem, ahtena, bezhta, chinook, sandawe	17	U+026c U+02bc U+0024
+ɬʼw	ɬʼw	tʼɬʼwe̞e̞, tʼɬʼwaŋ	sandawe, coos	4	U+026c U+02bc U+0077
+ɬ̪	ɬ̪	t̪ɬ̪aaɬ̪_ʔwaag_s̪ɢwaan̪s̪aŋ, t̪ɬ̪aaɬ̪_ʔwaag_s̪d̪aŋ	haidanorthern, zuni	48	U+026c U+032a
+ɬ̪$	ɬ̪	ʕkan̪t̪ɬ̪, ɬ̪ʕkʊn̪aɬ̪	haidanorthern	17	U+026c U+032a U+0024
+ɬ̪ɬ̪	ɬ̪ɬ̪	ʔɛɬ̪ɬ̪a, ʔuɬ̪ɬ̪a	zuni	2	U+026c U+032a U+026c U+032a
+ɬ̪ʼ	ɬ̪ʼ	t̪ʼɬ̪ʼan̪ʊʊ, s̪t̪ʼɬ̪ʼaan̪aa	haidanorthern	10	U+026c U+032a U+02bc
+ɭ	ɭ	muɭa, nmunabaɭa	alawa, ngarluma, maung, yangman, tiwi, nunggubuyu, limilngan, gooniyandi, djingili, murrinhpatha, nakara, kitja, gagadu, wageman, tamil	100	U+026d
+ɭ$	ɭ	mukuɭ, t̪urrkuɭ	tamil, murrinhpatha, limilngan, ngarluma, ngarinyin, yangman, gagadu, kitja, wageman, alawa, jarawa, maung	40	U+026d U+0024
+ɭw	ɭw	ŋaɭwak, waɭwat	maung, nunggubuyu	4	U+026d U+0077
+ɮ	ɮ	qaɮɔq, saɮxiɮax	mongolian, ket, ahtena, adyghe	100	U+026e
+ɮ$	ɮ	de̞ɮ, ɨɨɮ	ket, mongolian, ahtena	43	U+026e U+0024
+ɮs	ɮs	ɵt̪hɵɮsɵn̪, pɔɮsɔn̪	mongolian	3	U+026e U+0073
+ɮs$	ɮs	ʃuɮs	mongolian	1	U+026e U+0073 U+0024
+ɮs̪$	ɮs̪	qɔt̪iɮs̪	ket	1	U+026e U+0073 U+032a U+0024
+ɮ̪	ɮ̪	d̪ɮ̪ʊʊ, d̪ɮ̪agad̪aal̪	haidanorthern	3	U+026e U+032a
+ɯ	ɯ	jɯpɯʃɯpɯ, gɯɻɯgɯɻɯ	mapudungun, maxakali, turkish, gooniyandi, korean, huave, japanese, ninam, northernembera, puinave, nezperce, tsimshian, pume	100	U+026f
+ɯ$	ɯ	kurɯ, hɯ	japanese, mapudungun, gooniyandi, pume, northernembera, turkish, ninam, nezperce, maxakali, korean, puinave, tsimshian	100	U+026f U+0024
+ɯɯ	ɯː	nɯɯn, nɯɯm	nezperce, tsimshian, japanese, huave, maxakali	32	U+026f U+026f
+ɯɯ$	ɯː	sɯɯ, kɯɯ	nezperce, tsimshian, japanese	10	U+026f U+026f U+0024
+ɯ̃	ɯ̃	hɯ̃ũɯ̃rɯ̃ã, jɯ̃mɯ̃ŋ	maxakali, northernembera, ninam, pume	33	U+026f U+0303
+ɯ̃$	ɯ̃	çõnnɯ̃, mɯ̃	northernembera, maxakali, ninam	9	U+026f U+0303 U+0024
+ɯ̞	ɯ̞	gɯ̞lɯ̞ŋga, ŋgɯ̞ɹɯ̞gɯ̞ɹɯ̞	alawa	100	U+026f U+031e
+ɯ̞$	ɯ̞	ŋabɯ̞lɯ̞, andabɯ̞rgɪjɯ̞nɯ̞	alawa	48	U+026f U+031e U+0024
+ɰ	ɰ	kaɰa_o_mɯkɯ, kaɰakɯ	japanese, lavukaleve	17	U+0270
+ɰ$	ɰ	hoithuɰ	lavukaleve	1	U+0270 U+0024
+ɲ	ɲ	maɲkaɲkʎ, dɨkɲɨɲba	aymara, tiwi, yimas, maasai, ambulas, cofan, wageman, chatino, maung, taa, moseten, mocovi, suri, kamasau, enapaworomaipu, sarakabanaa, moro, kaingang, limilngan, uncunwee, muinane, imbaburaquechua, krenak, kayardild, rungakibet, mandinka, gaam, urarina, sanapanaangaite, basque, savosavo, saliba, muruihuitoto, nivkh, cayuvava, guarani, mapudungun, nunggubuyu, djingili, ngarluma, swahili	100	U+0272
+ɲ$	ɲ	miɲ, tʌɲ	moseten, kaingang, maranunggu, vietnamese, wageman, mapudungun, basque, gaam, kamasau, rungakibet, limilngan, maung, nivkh, ambulas, soo, uduk, uncunwee, chipaya, hruso, maasai, shatt, gooniyandi, fur, djingili, greatandamanese, moro	100	U+0272 U+0024
+ɲh	ɲh	yɲhyɾ̪ɪ	basque	1	U+0272 U+0068
+ɲw	ɲw	kãɲwɨ, ɸɛ_kãɲwɨ	kaingang, kwaza, swahili, moro	5	U+0272 U+0077
+ɲɲ	ɲɲ	siiʁʎiɲɲaq, wɪrɪɲɲa	northalaskaninupiatun, wageman	3	U+0272 U+0272
+ɲ̊	ɲ̊	uɲ̊aɾi, aɲ̊ua	ayoreo	2	U+0272 U+030a
+ɳ	ɳ	maɳdamaɳda, maɻaŋaɳjaabugij_maɻaŋaɳjaabugij_wulawa_aɳjaabugij	ngarluma, djingili, nunggubuyu, tiwi, gooniyandi, garrwa, limilngan, kayardild, maung, wageman, murrinhpatha, alawa, nakara, yangman, gagadu, kitja	100	U+0273
+ɳ$	ɳ	maɳmaɳ, yuliɳ	murrinhpatha, ngarluma, maung, tamil, yangman, wageman, nunggubuyu, gagadu	29	U+0273 U+0024
+ɳw	ɳw	waɳwaɳin	yangman	1	U+0273 U+0077
+ɳɳ	ɳɳ	aɳɳan, ʈaɳɳiiɾ	tamil	3	U+0273 U+0273
+ɵ	ɵ	ɵβɵg_et̪s̪heg, ɵt̪hɵɮsɵn̪	mongolian, swedish	59	U+0275
+ɵ$	ɵ	ɵmn̪ɵ, ʃɵn̪ɵ	mongolian	5	U+0275 U+0024
+ɵɵ	ɵː	t̪s̪ɵɵɮɵn̪, t̪s̪hɵɵn̪	mongolian	7	U+0275 U+0275
+ɸ	ɸ	ɑɸɑt, eɸedʒa	moskona, muruihuitoto, yareba, trumai, jamamadi, muinane, fasu, teiwa, kaingang, kamasau, odoodee, itelmen, imbaburaquechua, paez, atakapa, shompeng	100	U+0278
+ɸ$	ɸ	oɸ, ha_laɸ	moskona, teiwa, trumai, itelmen, kamasau, paez, seri	31	U+0278 U+0024
+ɸs	ɸs	eɸsa	moskona	2	U+0278 U+0073
+ɸʃ	ɸʃ	ɑɸʃχ, ɑɑɸʃχ	seri	2	U+0278 U+0283
+ɹ	ɹ	aŋəɹiki, galŋɯ̞ɹgŋɯ̞ɹg	alawa, maung, purepecha, mali, yangman, northalaskaninupiatun, tol	100	U+0279
+ɹ$	ɹ	mbɪnhɯ̞ɹ	alawa	1	U+0279 U+0024
+ɹw	ɹw	kɛɹwkun	maung	1	U+0279 U+0077
+ɺ	ɺ	mamawaɺa, tatawaɺa	wayuu, paez	100	U+027a
+ɺ$	ɺ	kusɛ_piɺ, niimaɺ	paez	4	U+027a U+0024
+ɻ	ɻ	jaɻputa, laɻɪ	tiwi, kayardild, nunggubuyu, wageman, gooniyandi, tamil, djingili, garrwa, murrinhpatha, gagadu, burushaski, limilngan	100	U+027b
+ɻ$	ɻ	uuɻ, giɾaɻ	burushaski, nunggubuyu, gooniyandi, wageman	8	U+027b U+0024
+ɻw	ɻw	taɻwuʎta, maiɲpiɻwaɭɪ	limilngan, kayardild	2	U+027b U+0077
+ɽ	ɽ	noɽanoɽa, waɽu	kaluli, maung, guhusamane, nakara, baruya, kunimaipa, uncunwee, urarina, moro, rikbaktsa, ngarluma, tima, yamana, greatandamanese, jarawa	100	U+027d
+ɽ$	ɽ	imawuɽ, gavaɽ	maung, kaluli, kunimaipa, guhusamane	25	U+027d U+0024
+ɽw	ɽw	juɽwiɹi, lɘɽwa	maung, moro	4	U+027d U+0077
+ɽɽ	ɽɽ	baɽɽa	uncunwee	1	U+027d U+027d
+ɽʃ	ɽʃ	ɪɽʃu	uncunwee	2	U+027d U+0283
+ɾ	ɾ	maɾaɾima, upeɾiɾe	doromukoki, chipaya, gagadu, pawnee, maasai, yareba, ninam, yuwana, japanese, warao, krenak, ngarinyin, guarani, tamil, yawa, movima, pume, bamu, tuyuca, kamasau, muruihuitoto, karok, fasu, karaja, chayahuita, yagua, rikbaktsa, candoshishapra, itonama, wari, arabela, muinane, yimas, moseten, maranunggu, rumu, djeoromitxi, kwaza, amarakaeri, gooniyandi, qawasqar, yaqui, aymara, yangman, kanuri, kanoe, ayoreo, tiwi, cavinena, awtuw, kaingang, sheko, sumerian	100	U+027e
+ɾ$	ɾ	eŋiɾ, kaɾ	kunza, qawasqar, kaingang, sumerian, ainu, yawa, maranunggu, gagadu, tarifit, sheko, kamasau, maasai, yangman, pawnee, ngarinyin, karok, limilngan, sandawe, suri, dime, kanuri, awtuw	100	U+027e U+0024
+ɾh	ɾh	taɾho, feɾhki	moseten, qawasqar, karok	4	U+027e U+0068
+ɾs	ɾs	jeɾsas, kunaɾsa	qawasqar, moseten, dime, aymara, kanuri	10	U+027e U+0073
+ɾs$	ɾs	flauɾs	yamana	1	U+027e U+0073 U+0024
+ɾw	ɾw	ejxjoljeɾwasqaj, jeɾwotaq	qawasqar, maranunggu, kanuri, kwaza, yimas, gooniyandi, ainu, yangman, gagadu	37	U+027e U+0077
+ɾw$	ɾw	hɛhɛpoɾw	rumu	1	U+027e U+0077 U+0024
+ɾɾ	ɾɾ	ɓuɾɾaj, kuɾɾutɔ	suri, kanuri, sumerian	8	U+027e U+027e
+ɾʃ	ɾʃ	mpooɾʃi	candoshishapra	1	U+027e U+0283
+ɾʃ$	ɾʃ	khuɾʃ, tʃeɾʃ	chipaya	2	U+027e U+0283 U+0024
+ɾʐ	ɾʐ	gooɾʐn	sheko	1	U+027e U+0290
+ɾ̪	ɾ̪	ʂo̞ɾ̪o̞t̪s̪, huɾ̪a	basque, huave	100	U+027e U+032a
+ɾ̪$	ɾ̪	akwiɯɾ̪, an̪d̪o̞ɾ̪	huave, basque	13	U+027e U+032a U+0024
+ɾ̪h	ɾ̪h	e̞ɾ̪hawʈʂ	basque	1	U+027e U+032a U+0068
+ɾ̪ʂ	ɾ̪ʂ	yɾ̪ʂaɲ_e̞gɪn̪, he̞ɾ̪ʂɪ	basque	2	U+027e U+032a U+0282
+ʁ	ʁ	lqaiʔlaʁat, eʁjeʁɟ	mocovi, northalaskaninupiatun, nivkh, ahtena, yukaghir, bezhta, adyghe, ket	100	U+0281
+ʁ$	ʁ	tʼɬʼo̞ʁ, hɔʁ	ket, ahtena, bezhta, adyghe, nivkh	14	U+0281 U+0024
+ʁsʼ	ʁsʼ	ʔəʁsʼe, ʔəʁsʼi	dime	2	U+0281 U+0073 U+02bc
+ʁw	ʁw	təʁwaas, zpʁwə_χwʁa	adyghe	9	U+0281 U+0077
+ʁw$	ʁw	bʁw, tʼsʼəf_aaɕəʁw	adyghe	4	U+0281 U+0077 U+0024
+ʁʁ	ʁʁ	maʁʁaɹaaq, iʁʁi	northalaskaninupiatun	3	U+0281 U+0281
+ʂ	ʂ	aʂyʂkyl̪y, aijʌʂ_ʂɪqʌm	basque, candoshishapra, panoankatukina, burushaski, muniche, sheko, whitehmong, chipaya, adyghe, tamil, yuracare	100	U+0282
+ʂ$	ʂ	tiiʂ, tʃhiʂ	burushaski, basque, sheko, panoankatukina, whitehmong, chipaya	26	U+0282 U+0024
+ʂw	ʂw	aaʂħazaaʂwa, jaʑaaʂwa	adyghe	3	U+0282 U+0077
+ʃ	ʃ	ʔapiʃi, kaʃtiliʃlaila	wari, tunica, candoshishapra, natchez, chipaya, chachi, huave, bari, highlandoaxacachontal, wappo, dime, lakota, yamana, piraha, berta, kekchi, seri, panoankatukina, nivacle, basque, cuitlatec, aguaruna, ineseno, washo, ninam, adyghe, karaja, sumerian, uduk, uncunwee, georgian, chatino, krenak, mocovi, trumai, wayuu, cayuvava, maasai, bambassi, kanuri, purepecha, sheko	100	U+0283
+ʃ$	ʃ	ʃeʃ, uʃ	chipaya, natchez, karok, yamana, washo, sumerian, huave, uduk, turkish, ineseno, kekchi, moseten, trumai, aguaruna, bambassi, nivacle, paez, wappo, dime, tarifit, chinook, berta, seri, panoankatukina, bezhta, mongolian, georgian, cuitlatec, burushaski, gumuz, achumawi, rungakibet	100	U+0283 U+0024
+ʃh	ʃh	kokeneeʃhə, eʃhə	natchez, southernpomo	12	U+0283 U+0068
+ʃh$	ʃh	kwəleeʃh, epeʃh	natchez	11	U+0283 U+0068 U+0024
+ʃs	ʃs	aʃsum, paʃsi	moseten, tarifit	2	U+0283 U+0073
+ʃw	ʃw	uʃwam, tʃhiʃwi	yamana, kwaza, adyghe, tarifit, chipaya, highlandoaxacachontal	14	U+0283 U+0077
+ʃw$	ʃw	kʼəʃw, pχaaʃw	adyghe	2	U+0283 U+0077 U+0024
+ʃʂ	ʃʂ	ʂoʃʂama, ʂoʃʂa	panoankatukina	2	U+0283 U+0282
+ʃʃ	ʃʃ	ɬ̪aʃʃikʼji, nəʃʃin	zuni, tarifit, bezhta, hruso, chipaya, kunza	19	U+0283 U+0283
+ʃʃ$	ʃʃ	iʃʃ, nəʃʃ	tarifit	2	U+0283 U+0283 U+0024
+ʃʼ	ʃʼ	waʃʼake_ʃni, waʃʼakã	lakota, adyghe	3	U+0283 U+02bc
+ʃʼw	ʃʼw	maaʃʼwa, ʔaʃʼwʁaakʼ	adyghe	2	U+0283 U+02bc U+0077
+ʃʼw$	ʃʼw	ʔaʃʼw	adyghe	1	U+0283 U+02bc U+0077 U+0024
+ʄ	ʄ	mʄukuu, mʄɔmɓa	swahili, maasai, soo, suri	46	U+0284
+ʄ$	ʄ	ɔʄ, aʄ	soo, maasai	10	U+0284 U+0024
+ʈ	ʈ	paʈupaʈu, waʈawaʈaʈ	kayardild, greatandamanese, nunggubuyu, wageman, tiwi, salinan, burushaski, maung, uncunwee, tamil, jarawa, kitja, manange, murrinhpatha, whitehmong	100	U+0288
+ʈ$	ʈ	leʈ, waʈawaʈaʈ	burushaski, murrinhpatha, nunggubuyu, greatandamanese, salinan, esselen, maung, kitja	31	U+0288 U+0024
+ʈh	ʈh	_ɔʈhotoaʈhuekaʈa, araçuluʈhuo	jarawa, greatandamanese	27	U+0288 U+0068
+ʈh$	ʈh	biʈh	greatandamanese	1	U+0288 U+0068 U+0024
+ʈʂ	ʈʂ	uʈʂiʎa, kuʈʂu	imbaburaquechua, mapudungun, sheko, basque, candoshishapra, muniche	65	U+0288 U+0282
+ʈʂ$	ʈʂ	hauʈʂ, kooʈʂ	basque, sheko	6	U+0288 U+0282 U+0024
+ʈʂh	ʈʂh	haʈʂhar̪	basque	1	U+0288 U+0282 U+0068
+ʈʈ	ʈʈ	oʈʈɔek	greatandamanese	1	U+0288 U+0288
+ʉ	ʉ	nʉkʉe, kwitʉkʉa	urarina	31	U+0289
+ʉ$	ʉ	kʉ, kakʉnʉ	urarina	14	U+0289 U+0024
+ʉʉ	ʉː	flʉʉga, hʉʉvɵd	swedish, urarina	19	U+0289 U+0289
+ʉʉ$	ʉː	ʍʉʉ, nʉʉ	swedish	3	U+0289 U+0289 U+0024
+ʉ̃$	ʉ̃	kakaʉ̃, mãʉ̃	urarina, northernembera	6	U+0289 U+0303 U+0024
+ʉ̃ʉ̃$	ʉ̃	ekʉ̃ʉ̃	urarina	1	U+0289 U+0303 U+0289 U+0303 U+0024
+ʊ	ʊ	gʊlʊgʊlʊ, kʊmʊintʃi	wageman, chachi, karok, haidanorthern, southeastijo, burushaski, limilngan, arapaho, soo, turkish, tima, maasai, mongolian, oroqen, southernpomo, swedish	100	U+028a
+ʊ$	ʊ	phʊ, nɑrɑhʊ	chachi, southernpomo, southeastijo, maasai, turkish, wageman, arapaho, limilngan, uncunwee, karok, oroqen	100	U+028a U+0024
+ʊʊ	ʊː	kʊʊt̪, t̪ʊʊn̪	karok, mongolian, haidanorthern, arapaho, southernpomo, chachi, southeastijo, oroqen	76	U+028a U+028a
+ʊʊ$	ʊː	t̪ʼɬ̪ʼan̪ʊʊ, t̪ɬ̪ʊʊ	haidanorthern, mongolian, arapaho, southeastijo	34	U+028a U+028a U+0024
+ʋ	ʋ	aʋa, sɨ_kɨʋɨ	guarani, estonian, moseten, tamil, bangime	82	U+028b
+ʋ$	ʋ	teraʋ, kuiʋ	estonian	12	U+028b U+0024
+ʌ	ʌ	imʌnʌ_idʌwun, aijʌʂ_ʂɪqʌm	burushaski, tima, manange, kaingang	100	U+028c
+ʌ$	ʌ	nʌ, apt̪hjʌpʌ	manange, tima, kaingang	86	U+028c U+0024
+ʌʌ	ʌː	t̪ʌʌhwʌj, ŋʌnʌʌk	tima	2	U+028c U+028c
+ʌʌ$	ʌː	kwʌʌ	tima	1	U+028c U+028c U+0024
+ʌ̃	ʌ̃	atʌ̃hnũtel, ta_tʌ̃_tʌ̃ɾʌ̃ɾ_hɛ	oneida, kaingang	38	U+028c U+0303
+ʌ̃$	ʌ̃	ʌ̃hwatʌ̃, nʌ̃	oneida, kaingang	42	U+028c U+0303 U+0024
+ʌ̃ʌ̃	ʌ̃	kʌ̃ʌ̃je, jawʌ̃ʌ̃le_ahsʌ̃	oneida	11	U+028c U+0303 U+028c U+0303
+ʍ	ʍ	sanaaʍawli, khanʍə	swedish, ahtena, klamath, takelma	5	U+028d
+ʍ$	ʍ	qhaʍ, iltsʔhakʍ	takelma, klamath	3	U+028d U+0024
+ʎ	ʎ	aʎa, øjʎø	imbaburaquechua, mapudungun, yele, yukaghir, northalaskaninupiatun, kayardild, yimas, itelmen, ngarluma, gooniyandi, mocovi, chipaya, ngarinyin, basque, limilngan, kitja, cavinena, aymara	100	U+028e
+ʎ$	ʎ	lilixʎ, tmaʎ	yimas, itelmen, yukaghir	29	U+028e U+0024
+ʎw	ʎw	tʃaʎwa	mapudungun	1	U+028e U+0077
+ʎʃ$	ʎʃ	maʎʃ	chipaya	1	U+028e U+0283 U+0024
+ʎʎ	ʎʎ	iʎʎø, piiʎʎiuq	northalaskaninupiatun, yukaghir	2	U+028e U+028e
+ʏ	ʏ	sʏsthər, sʏsthərdɔtthər	swedish	14	U+028f
+ʐ	ʐ	tʂau_ʐo, muə_ʐo	whitehmong, adyghe	6	U+0290
+ʑ	ʑ	oʑi, miʑikai	japanese, adyghe, baruya	19	U+0291
+ʑ$	ʑ	nanaʑ, daʑ	adyghe	5	U+0291 U+0024
+ʒ	ʒ	t̪xakoʒa, t̪xoʒã	lakota, yukaghir, bezhta, gumuz, adyghe, tarifit, juhoan, georgian, bangime, mairasi, sheko	63	U+0292
+ʒ$	ʒ	tataʒ, ʒaaʒ	adyghe, sheko, tarifit, mairasi	13	U+0292 U+0024
+ʒw	ʒw	məʒwa, tjawəʒwntxan	adyghe	2	U+0292 U+0077
+ʒw$	ʒw	ʔwəʒw, zaʒw	adyghe	2	U+0292 U+0077 U+0024
+ʒʒ	ʒʒ	θmiʒʒa, θaʕəʒʒaʃθ	tarifit	5	U+0292 U+0292
+ʔ	ʔ	ati_ʔuʔuimaʔu, babaʔaʔdusu	alsea, cofan, southernnambikuara, chatino, taa, sahu, xicotepecdejuareztotonac, mocovi, wayuu, guhusamane, shakacho, juhoan, nivacle, lencasalvador, taushiro, ongota, moseten, yana, southernpomo, amarakaeri, wappo, copainalazoque, achumawi, washo, hadza, kwakiutl, itonama, klamath, tima, wageman, northernsierramiwok, panoankatukina, quileute, muinane, kiowa, tunica, paez, trumai, tsimshian, arapaho, chachi, warapu, baruya, pawnee, kamasau, hupde, tarifit, oneida, yaqui, mailu, piraha, enapaworomaipu, cavinena, berta, chayahuita	100	U+0294
+ʔ$	ʔ	onʌ̃tshaʔ, piiɾuʔ	pawnee, wari, ahtena, chatino, arapaho, oneida, wappo, ayoreo, chayahuita, highlandoaxacachontal, amarakaeri, hupde, nivacle, salinan, washo, moseten, teiwa, kwakiutl, kekchi, seri, quileute, xicotepecdejuareztotonac, kiowa, mocovi, trumai, ineseno, tarifit, achumawi, karok	100	U+0294 U+0024
+ʔh	ʔh	tʔhoos, khcʔhathel	salinan, takelma, taushiro, xicotepecdejuareztotonac, alsea, juhoan, wappo, cofan, paez, moseten, muniche, movima, southernnambikuara, zuni	82	U+0294 U+0068
+ʔh$	ʔh	jakhthɛ̃ʔh, ʈʔophokʔh	paez, salinan	25	U+0294 U+0068 U+0024
+ʔs	ʔs	htaʔsɨɾa, jaʔsion	muniche, cofan, amarakaeri, kwakiutl, xicotepecdejuareztotonac, oneida, sandawe, moseten, copainalazoque, salinan, kiowa, paez, southernnambikuara, lencasalvador, washo, itonama, chayahuita	47	U+0294 U+0073
+ʔs$	ʔs	qæpsɪʔs, pɛʔs	paez, nivacle, kwakiutl, nezperce, ineseno, klamath, achumawi, washo	28	U+0294 U+0073 U+0024
+ʔsw	ʔsw	aʔswʌ̃ʔt	oneida	1	U+0294 U+0073 U+0077
+ʔs̪	ʔs̪	khotʔs̪eʔ, tal̪apʔs̪a	yana, wappo, ket	7	U+0294 U+0073 U+032a
+ʔs̪$	ʔs̪	t̪əʔs̪, kæʔs̪	ket	4	U+0294 U+0073 U+032a U+0024
+ʔw	ʔw	haʔwaʔwaʔ_ʔita_lakaʔ, waʔwiʃin	quileute, mocovi, chayahuita, chatino, amarakaeri, washo, taushiro, southernpomo, achumawi, haidanorthern, paez, tehuelche, kwakiutl, adyghe, nivacle, mojave, movima, tsimshian, oneida, itonama, wageman, cofan, northernsierramiwok, lencasalvador, yana, chachi, zuni, ineseno, tarifit, shakacho	100	U+0294 U+0077
+ʔw$	ʔw	t̪ʼaʔw, kuyuʔw	ineseno, tehuelche, quileute	11	U+0294 U+0077 U+0024
+ʔɕ	ʔɕ	qaaʔɕint, puʔɕtəx	alsea	13	U+0294 U+0255
+ʔɕ$	ʔɕ	tɕuudaiiʔɕ, aitɕaiʔɕ	alsea, tehuelche	6	U+0294 U+0255 U+0024
+ʔʂ	ʔʂ	tʃaʔʂpɨtʃɨ, mɨpeʔʂu	muniche	7	U+0294 U+0282
+ʔʃ	ʔʃ	iʔʃpuʃniʔmit, iʔʃnap	xicotepecdejuareztotonac, chayahuita, wappo, cofan, washo, seri, tarifit, nivacle, korean	100	U+0294 U+0283
+ʔʃ$	ʔʃ	kwɛʔʃ, klaʔʃ	nivacle, paez, xicotepecdejuareztotonac	12	U+0294 U+0283 U+0024
+ʔʔ	ʔʔ	t̪inɨʔʔɨɨpak, t̪ɨʔʔele	southernpomo, northernsierramiwok, zuni	14	U+0294 U+0294
+ʔʔ$	ʔʔ	tʔəliʔʔ	alsea	1	U+0294 U+0294 U+0024
+ʕ	ʕ	ᶢǁaʕma, ʘqaʕaʕ	juhoan, taa, ongota, tarifit, haidanorthern	89	U+0295
+ʕ$	ʕ	ᶢǁaʕ, ʘqaʕaʕ	juhoan, taa, ongota, tarifit	33	U+0295 U+0024
+ʘ	ʘ	ʘaje_ʘʔani, taa_lnau_ʘaa	taa	2	U+0298
+ʝ	ʝ	æʝiŋ, kəʝga	ket, whitehmong	13	U+029d
+ʝ$	ʝ	qɔʝ, bæʝ	ket, whitehmong	36	U+029d U+0024
+̃	<?>	hã̰inusu, βãkhẽ̞ẽ̞	saliba, southernnambikuara, chatino, fasu, maxakali	79	U+0303
+̤	<?>	ṳ, lṳm	taa	8	U+0324
+̰	<?>	kṵ̃kanusu, sṵ̃nusu	southernnambikuara, taa	36	U+0330
+β	β	eβaβa_naβate, ɲaβɛ	rotokas, grasskoiari, cayuvava, peleata, yaqui, muinane, savosavo, mali, movima, karok, panoankatukina, mongolian, waris, tarifit, lavukaleve, kamasau, doromukoki, ket, sulka, tol, saliba, kunimaipa, baruya, kanoe	100	U+03b2
+β$	β	maruiβ, ɒβ	waris, karok, mongolian, lavukaleve, tarifit, kunimaipa, cayuvava	77	U+03b2 U+0024
+βh	βh	kaβhɒ, aβho̞aβ	waris	4	U+03b2 U+0068
+βs	βs	t̪aβst̪hai	mongolian	1	U+03b2 U+0073
+βs$	βs	ɵβs	mongolian	1	U+03b2 U+0073 U+0024
+βʃ	βʃ	eβʃeex	mongolian	1	U+03b2 U+0283
+θ	θ	iθuiθu, jaθah	arapaho, mojave, karok, karaja, berta, halkomelem, mapudungun, tarifit	100	U+03b8
+θ$	θ	θajjawθ, emʔiimeθ	tarifit, karok, halkomelem, mojave, arapaho, mapudungun, berta	79	U+03b8 U+0024
+θh	θh	kɔʊθhɛjɛɪ	arapaho	1	U+03b8 U+0068
+θʼ	θ’	tθʼotθʼeqʼwem, tθʼikwe	halkomelem	11	U+03b8 U+02bc
+θʼ$	θ’	xejtθʼ, çmetθʼ	halkomelem	3	U+03b8 U+02bc U+0024
+χ	χ	ʃiiχ_kisiiɬ, ʔɔχʔɔχa	seri, tsimshian, achumawi, chipaya, nezperce, aymara, ongota, kwakiutl, halkomelem, bezhta, gumuz, quileute, dime, nivkh, yukaghir, adyghe	100	U+03c7
+χ$	χ	ɬukdæʔæjnm_hænɒʔɒχ, qaliχ	tsimshian, seri, nezperce, achumawi, nivkh, ahtena, dime, bezhta, kwakiutl, gumuz, coos, ongota, chipaya, quileute, chinook	96	U+03c7 U+0024
+χs	χs	qʼwabiɢəχsthaʔji, iʔwanutʼsʼəχsteʔ	kwakiutl, nezperce, aymara, dime	12	U+03c7 U+0073
+χs$	χs	ɬæχs, dɔɔjχs	tsimshian, dime, nezperce	6	U+03c7 U+0073 U+0024
+χs̪	χs̪	ʃqχeχs̪i	chipaya	1	U+03c7 U+0073 U+032a
+χw	χw	pχwaraɬf, pχwm_əqw	adyghe, kwakiutl, halkomelem, seri, achumawi, quileute, chipaya, nezperce, aymara	39	U+03c7 U+0077
+χw$	χw	ʃəpχw, pχw	adyghe, seri, halkomelem, kwakiutl	16	U+03c7 U+0077 U+0024
+χʃ$	χʃ	ʔɑχʃ	seri	1	U+03c7 U+0283 U+0024
+ḛ	ḛ	katḛnsu, nḛnʔẽnsu	southernnambikuara	5	U+1e1b
+ḛs	ḛs	nenḛsu, satḛsatḛn	southernnambikuara	3	U+1e1b U+0073
+ḛw	ḛw	ĩsanḛwih	southernnambikuara	1	U+1e1b U+0077
+ḛ̃	ḛ̃	tḛ̃lhʔu	southernnambikuara	1	U+1e1b U+0303
+ḭ	ḭ	sukatḭkisu, hḭlhu	southernnambikuara	2	U+1e2d
+ḭ̃	ḭ̃	ka̰nʔhḭ̃nesu	southernnambikuara	1	U+1e2d U+0303
+ḭ̃h	ḭ̃h	kʔḭ̃hnʔṵ̃sʔu	southernnambikuara	1	U+1e2d U+0303 U+0068
+ḭ̃s	ḭ̃s	nekḭ̃sakisu	southernnambikuara	1	U+1e2d U+0303 U+0073
+ṳ	ṳ	lṳm, ᵑǀṳɲa	taa	6	U+1e73
+ṵ	ṵ	katṵkatṵlʔi, lṵe	taa, southernnambikuara	7	U+1e75
+ṵ$	ṵ	kʔainãntṵ, katṵ	southernnambikuara, taa	3	U+1e75 U+0024
+ṵh	ṵh	ᵑǀṵhn	taa	1	U+1e75 U+0068
+ṵ̃	ṵ̃	kṵ̃kanusu, sṵ̃nusu	southernnambikuara	10	U+1e75 U+0303
+ṵ̃s	ṵ̃s	kʔḭ̃hnʔṵ̃sʔu	southernnambikuara	1	U+1e75 U+0303 U+0073
+ẽ	ẽ	wẽtabõ, waẽbõ	waorani, yuwana, tuyuca, kiowa, amarakaeri, northernembera, southernnambikuara, kwaza, kanoe, moseten, ninam, shompeng, ayoreo, rikbaktsa, bezhta, kaingang	100	U+1ebd
+ẽ$	ẽ	mẽ, tãɾihẽ	waorani, manange, tuyuca, yuwana, guarani, kiowa, amarakaeri, northernembera, yagua, taa, kanoe, bari, kwaza, urarina, bezhta, shompeng, basque, moseten, bangime, ayoreo	100	U+1ebd U+0024
+ẽ̞	ẽ̞	t̪ijẽ̞ʔ, baxẽ̞game̞hga	saliba, chatino, fasu	14	U+1ebd U+031e
+ẽ̞$	ẽ̞	n̪gat̪ẽ̞, n̪t̪ẽ̞	chatino, saliba, fasu	14	U+1ebd U+031e U+0024
+ẽ̞ẽ̞	ẽ̞ː	ʃẽ̞ẽ̞_l̪o̞o̞	chatino	1	U+1ebd U+031e U+1ebd U+031e
+ẽ̞ẽ̞$	ẽ̞ː	βãkhẽ̞ẽ̞	saliba	2	U+1ebd U+031e U+1ebd U+031e U+0024
+ẽẽ	ẽː	qẽẽʔhiɕt, dẽẽwa	amarakaeri, tuyuca, alsea, taa	5	U+1ebd U+1ebd
+ẽẽ$	ẽː	ǂqhẽẽ, ᶢǂqhẽẽ	taa, tuyuca	17	U+1ebd U+1ebd U+0024
+ỹ	ỹ	akikỹj, æ̃βo_tẽpũkỹj	kanoe, bezhta	5	U+1ef9
