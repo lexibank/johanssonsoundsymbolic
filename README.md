@@ -18,8 +18,8 @@ Conceptlists in Concepticon:
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 83%](https://img.shields.io/badge/Concepticon-83%25-yellowgreen.svg "Concepticon: 83%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-green.svg "Source: 99%")
-![BIPA: 43%](https://img.shields.io/badge/BIPA-43%25-red.svg "BIPA: 43%")
-![CLTS SoundClass: 43%](https://img.shields.io/badge/CLTS%20SoundClass-43%25-red.svg "CLTS SoundClass: 43%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 245
 - **Concepts:** 344
@@ -27,9 +27,9 @@ Conceptlists in Concepticon:
 - **Sources:** 240
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 290,643
-- **Segments:** 618 (354 BIPA errors, 354 CTLS sound class errors, 264 CLTS modified)
-- **Inventory size (avg):** 37.47
+- **Tokens:** 368,449
+- **Segments:** 452 (0 BIPA errors, 1 CTLS sound class errors, 452 CLTS modified)
+- **Inventory size (avg):** 35.30
 
 ## Possible Improvements:
 
@@ -41,8 +41,9 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description| Role
 --- | --- | --- | ---
-Sacha Beniamine | @XachaB | maintainer | Other, Patron
+Sacha Beniamine | @XachaB | maintainer | Other
 Erben Johansson | | publication author | Author
-Kristina Pianykh | @Kristina-Pianykh | concept mapping | Author
+Kristina Pianykh | @Kristina-Pianykh | concept mapping | Other
+Johann-Mattis List | @lingulist | maintainer, cldf conversion, profile | Other
 
 

@@ -8,9 +8,6 @@
     "creators": [
         {
             "name": "Erben Johansson"
-        },
-        {
-            "name": "Kristina Pianykh"
         }
     ],
     "contributors": [
@@ -19,7 +16,11 @@
             "type": "Other"
         },
         {
-            "name": "Sacha Beniamine",
+            "name": "Kristina Pianykh",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
             "type": "Other"
         }
     ],

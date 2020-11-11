@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/johanssonsoundsymbolic",
-            "dc:created": "15d50ae"
+            "dc:created": "a10a34a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,13 +36,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v1.4-34-ga2b5dc6"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.6"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
