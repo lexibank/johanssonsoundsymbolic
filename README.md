@@ -14,31 +14,36 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/johanssonsoundsymbolic.svg?branch=master)](https://travis-ci.org/lexibank/johanssonsoundsymbolic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 83%](https://img.shields.io/badge/Concepticon-83%25-yellowgreen.svg "Concepticon: 83%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 99%](https://img.shields.io/badge/Source-99%25-green.svg "Source: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 245
 - **Concepts:** 344
-- **Lexemes:** 70,788
-- **Sources:** 0
-- **Synonymy:** 1.01
+- **Lexemes:** 69,963
+- **Sources:** 240
+- **Synonymy:** 1.00
+- **Invalid lexemes:** 0
+- **Tokens:** 368,449
+- **Segments:** 452 (0 BIPA errors, 1 CTLS sound class errors, 452 CLTS modified)
+- **Inventory size (avg):** 35.30
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Lenca-Salvador [lenc1244](http://glottolog.org/resource/languoid/id/lenc1244)
-  - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
-- Entries missing sources: 70788/70788 (100.00%)
+- Entries missing sources: 914/69963 (1.31%)
 
 # Contributors
 
 Name | GitHub user | Description| Role
 --- | --- | --- | ---
-Sacha Beniamine | @XachaB | maintainer | Other, Patron
+Sacha Beniamine | @XachaB | maintainer | Other
 Erben Johansson | | publication author | Author
-Kristina Pianykh | @Kristina-Pianykh | concept mapping | Author
+Kristina Pianykh | @Kristina-Pianykh | concept mapping | Other
+Johann-Mattis List | @lingulist | maintainer, cldf conversion, profile | Other
 
 
