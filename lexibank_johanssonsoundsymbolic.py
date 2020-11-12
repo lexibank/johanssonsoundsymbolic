@@ -15,7 +15,7 @@ class Dataset(pylexibank.Dataset):
     id = "johanssonsoundsymbolic"
     lexeme_class = CustomLexeme
 
-    # register custom data types here (or language_class, lexeme_class, cognate_class):
+    # register custom data types here (or languge_class, lexeme_class, cognate_class):
     # concept_class = Concept
 
     # define the way in which forms should be handled
@@ -41,22 +41,11 @@ class Dataset(pylexibank.Dataset):
         of this object to add data.
         """
         args.writer.add_sources()
-        concepts = {}
-        for concept in self.conceptlists[0].concepts.values():
-            c_id = "{0}-{1}".format(concept.id.split("-")[-1],
-                                    slug(concept.english))
-            concepts[concept.english] = c_id
-            concepts[concept.english.lower()] = c_id
-            
-            args.writer.add_concept(
-                ID=c_id,
-                Concepticon_ID=concept.concepticon_id,
-                Concepticon_Gloss=concept.concepticon_gloss,
-                Name=concept.english,
-            )
-        for k, v in self.raw_dir.read_csv('renamed_concepts.csv')[1:]:
-            concepts[k] = concepts[v]
-            concepts[k.lower()] = concepts[v]
+
+        concepts = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english),
+            lookup_factory=lambda concept: concept.attributes["lexibank_gloss"]
+        )
         languages = args.writer.add_languages(lookup_factory='Name')
         args.log.info('loaded languages')
 
@@ -69,12 +58,7 @@ class Dataset(pylexibank.Dataset):
         # correct for double fly entry
         data[670][0] = "fly1"
 
-
-        # Mapping from plain text refs to bibtex keys
-        # Note: bibliography parsed by https://anystyle.io/, with very little cleaning
-        to_bibtexkey = {key:ref for ref,key in self.raw_dir.read_csv("ref_to_bib.csv")}
         data += [['']]
-        concept = False
         for i in progressbar(range(6, 2751, 8)):
             concept = data[i][0]
             for j, language in enumerate(languages_in_row):
