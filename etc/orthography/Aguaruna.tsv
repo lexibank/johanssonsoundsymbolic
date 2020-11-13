@@ -1,68 +1,68 @@
-Grapheme	IPA	Frequency
-^j	j	33
-a	a	284
-k	k	87
-i$	i	37
-^s	s	12
-p	p	46
-i	i	103
-g$	g	28
-^a	a	53
-h	h	87
-u	u	200
-m$	m	17
-^d	d	23
-s	s	14
-ɨ$	ɨ	15
-ʃ	ʃ	12
-^k	k	25
-ɨ	ɨ	72
-t$	t	72
-n	n	63
-t	t	64
-n$	n	16
-^w	w	19
-u$	u	59
-^t	t	22
-p$	p	5
-ts	ts	25
-k$	k	24
-^ʃ	ʃ	4
-ii	iː	4
-g	g	19
-a$	a	37
-^ɨɨ	ɨː	2
-^u	u	27
-^n	n	26
-m	m	79
-^m	m	14
-uu	uː	11
-^p	p	11
-^ɨ	ɨ	9
-^b	b	13
-j	j	18
-^i	i	9
-ʃ$	ʃ	3
-tʃ$	tʃ	18
-^ts	ts	15
-w	w	48
-tt	tt/tː	2
-^tʃ	tʃ	7
-^h	h	13
-_	+	45
-d	d	5
-tʃ	tʃ	20
-ii$	iː	1
-aa	aː	9
-ɨɨ	ɨː	4
-b	b	6
-h$	h	1
-^uu	uː	1
-ʔ	ʔ	1
-ts$	ts	2
-ɨɨ$	ɨː	1
-e$	e	1
-th	th/tʰ	1
-uu$	uː	1
-nh	nh/n̥	4
-^ii$	iː	2
+Grapheme	IPA	SCA	Frequency
+^a	a	A	53
+^b	b	P	13
+^d	d	T	23
+^h	h	H	13
+^i	i	I	9
+^ii$	iː	I	2
+^j	j	J	33
+^k	k	K	25
+^m	m	M	14
+^n	n	N	26
+^p	p	P	11
+^s	s	S	12
+^t	t	T	22
+^ts	ts	C	15
+^tʃ	tʃ	T	7
+^u	u	Y	27
+^uu	uː	Y	1
+^w	w	W	19
+^ɨ	ɨ	I	9
+^ɨɨ	ɨː	I	2
+^ʃ	ʃ	S	4
+_	+	_	45
+a	a	A	284
+a$	a	A	37
+aa	aː	A	9
+b	b	P	6
+d	d	T	5
+e$	e	E	1
+g	g	K	19
+g$	g	K	28
+h	h	H	87
+h$	h	H	1
+i	i	I	103
+i$	i	I	37
+ii	iː	I	4
+ii$	iː	I	1
+j	j	J	18
+k	k	K	87
+k$	k	K	24
+m	m	M	79
+m$	m	M	17
+n	n	N	63
+n$	n	N	16
+nh	nh/n̥	N	4
+p	p	P	46
+p$	p	P	5
+s	s	S	14
+t	t	T	64
+t$	t	T	72
+th	th/tʰ	T	1
+ts	ts	C	25
+ts$	ts	C	2
+tt	tt/tː	T	2
+tʃ	tʃ	T	20
+tʃ$	tʃ	T	18
+u	u	Y	200
+u$	u	Y	59
+uu	uː	Y	11
+uu$	uː	Y	1
+w	w	W	48
+ɨ	ɨ	I	72
+ɨ$	ɨ	I	15
+ɨɨ	ɨː	I	4
+ɨɨ$	ɨː	I	1
+ʃ	ʃ	S	12
+ʃ$	ʃ	S	3
+ʔ	ʔ	H	1

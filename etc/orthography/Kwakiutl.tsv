@@ -1,105 +1,103 @@
-Grapheme	IPA	Frequency
-^q	q	5
-ə	ə	178
-ɬ	ɬ	32
-l	l	101
-a$	a	85
-^w	w	16
-i	i	95
-ʔ	ʔ	87
-^ɬ	ɬ	7
-a	a	148
-w	w	6
-s$	s	49
-^g	g	13
-g	g	17
-ɔ	ɔ	9
-m	m	45
-^u	u	8
-χ	χ	9
-u	u	59
-xw	xw/xʷ	14
-tʼsʼ	tsʼ	12
-n	n	48
-e	e	16
-ʔ$	ʔ	29
-^qʼw	qʼ w	22
-b	b	8
-^ə	ə	21
-j	j	18
-i$	i	23
-^j	j	9
-q$	q	6
-^ts	ts	3
-x	x	19
-^tʼ	tʼ	9
-ɬʼ	ɬʼ	9
-ʔw	ʔw/ˀw	4
-ɔ$	ɔ	4
-^th	th/tʰ	2
-q̓	qʼ	1
-^b	b	3
-bs	b s	1
-ɬ$	ɬ	7
-^pʼ	pʼ	7
-pʼ	pʼ	5
-tʼ	tʼ	11
-^kʼ	kʼ	1
-d$	d	10
-^tʼsʼ	tsʼ	18
-qw	qw/qʷ	7
-^ph	pʰ	4
-^d	d	27
-z	z	10
-s	s	17
-qʼw	qʼ w	13
-^χ	χ	3
-gw	gw/gʷ	10
-m$	m	13
-^h	h	8
-d	d	16
-^x	x	3
-q	q	12
-^i	i	9
-χs	χ s	5
-t	t	17
-qʼ	qʼ	8
-th	th/tʰ	12
-^t	t	2
-n$	n	5
-nw	n w	1
-^qʼ	qʼ	11
-^l	l	7
-^s	s	6
-xs	x s	3
-u$	u	18
-^n	n	16
-aa$	aː	1
-ph$	ph/pʰ	10
-^m	m	11
-^ɢ	ɢ	16
-ɢ	ɢ	28
-^qw	qw/qʷ	5
-ʔs$	ʔs/ˀs	4
-^χw	χʷ	1
-^kh	kʰ	1
-^a	a	2
-χw	χw/χʷ	3
-ʔs	ʔs/ˀs	4
-^ɢw	ɢʷ	1
-χ$	χ	3
-khw	khw/kʷʰ	1
-e$	e	2
-ms$	m s	1
-χw$	χw/χʷ	1
-ls	l s	2
-ms	m s	1
-qw$	qw/qʷ	3
-ph	ph/pʰ	1
-l$	l	1
-xw$	xw/xʷ	1
-xʼ	xʼ	1
-c	c	1
-o$	o	1
-qs	q s	1
-ns	n s	1
+Grapheme	IPA	SCA	Frequency
+^a	a	A	2
+^b	b	P	3
+^d	d	T	27
+^g	g	K	13
+^h	h	H	8
+^i	i	I	9
+^j	j	J	9
+^kh	kʰ	K	1
+^kʼ	kʼ	K	1
+^l	l	L	7
+^m	m	M	11
+^n	n	N	16
+^ph	pʰ	P	4
+^pʼ	pʼ	P	7
+^q	q	K	5
+^qw	qw/qʷ	K	5
+^qʼ	qʼ	K	11
+^qʼw	qʼ w	K W	22
+^s	s	S	6
+^t	t	T	2
+^th	th/tʰ	T	2
+^ts	ts	C	3
+^tʼ	tʼ	T	9
+^tʼsʼ	tsʼ	T	18
+^u	u	Y	8
+^w	w	W	16
+^x	x	G	3
+^ə	ə	E	21
+^ɢ	ɢ	K	16
+^ɢw	ɢʷ	K	1
+^ɬ	ɬ	L	7
+^χ	χ	G	3
+^χw	χʷ	G	1
+a	a	A	148
+a$	a	A	85
+aa$	aː	A	1
+b	b	P	8
+bs	b s	P S	1
+c	c	C	1
+d	d	T	16
+d$	d	T	10
+e	e	E	16
+e$	e	E	2
+g	g	K	17
+gw	gw/g w	K W	10
+i	i	I	95
+i$	i	I	23
+j	j	J	18
+khw	khw/kʰ w	K W	1
+l	l	L	101
+l$	l	L	1
+ls	l s	L S	2
+m	m	M	45
+m$	m	M	13
+ms	m s	M S	1
+ms$	m s	M S	1
+n	n	N	48
+n$	n	N	5
+ns	n s	N S	1
+nw	n w	N W	1
+o$	o	U	1
+ph	ph/pʰ	P	1
+ph$	ph/pʰ	P	10
+pʼ	pʼ	P	5
+q	q	K	12
+q$	q	K	6
+qs	q s	K S	1
+qw	qw/qʷ	K	7
+qw$	qw/qʷ	K	3
+qʼ	qʼ	K	8
+qʼw	qʼ w	K W	13
+q̓	qʼ	K	1
+s	s	S	17
+s$	s	S	49
+t	t	T	17
+th	th/tʰ	T	12
+tʼ	tʼ	T	11
+tʼsʼ	tsʼ	T	12
+u	u	Y	59
+u$	u	Y	18
+w	w	W	6
+x	x	G	19
+xs	x s	G S	3
+xw	xw/xʷ	G	14
+xw$	xw/xʷ	G	1
+xʼ	xʼ	G	1
+z	z	S	10
+ɔ	ɔ	U	9
+ɔ$	ɔ	U	4
+ə	ə	E	178
+ɢ	ɢ	K	28
+ɬ	ɬ	L	32
+ɬ$	ɬ	L	7
+ɬʼ	ɬʼ	L	9
+ʔ	ʔ	H	87
+ʔ$	ʔ	H	29
+ʔs$	ʔs/ˀs	S	4
+χ	χ	G	9
+χ$	χ	G	3
+χs	χ s	G S	5
+χw	χw/χʷ	G	3
+χw$	χw/χʷ	G	1

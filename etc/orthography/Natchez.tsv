@@ -1,82 +1,82 @@
-Grapheme	IPA	Frequency
-^e	e	40
-ʃ	ʃ	64
-ə	ə	214
-h	h	60
-ə$	ə	71
-^k	k	36
-l	l	59
-u	u	106
-mh	mh/m̥	1
-n	n	81
-k	k	102
-e	e	234
-k$	k	26
-ʃ$	ʃ	30
-^l	l	15
-t	t	67
-e$	e	29
-m	m	17
-tʃ	tʃ	7
-p$	p	32
-^w	w	19
-a	a	36
-a$	a	1
-^ə	ə	28
-l$	l	36
-^u	u	9
-kʃ$	k ʃ	1
-p	p	44
-ʃh$	ʃh/ʃʰ	11
-c	c	24
-w	w	32
-r	r	6
-o$	o	3
-o	o	51
-^ʃ	ʃ	17
-r$	r	1
-^h	h	25
-f$	f	3
-^p	p	15
-^c	c	16
-tʃh$	tʃh/tʃʰ	1
-oo	oː	1
-t$	t	12
-kw	kw/kʷ	13
-u$	u	14
-x	x	10
-^ʃh	ʃh/ʃʰ	2
-j	j	19
-kʃh	k ʃʰ	1
-n$	n	16
-^t	t	33
-əə	əː	2
-h$	h	16
-_	+	25
-^o	o	8
-i	i	3
-^m	m	14
-uu	uː	1
-^j	j	4
-nh	nh/n̥	2
-^W	W/w	1
-ʃh	ʃh/ʃʰ	11
-tʃh	tʃh/tʃʰ	1
-^S	S/s	1
-pʃh	p ʃh/ʃʰ	1
-^n	n	9
-^kw	kw/kʷ	15
-th	th/tʰ	1
-kʃ	k ʃ	2
-ch	ch/cʰ	1
-nʃ	nʃ	1
-pʃ	p ʃ	1
-m$	m	1
-g	g	1
-^a	a	1
-f	f	5
-kh	kh/kʰ	2
-jh	jh/j̊	1
-lh	lh/l̥	1
-ee	eː	13
-c$	c	4
+Grapheme	IPA	SCA	Frequency
+^S	S/s	S	1
+^W	W/w	W	1
+^a	a	A	1
+^c	c	C	16
+^e	e	E	40
+^h	h	H	25
+^j	j	J	4
+^k	k	K	36
+^kw	kw/k w	K W	15
+^l	l	L	15
+^m	m	M	14
+^n	n	N	9
+^o	o	U	8
+^p	p	P	15
+^t	t	T	33
+^u	u	Y	9
+^w	w	W	19
+^ə	ə	E	28
+^ʃ	ʃ	S	17
+^ʃh	ʃh/ʃʰ	S	2
+_	+	_	25
+a	a	A	36
+a$	a	A	1
+c	c	C	24
+c$	c	C	4
+ch	ch/tʃ	T	1
+e	e	E	234
+e$	e	E	29
+ee	eː	E	13
+f	f	B	5
+f$	f	B	3
+g	g	K	1
+h	h	H	60
+h$	h	H	16
+i	i	I	3
+j	j	J	19
+jh	jh/j̊	J	1
+k	k	K	102
+k$	k	K	26
+kh	kh/kʰ	K	2
+kw	kw/k w	K W	13
+kʃ	k ʃ	K S	2
+kʃ$	k ʃ	K S	1
+kʃh	k ʃʰ	K S	1
+l	l	L	59
+l$	l	L	36
+lh	lh/l̥	L	1
+m	m	M	17
+m$	m	M	1
+mh	mh/m̥	M	1
+n	n	N	81
+n$	n	N	16
+nh	nh/n̥	N	2
+nʃ	n ʃ	N S	1
+o	o	U	51
+o$	o	U	3
+oo	oː	U	1
+p	p	P	44
+p$	p	P	32
+pʃ	p ʃ	P S	1
+pʃh	p ʃh/ʃʰ	P S	1
+r	r	R	6
+r$	r	R	1
+t	t	T	67
+t$	t	T	12
+th	th/tʰ	T	1
+tʃ	tʃ	T	7
+tʃh	tʃh/tʃʰ	T	1
+tʃh$	tʃh/tʃʰ	T	1
+u	u	Y	106
+u$	u	Y	14
+uu	uː	Y	1
+w	w	W	32
+x	x	G	10
+ə	ə	E	214
+ə$	ə	E	71
+əə	əː	E	2
+ʃ	ʃ	S	64
+ʃ$	ʃ	S	30
+ʃh	ʃh/ʃʰ	S	11
+ʃh$	ʃh/ʃʰ	S	11
