@@ -1,64 +1,64 @@
-Grapheme	IPA	Frequency
-^t	t	25
-a	a	161
-ts̪	ts̪	22
-i	i	147
-kw	kw/kʷ	30
-a$	a	62
-ɹ	ɹ	35
-t	t	74
-^i	i	26
-m	m	45
-n̪	n̪	101
-d	d	15
-u	u	61
-ɛ	ɛ	47
-tʃ	tʃ	13
-^s̪	s̪	11
-ɨ	ɨ	16
-r	r	47
-k	k	21
-i$	i	129
-^x	x	31
-p	p	38
-_	+	19
-^p	p	13
-ʃ	ʃ	7
-^n̪	n̪	16
-o	o	18
-s̪	s̪	20
-ɨ$	ɨ	10
-^k	k	9
-^kh	kʰ	5
-^ph	pʰ	3
-^u	u	21
-u$	u	19
-b	b	18
-n̪h	n̪h/n̪̊	5
-^ts̪h	ts̪h/ts̪ʰ	4
-h	h	1
-^kw	kw/kʷ	8
-^th	th/tʰ	6
-^a	a	11
-n	n	6
-e	e	3
-x	x	17
-^ɛ	ɛ	4
-ŋ	ŋ	6
-^kwh	kwh/kʷʰ	6
-^ts̪	ts̪	7
-kwkw	kwkw/kʷː	2
-^tʃ	tʃ	5
-^m	m	6
-aa$	aː	1
-^ʃ	ʃ	3
-aa	aː	6
-l̪	l̪	1
-th	th/tʰ	1
-ɛ$	ɛ	3
-^tʃh	tʃʰ	2
-ts	ts	3
-kw$	kw/kʷ	1
-^i$	i	1
-^kws̪	kw/kʷ s̪	1
-^ks̪	k s̪	2
+Grapheme	IPA	SCA	Frequency
+^a	a	A	11
+^i	i	I	26
+^i$	i	I	1
+^k	k	K	9
+^kh	kʰ	K	5
+^ks̪	k s̪	K S	2
+^kw	kw/k w	K W	8
+^kwh	kwh/kʷʰ	K	6
+^kws̪	kw/kʷ s̪	K S	1
+^m	m	M	6
+^n̪	n̪	N	16
+^p	p	P	13
+^ph	pʰ	P	3
+^s̪	s̪	S	11
+^t	t	T	25
+^th	th/tʰ	T	6
+^ts̪	ts̪	T	7
+^ts̪h	ts̪h/ts̪ʰ	T	4
+^tʃ	tʃ	T	5
+^tʃh	tʃʰ	T	2
+^u	u	Y	21
+^x	x	G	31
+^ɛ	ɛ	E	4
+^ʃ	ʃ	S	3
+_	+	_	19
+a	a	A	161
+a$	a	A	62
+aa	aː	A	6
+aa$	aː	A	1
+b	b	P	18
+d	d	T	15
+e	e	E	3
+h	h	H	1
+i	i	I	147
+i$	i	I	129
+k	k	K	21
+kw	kw/k w	K W	30
+kw$	kw/kʷ	K	1
+kwkw	kwkw/kʷː	K	2
+l̪	l̪	L	1
+m	m	M	45
+n	n	N	6
+n̪	n̪	N	101
+n̪h	n̪h/n̪̊	N	5
+o	o	U	18
+p	p	P	38
+r	r	R	47
+s̪	s̪	S	20
+t	t	T	74
+th	th/tʰ	T	1
+ts	ts	C	3
+ts̪	ts̪	T	22
+tʃ	tʃ	T	13
+u	u	Y	61
+u$	u	Y	19
+x	x	G	17
+ŋ	ŋ	N	6
+ɛ	ɛ	E	47
+ɛ$	ɛ	E	3
+ɨ	ɨ	I	16
+ɨ$	ɨ	I	10
+ɹ	ɹ	R	35
+ʃ	ʃ	S	7

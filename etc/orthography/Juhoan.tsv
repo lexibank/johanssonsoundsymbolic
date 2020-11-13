@@ -1,129 +1,129 @@
-Grapheme	IPA	Frequency
-^k	k	13
-o	o	56
-a	a	205
-_!	+ ǃ	2
-ʔ	ʔ	69
-n	n	44
-_	+	22
-k	k	14
-e$	e	19
-ʕ$	ʕ	12
-^d	d	5
-i	i	29
-nᵑ!	n ⁿǃ	1
-g$	g	10
-^ᵑǀ	ⁿǀ	11
-n$	n	60
-^w	w	1
-ʕ	ʕ	27
-ns	n s	2
-i$	i	58
-^t	t	31
-u	u	60
-^!h	ǃʰ	4
-m	m	45
-a$	a	72
-nᵑ	nⁿ	1
-ǀ	ǀ	3
-^ǂ	ǂ	13
-ʔh	ʔh/ʔʰ	6
-^l	l	3
-o$	o	21
-^ǀ	ǀ	17
-kʼ	kʼ	10
-xʼ	xʼ	16
-u$	u	38
-^ᵑǁ	ⁿǁ	2
-r	r	15
-m$	m	21
-^kh	kʰ	6
-^ᶢǀ	gǀ	6
-aaᵑ!	aː ⁿǃ	1
-^!ʔ	ǃʔ	4
-oᵑ!	o ⁿǃ	1
-^ᶢ!	gǃ	20
-b	b	11
-t	t	2
-aᵑ!	a ⁿǃ	2
-^!a	ǃ a	5
-^ǁ	ǁ	7
-^ᵑ!	ⁿǃ	21
-z	z	9
-^ᵑǂ	ⁿǂ	4
-^dʃh	d ʃʰ	2
-uu	uː	1
-h	h	7
-^dʃ	d ʃ	2
-^a	a	2
-^kʼ	kʼ	6
-^ᵑǀh	ⁿǀʰ	1
-^g	g	7
-^ᶢ!a!kʼxʼui	gǃ a ǃkxʼ ui	1
-$	NULL	1
-^ts	ts	26
-^ʒ	ʒ	6
-mm$	mm/mː	1
-^tʒ	t ʒ	2
-^ᶢǂ	gǂ	3
-^ᶢǂh	gǂʰ	2
-^tʃh	tʃʰ	3
-h$	h	11
-^ʔ	ʔ	1
-ts	ts	5
-^ᵑǂh	ⁿǂh	3
-x	x	17
-^ʃ	ʃ	7
-!kʼxʼ	!kxʼ	1
-mh$	mh/m̥	1
-u!	u ǃ	2
-_ᵑ!	+ ⁿǃ	5
-ǂ	ǂ	2
-^dsh	d sʰ	2
-^u$	u	1
-s	s	1
-^!kʼxʼ	ǃxʼ	2
-^h	h	8
-^n	n	1
-^m	m	3
-^!ʔh	ǃʔʰ	5
-^s	s	6
-d	d	2
-^!o	ǃ o	3
-^tʃ	tʃ	3
-^ǂh	ǂʰ	1
-e	e	7
-ʃ	ʃ	1
-^!u$	ǃ u	1
-^z	z	2
-tz	tz/ts	1
-l	l	2
-^ᶢǁ	gǁ	17
-^th	th/tʰ	2
-aa	aː	2
-^!x	ǃx	2
-^ll	lː	1
-^b	b	3
-kh	kh/kʰ	1
-^lh	l̥	1
-g	g	1
-^dʒ	dʒ	2
-m!	m ǃ	1
-ii	iː	1
-i!	i ǃ	1
-^dh	dʰ	1
-ʒ	ʒ	2
-_ᶢ!	+ gǃ	1
-^ᵑǁh	ⁿǁʰ	1
-^e$	e	1
-^m$	m	1
-tʃ	tʃ	2
-^o	o	1
-_ᶢǁ	+ gǁ	1
-ᶢ!	gǃ	1
-^i$	i	1
-^a$	a	1
-^ǀh	ǀʰ	1
-^!uᵑ!	ǃ u ⁿǃ	4
-^!u	ǃ u	6
-^!o$	ǃ o	2
+Grapheme	IPA	SCA	Frequency
+$	NULL	NULL	1
+!kʼxʼ	!kxʼ	!	1
+^!a	ǃ a	! A	5
+^!h	ǃʰ	!	4
+^!kʼxʼ	ǃxʼ	!	2
+^!o	ǃ o	! U	3
+^!o$	ǃ o	! U	2
+^!u	ǃ u	! Y	6
+^!u$	ǃ u	! Y	1
+^!uᵑ!	ǃ u ⁿǃ	! Y !	4
+^!x	ǃx	!	2
+^!ʔ	ǃʔ	!	4
+^!ʔh	ǃʔʰ	!	5
+^a	a	A	2
+^a$	a	A	1
+^b	b	P	3
+^d	d	T	5
+^dh	dʰ	T	1
+^dsh	d sʰ	T S	2
+^dʃ	d ʃ	T S	2
+^dʃh	d ʃʰ	T S	2
+^dʒ	dʒ	T	2
+^e$	e	E	1
+^g	g	K	7
+^h	h	H	8
+^i$	i	I	1
+^k	k	K	13
+^kh	kʰ	K	6
+^kʼ	kʼ	K	6
+^l	l	L	3
+^lh	l̥	L	1
+^ll	lː	L	1
+^m	m	M	3
+^m$	m	M	1
+^n	n	N	1
+^o	o	U	1
+^s	s	S	6
+^t	t	T	31
+^th	th/tʰ	T	2
+^ts	ts	C	26
+^tʃ	tʃ	T	3
+^tʃh	tʃʰ	T	3
+^tʒ	t ʒ	T S	2
+^u$	u	Y	1
+^w	w	W	1
+^z	z	S	2
+^ǀ	ǀ	!	17
+^ǀh	ǀʰ	!	1
+^ǁ	ǁ	!	7
+^ǂ	ǂ	!	13
+^ǂh	ǂʰ	!	1
+^ʃ	ʃ	S	7
+^ʒ	ʒ	S	6
+^ʔ	ʔ	H	1
+^ᵑ!	ⁿǃ	!	21
+^ᵑǀ	ⁿǀ	!	11
+^ᵑǀh	ⁿǀʰ	!	1
+^ᵑǀoʕnᵑǀoʕni$	ⁿǀ o ʕ n ⁿǀ o ʕ n i	! U	1
+^ᵑǁ	ⁿǁ	!	2
+^ᵑǁh	ⁿǁʰ	!	1
+^ᵑǂ	ⁿǂ	!	4
+^ᵑǂh	ⁿǂh	!	3
+^ᶢ!	gǃ	!	20
+^ᶢ!a!kʼxʼui	gǃ a ǃkxʼ ui	! A ! Y	1
+^ᶢǀ	gǀ	!	6
+^ᶢǁ	gǁ	!	17
+^ᶢǂ	gǂ	!	3
+^ᶢǂh	gǂʰ	!	2
+_	+	_	22
+_!	+ ǃ	_ !	2
+_ᵑ!	+ ⁿǃ	_ !	5
+_ᶢ!	+ gǃ	_ !	1
+_ᶢǁ	+ gǁ	_ !	1
+a	a	A	205
+a$	a	A	72
+aa	aː	A	2
+aaᵑ!	aː ⁿǃ	A !	1
+aᵑ!	a ⁿǃ	A !	2
+b	b	P	11
+d	d	T	2
+e	e	E	7
+e$	e	E	19
+g	g	K	1
+g$	g	K	10
+h	h	H	7
+h$	h	H	11
+i	i	I	29
+i!	i ǃ	I !	1
+i$	i	I	58
+ii	iː	I	1
+k	k	K	14
+kh	kh/kʰ	K	1
+kʼ	kʼ	K	10
+l	l	L	2
+m	m	M	45
+m!	m ǃ	M !	1
+m$	m	M	21
+mh$	mh/m̥	M	1
+mm$	mm/mː	M	1
+n	n	N	44
+n$	n	N	60
+ns	n s	N S	2
+nᵑ!	n ⁿǃ	N !	1
+o	o	U	56
+o$	o	U	21
+oᵑ!	o ⁿǃ	U !	1
+r	r	R	15
+s	s	S	1
+t	t	T	2
+ts	ts	C	5
+tz	tz/ts	C	1
+tʃ	tʃ	T	2
+u	u	Y	60
+u!	u ǃ	Y !	2
+u$	u	Y	38
+uu	uː	Y	1
+x	x	G	17
+xʼ	xʼ	G	16
+z	z	S	9
+ǀ	ǀ	!	3
+ǂ	ǂ	!	2
+ʃ	ʃ	S	1
+ʒ	ʒ	S	2
+ʔ	ʔ	H	69
+ʔh	ʔh/ʔʰ	H	6
+ʕ	ʕ	H	27
+ʕ$	ʕ	H	12
+ᶢ!	gǃ	!	1
