@@ -1,100 +1,100 @@
-Grapheme	IPA	Frequency
-^i	i	7
-n	n	56
-tʼsʼ	tsʼ	17
-e$	e	171
-^g	g	10
-i	i	89
-s	s	23
-e	e	61
-t$	t	4
-^ʃ	ʃ	20
-w	w	26
-^m	m	13
-uu	uː	11
-k	k	42
-m	m	30
-o	o	34
-p	p	12
-a$	a	60
-aa	aː	38
-r	r	10
-ŋ	ŋ	14
-kʼ	kʼ	19
-a	a	58
-^k	k	44
-^p	p	16
-u	u	31
-^t	t	18
-n$	n	3
-^tʼsʼ	tsʼ	10
-g	g	15
-^ii	iː	2
-ns	n s	7
-ʃ	ʃ	47
-ee	eː	10
-tʼsʼ$	tsʼ	3
-^a	a	18
-l$	l	1
-b	b	20
-t	t	5
-^tʼ	tʼ	4
-^h	h	18
-d	d	5
-^tw	t w	1
-m$	m	4
-^kʼ	kʼ	13
-l	l	35
-tʼ$	tʼ	3
-^e	e	5
-tʼ	tʼ	24
-pʼ	pʼ	23
-ʃ$	ʃ	9
-oo	oː	16
-kk	kk/kː	2
-ii	iː	8
-j	j	28
-i$	i	5
-^o	o	15
-^j	j	9
-p$	p	3
-^s	s	3
-f$	f	1
-w$	w	4
-^ʃw	ʃ w	1
-^pʼ	pʼ	2
-^w	w	15
-ts$	ts	1
-z	z	6
-^d	d	3
-^aa	aː	6
-k$	k	5
-^kw	kw/kʷ	4
-h	h	1
-^kʼw	kʼ w	2
-ss	ss/sː	1
-^f	f	1
-^n	n	25
-s$	s	4
-^ee	eː	3
-kʼ$	kʼ	2
-d$	d	1
-lʃ	l ʃ	1
-z$	z	1
-b$	b	8
-aa$	aː	1
-o$	o	4
-ns$	n s	2
-^u	u	7
-^a$	a	1
-mm	mm/mː	1
-^z	z	2
-kʃ	k ʃ	1
-^b	b	4
-lh	lh/l̥	2
-tʃ	tʃ	2
-tʼʃ	tʼ ʃ	1
-r$	r	1
-ts	ts	1
-ll	ll/lː	1
-_	+	16
+Grapheme	IPA	SCA	Frequency
+^a	a	A	18
+^a$	a	A	1
+^aa	aː	A	6
+^b	b	P	4
+^d	d	T	3
+^e	e	E	5
+^ee	eː	E	3
+^f	f	B	1
+^g	g	K	10
+^h	h	H	18
+^i	i	I	7
+^ii	iː	I	2
+^j	j	J	9
+^k	k	K	44
+^kw	k w	K W	4
+^kʼ	kʼ	K	13
+^kʼw	kʼ w	K W	2
+^m	m	M	13
+^n	n	N	25
+^o	o	U	15
+^p	p	P	16
+^pʼ	pʼ	P	2
+^s	s	S	3
+^t	t	T	18
+^tw	t w	T W	1
+^tʼ	tʼ	T	4
+^tʼsʼ	tsʼ	T	10
+^u	u	Y	7
+^w	w	W	15
+^z	z	S	2
+^ʃ	ʃ	S	20
+^ʃw	ʃ w	S W	1
+_	+	_	16
+a	a	A	58
+a$	a	A	60
+aa	aː	A	38
+aa$	aː	A	1
+b	b	P	20
+b$	b	P	8
+d	d	T	5
+d$	d	T	1
+e	e	E	61
+e$	e	E	171
+ee	eː	E	10
+f$	f	B	1
+g	g	K	15
+h	h	H	1
+i	i	I	89
+i$	i	I	5
+ii	iː	I	8
+j	j	J	28
+k	k	K	42
+k$	k	K	5
+kk	kː	K	2
+kʃ	k ʃ	K S	1
+kʼ	kʼ	K	19
+kʼ$	kʼ	K	2
+l	l	L	35
+l$	l	L	1
+lh	l̥	L	2
+ll	lː	L	1
+lʃ	l ʃ	L S	1
+m	m	M	30
+m$	m	M	4
+mm	mː	M	1
+n	n	N	56
+n$	n	N	3
+ns	n s	N S	7
+ns$	n s	N S	2
+o	o	U	34
+o$	o	U	4
+oo	oː	U	16
+p	p	P	12
+p$	p	P	3
+pʼ	pʼ	P	23
+r	r	R	10
+r$	r	R	1
+s	s	S	23
+s$	s	S	4
+ss	sː	S	1
+t	t	T	5
+t$	t	T	4
+ts	ts	C	1
+ts$	ts	C	1
+tʃ	tʃ	T	2
+tʼ	tʼ	T	24
+tʼ$	tʼ	T	3
+tʼsʼ	tsʼ	T	17
+tʼsʼ$	tsʼ	T	3
+tʼʃ	tʼ ʃ	T S	1
+u	u	Y	31
+uu	uː	Y	11
+w	w	W	26
+w$	w	W	4
+z	z	S	6
+z$	z	S	1
+ŋ	ŋ	N	14
+ʃ	ʃ	S	47
+ʃ$	ʃ	S	9

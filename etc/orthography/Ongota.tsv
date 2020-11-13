@@ -1,104 +1,104 @@
-Grapheme	IPA	Frequency
-^r	r	6
-u	u	64
-gg	gː	2
-i	i	51
-t	t	40
-u$	u	6
-^ʃ	ʃ	9
-a	a	136
-ʕ	ʕ	18
-n	n	52
-i$	i	29
-^b	b	26
-d	d	14
-ʔ	ʔ	11
-e$	e	47
-^l	l	3
-oo	oː	7
-l$	l	1
-a$	a	101
-^tʃ	tʃ	14
-tʃ	tʃ	5
-q	q	6
-^ii	iː	6
-ħ	ħ	6
-^ʕ	ʕ	22
-l	l	15
-^q	q	4
-qq	qq/qː	2
-^a	a	29
-bb	bː	3
-^s	s	11
-dd	dː	13
-g	g	5
-tt	tt/tː	7
-uu	uː	5
-s	s	5
-^g	g	16
-ll	ll/lː	1
-^k	k	13
-r	r	21
-b	b	31
-o$	o	14
-ʕ$	ʕ	6
-^ts	ts	7
-m$	m	3
-^d	d	2
-kk	kk/kː	13
-m	m	20
-o	o	27
-χ	χ	7
-e	e	12
-_	+	7
-^t	t	8
-w$	w	6
-^m	m	12
-aa	aː	16
-^f	f	1
-n$	n	4
-^ee$	eː	1
-z	z	4
-f	f	7
-^z	z	4
-χ$	χ	1
-j	j	23
-rr	rr/rː	2
-k	k	22
-q$	q	2
-^χ	χ	3
-ʔ$	ʔ	7
-^w	w	5
-w	w	3
-k$	k	2
-^i	i	7
-ii	iː	4
-^o	o	1
-s$	s	2
-^dʒ	dʒ	8
-^n	n	5
-oo$	oː	1
-^h	h	5
-ʃ	ʃ	11
-h$	h	1
-^ħ	ħ	10
-r$	r	1
-ʃ$	ʃ	1
-ii$	iː	1
-^e	e	2
-ts	ts	2
-^ee	eː	1
-ee	eː	2
-b$	b	3
-dʒ	dʒ	1
-zz	zz/zː	1
-j$	j	2
-d$	d	3
-^j	j	2
-g$	g	2
-tʃtʃ	tʃtʃ/tʃː	1
-nn	nn/nː	4
-ns	n s	1
-pp	pp/pː	1
-jj	jː	2
-^oo	oː	4
+Grapheme	IPA	SCA	Frequency
+^a	a	A	29
+^b	b	P	26
+^d	d	T	2
+^dʒ	dʒ	T	8
+^e	e	E	2
+^ee	eː	E	1
+^ee$	eː	E	1
+^f	f	B	1
+^g	g	K	16
+^h	h	H	5
+^i	i	I	7
+^ii	iː	I	6
+^j	j	J	2
+^k	k	K	13
+^l	l	L	3
+^m	m	M	12
+^n	n	N	5
+^o	o	U	1
+^oo	oː	U	4
+^q	q	K	4
+^r	r	R	6
+^s	s	S	11
+^t	t	T	8
+^ts	ts	C	7
+^tʃ	tʃ	T	14
+^w	w	W	5
+^z	z	S	4
+^ħ	ħ	H	10
+^ʃ	ʃ	S	9
+^ʕ	ʕ	H	22
+^χ	χ	G	3
+_	+	_	7
+a	a	A	136
+a$	a	A	101
+aa	aː	A	16
+b	b	P	31
+b$	b	P	3
+bb	bː	P	3
+d	d	T	14
+d$	d	T	3
+dd	dː	T	13
+dʒ	dʒ	T	1
+e	e	E	12
+e$	e	E	47
+ee	eː	E	2
+f	f	B	7
+g	g	K	5
+g$	g	K	2
+gg	gː	K	2
+h$	h	H	1
+i	i	I	51
+i$	i	I	29
+ii	iː	I	4
+ii$	iː	I	1
+j	j	J	23
+j$	j	J	2
+jj	jː	J	2
+k	k	K	22
+k$	k	K	2
+kk	kː	K	13
+l	l	L	15
+l$	l	L	1
+ll	lː	L	1
+m	m	M	20
+m$	m	M	3
+n	n	N	52
+n$	n	N	4
+nn	nː	N	4
+ns	n s	N S	1
+o	o	U	27
+o$	o	U	14
+oo	oː	U	7
+oo$	oː	U	1
+pp	pː	P	1
+q	q	K	6
+q$	q	K	2
+qq	qː	K	2
+r	r	R	21
+r$	r	R	1
+rr	rː	R	2
+s	s	S	5
+s$	s	S	2
+t	t	T	40
+ts	ts	C	2
+tt	tː	T	7
+tʃ	tʃ	T	5
+tʃtʃ	tʃː	T	1
+u	u	Y	64
+u$	u	Y	6
+uu	uː	Y	5
+w	w	W	3
+w$	w	W	6
+z	z	S	4
+zz	zː	S	1
+ħ	ħ	H	6
+ʃ	ʃ	S	11
+ʃ$	ʃ	S	1
+ʔ	ʔ	H	11
+ʔ$	ʔ	H	7
+ʕ	ʕ	H	18
+ʕ$	ʕ	H	6
+χ	χ	G	7
+χ$	χ	G	1

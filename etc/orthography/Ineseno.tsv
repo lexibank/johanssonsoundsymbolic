@@ -1,100 +1,98 @@
-Grapheme	IPA	Frequency
-^a	a	57
-p	p	32
-a	a	155
-y$	y	23
-x	x	35
-u	u	88
-n	n	45
-ʃ	ʃ	13
-i$	i	12
-^p	p	20
-i	i	86
-l$	l	21
-^y	y/j	10
-l	l	43
-ʔ$	ʔ	70
-tʼ	tʼ	3
-q	q	21
-tʃ$	tʃ	6
-y	y	20
-m	m	38
-a$	a	6
-u$	u	11
-w	w	27
-t$	t	11
-^m	m	19
-ɨ	ɨ	63
-kʼ$	kʼ	2
-^s	s	15
-k	k	26
-e	e	70
-p$	p	13
-s$	s	10
-^k	k	29
-tʃ	tʃ	11
-ʔ	ʔ	72
-^i	i	23
-tw	t w	1
-o	o	84
-kʼ	kʼ	13
-qʃʼ	q ʃʼ	2
-ʔw$	ʔw/ˀw	5
-t	t	34
-x$	x	10
-^l	l	6
-k$	k	9
-^n	n	13
-^w	w	11
-ts	ts	17
-^ʃ	ʃ	11
-n$	n	52
-e$	e	1
-^q	q	6
-q$	q	12
-ʃ$	ʃ	13
-m$	m	12
-^o	o	9
-^pʼ	pʼ	2
-^e	e	9
-w$	w	8
-^qs	q s	2
-qʃ	q ʃ	3
-pʃ$	p ʃ	4
-qw	qw/qʷ	4
-^h	h	7
-^kʼ	kʼ	2
-pʃ	p ʃ	4
-pʼ$	pʼ	1
-^t	t	29
-^tʃ	tʃ	4
-ʔs$	ʔs/ˀs	3
-xw	xw/xʷ	2
-ɨ$	ɨ	6
-^x	x	8
-^ɨ	ɨ	7
-kʃ$	k ʃ	1
-^tsw	ts w	1
-pʼ	pʼ	1
-^ʃw	ʃ w	2
-h	h	6
-_	+	5
-^u	u	5
-ʔw	ʔw/ˀw	1
-xʃ	x ʃ	2
-^ts	ts	4
-xʃ$	x ʃ	2
-ls	l s	1
-s	s	16
-tʼ$	tʼ	1
-tsh	tsh/tsʰ	1
-o$	o	4
-qs	q s	1
-^kh	kʰ	1
-^kw	kw/kʷ	2
-^qh	qʰ	1
-qh	qh/qʰ	1
-kh	kh/kʰ	1
-^sw	s w	1
-b	b	4
-^ʔ	ʔ	13
+Grapheme	IPA	SCA	Frequency
+^a	a	A	57
+^e	e	E	9
+^h	h	H	7
+^i	i	I	23
+^k	k	K	29
+^kh	kʰ	K	1
+^kw	k w	K W	2
+^kʼ	kʼ	K	2
+^l	l	L	6
+^m	m	M	19
+^n	n	N	13
+^o	o	U	9
+^p	p	P	20
+^pʼ	pʼ	P	2
+^q	q	K	6
+^qh	qʰ	K	1
+^qs	q s	K S	2
+^s	s	S	15
+^sw	s w	S W	1
+^t	t	T	29
+^ts	ts	C	4
+^tsw	ts w	C W	1
+^tʃ	tʃ	T	4
+^u	u	Y	5
+^w	w	W	11
+^x	x	G	8
+^y	j	J	10
+^ɨ	ɨ	I	7
+^ʃ	ʃ	S	11
+^ʃw	ʃ w	S W	2
+^ʔ	ʔ	H	13
+_	+	_	5
+a	a	A	155
+a$	a	A	6
+b	b	P	4
+e	e	E	70
+e$	e	E	1
+h	h	H	6
+i	i	I	86
+i$	i	I	12
+k	k	K	26
+k$	k	K	9
+kh	kʰ	K	1
+kʃ$	k ʃ	K S	1
+kʼ	kʼ	K	13
+kʼ$	kʼ	K	2
+l	l	L	43
+l$	l	L	21
+ls	l s	L S	1
+m	m	M	38
+m$	m	M	12
+n	n	N	45
+n$	n	N	52
+o	o	U	84
+o$	o	U	4
+p	p	P	32
+p$	p	P	13
+pʃ	p ʃ	P S	4
+pʃ$	p ʃ	P S	4
+pʼ	pʼ	P	1
+pʼ$	pʼ	P	1
+q	q	K	21
+q$	q	K	12
+qh	qʰ	K	1
+qs	q s	K S	1
+qw	qʷ	K	4
+qʃ	q ʃ	K S	3
+qʃʼ	q ʃʼ	K S	2
+s	s	S	16
+s$	s	S	10
+t	t	T	34
+t$	t	T	11
+ts	ts	C	17
+tsh	tsʰ	C	1
+tw	t w	T W	1
+tʃ	tʃ	T	11
+tʃ$	tʃ	T	6
+tʼ	tʼ	T	3
+tʼ$	tʼ	T	1
+u	u	Y	88
+u$	u	Y	11
+w	w	W	27
+w$	w	W	8
+x	x	G	35
+x$	x	G	10
+xw	xʷ	G	2
+xʃ	x ʃ	G S	2
+xʃ$	x ʃ	G S	2
+y	y	Y	20
+y$	y	Y	23
+ɨ	ɨ	I	63
+ɨ$	ɨ	I	6
+ʃ	ʃ	S	13
+ʃ$	ʃ	S	13
+ʔ	ʔ	H	72
+ʔ$	ʔ	H	70
+ʔs$	ˀs	S	3
