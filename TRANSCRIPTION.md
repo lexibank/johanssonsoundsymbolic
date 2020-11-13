@@ -475,8 +475,8 @@
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:-------------------------|:--------------|:----------|:--------------|:------------------------------|
-| haidanorthern-220-swim-1 | haidanorthern | 220-swim | d̪ɮ̪agad̪aal̪ | d̪ <s> ɮ̪ </s> a g a d̪ aː l̪ |
-| haidanorthern-228-then-1 | haidanorthern | 228-then | ʔwaad̪ɮ̪ʊʊ | ʔʷ aː d̪ <s> ɮ̪ </s> ʊː |
+| Haidanorthern-220-swim-1 | Haidanorthern | 220-swim | d̪ɮ̪agad̪aal̪ | d̪ <s> ɮ̪ </s> a g a d̪ aː l̪ |
+| Haidanorthern-228-then-1 | Haidanorthern | 228-then | ʔwaad̪ɮ̪ʊʊ | ʔʷ aː d̪ <s> ɮ̪ </s> ʊː |
 
 (2 rows)
 
