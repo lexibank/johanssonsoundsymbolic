@@ -1,100 +1,100 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	9
-^h	h	H	25
-^i	i	I	2
-^ii$	iː	I	2
-^j	j	J	10
-^k	k	K	23
-^kh	kʰ	K	12
-^khw	kʰ w	K W	2
-^kw	k w	K W	6
-^kʼ	kʼ	K	8
-^l	l	L	10
-^m	m	M	6
-^n	n	N	5
-^o	o	U	1
-^oo	oː	U	2
-^p	p	P	17
-^ph	pʰ	P	3
-^pʼ	pʼ	P	2
-^s	s	S	18
-^t	t	T	28
-^th	tʰ	T	3
-^th$	tʰ	T	1
-^ts	ts	C	7
-^tʼ	tʼ	T	19
-^u	u	Y	1
-^uu	uː	Y	1
-^w	w	W	8
-^x	x	G	19
-^x$	x	G	1
-^ɛ	ɛ	E	2
-^ʃ	ʃ	S	7
-a	a	A	133
-a$	a	A	32
-aa	aː	A	11
-aa$	aː	A	11
-aaa	aː	A	1
-h	h	H	7
-h$	h	H	1
-i	i	I	52
-i$	i	I	51
-ii	iː	I	10
-ii$	iː	I	6
-j	j	J	11
-j$	j	J	2
-k	k	K	31
-k$	k	K	4
-kh	kʰ	K	2
-khw	kʰ w	K W	1
-kw	k w	K W	7
-kw$	kʷ	K	3
-kʃ	k ʃ	K S	1
-kʼ	kʼ	K	1
-kʼ$	kʼ	K	8
-l	l	L	40
-l$	l	L	20
-ls$	l s	L S	1
-m	m	M	20
-m$	m	M	17
-n	n	N	13
-n$	n	N	23
-nʃ$	n ʃ	N S	1
-o	o	U	22
-o$	o	U	1
-oo	oː	U	5
-oo$	oː	U	1
-p	p	P	14
-p$	p	P	6
-ph	pʰ	P	1
-ps	p s	P S	1
-pʼ	pʼ	P	4
-pʼ$	pʼ	P	3
-s	s	S	5
-s$	s	S	17
-t	t	T	25
-t$	t	T	7
-th	tʰ	T	2
-ts	ts	C	5
-tʼ	tʼ	T	12
-tʼ$	tʼ	T	3
-u	u	Y	20
-u$	u	Y	6
-uu	uː	Y	10
-uu$	uː	Y	2
-w	w	W	26
-w$	w	W	3
-x	x	G	10
-x$	x	G	16
-xw	xʷ	G	1
-ɛ	ɛ	E	42
-ɛ$	ɛ	E	5
-ɛɛ	ɛː	E	2
-ɛɛ$	ɛː	E	2
-ɨ	ɨ	I	4
-ɨɨ	ɨː	I	1
-ʃ	ʃ	S	2
-ʃ$	ʃ	S	2
-ʍ	ʍ	M	1
-ʍ$	ʍ	M	2
-ʔh	ʔʰ	H	12
+Grapheme	IPA	Frequency
+^t	t	28
+a	a	133
+kʼ$	kʼ	8
+^n	n	5
+i	i	52
+w$	w	3
+^h	h	25
+u$	u	6
+^a	a	9
+l	l	40
+t	t	25
+ii	iː	10
+l$	l	20
+^ts	ts	7
+ʔh	ʔh/ʔʰ	12
+n	n	13
+ts	ts	5
+x$	x	16
+^p	p	17
+u	u	20
+p	p	14
+n$	n	23
+^kʼ	kʼ	8
+o	o	22
+^x	x	19
+a$	a	32
+^i	i	2
+k	k	31
+ʍ$	ʍ	2
+^kh	kʰ	12
+ɛ	ɛ	42
+ii$	iː	6
+uu$	uː	2
+^tʼ	tʼ	19
+tʼ	tʼ	12
+x	x	10
+w	w	26
+aa$	aː	11
+^m	m	6
+h	h	7
+i$	i	51
+^ʃ	ʃ	7
+uu	uː	10
+^j	j	10
+kw	kw/kʷ	7
+kw$	kw/kʷ	3
+m$	m	17
+oo	oː	5
+^pʼ	pʼ	2
+pʼ	pʼ	4
+pʼ$	pʼ	3
+^w	w	8
+aa	aː	11
+t$	t	7
+^k	k	23
+^l	l	10
+p$	p	6
+k$	k	4
+m	m	20
+th	th/tʰ	2
+ɛɛ$	ɛː	2
+nʃ$	nʃ	1
+h$	h	1
+^u	u	1
+j	j	11
+^s	s	18
+ps	p s	1
+^ph	pʰ	3
+ɛɛ	ɛː	2
+s$	s	17
+^o	o	1
+^khw	kʷʰ	2
+ʃ	ʃ	2
+tʼ$	tʼ	3
+^ii$	iː	2
+^x$	x	1
+ɨ	ɨ	4
+xw	xw/xʷ	1
+ɛ$	ɛ	5
+khw	khw/kʷʰ	1
+j$	j	2
+^uu	uː	1
+ʃ$	ʃ	2
+s	s	5
+^kw	kw/kʷ	6
+ls$	l s	1
+^th	th/tʰ	3
+ph	ph/pʰ	1
+kʼ	kʼ	1
+o$	o	1
+oo$	oː	1
+ɨɨ	ɨː	1
+^ɛ	ɛ	2
+kʃ	k ʃ	1
+ʍ	ʍ	1
+kh	kh/kʰ	2
+aaa	aaa/aː	1
+^th$	th/tʰ	1
+^oo	oː	2

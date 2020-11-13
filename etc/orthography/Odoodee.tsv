@@ -1,46 +1,46 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	6
-^d	d	T	18
-^g	g	K	12
-^h	h	H	23
-^i	i	I	2
-^j	j	J	4
-^k	k	K	14
-^m	m	M	8
-^n	n	N	6
-^s	s	S	12
-^t	t	T	15
-^w	w	W	11
-^ɑ	ɑ	A	6
-^ɑ$	ɑ	A	2
-^ɔ	ɔ	U	6
-^ɛ	ɛ	E	8
-^ɸ	ɸ	B	7
-_	+	_	5
-b	b	P	20
-d	d	T	19
-e	e	E	7
-e$	e	E	14
-g	g	K	26
-h	h	H	2
-i	i	I	30
-i$	i	I	19
-j	j	J	4
-k	k	K	11
-l	l	L	27
-m	m	M	22
-n	n	N	5
-o	o	U	11
-o$	o	U	11
-s	s	S	19
-t	t	T	2
-u	u	Y	21
-u$	u	Y	11
-w	w	W	12
-ɑ	ɑ	A	30
-ɑ$	ɑ	A	31
-ɔ	ɔ	U	54
-ɔ$	ɔ	U	51
-ɛ	ɛ	E	29
-ɛ$	ɛ	E	21
-ɸ	ɸ	B	9
+Grapheme	IPA	Frequency
+^t	t	15
+ɔ	ɔ	54
+b	b	20
+u	u	21
+d	d	19
+o$	o	11
+^ɔ	ɔ	6
+u$	u	11
+s	s	19
+l	l	27
+ɔ$	ɔ	51
+^s	s	12
+g	g	26
+ɑ$	ɑ	31
+^g	g	12
+ɑ	ɑ	30
+k	k	11
+ɛ	ɛ	29
+n	n	5
+e$	e	14
+ɸ	ɸ	9
+^b	b	6
+i$	i	19
+^d	d	18
+m	m	22
+^h	h	23
+i	i	30
+o	o	11
+w	w	12
+^ɸ	ɸ	7
+ɛ$	ɛ	21
+h	h	2
+^k	k	14
+e	e	7
+^m	m	8
+^n	n	6
+_	+	5
+t	t	2
+^ɛ	ɛ	8
+^j	j	4
+^w	w	11
+^ɑ$	ɑ	2
+j	j	4
+^ɑ	ɑ	6
+^i	i	2

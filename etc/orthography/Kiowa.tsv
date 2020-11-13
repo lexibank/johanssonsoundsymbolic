@@ -1,98 +1,99 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	7
-^a$	a	A	2
-^aa	aː	A	4
-^b	b	P	10
-^d̪	d̪	T	7
-^e	e	E	3
-^g	g	K	9
-^h	h	H	11
-^i	i	I	7
-^j	j	J	5
-^k	k	K	14
-^kh	kʰ	K	14
-^kʼ	kʼ	K	18
-^m	m	M	9
-^n̪	n̪	N	3
-^o	o	U	1
-^p	p	P	13
-^ph	pʰ	P	8
-^pʼ	pʼ	P	15
-^s	s	S	18
-^t̪	t̪	T	15
-^t̪h	t̪ʰ	T	10
-^t̪s	ts̪	T	14
-^t̪ʼ	t̪ʼ	T	18
-^z	z	S	8
-^ã	ã	A	5
-^õ	õ	U	2
-^ɔ	ɔ	U	2
-^ɔɔ	ɔː	U	5
-^ɔ̃	ɔ̃	U	1
-^ɔ̃$	ɔ̃	U	1
-^ʔ	ʔ	H	4
-^ẽ	ẽ	E	2
-_	+	_	1
-a	a	A	38
-a$	a	A	27
-aa	aː	A	15
-b	b	P	11
-b$	b	P	1
-d̪	d̪	T	69
-d̪$	d̪	T	1
-d̪s	d̪ s	T S	1
-e	e	E	46
-e$	e	E	14
-g	g	K	38
-h	h	H	7
-i	i	I	62
-i$	i	I	20
-ii$	iː	I	1
-j	j	J	46
-kh	kʰ	K	2
-kʼ	kʼ	K	9
-l̪	l̪	L	12
-l̪$	l̪	L	23
-m	m	M	10
-m$	m	M	9
-mh	m̥	M	1
-n̪	n̪	N	17
-n̪$	n̪	N	14
-n̪h	n̪̥	N	2
-n̪s	n̪ s	N S	2
-o	o	U	42
-p	p	P	2
-p$	p	P	9
-ph	pʰ	P	1
-pʼ	pʼ	P	10
-s	s	S	3
-t̪	t̪	T	3
-t̪$	t̪	T	10
-t̪h	t̪ʰ	T	7
-t̪hs	ts̪ʰ	T	1
-t̪s	ts̪	T	4
-t̪s$	ts̪	T	1
-t̪ʼ	t̪ʼ	T	20
-t̪ʼs	t̪ʼ s	T S	3
-u	u	Y	40
-u$	u	Y	10
-z	z	S	1
-ã	ã	A	18
-ã$	ã	A	1
-ãã	ãː	A	12
-ãã$	ãː	A	3
-õ	õ	U	32
-ĩ	ĩ	I	21
-ĩ$	ĩ	I	5
-ũ	ũ	Y	26
-ũ$	ũ	Y	10
-ɔ	ɔ	U	31
-ɔ$	ɔ	U	62
-ɔɔ	ɔː	U	28
-ɔ̃	ɔ̃	U	18
-ɔ̃$	ɔ̃	U	12
-ɔ̃ɔ̃	ɔ̃	U	6
-ʔ	ʔ	H	81
-ʔ$	ʔ	H	24
-ẽ	ẽ	E	14
-ẽ$	ẽ	E	5
+Grapheme	IPA	Frequency
+^m	m	9
+ɔ̃$	ɔ̃	12
+^k	k	14
+i	i	62
+ɔ	ɔ	31
+t̪	t̪	3
+ɔ̃	ɔ̃	18
+ʔ$	ʔ	24
+^kh	kʰ	14
+g	g	38
+j	j	46
+ɔ$	ɔ	62
+^t̪	t̪	15
+e	e	46
+i$	i	20
+^s	s	18
+ã	ã	18
+ʔ	ʔ	81
+ãã	ãː	12
+d̪	d̪	69
+a$	a	27
+aa	aː	15
+pʼ	pʼ	10
+n̪$	n̪	14
+^g	g	9
+o	o	42
+u	u	40
+m$	m	9
+^b	b	10
+t̪$	t̪	10
+^t̪h	t̪ʰ	10
+õ	õ	32
+ũ	ũ	26
+m	m	10
+b	b	11
+^d̪	d̪	7
+t̪ʼ	t̪ʼ	20
+^e	e	3
+l̪$	l̪	23
+a	a	38
+u$	u	10
+^z	z	8
+n̪	n̪	17
+t̪h	t̪h/t̪ʰ	7
+^kʼ	kʼ	18
+ũ$	ũ	10
+^õ	õ	2
+^pʼ	pʼ	15
+l̪	l̪	12
+e$	e	14
+p$	p	9
+^t̪ʼ	t̪ʼ	18
+ẽ	ẽ	14
+ĩ	ĩ	21
+ɔɔ	ɔː	28
+z	z	1
+^ɔ̃$	ɔ̃	1
+n̪h	n̪h/n̪̊	2
+ii$	iː	1
+^a	a	7
+ẽ$	ẽ	5
+^h	h	11
+^t̪s	ts̪	14
+h	h	7
+^p	p	13
+^i	i	7
+^j	j	5
+t̪ʼs	t̪ʼ s	3
+ĩ$	ĩ	5
+^ɔɔ	ɔː	5
+t̪s$	t̪s/ts̪	1
+^aa	aː	4
+p	p	2
+^ã	ã	5
+kʼ	kʼ	9
+d̪s	d̪ s	1
+n̪s	n̪ s	2
+s	s	3
+ph	ph/pʰ	1
+^ẽ	ẽ	2
+t̪s	t̪s/ts̪	4
+^n̪	n̪	3
+ãã$	ãː	3
+^ph	pʰ	8
+^ɔ	ɔ	2
+ã$	ã	1
+ɔ̃ɔ̃	ɔ̃	6
+_	+	1
+t̪hs	t̪hs/ts̪ʰ	1
+kh	kh/kʰ	2
+b$	b	1
+mh	mh/m̥	1
+^ʔ	ʔ	4
+ʔs	ʔs/ˀs	2
+d̪$	d̪	1
+^a$	a	2
+^o	o	1
+^ɔ̃	ɔ̃	1

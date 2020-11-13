@@ -1,103 +1,103 @@
-Grapheme	IPA	SCA	Frequency
-$	NULL	NULL	1
-^a	a	A	81
-^aa	aː	A	10
-^aa$	aː	A	1
-^b	b	P	32
-^bw	b w	P W	1
-^d	d	T	12
-^i	i	I	8
-^ii	iː	I	4
-^j	j	J	3
-^k	k	K	25
-^kw	k w	K W	1
-^l	l	L	1
-^m	m	M	3
-^n	n	N	2
-^o	o	U	4
-^oo	oː	U	2
-^oo$	oː	U	1
-^r	r	R	3
-^s	s	S	15
-^t	t	T	8
-^tw	t w	T W	1
-^tʃ	tʃ	T	1
-^ã	ã	A	1
-^ãã	ãː	A	6
-^ãã$	ãː	A	1
-^ĩĩ	ĩː	I	3
-^ũũ	ũ	Y	1
-^ɲ	ɲ	N	1
-^ʃ	ʃ	S	15
-^ʔw	ʔʷ	H	1
-_	+	_	49
-a	a	A	152
-a$	a	A	47
-aa	aː	A	46
-aa$	aː	A	22
-aaa$	aː	A	2
-b	b	P	82
-d	d	T	44
-e	e	E	6
-e$	e	E	1
-g	g	K	10
-g$	g	K	3
-gs	g s	K S	2
-gʃ	g ʃ	K S	2
-h	h	H	25
-h$	h	H	7
-i	i	I	111
-i$	i	I	64
-ii	iː	I	25
-ii$	iː	I	16
-iii$	iː	I	1
-iiii$	iː	I	1
-j	j	J	14
-j$	j	J	1
-k	k	K	54
-k$	k	K	1
-ks	k s	K S	1
-l	l	L	1
-m	m	M	16
-n	n	N	18
-n$	n	N	8
-nʃ	n ʃ	N S	1
-o	o	U	34
-o$	o	U	4
-oo	oː	U	11
-oo$	oː	U	4
-p	p	P	1
-q	q	K	24
-qʃ	q ʃ	K S	3
-r	r	R	63
-rw	r w	R W	1
-s	s	S	45
-t	t	T	35
-tt	tː	T	2
-tʃ	tʃ	T	7
-u	u	Y	21
-u$	u	Y	12
-uu	uː	Y	8
-uu$	uː	Y	12
-uuu	uː	Y	3
-ã	ã	A	10
-ã$	ã	A	3
-ãã	ãː	A	3
-ãã$	ãː	A	8
-õ	õ	U	1
-õõ$	õ	U	2
-ĩ	ĩ	I	4
-ĩ$	ĩ	I	5
-ĩĩ$	ĩː	I	4
-ŋ	ŋ	N	8
-ŋ$	ŋ	N	5
-ũ$	ũ	Y	2
-ũũ$	ũ	Y	1
-ɨ	ɨ	I	13
-ɨ$	ɨ	I	3
-ɨɨ	ɨː	I	2
-ɨ̃	ɨ̃	I	1
-ɨ̃ɨ̃$	ɨ̃	I	1
-ʃ	ʃ	S	66
-ʔ$	ʔ	H	2
-ẽ$	ẽ	E	2
+Grapheme	IPA	Frequency
+^b	b	32
+aa	aː	46
+d	d	44
+uu$	uː	12
+^d	d	12
+o	o	34
+q	q	24
+t	t	35
+s	s	45
+õ	õ	1
+n$	n	8
+^ĩĩ	ĩː	3
+ʃ	ʃ	66
+k	k	54
+i$	i	64
+^r	r	3
+u	u	21
+g	g	10
+tʃ	tʃ	7
+ii$	iː	16
+^k	k	25
+m	m	16
+aaa$	aaa/aː	2
+i	i	111
+ãã$	ãː	8
+^i	i	8
+b	b	82
+uu	uː	8
+ŋ	ŋ	8
+j	j	14
+^kw	kw/kʷ	1
+ĩ$	ĩ	5
+^a	a	81
+r	r	63
+ɨ	ɨ	13
+n	n	18
+gʃ	g ʃ	2
+a	a	152
+^aa	aː	10
+õõ$	õ	2
+ɨɨ	ɨː	2
+h$	h	7
+iii$	iii/iː	1
+h	h	25
+a$	a	47
+^s	s	15
+^tw	t w	1
+aa$	aː	22
+u$	u	12
+oo	oː	11
+ã	ã	10
+uuu	uuu/uː	3
+$	NULL	1
+^n	n	2
+ɨ$	ɨ	3
+^t	t	8
+^ãã	ãː	6
+^ʃ	ʃ	15
+ɨ̃	ɨ̃	1
+_	+	49
+ŋ$	ŋ	5
+e	e	6
+^ãã$	ãː	1
+^oo$	oː	1
+ã$	ã	3
+^ii	iː	4
+tt	tt/tː	2
+ĩĩ$	ĩː	4
+j$	j	1
+nʃ	nʃ	1
+ẽ$	ẽ	2
+k$	k	1
+o$	o	4
+ũũ$	ũ	1
+^oo	oː	2
+g$	g	3
+^o	o	4
+^m	m	3
+ii	iː	25
+iiii$	iiii/iː	1
+qʃ	q ʃ	3
+e$	e	1
+^l	l	1
+^tʃ	tʃ	1
+^aa$	aː	1
+^bw	b w	1
+oo$	oː	4
+ɨ̃ɨ̃$	ɨ̃	1
+^ʔw	ʔʷ	1
+p	p	1
+ʔ$	ʔ	2
+ũ$	ũ	2
+rw	r w	1
+^ũũ	ũ	1
+l	l	1
+gs	g s	2
+^ɲ	ɲ	1
+ãã	ãː	3
+^j	j	3
+^ã	ã	1
+ks	k s	1
+ĩ	ĩ	4
