@@ -1,62 +1,30 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	17
-^b	b	P	42
-^c	c	C	13
-^d	d	T	26
-^e	e	E	6
-^g	g	K	21
-^h	h	H	2
-^i	i	I	9
-^j	j	J	1
-^k	k	K	30
-^l	l	L	19
-^m	m	M	16
-^n	n	N	5
-^o	o	U	7
-^p	p	P	4
-^r	r	R	18
-^s	s	S	10
-^t	t	T	13
-^u	u	Y	3
-^w	w	W	3
-^ŋ	ŋ	N	12
-^ɓ	ɓ	P	4
-^ɟ	ɟ	C	2
-^ɲ	ɲ	N	5
-^ʔ	ʔ	H	1
-a	a	A	165
-a$	a	A	77
-b	b	P	11
-c	c	C	4
-d	d	T	39
-e	e	E	54
-e$	e	E	41
-f	f	B	2
-g	g	K	17
-h	h	H	3
-i	i	I	72
-i$	i	I	49
-j	j	J	1
-k	k	K	9
-l	l	L	42
-m	m	M	32
-m$	m	M	1
-n	n	N	47
-o	o	U	126
-o$	o	U	67
-p	p	P	6
-r	r	R	53
-r$	r	R	1
-s	s	S	27
-s$	s	S	1
-t	t	T	35
-u	u	Y	65
-u$	u	Y	50
-w	w	W	14
-ŋ	ŋ	N	37
-ŋ$	ŋ	N	2
-ɓ	ɓ	P	6
-ɟ	ɟ	C	1
-ɠ	ɠ	K	3
-ɲ	ɲ	N	1
-ʔ	ʔ	H	110
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		289	NULL	daʔu;dodato;oara;moini;goʔoro
+$	NULL		289	NULL	daʔu;dodato;oara;moini;goʔoro
+a	a	A	259	165	daʔu;dodato;oara;oara;haiwani
+f	f	B	2	2	ofi;hafu
+c	c	C	17	4	cira;cai;cori;kocowoʔo;caiʔiti
+ɟ	ɟ	C	3	1	ɟelele;aɟele;ɟoloʔoro
+e	e	E	101	54	enoʔo;karena;lese;lese;bero
+h	h	H	5	3	haiwani;hafu;borohaso;ahu;kohi
+ʔ	ʔ	H	111	110	daʔu;goʔoro;babaʔaʔdusu;babaʔaʔdusu;duʔduʔolo
+i	i	I	130	72	moini;moini;haiwani;haiwani;giama
+j	j	J	2	1	mojala;jaiʔi
+g	g	K	38	17	goʔoro;giama;giama;gagoro;gagoro
+k	k	K	39	9	karena;kotuʔu;kotuʔu;kakamoʔo;kakamoʔo
+ɠ	ɠ	K	3	3	puɠa;raraɠa;raraɠa
+l	l	L	61	42	duʔduʔolo;lamoʔo;mojala;lese;belero
+m	m	M	49	32	moini;giama;giama;itomo;lamoʔo
+n	n	N	52	47	moini;haiwani;enoʔo;karena;ŋaunu
+ŋ	ŋ	N	51	37	ŋaunu;diʔdiŋi;seŋene;toʔaŋere;dowaŋa
+ɲ	ɲ	N	6	1	ɲeloʔo;ɲareʔe;ɲagimoi;ɲiutu;baɲo
+b	b	P	53	11	babaʔaʔdusu;babaʔaʔdusu;bababata;bababata;bababata
+p	p	P	10	6	puɠa;ropu;polono;repe;peletoro
+ɓ	ɓ	P	10	6	buɓu;kuɓali;baɓa;buɓuŋu;ɓiʔi
+r	r	R	72	53	oara;goʔoro;cira;rouso;karena
+s	s	S	38	27	babaʔaʔdusu;rouso;siʔda;dusuʔu;lese
+d	d	T	65	39	daʔu;dodato;dodato;babaʔaʔdusu;duʔduʔolo
+t	t	T	48	35	dodato;itomo;bababata;kotuʔu;kotuʔu
+o	o	U	200	126	dodato;dodato;oara;moini;goʔoro
+w	w	W	17	14	haiwani;kocowoʔo;dowaŋa;biwisi;ciawa
+u	u	Y	118	65	daʔu;babaʔaʔdusu;babaʔaʔdusu;duʔduʔolo;duʔduʔolo

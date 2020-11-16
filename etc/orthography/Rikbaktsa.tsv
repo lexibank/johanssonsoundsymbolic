@@ -1,65 +1,33 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	13
-^a$	a	A	1
-^b	b	P	16
-^d	d	T	9
-^e	e	E	12
-^h	h	H	25
-^i	i	I	15
-^j	j	J	8
-^k	k	K	13
-^m	m	M	6
-^n	n	N	9
-^o	o	U	4
-^p	p	P	12
-^s	s	S	21
-^t	t	T	12
-^tʃ	tʃ	T	31
-^u	u	Y	2
-^w	w	W	6
-^ɨ	ɨ	I	2
-^ɽ	ɽ	R	29
-^ɾ	ɾ	R	3
-^ʃ	ʃ	S	1
-^ẽ	ẽ	E	1
-_	+	_	12
-a	a	A	103
-a$	a	A	64
-b	b	P	32
-d	d	T	5
-e	e	E	39
-e$	e	E	27
-h	h	H	36
-i	i	I	93
-i$	i	I	27
-j	j	J	4
-k	k	K	81
-k$	k	K	38
-kh	kh/kʰ	K	2
-ks	k s	K S	1
-kw	kw/k w	K W	1
-m	m	M	2
-mw	m w	M W	1
-n	n	N	18
-o	o	U	54
-o$	o	U	34
-p	p	P	37
-s	s	S	11
-t	t	T	39
-tʃ	tʃ	T	37
-u	u	Y	42
-u$	u	Y	15
-w	w	W	13
-ã	ã	A	5
-ã$	ã	A	1
-õ	õ	U	7
-õ$	õ	U	6
-ĩ	ĩ	I	1
-ĩ$	ĩ	I	1
-ũ$	ũ	Y	1
-ɨ	ɨ	I	71
-ɨ$	ɨ	I	35
-ɨ̃$	ɨ̃	I	1
-ɽ	ɽ	R	41
-ɾ	ɾ	R	75
-ẽ	ẽ	E	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		250	NULL	haɾapu_bete;pɨbɨ;bɨkɨɽe_puẽtʃik;atʃaeɽubaha;ɽohani
+$	NULL		249	NULL	haɾapu_bete;pɨbɨ;bɨkɨɽe_puẽtʃik;atʃaeɽubaha;ɽohani
+a	a	A	181	103	haɾapu_bete;haɾapu_bete;atʃaeɽubaha;atʃaeɽubaha;atʃaeɽubaha
+ã	ã	A	6	5	kãkã;kãkã;ihãɾãɽõɾõ;ihãɾãɽõɾõ;hawa_hãta
+e	e	E	78	39	haɾapu_bete;haɾapu_bete;bɨkɨɽe_puẽtʃik;atʃaeɽubaha;sukpe
+ẽ	ẽ	E	3	2	bɨkɨɽe_puẽtʃik;ẽɾakani;stẽɾõɽik
+h	h	H	61	36	haɾapu_bete;atʃaeɽubaha;ɽohani;hõtok;sehe
+i	i	I	135	93	bɨkɨɽe_puẽtʃik;ɽohani;tʃipa;tʃipa;akhidepɨk
+ĩ	ĩ	I	2	1	okpitʃĩ;ʃiɾubaĩtʃa
+ɨ	ɨ	I	108	71	pɨbɨ;pɨbɨ;bɨkɨɽe_puẽtʃik;bɨkɨɽe_puẽtʃik;akhidepɨk
+ɨ̃$	ɨ̃	I	1	1	hinipɨ̃
+j	j	J	12	4	jokboha;jo;ɽohanijana;jobobɨita;soɽikaja
+k	k	K	133	81	bɨkɨɽe_puẽtʃik;bɨkɨɽe_puẽtʃik;sukpe;akhidepɨk;hõtok
+kh	kh/kʰ	K	2	2	akhidepɨk;ɨtɨkhõ
+m	m	M	9	2	mapoɾik;mɨtʃɨhɨɾɨwa;mɨpubɨi;maku;matʃaɽikwɨtʃahaɾawakata
+n	n	N	27	18	ɽohani;noɾɨ;iknɨ;pasukni;tʃikupaɾini
+b	b	P	48	32	haɾapu_bete;pɨbɨ;bɨkɨɽe_puẽtʃik;atʃaeɽubaha;aktaba
+p	p	P	49	37	haɾapu_bete;pɨbɨ;bɨkɨɽe_puẽtʃik;tʃipa;tʃipa
+ɽ	ɽ	R	70	41	bɨkɨɽe_puẽtʃik;atʃaeɽubaha;ɽohani;ɽiu;taɽɨ
+ɾ	ɾ	R	78	75	haɾapu_bete;isukɨɾiki;boɾo;tʃiktʃiɾõɾõ;tʃiktʃiɾõɾõ
+s	s	S	33	11	sukpe;isukɨɾiki;sehe;isikpia;spu
+^ʃ	ʃ	S	1	1	ʃiɾubaĩtʃa
+d	d	T	14	5	akhidepɨk;budu;depɨk;doho;edɨtɨk
+t	t	T	51	39	haɾapu_bete;hõtok;aktaba;tõtõ;tõtõ
+tʃ	tʃ	T	68	37	bɨkɨɽe_puẽtʃik;atʃaeɽubaha;tʃipa;tʃipa;tʃiktʃiɾõɾõ
+o	o	U	92	54	ɽohani;hõtok;boɾo;boɾo;noɾɨ
+õ	õ	U	13	7	hõtok;tõtõ;tõtõ;tʃiktʃiɾõɾõ;tʃiktʃiɾõɾõ
+w	w	W	20	13	wɨtɨk;tʃaɾawɨbaɾa;mɨtʃɨhɨɾɨwa;wotʃitʃik;tʃaɾawɨ
+u	u	Y	59	42	haɾapu_bete;bɨkɨɽe_puẽtʃik;atʃaeɽubaha;sukpe;ɽiu
+ũ$	ũ	Y	1	1	noɾũ
+_	+	_	12	12	haɾapu_bete;bɨkɨɽe_puẽtʃik;hawa_hãta;ape_baɽe;tʃɨhɨɾɨtʃa_nesipɨk
+kw	kw/k w	K W	1	1	matʃaɽikwɨtʃahaɾawakata

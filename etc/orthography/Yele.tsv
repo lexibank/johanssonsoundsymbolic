@@ -1,83 +1,42 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	5
-^c	c	C	21
-^j	j	J	16
-^k	k	K	68
-^kw	kw/k w	K W	7
-^m	m	M	52
-^mw	m w	M W	3
-^n̪	n̪	N	26
-^p	p	P	20
-^pw	p w	P W	2
-^tʃ	tʃ	T	10
-^t̪	t̪	T	26
-^u	u	Y	1
-^w	w	W	14
-^ŋ	ŋ	N	4
-^ŋw	ŋw/ŋʷ	N	2
-^ɣ	ɣ	G	8
-^ɲ	ɲ	N	5
-^ʎ	ʎ	L	8
-^β	β	B	6
-_	+	_	51
-a	a	A	21
-a$	a	A	19
-aa	aː	A	8
-aa$	aː	A	12
-b	b	P	19
-bw	b w	P W	11
-c	c	C	59
-e	e	E	7
-e$	e	E	3
-g	g	K	5
-i	i	I	28
-i$	i	I	36
-ii	iː	I	2
-ii$	iː	I	6
-j	j	J	46
-j$	j	J	1
-jw	j w	J W	2
-k	k	K	14
-kw	kw/k w	K W	4
-m	m	M	59
-m$	m	M	1
-n̪	n̪	N	43
-n̪w	n̪ w	N W	1
-o	o	U	17
-o$	o	U	21
-oo	oː	U	2
-oo$	oː	U	4
-p	p	P	56
-pw	p w	P W	4
-t̪	t̪	T	15
-u	u	Y	23
-u$	u	Y	17
-uu	uː	Y	4
-uu$	uː	Y	18
-w	w	W	14
-æ$	æ	E	1
-ŋ	ŋ	N	10
-ŋw	ŋw/ŋʷ	N	2
-ɑ	ɑ	A	3
-ɑɑ	ɑː	A	8
-ɑɑ$	ɑː	A	21
-ɔ	ɔ	U	20
-ɔ$	ɔ	U	27
-ɔɔ	ɔː	U	3
-ɔɔ$	ɔː	U	11
-ə	ə	E	31
-ə$	ə	E	40
-əə	əː	E	5
-əə$	əː	E	7
-ɛ	ɛ	E	25
-ɛ$	ɛ	E	24
-ɛɛ	ɛː	E	7
-ɛɛ$	ɛː	E	11
-ɣ	ɣ	G	6
-ɨ	ɨ	I	33
-ɨ$	ɨ	I	21
-ɨɨ	ɨː	I	1
-ɨɨ$	ɨː	I	3
-ɲ	ɲ	N	4
-ʎ	ʎ	L	19
-β	β	B	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		294	NULL	mucu;moo;kuwo;jin̪t̪omu;n̪ɔcɛn̪ɔcɛ
+$	NULL		303	NULL	mucu;moo;kuwo;jin̪t̪omu;n̪ɔcɛn̪ɔcɛ
+a	a	A	45	21	kpacama;kpacama;kpacama;n̪ca;t̪aʎɨ
+ɑ	ɑ	A	3	3	mɑʎɔ;wɑæ;mɑʎɔ
+aa	aː	A	20	8	n̪kaaʎɨ_t̪ɔɔ_pɛɛ;kn̪aa;waaʎi;ɣaa;paaci
+ɑɑ	ɑː	A	29	8	t̪pɛɛ_mɑɑ;kn̪ɑɑ_pɛɛ_cə;wɑɑ;kəə_pjɑɑ;kpɑɑ
+β	β	B	8	2	βja;βja;βjɛn̪ɛ;βjɛn̪ɛ;pi_βjɛɛ
+c	c	C	80	59	mucu;n̪ɔcɛn̪ɔcɛ;n̪ɔcɛn̪ɔcɛ;kpacama;cɔn̪ɔ
+e	e	E	10	7	aŋən̪t̪e;wen̪i;mjɛn̪t̪e;cəəkweci;wen̪i
+ə	ə	E	71	31	ɣəʎɨ;məkn̪ɔpwɔ;tʃ_ɛcə;ɲmə;kpəcəkpəcə
+ɛ	ɛ	E	49	25	n̪ɔcɛn̪ɔcɛ;n̪ɔcɛn̪ɔcɛ;t̪piʎɛ_t̪pɔɔ;tʃ_ɛcə;kijɛ
+æ$	æ	E	1	1	wɑæ
+əə	əː	E	12	5	kəə;kəə;wəə;kəə_pjɑɑ;kpəəpɨ
+ɛɛ	ɛː	E	18	7	t̪pɛɛ_mɑɑ;kn̪ɑɑ_pɛɛ_cə;n̪kaaʎɨ_t̪ɔɔ_pɛɛ;jɛmə_wɛɛ;pi_βjɛɛ
+ɣ	ɣ	G	14	6	ɣəʎɨ;ɣaa;ɣaa;ɣa_mbaambaa;ɣə
+i	i	I	64	28	jin̪t̪omu;t̪piʎɛ_t̪pɔɔ;kijɛ;cn̪jin̪ə;kjupwi
+ɨ	ɨ	I	54	33	mu_kopu_u_cɨjɔ;ɣəʎɨ;cɨn̪ə;n̪kaaʎɨ_t̪ɔɔ_pɛɛ;mgɨcɨ
+ii	iː	I	8	2	n̪iima;t̪pii;t̪ii;n̪t̪ii;ciicii
+ɨɨ	ɨː	I	4	1	n̪cɨɨ;kɨɨkɨɨ;kɨɨkɨɨ;caacɨɨ
+j	j	J	65	46	jin̪t̪omu;mu_kopu_u_cɨjɔ;kijɛ;cn̪jin̪ə;kjupwi
+g	g	K	5	5	mgɨcɨ;mgaamgaa;mgaamgaa;mgɨcɨ;mgɛmɛ
+k	k	K	82	14	kuwo;kəə;kəə;kpɔ;kpacama
+ʎ	ʎ	L	27	19	t̪piʎɛ_t̪pɔɔ;ɣəʎɨ;n̪kaaʎɨ_t̪ɔɔ_pɛɛ;ʎə;mɑʎɔ
+m	m	M	115	59	mucu;moo;jin̪t̪omu;kpacama;mu_kopu_u_cɨjɔ
+ŋ	ŋ	N	14	10	ŋmɔ;kwɔʎɔ_ŋmə;ja_mə_ŋmə;ʎɨmɨʎɨmɨ_ŋə;cɨŋɨcɨŋɨ
+ɲ	ɲ	N	9	4	ɲmə;ŋwɛɲɛ;ɲuu;ɲuwoɲuwo;ɲuwoɲuwo
+n̪	n̪	N	70	43	jin̪t̪omu;n̪ɔcɛn̪ɔcɛ;n̪ɔcɛn̪ɔcɛ;cɔn̪ɔ;məkn̪ɔpwɔ
+ŋw	ŋw/ŋʷ	N	4	2	ŋwɛɲɛ;ŋwɔʎɔ;aʎa_ŋwɔ;u_ŋwɔ
+b	b	P	30	19	mbukn̪wɛ;mbə;mbjuu;mbaa;mbijɛ
+p	p	P	82	56	t̪piʎɛ_t̪pɔɔ;t̪piʎɛ_t̪pɔɔ;kpɔ;kpacama;mu_kopu_u_cɨjɔ
+t̪	t̪	T	41	15	jin̪t̪omu;t̪piʎɛ_t̪pɔɔ;t̪piʎɛ_t̪pɔɔ;t̪ɔɔ;n̪t̪uu
+^tʃ	tʃ	T	10	10	tʃ_ɛcə;tʃ_ɛcə;tʃ_u;tʃ_əəpɨ;tʃ_imi
+o	o	U	38	17	kuwo;jin̪t̪omu;mu_kopu_u_cɨjɔ;kuwo;t̪opwot̪opwo
+ɔ	ɔ	U	47	20	n̪ɔcɛn̪ɔcɛ;n̪ɔcɛn̪ɔcɛ;kpɔ;cɔn̪ɔ;cɔn̪ɔ
+oo	oː	U	6	2	moo;ka_t̪oo;mboo;βjoo_wuu_cə;n̪joo
+ɔɔ	ɔː	U	14	3	t̪piʎɛ_t̪pɔɔ;t̪ɔɔ;kmɔɔ;n̪kaaʎɨ_t̪ɔɔ_pɛɛ;jɔɔ
+w	w	W	51	14	kuwo;kuwo;məkn̪ɔpwɔ;wəə;wuu
+u	u	Y	41	23	mucu;mucu;kuwo;jin̪t̪omu;mu_kopu_u_cɨjɔ
+uu	uː	Y	22	4	n̪cuun̪cuu;n̪cuun̪cuu;wuu;n̪t̪uu;wuu
+_	+	_	51	51	t̪piʎɛ_t̪pɔɔ;mu_kopu_u_cɨjɔ;mu_kopu_u_cɨjɔ;mu_kopu_u_cɨjɔ;tʃ_ɛcə
+kw	kw/k w	K W	11	4	n̪kwɔn̪kwɔ;n̪kwɔn̪kwɔ;kwɔʎɔ_ŋmə;kwɛt̪ɛ;kwɛcɛ

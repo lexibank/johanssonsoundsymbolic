@@ -1,116 +1,58 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	2
-^a	a	A	63
-^aa	aː	A	4
-^dʒ	dʒ	T	23
-^e	e	E	1
-^e̞	e̞	E	9
-^e̞e̞	e̞ː	E	2
-^h	h	H	14
-^i	i	I	42
-^ii	iː	I	2
-^j	j	J	6
-^k	k	K	8
-^l	l	L	7
-^m	m	M	14
-^n̪	n̪	N	2
-^o̞	o̞	U	5
-^o̞o̞	o̞ː	U	2
-^p	p	P	21
-^q	q	K	9
-^s	s	S	7
-^sh	sh/sʰ	S	2
-^t	t	T	36
-^u	u	Y	5
-^w	w	W	25
-^x	x	G	5
-^ə	ə	E	4
-^χ	χ	G	4
-a	a	A	170
-a$	a	A	29
-aa	aː	A	16
-aa$	aː	A	8
-dʒ	dʒ	T	66
-dʒ$	dʒ	T	25
-dʒdʒ	dʒː	T	1
-dʒh	dʒʰ	T	1
-e̞	e̞	E	53
-e̞$	e̞	E	12
-e̞e̞	e̞ː	E	10
-e̞e̞$	e̞ː	E	7
-h	h	H	12
-hs	h s	H S	1
-hw	hw/hʷ	H	1
-i	i	I	82
-i$	i	I	82
-ii	iː	I	9
-ii$	iː	I	9
-j	j	J	22
-j$	j	J	7
-jj	jː	J	1
-jw	j w	J W	1
-k	k	K	23
-k$	k	K	2
-kh$	kh/kʰ	K	1
-ks	k s	K S	2
-kw	kw/k w	K W	2
-l	l	L	75
-l$	l	L	12
-lh$	lh/l̥	L	1
-ll	ll/lː	L	2
-lw	l w	L W	1
-m	m	M	49
-m$	m	M	8
-mm	mm/mː	M	2
-mm$	mm/mː	M	2
-n̪	n̪	N	18
-n̪$	n̪	N	7
-n̪n̪$	n̪n̪/n̪ː	N	1
-n̪s$	n̪ s	N S	1
-n̪w	n̪ w	N W	8
-o̞	o̞	U	45
-o̞$	o̞	U	9
-o̞o̞	o̞ː	U	8
-o̞o̞$	o̞ː	U	1
-p	p	P	17
-p$	p	P	3
-ph	ph/pʰ	P	3
-phh	phh/pʰ	P	1
-pp	pp/pː	P	3
-ps	p s	P S	1
-pʃ	p ʃ	P S	1
-q	q	K	26
-q$	q	K	7
-qhw	qh/qʰ w	K W	1
-qw	qw/qʷ	K	1
-r̪	r̪	R	1
-s	s	S	41
-s$	s	S	10
-ss	ss/sː	S	1
-ss$	ss/sː	S	2
-ssw	ss/sː w	S W	1
-sw	s w	S W	3
-t	t	T	63
-t$	t	T	13
-th	th/tʰ	T	1
-ts	ts	C	4
-tt	tt/tː	T	2
-tw	t w	T W	1
-tw$	t w	T W	1
-u	u	Y	65
-u$	u	Y	9
-uu	uː	Y	3
-uu$	uː	Y	1
-w	w	W	14
-w$	w	W	10
-x	x	G	8
-x$	x	G	18
-ə	ə	E	10
-ə$	ə	E	7
-ʃ$	ʃ	S	2
-ʔ	ʔ	H	64
-ʔ$	ʔ	H	3
-ʔs$	ʔs/ˀs	S	1
-χ	χ	G	13
-χ$	χ	G	9
-χw	χw/χʷ	G	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		308	NULL	lidʒti;səsətidʒi;to̞lo̞;iʔtuj;dʒaχo̞m
+$	NULL		314	NULL	lidʒti;səsətidʒi;to̞lo̞;iʔtuj;dʒaχo̞m
+_$	NULL		2	2	amasdʒʔ_;o̞o̞hwo̞ʔ_
+a	a	A	262	170	dʒaχo̞m;dʒʔe̞n̪apʃiita;dʒʔe̞n̪apʃiita;lappaw;lappaw
+aa	aː	A	28	16	dʒe̞n̪aadʒdʒiqa;aalu;haʔtaamile̞l;ataa;pe̞laa
+ts	ts	C	4	4	iʔtsit;itspo̞ʔii;malustsi;haʔaqe̞lmalustsi
+ə	ə	E	21	10	səsətidʒi;səsətidʒi;jaljudʒən̪;mate̞kʔdʒə;taxkə
+^e	e	E	1	1	el
+e̞	e̞	E	65	53	dʒʔe̞n̪apʃiita;e̞le̞ʔwo̞qo̞dʒi;dʒe̞n̪aadʒdʒiqa;dʒo̞dʒe̞;asdʒe̞
+^e̞	e̞	E	9	9	e̞le̞ʔwo̞qo̞dʒi;e̞qo̞ʔjui;e̞sa;e̞pho̞i;e̞phate̞
+e̞e̞	e̞ː	E	17	10	hake̞e̞dʒi;dʒe̞e̞wa;təme̞e̞kaji;o̞we̞e̞;jame̞e̞
+^e̞e̞	e̞ː	E	2	2	e̞e̞n̪un̪;e̞e̞n̪un̪
+x	x	G	31	8	xaʃ;taxkə;taxaʔdʒ;wataxdʒudʒi;dʒo̞o̞kdʒəjaxdʒimii
+χ	χ	G	26	13	dʒaχo̞m;aχti;χo̞ladʒ;χimal;ilo̞dʒʔχe̞o̞
+χw	χw/χʷ	G	2	2	qo̞χwaj;ale̞χwo̞qai
+h	h	H	27	12	ahphlaʔ;hake̞e̞dʒi;in̪aht;haʔtaamile̞l;hamisaχto̞mə
+ʔ	ʔ	H	82	64	iʔtuj;dʒʔe̞n̪apʃiita;tʔuqo̞;e̞le̞ʔwo̞qo̞dʒi;ahphlaʔ
+hw	hw/hʷ	H	1	1	o̞o̞hwo̞ʔ_
+i	i	I	206	82	lidʒti;lidʒti;səsətidʒi;səsətidʒi;iʔtuj
+ii	iː	I	20	9	dʒʔe̞n̪apʃiita;piin̪o̞kh;aqdʒajan̪iim;tiiqaʔte̞;tiiji
+j	j	J	36	22	iʔtuj;tijat;dʒumijo̞o̞si;e̞qo̞ʔjui;jaljudʒən̪
+jj	jː	J	1	1	palajjudʒo̞o̞lo̞
+k	k	K	35	23	hake̞e̞dʒi;po̞o̞k;mate̞kʔdʒə;taχkajwi;aʔlaʔmo̞ki
+q	q	K	42	26	tʔuqo̞;ilqo̞s;e̞le̞ʔwo̞qo̞dʒi;dʒe̞n̪aadʒdʒiqa;e̞qo̞ʔjui
+qw	qw/qʷ	K	1	1	tuqwisdʒaalo̞
+kh$	kh/kʰ	K	1	1	piin̪o̞kh
+l	l	L	95	75	lidʒti;to̞lo̞;lappaw;lappaw;ilqo̞s
+ll	ll/lː	L	2	2	mallis;χallo̞q
+lh$	lh/l̥	L	1	1	alh
+m	m	M	71	49	dʒaχo̞m;aʔtuʔmi;dʒumijo̞o̞si;uwaso̞m;samtal
+mm	mm/mː	M	4	2	iumm;amm;imaslimma;e̞slimmaa
+n̪	n̪	N	36	18	dʒʔe̞n̪apʃiita;piin̪o̞kh;dʒe̞n̪aadʒdʒiqa;jaljudʒən̪;in̪aht
+n̪n̪$	n̪n̪/n̪ː	N	1	1	un̪n̪
+p	p	P	42	17	piin̪o̞kh;po̞o̞k;po̞dʒjo̞i;ipadʒ;upt
+ph	ph/pʰ	P	3	3	ahphlaʔ;e̞pho̞i;e̞phate̞
+pp	pp/pː	P	3	3	lappaw;lappaw;ippii
+phh	phh/pʰ	P	1	1	iiaphhakij
+r̪	r̪	R	1	1	har̪aʔdʒi
+s	s	S	66	41	səsətidʒi;səsətidʒi;ilqo̞s;dʒumijo̞o̞si;uwaso̞m
+ss	ss/sː	S	4	1	iss;issi;iss;asswali
+ʃ$	ʃ	S	2	2	xaʃ;dʒuʔuʃ
+^sh	sh/sʰ	S	2	2	she̞x;she̞x
+ʔs$	ʔs/ˀs	S	1	1	an̪asuʔs
+t	t	T	114	63	lidʒti;səsətidʒi;to̞lo̞;iʔtuj;dʒʔe̞n̪apʃiita
+dʒ	dʒ	T	114	66	lidʒti;səsətidʒi;dʒaχo̞m;dʒʔe̞n̪apʃiita;e̞le̞ʔwo̞qo̞dʒi
+th	th/tʰ	T	1	1	ithaʔii
+tt	tt/tː	T	2	2	ittu;ittu
+dʒh	dʒʰ	T	1	1	kitadʒhe̞
+dʒdʒ	dʒː	T	1	1	dʒe̞n̪aadʒdʒiqa
+o̞	o̞	U	59	45	to̞lo̞;to̞lo̞;dʒaχo̞m;tʔuqo̞;ilqo̞s
+o̞o̞	o̞ː	U	11	8	dʒumijo̞o̞si;po̞o̞k;o̞o̞dʒ;dʒilimo̞o̞wa;dʒo̞o̞kdʒəjaxdʒimii
+w	w	W	80	14	lappaw;lappaw;e̞le̞ʔwo̞qo̞dʒi;waʔwa;waʔwa
+u	u	Y	79	65	iʔtuj;tʔuqo̞;aʔtuʔmi;dʒumijo̞o̞si;uwaso̞m
+uu	uː	Y	4	3	aχtuuki;masuudʒ;isuudʒ;midʒistuu
+kw	kw/k w	K W	2	2	ikwin̪;hakwidʒ
+qhw	qh/qʰ w	K W	1	1	taqhwale̞
+pʃ	p ʃ	P S	1	1	dʒʔe̞n̪apʃiita

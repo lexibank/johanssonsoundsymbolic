@@ -1,68 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	1
-^a	a	A	24
-^b	b	P	1
-^d	d	T	3
-^g	g	K	1
-^h	h	H	8
-^i	i	I	20
-^j	j	J	11
-^k	k	K	34
-^l	l	L	4
-^m	m	M	21
-^n	n	N	3
-^p	p	P	20
-^r	r	R	16
-^s	s	S	15
-^t	t	T	13
-^u	u	Y	16
-^v	v	B	1
-^w	w	W	15
-^x	x	G	18
-^ç	ç	C	11
-^ɲ	ɲ	N	10
-^ɸ	ɸ	B	10
-^ʃ	ʃ	S	1
-^ʈʂ	ʈʂ	C	24
-^ʎ	ʎ	L	7
-_	+	_	28
-a	a	A	220
-a$	a	A	160
-b	b	P	4
-d	d	T	9
-g	g	K	21
-i	i	I	94
-i$	i	I	57
-j	j	J	36
-j$	j	J	14
-js	j s	J S	1
-k	k	K	63
-k$	k	K	9
-ks	k s	K S	1
-l	l	L	19
-m	m	M	34
-ms	m s	M S	1
-n	n	N	116
-n$	n	N	10
-p	p	P	39
-r	r	R	36
-r$	r	R	1
-s	s	S	11
-s$	s	S	3
-t	t	T	23
-ts	ts	C	2
-tʃ	tʃ	T	9
-u	u	Y	130
-u$	u	Y	45
-w	w	W	15
-ws	w s	W S	1
-x	x	G	6
-x$	x	G	6
-z	z	S	3
-ç	ç	C	30
-ŋ$	ŋ	N	1
-ɲ	ɲ	N	15
-ɸ	ɸ	B	3
-ʃ	ʃ	S	1
-ʈʂ	ʈʂ	C	33
-ʎ	ʎ	L	31
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		298	NULL	xawa;manʈʂaj;xipa;samaj;tukuj
+$	NULL		305	NULL	xawa;manʈʂaj;xipa;samaj;tukuj
+_$	NULL		1	1	aça_
+a	a	A	404	220	xawa;xawa;manʈʂaj;manʈʂaj;xipa
+ɸ	ɸ	B	13	3	ɸiɲa;uʈʂuɸa;ɸukuna;ɸuju;uɸiana
+^v	v	B	1	1	vira
+ç	ç	C	41	30	waça;waça;piçku;çamuna;ʈʂakiçka
+ts	ts	C	2	2	kujtsa;atsiana
+ʈʂ	ʈʂ	C	57	33	manʈʂaj;uʈʂuɸa;ajʈʂa;ʈʂuʈʂu;ʈʂuʈʂu
+x	x	G	30	6	xawa;xipa;xatun;xajax;xajax
+^h	h	H	8	8	hatʃi;hatʃi;hatʃi;hatʃi;hatʃi
+i	i	I	171	94	xipa;ɸiɲa;rigra;rigra;miʎaj
+j	j	J	62	36	manʈʂaj;samaj;tukuj;miʎaj;uraj
+g	g	K	22	21	rigra;rigra;kingu;ʈʂunga_çuk;çungu
+k	k	K	107	63	tukuj;aɲanku;kiru_kara;kiru_kara;sumak
+l	l	L	23	19	ali;lulun;lulun;ɲawi_lulun;ɲawi_lulun
+ʎ	ʎ	L	38	31	miʎaj;ʎambu;tuʎu;aʈʂikʎa;janaʎa
+m	m	M	56	34	manʈʂaj;samaj;miʎaj;sumak;manta
+n	n	N	129	116	manʈʂaj;aɲanku;manta;manja;xatun
+ɲ	ɲ	N	25	15	ɸiɲa;aɲanku;ɲaupa;ɲutuxu;waɲuna
+ŋ$	ŋ	N	1	1	niŋ
+b	b	P	5	4	ʎambu;wambra;pambaʎa;bulana;wambuna
+p	p	P	59	39	xipa;ɲaupa;piçku;rupana;apana
+r	r	R	53	36	rigra;rigra;rigra;rigra;kiru_kara
+s	s	S	33	11	samaj;sumak;wiksa;samaj_ajsana;samaj_ajsana
+z	z	S	3	3	puzu;luziru;lanzana
+ʃ	ʃ	S	2	1	ʃinapi;iʃpana
+d	d	T	12	9	xundu;didu;didu;xunda;ʎuki_ladu
+t	t	T	36	23	tukuj;manta;xatun;tuʎu;ɲutuxu
+tʃ	tʃ	T	9	9	itʃa;hatʃi;hatʃi;hatʃi;hatʃi
+w	w	W	31	15	xawa;waça;waça;wiksa;jawar
+u	u	Y	191	130	tukuj;tukuj;aɲanku;uʈʂuɸa;uʈʂuɸa
+_	+	_	28	28	kiru_kara;samaj_ajsana;aʎpa_xaku;ʈʂunga_çuk;ɲawi_lulun

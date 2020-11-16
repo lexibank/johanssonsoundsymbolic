@@ -1,93 +1,47 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	4
-^b	b	P	43
-^bh	bʰ	P	1
-^d	d	T	7
-^dh	dʰ	T	2
-^e	e	E	4
-^g	g	K	3
-^h	h	H	12
-^i	i	I	10
-^j	j	J	3
-^k	k	K	12
-^l	l	L	35
-^m	m	M	41
-^mh	mh/m̥	M	8
-^mm	mː	M	2
-^ms	m s	M S	5
-^n	n	N	13
-^nh	nh/n̥	N	1
-^p	p	P	23
-^ph	pʰ	P	2
-^q	q	K	22
-^qh	qʰ	K	1
-^qs	q s	K S	1
-^r	r	R	11
-^rs	r s	R S	1
-^s	s	S	23
-^sw	s w	S W	4
-^t	t	T	25
-^th	th/tʰ	T	2
-^ts	ts	C	8
-^tsh	tsh/tsʰ	C	1
-^u	u	Y	3
-^w	w	W	4
-^ŋ	ŋ	N	3
-_	+	_	80
-a	a	A	264
-a$	a	A	44
-aa	aː	A	4
-b	b	P	29
-bb	bː	P	2
-bh	bʰ	P	1
-bs	b s	P S	12
-d	d	T	32
-dh	dh/dʰ	T	2
-e	e	E	91
-e$	e	E	6
-ee	eː	E	3
-g	g	K	20
-gs	g s	K S	1
-h	h	H	21
-h$	h	H	19
-i	i	I	105
-i$	i	I	57
-ii	iː	I	2
-ii$	iː	I	1
-j	j	J	48
-j$	j	J	6
-k	k	K	29
-k$	k	K	12
-kh	kh/kʰ	K	1
-kk	kk/kː	K	1
-l	l	L	37
-l$	l	L	10
-m	m	M	48
-mm	mm/mː	M	4
-n	n	N	68
-n$	n	N	47
-nn	nn/nː	N	1
-o	o	U	7
-o$	o	U	19
-p	p	P	19
-q	q	K	70
-q$	q	K	18
-r	r	R	65
-r$	r	R	4
-rs	r s	R S	7
-s	s	S	10
-s$	s	S	10
-sw	s w	S W	8
-t	t	T	21
-ts	ts	C	6
-ts$	ts	C	14
-tt	tt/tː	T	1
-u	u	Y	146
-u$	u	Y	33
-uu	uː	Y	7
-w	w	W	9
-w$	w	W	1
-x	x	G	4
-x$	x	G	15
-ŋ	ŋ	N	25
-ŋ$	ŋ	N	24
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		321	NULL	bobo;miitsu;bobo;heŋak;kanna
+$	NULL		340	NULL	bobo;miitsu;bobo;heŋak;kanna
+a	a	A	312	264	heŋak;kanna;kanna;mseaŋ;tsamats
+aa	aː	A	4	4	saadux;jaani;naqah_qtaan;maanu
+ts	ts	C	28	6	miitsu;tsamats;tsamats;qbulits;tseŋa
+^tsh	tsh/tsʰ	C	1	1	tshedin
+e	e	E	101	91	heŋak;mseaŋ;rehaq;berah;tseŋa
+ee	eː	E	3	3	beebu;keeman;seediq
+x	x	G	19	4	mbtunux;qalux;maxal_kiŋan;qtsurux;snuunux
+h	h	H	52	21	heŋak;qtahi;naqah;rehaq;berah
+i	i	I	172	105	qtahi;qbulits;sijo;qbheni;qmijuts
+ii	iː	I	3	2	miitsu;tsiida;nii
+j	j	J	57	48	bukuj;bukuj;nbujas;sijo;qmijuts
+g	g	K	24	20	baga;baga;mgkarats;wawa_baga;bege
+k	k	K	53	29	heŋak;kanna;bukuj;bukuj;mijuk
+q	q	K	111	70	qtahi;qbulits;naqah;rehaq;qbheni
+kh	kh/kʰ	K	1	1	ini_khuŋul
+kk	kk/kː	K	1	1	skkuuŋ
+^qh	qʰ	K	1	1	qhuni
+l	l	L	82	37	qbulits;qalux;ini_khuŋul;laqi_rseno;luqi
+m	m	M	94	48	miitsu;mseaŋ;tsamats;mbtunux;toma
+mm	mm/mː	M	4	4	smmalu;smmuhiŋ;qmmequn;tmmeriŋ
+^mh	mh/m̥	M	8	8	mheŋak;mhuqil;mhulis;mhuŋul;mhuŋun
+^mm	mː	M	2	2	mmsepats;mmteru
+n	n	N	128	68	naqah;mbtunux;nbujas;qbheni;ini_khuŋul
+ŋ	ŋ	N	52	25	heŋak;mseaŋ;tseŋa;mŋihur;ini_khuŋul
+nn	nn/nː	N	1	1	kanna
+^nh	nh/n̥	N	1	1	nhari
+b	b	P	84	29	bobo;bobo;bobo;bobo;baga
+p	p	P	42	19	paru;pujaq;mapa;mmsepats;puniq
+bb	bː	P	2	2	mbbhege;kbberih
+bh	bʰ	P	2	1	qbheni;bhege
+^ph	pʰ	P	2	2	phepah;phuqil
+r	r	R	88	65	rehaq;berah;paru;mŋihur;dara
+s	s	S	82	10	mseaŋ;nbujas;sijo;laqi_rseno;sqama
+d	d	T	39	32	ado;dara;mdeŋu;doriq;lŋedi
+t	t	T	46	21	qtahi;mbtunux;toma;tmekan;truma
+dh	dh/dʰ	T	2	2	mdheriq;sdheriq
+tt	tt/tː	T	1	1	sttimu
+^dh	dʰ	T	2	2	dheral;dheja
+^th	th/tʰ	T	2	2	theja;thuwe
+o	o	U	26	7	bobo;bobo;bobo;bobo;ado
+w	w	W	26	9	wawa_baga;wawa_baga;hmuwa;waso;quwaq
+u	u	Y	182	146	miitsu;qbulits;bukuj;bukuj;mbtunux
+uu	uː	Y	7	7	buuts;skkuuŋ;snuunux;suupu;muudis
+_	+	_	80	80	ini_khuŋul;laqi_rseno;maxal_kiŋan;wawa_baga;laqi_mqedil

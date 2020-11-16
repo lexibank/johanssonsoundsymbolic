@@ -1,345 +1,345 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1-above,ABOVE,1741,ABOVE
-2-afraid,AFRAID,3033,SCARED
-3-after,AFTER,1685,AFTER
-4-air,AIR,27,AIR
-5-all,ALL,98,ALL
-6-angry,ANGRY,1826,ANGRY
-7-animal,ANIMAL,619,ANIMAL
-8-ant,ANT,587,ANT
-9-armupper,ARM (UPPER),431,UPPER ARM
-10-armlower,ARM (LOWER),446,LOWER ARM
-11-ashes,ASHES,646,ASH
-12-back,BACK,1291,BACK
-13-bad,BAD,1292,BAD
-14-bark,BARK,1204,BARK
-15-beautiful,BEAUTIFUL,1427,BEAUTIFUL
-16-because,BECAUSE,1157,BECAUSE
-17-before,BEFORE,1882,BEFORE
-18-behind,BEHIND,1686,BEHIND
-19-belly,BELLY,1251,BELLY
-20-below,BELOW,1485,BELOW OR UNDER
-21-beside,BESIDE,1816,BESIDE
-22-between,BETWEEN,689,BETWEEN
-23-big,BIG,1202,BIG
-24-bird,BIRD,937,BIRD
-25-bite,BITE,1403,BITE
-26-bitter,BITTER,887,BITTER
-27-black,BLACK,163,BLACK
-28-blood,BLOOD,946,BLOOD
-29-blow,BLOW,175,BLOW (OF WIND)
-30-blue,BLUE,837,BLUE
-31-blunt,BLUNT,379,BLUNT
-32-body,BODY,1480,BODY
-33-bone,BONE,1394,BONE
-34-boy,BOY,1366,BOY
-35-brain,BRAIN,1583,BRAIN
-36-breast,BREAST,1402,BREAST
-37-breathe,BREATHE,1407,BREATHE
-38-burn,BURN,2102,BURN
-39-buttocks,BUTTOCKS,834,BUTTOCKS
-40-carry,CARRY,700,CARRY
-41-clean,CLEAN,704,CLEAN
-42-cloud,CLOUD,1489,CLOUD
-43-cold,COLD,1287,COLD
-44-come,COME,1446,COME
-45-correct,CORRECT,1725,CORRECT (RIGHT)
-46-cough,COUGH,879,COUGH
-47-crooked,CROOKED,297,CROOKED
-48-crush,CRUSH,1520,CRUSH
-49-cry,CRY,1839,CRY
-50-dark,DARK,706,DARK
-51-day,DAY,1225,DAY (NOT NIGHT)
-52-deep,DEEP,1593,DEEP
-53-defecate,DEFECATE,676,SHIT (DEFECATE)
-54-die,DIE,1494,DIE
-55-dirty,DIRTY,1230,DIRTY
-56-do,DO,813,DO
-57-dog,DOG,2009,DOG
-58-drink,DRINK,1401,DRINK
-59-dry,DRY,1398,DRY
-60-dust,DUST,2,DUST
-61-ear,EAR,1247,EAR
-62-earth,EARTH,1228,EARTH (SOIL)
-63-eat,EAT,1336,EAT
-64-egg,EGG,744,EGG
-65-eight,EIGHT,1705,EIGHT
-66-eleven,ELEVEN,1706,ELEVEN
-67-empty,EMPTY,1624,EMPTY
-68-eye,EYE,1248,EYE
-69-fall,FALL,1280,FALL
-70-far,FAR,1406,FAR
-71-fart,FART,1159,FART
-72-feather,FEATHER,1201,FEATHER
-73-few,FEW,1242,FEW
-74-finger,FINGER,1303,FINGER
-75-fingernail,FINGERNAIL,1258,FINGERNAIL
-76-fire,FIRE,221,FIRE
-77-fish,FISH,227,FISH
-78-five,FIVE,493,FIVE
-79-flat,FLAT,1633,FLAT
-80-flesh,FLESH,2259,FLESH
-81-flower,FLOWER,239,FLOWER
-82-flyn,FLY (N),1504,FLY (INSECT)
-83-flyv,FLY (V),1441,FLY (MOVE THROUGH AIR)
-84-foot,FOOT,1301,FOOT
-85-four,FOUR,1500,FOUR
-86-full,FULL,1429,FULL
-87-girl,GIRL,1646,GIRL
-88-give,GIVE,1447,GIVE
-89-go,GO,695,GO
-90-good,GOOD,1035,GOOD
-91-grass,GRASS,606,GRASS
-92-gray,GRAY,153,GREY
-93-grease,GREASE,323,FAT (ORGANIC SUBSTANCE)
-94-green,GREEN,1425,GREEN
-95-grow,GROW,479,GROW
-96-hair,HAIR,1040,HAIR
-97-half,HALF,816,HALF
-98-hand,HAND,1277,HAND
-99-happy,HAPPY,1495,HAPPY
-100-hard,HARD,1884,HARD
-101-intercourse,INTERCOURSE,,
-102-head,HEAD,1256,HEAD
-103-hear,HEAR,1408,HEAR
-104-heart,HEART,1223,HEART
-105-heavy,HEAVY,1210,HEAVY
-106-here,HERE,136,HERE
-107-hide,HIDE,2486,HIDE
-108-high,HIGH,1265,HIGH
-109-hit,HIT,1433,HIT
-110-horn,HORN,1393,HORN (ANATOMY)
-111-hot,HOT,1286,HOT
-112-house,HOUSE,1252,HOUSE
-113-how,HOW?,1239,HOW
-114-if,IF,1459,IF
-115-infrontof,IN FRONT OF,1883,IN FRONT OF
-116-inside,IN(SIDE),1460,IN
-117-kill,KILL,1417,KILL
-118-knee,KNEE,1371,KNEE
-119-know,KNOW,3626,KNOW
-120-laugh,LAUGH,1355,LAUGH
-121-leaf,LEAF,628,LEAF
-122-left,LEFT,244,LEFT
-123-lowerleg,LOWER LEG,447,LOWER LEG
-124-liedown,LIE (DOWN),215,LIE DOWN
-125-lightnotdark,LIGHT (NOT DARK),250,LIGHT (COLOR)
-126-lightwgt,LIGHT (WGT),1052,LIGHT (WEIGHT)
-127-lip,LIP,478,LIP
-128-live,LIVE,1422,BE ALIVE
-129-liver,LIVER,1224,LIVER
-130-long,LONG,1203,LONG
-131-loud,LOUD,377,LOUD
-132-louse,LOUSE,1392,LOUSE
-133-low,LOW,721,LOW
-134-lung,LUNG,688,LUNG
-135-man,MAN,1554,MAN
-136-many,MANY,1198,MANY
-137-maybe,MAYBE,,
-138-milk,MILK,635,MILK
-139-moon,MOON,1313,MOON
-140-mountain,MOUNTAIN,639,MOUNTAIN
-141-mouth,MOUTH,674,MOUTH
-142-name,NAME,1405,NAME
-143-narrow,NARROW,1267,NARROW
-144-navel,NAVEL,1838,NAVEL
-145-near,NEAR,1942,NEAR
-146-neck,NECK,1333,NECK
-147-new,NEW,1231,NEW
-148-night,NIGHT,1233,NIGHT
-149-nine,NINE,1483,NINE
-150-nipple,NIPPLE,796,NIPPLE
-151-nothing,NO(THING),687,NOTHING
-152-nose,NOSE,1221,NOSE
-153-not,NOT,1240,NOT
-154-now,NOW,1376,NOW
-155-oldan,OLD (AN),2112,OLD (AGED)
-156-oldinan,OLD (INAN),2113,OLD (USED)
-157-oldman,OLD MAN,406,OLD MAN
-158-oldwoman,OLD WOMAN,907,OLD WOMAN
-159-one,ONE,1493,ONE
-160-other,OTHER,197,OTHER
-161-outside,OUT(SIDE),762,OUTSIDE
-162-part,PART,779,PART
-163-path,PATH,2252,PATH
-164-penis,PENIS,1222,PENIS
-165-person,PERSON,683,PERSON
-166-pointy,POINTY,372,POINTED
-167-quick,QUICK,1631,FAST
-168-quiet,QUIET,1314,QUIET
-169-rain,RAIN,658,RAIN (PRECIPITATION)
-170-raw,RAW,1959,RAW
-171-red,RED,156,RED
-172-right,RIGHT,1019,RIGHT
-173-ripe,RIPE,178,RIPE
-174-river,RIVER,666,RIVER
-175-root,ROOT,670,ROOT
-176-rope,ROPE,1218,ROPE
-177-rotten,ROTTEN,1728,ROTTEN
-178-rough,ROUGH,1923,ROUGH
-179-round,ROUND,1395,ROUND
-180-run,RUN,1519,RUN
-181-sad,SAD,699,SAD
-182-salty,SALTY,1091,SALTY
-183-same,SAME,200,SAME
-184-sand,SAND,671,SAND
-185-say,SAY,1458,SAY
-186-sea,SEA,1474,SEA
-187-see,SEE,1409,SEE
-188-seed,SEED,714,SEED
-189-semen,SEMEN,2283,SEMEN
-190-seven,SEVEN,1704,SEVEN
-191-shadow,SHADOW,1388,SHADE
-192-shallow,SHALLOW,193,SHALLOW
-193-sharp,SHARP,1396,SHARP
-194-short,SHORT,1645,SHORT
-195-sit,SIT,1416,SIT
-196-six,SIX,1703,SIX
-197-skin,SKIN,763,SKIN
-198-sky,SKY,1732,SKY
-199-sleep,SLEEP,1585,SLEEP
-200-slow,SLOW,701,SLOW
-201-small,SMALL,1246,SMALL
-202-smell,SMELL,2124,SMELL
-203-smoke,SMOKE,778,SMOKE (EXHAUST)
-204-smooth,SMOOTH,1234,SMOOTH
-205-sneeze,SNEEZE,1621,SNEEZE
-206-snore,SNORE,1983,SNORE
-207-soft,SOFT,1856,SOFT
-208-some,SOME,1241,SOME
-209-sour,SOUR,1906,SOUR
-210-spit,SPIT,1440,SPIT
-211-stand,STAND,1442,STAND
-212-star,STAR,1430,STAR
-213-stone,STONE,857,STONE
-214-straight,STRAIGHT,1404,STRAIGHT
-215-strong,STRONG,785,STRONG
-216-suck,SUCK,1421,SUCK
-217-sun,SUN,1343,SUN
-218-sweat,SWEAT,125,SWEAT (SUBSTANCE)
-219-sweet,SWEET,717,SWEET
-220-swim,SWIM,1439,SWIM
-221-tail,TAIL,1220,TAIL
-222-take,TAKE,1749,TAKE
-223-taste,TASTE,2190,TASTE
-224-ten,TEN,1515,TEN
-225-testicle,TESTICLE,797,TESTICLES
-226-that,THAT,78,THAT
-227-thatyonder,THAT YONDER,,
-228-then,THEN,2921,THEN
-229-there,THERE,1937,THERE
-230-thereyonder,THERE YONDER,,
-231-thick,THICK,1244,THICK
-232-thigh,THIGH,471,UPPER LEG (THIGH)
-233-thin,THIN,2308,THIN
-234-think,THINK,2271,THINK
-235-this,THIS,1214,THIS
-236-three,THREE,492,THREE
-237-throat,THROAT,1346,THROAT
-238-thunder,THUNDER,1150,THUNDER
-239-tie,TIE,1917,TIE
-240-toe,TOE,1389,TOE
-241-tongue,TONGUE,1205,TONGUE
-242-tooth,TOOTH,1380,TOOTH
-243-touch,TOUCH,1892,TOUCH
-244-tree,TREE,906,TREE
-245-turn,TURN,1588,TURN
-246-twelve,TWELVE,1707,TWELVE
-247-twenty,TWENTY,1710,TWENTY
-248-two,TWO,1498,TWO
-249-ugly,UGLY,1548,UGLY
-250-urinate,URINATE,592,PISS
-251-vomit,VOMIT,1278,VOMIT
-252-vulva,VULVA,1837,VULVA
-253-want,WANT,1784,WANT
-254-water,WATER,948,WATER
-255-weak,WEAK,1601,WEAK
-256-wet,WET,1726,WET
-257-what,WHAT?,1236,WHAT
-258-when,WHEN?,1238,WHEN
-259-where,WHERE?,1237,WHERE
-260-white,WHITE,1335,WHITE
-261-who,WHO?,1235,WHO
-262-why,WHY?,1270,WHY
-263-wide,WIDE,1243,WIDE
-264-wing,WING,1257,WING
-265-wind,WIND,960,WIND
-266-woman,WOMAN,962,WOMAN
-267-word,WORD,1599,WORD
-268-wrong,WRONG,1390,WRONG
-269-yawn,YAWN,1028,YAWN
-270-year,YEAR,1226,YEAR
-271-yellow,YELLOW,1424,YELLOW
-272-yesterday,YESTERDAY,1174,YESTERDAY
-273-young,YOUNG,1207,YOUNG
-274-1sg,1SG,1209,I
-275-1pli,1PLI,1131,WE (INCLUSIVE)
-276-1ple,1PLE,1130,WE (EXCLUSIVE)
-277-2sg,2SG,1215,THOU
-278-2pl,2PL,1213,YOU
-279-3sg,3SG,262,HE OR SHE OR IT
-280-3pl,3PL,817,THEY
-281-mothersmotherfemalespeaking,mother's mother (female speaking),,
-282-mothersmothermalespeaking,mother's mother (male speaking),,
-283-fathersmotherfemalespeaking,father's mother (female speaking),,
-284-fathersmothermalespeaking,father's mother (male speaking),,
-285-mothersfatherfemalespeaking,mother's father (female speaking),,
-286-mothersfathermalespeaking,mother's father (male speaking),,
-287-fathersfatherfemalespeaking,father's father (female speaking),,
-288-fathersfathermalespeaking,father's father (male speaking),,
-289-motherfemalespeaking,mother (female speaking),,
-290-mothermalespeaking,mother (male speaking),,
-291-fatherfemalespeaking,father (female speaking),,
-292-fathermalespeaking,father (male speaking),,
-293-mothersoldersisterfemalespeaking,mother's older sister (female speaking),,
-294-mothersoldersistermalespeaking,mother's older sister (male speaking),,
-295-mothersyoungersisterfemalespeaking,mother's younger sister (female speaking),,
-296-mothersyoungersistermalespeaking,mother's younger sister (male speaking),,
-297-fathersoldersisterfemalespeaking,father's older sister (female speaking),,
-298-fathersoldersistermalespeaking,father's older sister (male speaking),,
-299-fathersyoungersisterfemalespeaking,father's younger sister (female speaking),,
-300-fathersyoungersistermalespeaking,father's younger sister (male speaking),,
-301-mothersolderbrotherfemalespeaking,mother's older brother (female speaking),,
-302-mothersolderbrothermalespeaking,mother's older brother (male speaking),,
-303-mothersyoungerbrotherfemalespeaking,mother's younger brother (female speaking),,
-304-mothersyoungerbrothermalespeaking,mother's younger brother (male speaking),,
-305-fathersolderbrotherfemalespeaking,father's older brother (female speaking),,
-306-fathersolderbrothermalespeaking,father's older brother (male speaking),,
-307-fathersyoungerbrotherfemalespeaking,father's younger brother (female speaking),,
-308-fathersyoungerbrothermalespeaking,father's younger brother (male speaking),,
-309-oldersisterfemalespeaking,older sister (female speaking),2419,OLDER SISTER (OF WOMAN)
-310-oldersistermalespeaking,older sister (male speaking),2418,OLDER SISTER (OF MAN)
-311-youngersisterfemalespeaking,younger sister (female speaking),2421,YOUNGER SISTER (OF WOMAN)
-312-youngersistermalespeaking,younger sister (male speaking),2420,YOUNGER SISTER (OF MAN)
-313-olderbrotherfemalespeaking,older brother (female speaking),2415,OLDER BROTHER (OF WOMAN)
-314-olderbrothermalespeaking,older brother (male speaking),2414,OLDER BROTHER (OF MAN)
-315-youngerbrotherfemalespeaking,younger brother (female speaking),2417,YOUNGER BROTHER (OF WOMAN)
-316-youngerbrothermalespeaking,younger brother (male speaking),2416,YOUNGER BROTHER (OF MAN)
-317-oldersistersdaughterfemalespeaking,older sister's daughter (female speaking),,
-318-oldersistersdaughtermalespeaking,older sister's daughter (male speaking),,
-319-youngersistersdaughterfemalespeaking,younger sister's daughter (female speaking),,
-320-youngersistersdaughtermalespeaking,younger sister's daughter (male speaking),,
-321-olderbrothersdaughterfemalespeaking,older brother's daughter (female speaking),,
-322-olderbrothersdaughtermalespeaking,older brother's daughter (male speaking),,
-323-youngerbrothersdaughterfemalespeaking,younger brother's daughter (female speaking),,
-324-youngerbrothersdaughtermalespeaking,younger brother's daughter (male speaking),,
-325-oldersisterssonfemalespeaking,older sister's son (female speaking),,
-326-oldersisterssonmalespeaking,older sister's son (male speaking),,
-327-youngersisterssonfemalespeaking,younger sister's son (female speaking),,
-328-youngersisterssonmalespeaking,younger sister's son (male speaking),,
-329-olderbrotherssonfemalespeaking,older brother's son (female speaking),,
-330-olderbrotherssonmalespeaking,older brother's son (male speaking),,
-331-youngerbrotherssonfemalespeaking,younger brother's son (female speaking),,
-332-youngerbrotherssonmalespeaking,younger brother's son (male speaking),,
-333-daughterfemalespeaking,daughter (female speaking),,
-334-daughtermalespeaking,daughter (male speaking),,
-335-sonfemalespeaking,son (female speaking),,
-336-sonmalespeaking,son (male speaking),,
-337-daughtersdaughterfemalespeaking,daughter's daughter (female speaking),,
-338-daughtersdaughtermalespeaking,daughter's daughter (male speaking),,
-339-sonsdaughterfemalespeaking,son's daughter (female speaking),,
-340-sonsdaughtermalespeaking,son's daughter (male speaking),,
-341-daughterssonfemalespeaking,daughter's son (female speaking),,
-342-daughterssonmalespeaking,daughter's son (male speaking),,
-343-sonssonfemalespeaking,son's son (female speaking),,
-344-sonssonmalespeaking,son's son (male speaking),,
+1_above,ABOVE,1741,ABOVE
+2_afraid,AFRAID,3033,SCARED
+3_after,AFTER,1685,AFTER
+4_air,AIR,27,AIR
+5_all,ALL,98,ALL
+6_angry,ANGRY,1826,ANGRY
+7_animal,ANIMAL,619,ANIMAL
+8_ant,ANT,587,ANT
+9_armupper,ARM (UPPER),431,UPPER ARM
+10_armlower,ARM (LOWER),446,LOWER ARM
+11_ashes,ASHES,646,ASH
+12_back,BACK,1291,BACK
+13_bad,BAD,1292,BAD
+14_bark,BARK,1204,BARK
+15_beautiful,BEAUTIFUL,1427,BEAUTIFUL
+16_because,BECAUSE,1157,BECAUSE
+17_before,BEFORE,1882,BEFORE
+18_behind,BEHIND,1686,BEHIND
+19_belly,BELLY,1251,BELLY
+20_below,BELOW,1485,BELOW OR UNDER
+21_beside,BESIDE,1816,BESIDE
+22_between,BETWEEN,689,BETWEEN
+23_big,BIG,1202,BIG
+24_bird,BIRD,937,BIRD
+25_bite,BITE,1403,BITE
+26_bitter,BITTER,887,BITTER
+27_black,BLACK,163,BLACK
+28_blood,BLOOD,946,BLOOD
+29_blow,BLOW,175,BLOW (OF WIND)
+30_blue,BLUE,837,BLUE
+31_blunt,BLUNT,379,BLUNT
+32_body,BODY,1480,BODY
+33_bone,BONE,1394,BONE
+34_boy,BOY,1366,BOY
+35_brain,BRAIN,1583,BRAIN
+36_breast,BREAST,1402,BREAST
+37_breathe,BREATHE,1407,BREATHE
+38_burn,BURN,2102,BURN
+39_buttocks,BUTTOCKS,834,BUTTOCKS
+40_carry,CARRY,700,CARRY
+41_clean,CLEAN,704,CLEAN
+42_cloud,CLOUD,1489,CLOUD
+43_cold,COLD,1287,COLD
+44_come,COME,1446,COME
+45_correct,CORRECT,1725,CORRECT (RIGHT)
+46_cough,COUGH,879,COUGH
+47_crooked,CROOKED,297,CROOKED
+48_crush,CRUSH,1520,CRUSH
+49_cry,CRY,1839,CRY
+50_dark,DARK,706,DARK
+51_day,DAY,1225,DAY (NOT NIGHT)
+52_deep,DEEP,1593,DEEP
+53_defecate,DEFECATE,676,SHIT (DEFECATE)
+54_die,DIE,1494,DIE
+55_dirty,DIRTY,1230,DIRTY
+56_do,DO,813,DO
+57_dog,DOG,2009,DOG
+58_drink,DRINK,1401,DRINK
+59_dry,DRY,1398,DRY
+60_dust,DUST,2,DUST
+61_ear,EAR,1247,EAR
+62_earth,EARTH,1228,EARTH (SOIL)
+63_eat,EAT,1336,EAT
+64_egg,EGG,744,EGG
+65_eight,EIGHT,1705,EIGHT
+66_eleven,ELEVEN,1706,ELEVEN
+67_empty,EMPTY,1624,EMPTY
+68_eye,EYE,1248,EYE
+69_fall,FALL,1280,FALL
+70_far,FAR,1406,FAR
+71_fart,FART,1159,FART
+72_feather,FEATHER,1201,FEATHER
+73_few,FEW,1242,FEW
+74_finger,FINGER,1303,FINGER
+75_fingernail,FINGERNAIL,1258,FINGERNAIL
+76_fire,FIRE,221,FIRE
+77_fish,FISH,227,FISH
+78_five,FIVE,493,FIVE
+79_flat,FLAT,1633,FLAT
+80_flesh,FLESH,2259,FLESH
+81_flower,FLOWER,239,FLOWER
+82_flyn,FLY (N),1504,FLY (INSECT)
+83_flyv,FLY (V),1441,FLY (MOVE THROUGH AIR)
+84_foot,FOOT,1301,FOOT
+85_four,FOUR,1500,FOUR
+86_full,FULL,1429,FULL
+87_girl,GIRL,1646,GIRL
+88_give,GIVE,1447,GIVE
+89_go,GO,695,GO
+90_good,GOOD,1035,GOOD
+91_grass,GRASS,606,GRASS
+92_gray,GRAY,153,GREY
+93_grease,GREASE,323,FAT (ORGANIC SUBSTANCE)
+94_green,GREEN,1425,GREEN
+95_grow,GROW,479,GROW
+96_hair,HAIR,1040,HAIR
+97_half,HALF,816,HALF
+98_hand,HAND,1277,HAND
+99_happy,HAPPY,1495,HAPPY
+100_hard,HARD,1884,HARD
+101_intercourse,INTERCOURSE,,
+102_head,HEAD,1256,HEAD
+103_hear,HEAR,1408,HEAR
+104_heart,HEART,1223,HEART
+105_heavy,HEAVY,1210,HEAVY
+106_here,HERE,136,HERE
+107_hide,HIDE,2486,HIDE
+108_high,HIGH,1265,HIGH
+109_hit,HIT,1433,HIT
+110_horn,HORN,1393,HORN (ANATOMY)
+111_hot,HOT,1286,HOT
+112_house,HOUSE,1252,HOUSE
+113_how,HOW?,1239,HOW
+114_if,IF,1459,IF
+115_infrontof,IN FRONT OF,1883,IN FRONT OF
+116_inside,IN(SIDE),1460,IN
+117_kill,KILL,1417,KILL
+118_knee,KNEE,1371,KNEE
+119_know,KNOW,3626,KNOW
+120_laugh,LAUGH,1355,LAUGH
+121_leaf,LEAF,628,LEAF
+122_left,LEFT,244,LEFT
+123_lowerleg,LOWER LEG,447,LOWER LEG
+124_liedown,LIE (DOWN),215,LIE DOWN
+125_lightnotdark,LIGHT (NOT DARK),250,LIGHT (COLOR)
+126_lightwgt,LIGHT (WGT),1052,LIGHT (WEIGHT)
+127_lip,LIP,478,LIP
+128_live,LIVE,1422,BE ALIVE
+129_liver,LIVER,1224,LIVER
+130_long,LONG,1203,LONG
+131_loud,LOUD,377,LOUD
+132_louse,LOUSE,1392,LOUSE
+133_low,LOW,721,LOW
+134_lung,LUNG,688,LUNG
+135_man,MAN,1554,MAN
+136_many,MANY,1198,MANY
+137_maybe,MAYBE,,
+138_milk,MILK,635,MILK
+139_moon,MOON,1313,MOON
+140_mountain,MOUNTAIN,639,MOUNTAIN
+141_mouth,MOUTH,674,MOUTH
+142_name,NAME,1405,NAME
+143_narrow,NARROW,1267,NARROW
+144_navel,NAVEL,1838,NAVEL
+145_near,NEAR,1942,NEAR
+146_neck,NECK,1333,NECK
+147_new,NEW,1231,NEW
+148_night,NIGHT,1233,NIGHT
+149_nine,NINE,1483,NINE
+150_nipple,NIPPLE,796,NIPPLE
+151_nothing,NO(THING),687,NOTHING
+152_nose,NOSE,1221,NOSE
+153_not,NOT,1240,NOT
+154_now,NOW,1376,NOW
+155_oldan,OLD (AN),2112,OLD (AGED)
+156_oldinan,OLD (INAN),2113,OLD (USED)
+157_oldman,OLD MAN,406,OLD MAN
+158_oldwoman,OLD WOMAN,907,OLD WOMAN
+159_one,ONE,1493,ONE
+160_other,OTHER,197,OTHER
+161_outside,OUT(SIDE),762,OUTSIDE
+162_part,PART,779,PART
+163_path,PATH,2252,PATH
+164_penis,PENIS,1222,PENIS
+165_person,PERSON,683,PERSON
+166_pointy,POINTY,372,POINTED
+167_quick,QUICK,1631,FAST
+168_quiet,QUIET,1314,QUIET
+169_rain,RAIN,658,RAIN (PRECIPITATION)
+170_raw,RAW,1959,RAW
+171_red,RED,156,RED
+172_right,RIGHT,1019,RIGHT
+173_ripe,RIPE,178,RIPE
+174_river,RIVER,666,RIVER
+175_root,ROOT,670,ROOT
+176_rope,ROPE,1218,ROPE
+177_rotten,ROTTEN,1728,ROTTEN
+178_rough,ROUGH,1923,ROUGH
+179_round,ROUND,1395,ROUND
+180_run,RUN,1519,RUN
+181_sad,SAD,699,SAD
+182_salty,SALTY,1091,SALTY
+183_same,SAME,200,SAME
+184_sand,SAND,671,SAND
+185_say,SAY,1458,SAY
+186_sea,SEA,1474,SEA
+187_see,SEE,1409,SEE
+188_seed,SEED,714,SEED
+189_semen,SEMEN,2283,SEMEN
+190_seven,SEVEN,1704,SEVEN
+191_shadow,SHADOW,1388,SHADE
+192_shallow,SHALLOW,193,SHALLOW
+193_sharp,SHARP,1396,SHARP
+194_short,SHORT,1645,SHORT
+195_sit,SIT,1416,SIT
+196_six,SIX,1703,SIX
+197_skin,SKIN,763,SKIN
+198_sky,SKY,1732,SKY
+199_sleep,SLEEP,1585,SLEEP
+200_slow,SLOW,701,SLOW
+201_small,SMALL,1246,SMALL
+202_smell,SMELL,2124,SMELL
+203_smoke,SMOKE,778,SMOKE (EXHAUST)
+204_smooth,SMOOTH,1234,SMOOTH
+205_sneeze,SNEEZE,1621,SNEEZE
+206_snore,SNORE,1983,SNORE
+207_soft,SOFT,1856,SOFT
+208_some,SOME,1241,SOME
+209_sour,SOUR,1906,SOUR
+210_spit,SPIT,1440,SPIT
+211_stand,STAND,1442,STAND
+212_star,STAR,1430,STAR
+213_stone,STONE,857,STONE
+214_straight,STRAIGHT,1404,STRAIGHT
+215_strong,STRONG,785,STRONG
+216_suck,SUCK,1421,SUCK
+217_sun,SUN,1343,SUN
+218_sweat,SWEAT,125,SWEAT (SUBSTANCE)
+219_sweet,SWEET,717,SWEET
+220_swim,SWIM,1439,SWIM
+221_tail,TAIL,1220,TAIL
+222_take,TAKE,1749,TAKE
+223_taste,TASTE,2190,TASTE
+224_ten,TEN,1515,TEN
+225_testicle,TESTICLE,797,TESTICLES
+226_that,THAT,78,THAT
+227_thatyonder,THAT YONDER,,
+228_then,THEN,2921,THEN
+229_there,THERE,1937,THERE
+230_thereyonder,THERE YONDER,,
+231_thick,THICK,1244,THICK
+232_thigh,THIGH,471,UPPER LEG (THIGH)
+233_thin,THIN,2308,THIN
+234_think,THINK,2271,THINK
+235_this,THIS,1214,THIS
+236_three,THREE,492,THREE
+237_throat,THROAT,1346,THROAT
+238_thunder,THUNDER,1150,THUNDER
+239_tie,TIE,1917,TIE
+240_toe,TOE,1389,TOE
+241_tongue,TONGUE,1205,TONGUE
+242_tooth,TOOTH,1380,TOOTH
+243_touch,TOUCH,1892,TOUCH
+244_tree,TREE,906,TREE
+245_turn,TURN,1588,TURN
+246_twelve,TWELVE,1707,TWELVE
+247_twenty,TWENTY,1710,TWENTY
+248_two,TWO,1498,TWO
+249_ugly,UGLY,1548,UGLY
+250_urinate,URINATE,592,PISS
+251_vomit,VOMIT,1278,VOMIT
+252_vulva,VULVA,1837,VULVA
+253_want,WANT,1784,WANT
+254_water,WATER,948,WATER
+255_weak,WEAK,1601,WEAK
+256_wet,WET,1726,WET
+257_what,WHAT?,1236,WHAT
+258_when,WHEN?,1238,WHEN
+259_where,WHERE?,1237,WHERE
+260_white,WHITE,1335,WHITE
+261_who,WHO?,1235,WHO
+262_why,WHY?,1270,WHY
+263_wide,WIDE,1243,WIDE
+264_wing,WING,1257,WING
+265_wind,WIND,960,WIND
+266_woman,WOMAN,962,WOMAN
+267_word,WORD,1599,WORD
+268_wrong,WRONG,1390,WRONG
+269_yawn,YAWN,1028,YAWN
+270_year,YEAR,1226,YEAR
+271_yellow,YELLOW,1424,YELLOW
+272_yesterday,YESTERDAY,1174,YESTERDAY
+273_young,YOUNG,1207,YOUNG
+274_1sg,1SG,1209,I
+275_1pli,1PLI,1131,WE (INCLUSIVE)
+276_1ple,1PLE,1130,WE (EXCLUSIVE)
+277_2sg,2SG,1215,THOU
+278_2pl,2PL,1213,YOU
+279_3sg,3SG,262,HE OR SHE OR IT
+280_3pl,3PL,817,THEY
+281_mothersmotherfemalespeaking,mother's mother (female speaking),,
+282_mothersmothermalespeaking,mother's mother (male speaking),,
+283_fathersmotherfemalespeaking,father's mother (female speaking),,
+284_fathersmothermalespeaking,father's mother (male speaking),,
+285_mothersfatherfemalespeaking,mother's father (female speaking),,
+286_mothersfathermalespeaking,mother's father (male speaking),,
+287_fathersfatherfemalespeaking,father's father (female speaking),,
+288_fathersfathermalespeaking,father's father (male speaking),,
+289_motherfemalespeaking,mother (female speaking),,
+290_mothermalespeaking,mother (male speaking),,
+291_fatherfemalespeaking,father (female speaking),,
+292_fathermalespeaking,father (male speaking),,
+293_mothersoldersisterfemalespeaking,mother's older sister (female speaking),,
+294_mothersoldersistermalespeaking,mother's older sister (male speaking),,
+295_mothersyoungersisterfemalespeaking,mother's younger sister (female speaking),,
+296_mothersyoungersistermalespeaking,mother's younger sister (male speaking),,
+297_fathersoldersisterfemalespeaking,father's older sister (female speaking),,
+298_fathersoldersistermalespeaking,father's older sister (male speaking),,
+299_fathersyoungersisterfemalespeaking,father's younger sister (female speaking),,
+300_fathersyoungersistermalespeaking,father's younger sister (male speaking),,
+301_mothersolderbrotherfemalespeaking,mother's older brother (female speaking),,
+302_mothersolderbrothermalespeaking,mother's older brother (male speaking),,
+303_mothersyoungerbrotherfemalespeaking,mother's younger brother (female speaking),,
+304_mothersyoungerbrothermalespeaking,mother's younger brother (male speaking),,
+305_fathersolderbrotherfemalespeaking,father's older brother (female speaking),,
+306_fathersolderbrothermalespeaking,father's older brother (male speaking),,
+307_fathersyoungerbrotherfemalespeaking,father's younger brother (female speaking),,
+308_fathersyoungerbrothermalespeaking,father's younger brother (male speaking),,
+309_oldersisterfemalespeaking,older sister (female speaking),2419,OLDER SISTER (OF WOMAN)
+310_oldersistermalespeaking,older sister (male speaking),2418,OLDER SISTER (OF MAN)
+311_youngersisterfemalespeaking,younger sister (female speaking),2421,YOUNGER SISTER (OF WOMAN)
+312_youngersistermalespeaking,younger sister (male speaking),2420,YOUNGER SISTER (OF MAN)
+313_olderbrotherfemalespeaking,older brother (female speaking),2415,OLDER BROTHER (OF WOMAN)
+314_olderbrothermalespeaking,older brother (male speaking),2414,OLDER BROTHER (OF MAN)
+315_youngerbrotherfemalespeaking,younger brother (female speaking),2417,YOUNGER BROTHER (OF WOMAN)
+316_youngerbrothermalespeaking,younger brother (male speaking),2416,YOUNGER BROTHER (OF MAN)
+317_oldersistersdaughterfemalespeaking,older sister's daughter (female speaking),,
+318_oldersistersdaughtermalespeaking,older sister's daughter (male speaking),,
+319_youngersistersdaughterfemalespeaking,younger sister's daughter (female speaking),,
+320_youngersistersdaughtermalespeaking,younger sister's daughter (male speaking),,
+321_olderbrothersdaughterfemalespeaking,older brother's daughter (female speaking),,
+322_olderbrothersdaughtermalespeaking,older brother's daughter (male speaking),,
+323_youngerbrothersdaughterfemalespeaking,younger brother's daughter (female speaking),,
+324_youngerbrothersdaughtermalespeaking,younger brother's daughter (male speaking),,
+325_oldersisterssonfemalespeaking,older sister's son (female speaking),,
+326_oldersisterssonmalespeaking,older sister's son (male speaking),,
+327_youngersisterssonfemalespeaking,younger sister's son (female speaking),,
+328_youngersisterssonmalespeaking,younger sister's son (male speaking),,
+329_olderbrotherssonfemalespeaking,older brother's son (female speaking),,
+330_olderbrotherssonmalespeaking,older brother's son (male speaking),,
+331_youngerbrotherssonfemalespeaking,younger brother's son (female speaking),,
+332_youngerbrotherssonmalespeaking,younger brother's son (male speaking),,
+333_daughterfemalespeaking,daughter (female speaking),,
+334_daughtermalespeaking,daughter (male speaking),,
+335_sonfemalespeaking,son (female speaking),,
+336_sonmalespeaking,son (male speaking),,
+337_daughtersdaughterfemalespeaking,daughter's daughter (female speaking),,
+338_daughtersdaughtermalespeaking,daughter's daughter (male speaking),,
+339_sonsdaughterfemalespeaking,son's daughter (female speaking),,
+340_sonsdaughtermalespeaking,son's daughter (male speaking),,
+341_daughterssonfemalespeaking,daughter's son (female speaking),,
+342_daughterssonmalespeaking,daughter's son (male speaking),,
+343_sonssonfemalespeaking,son's son (female speaking),,
+344_sonssonmalespeaking,son's son (male speaking),,

@@ -1,66 +1,27 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	20
-^b	b	P	10
-^d	d	T	9
-^e	e	E	21
-^g	g	K	2
-^h	h	H	19
-^i	i	I	23
-^j	j	J	1
-^k	k	K	21
-^m	m	M	14
-^n	n	N	11
-^o	o	U	21
-^p	p	P	8
-^r	r	R	9
-^s	s	S	11
-^t	t	T	6
-^v	v	B	1
-^w	w	W	14
-^z	z	S	3
-^ŋ	ŋ	N	4
-_	+	_	13
-a	a	A	188
-a$	a	A	15
-aa	aː	A	8
-b	b	P	13
-b$	b	P	25
-d	d	T	8
-d$	d	T	18
-e	e	E	90
-e$	e	E	19
-g	g	K	6
-g$	g	K	2
-h	h	H	35
-h$	h	H	11
-i	i	I	42
-i$	i	I	30
-ii	iː	I	1
-ii$	iː	I	2
-j	j	J	9
-j$	j	J	1
-k	k	K	21
-k$	k	K	26
-m	m	M	26
-m$	m	M	13
-n	n	N	45
-n$	n	N	8
-o	o	U	69
-o$	o	U	5
-p	p	P	6
-p$	p	P	9
-r	r	R	15
-r$	r	R	13
-s	s	S	15
-s$	s	S	16
-t	t	T	15
-t$	t	T	6
-tw	t w	T W	1
-u	u	Y	1
-v	v	B	23
-v$	v	B	6
-w	w	W	2
-w$	w	W	1
-z	z	S	22
-z$	z	S	2
-ŋ	ŋ	N	14
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		228	NULL	ravarav;oetne;ha;mahid;namakoed
+$	NULL		228	NULL	ravarav;oetne;ha;mahid;namakoed
+a	a	A	223	188	ravarav;ravarav;ravarav;ha;mahid
+aa	aː	A	8	8	ohaanoem;ohaanoem;ohaanoem;ohaanoem;ohaanem
+v	v	B	30	23	ravarav;ravarav;evikev;evikev;karaved
+e	e	E	130	90	oetne;oetne;namakoed;es;oezoeb
+h	h	H	65	35	ha;mahid;handam;dahi;wahani
+i	i	I	95	42	mahid;dahi;wahani;evikev;waniŋap
+ii	iː	I	3	1	koiihi;esevaii;esevaii
+j	j	J	11	9	wajar;gigj;jo;evajak;evajak
+g	g	K	10	6	tagoe;og;mig;ogatok;igiz
+k	k	K	68	21	namakoed;tabok;evikev;karaved;esak
+m	m	M	53	26	mahid;namakoed;dom;handam;samb
+n	n	N	64	45	oetne;namakoed;handam;wahani;waniŋap
+ŋ	ŋ	N	18	14	saŋa;saŋa;ŋe;waniŋap;ŋan
+b	b	P	48	13	tabok;samb;oezoeb;boeb;boeb
+p	p	P	23	6	par;patoer;waniŋap;kaparet;poet
+r	r	R	37	15	ravarav;ravarav;par;patoer;karaved
+s	s	S	42	15	saŋa;saŋa;es;samb;sosode
+z	z	S	27	22	oezoeb;ra_saŋa_inahzakod;rmz;igiz;izakod
+d	d	T	35	8	mahid;namakoed;dom;handam;dahi
+t	t	T	28	15	oetne;tabok;patoer;tamoe;ŋat
+o	o	U	95	69	oetne;namakoed;tabok;dom;oezoeb
+w	w	W	18	2	wahani;waniŋap;na_warin;waniŋap;mitwap
+u	u	Y	1	1	oenuin
+_	+	_	13	13	ra_saŋa_inahzakod;ra_saŋa_inahzakod;na_warin;ra_saŋa;ra_saŋa_inahinah

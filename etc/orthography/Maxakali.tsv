@@ -1,63 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	1
-^h	h	H	25
-^j	j	J	23
-^k	k	K	45
-^m	m	M	28
-^n	n	N	13
-^p	p	P	45
-^t	t	T	20
-^ã	ã	A	16
-^ã$	ã	A	2
-^ç	ç	C	49
-^õ	õ	U	2
-^ĩ	ĩ	I	1
-^ŋ	ŋ	N	2
-^ɯ̃	ɯ̃	I	9
-^ɯ̃$	ɯ̃	I	3
-_	+	_	8
-a	a	A	50
-a$	a	A	14
-e	e	E	32
-e$	e	E	7
-h	h	H	27
-h$	h	H	3
-i	i	I	69
-i$	i	I	4
-j	j	J	27
-j$	j	J	23
-k	k	K	41
-k$	k	K	37
-kh	kh/kʰ	K	2
-kk	kk/kː	K	1
-m	m	M	23
-m$	m	M	10
-mh	mh/m̥	M	3
-mm	mm/mː	M	4
-n	n	N	43
-n$	n	N	12
-nh	nh/n̥	N	1
-nn	nn/nː	N	6
-o	o	U	66
-p	p	P	37
-p$	p	P	27
-pp	pp/pː	P	2
-t	t	T	70
-t$	t	T	16
-th	th/tʰ	T	1
-tt	tt/tː	T	2
-ã	ã	A	63
-ã$	ã	A	16
-ç	ç	C	50
-ç$	ç	C	87
-çh	çh/çʰ	C	1
-õ	õ	U	33
-ĩ	ĩ	I	34
-ŋ	ŋ	N	15
-ŋ$	ŋ	N	18
-ɯ	ɯ	I	124
-ɯ$	ɯ	I	2
-ɯɯ	ɯː	I	1
-ɯ̃	ɯ̃	I	22
-ɯ̃$	ɯ̃	I	3
-ʔ	ʔ	H	18
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		284	NULL	pepi;kɯçãnõŋ;kɯ̃nãj_tɯ;çohiç;ŋãj
+$	NULL		284	NULL	pepi;kɯçãnõŋ;kɯ̃nãj_tɯ;çohiç;ŋãj
+a	a	A	65	50	çaç;maih;keppa;jĩka;çeçka
+ã	ã	A	97	63	kɯçãnõŋ;kɯ̃nãj_tɯ;ŋãj;çãm;pɯtɯçnãŋ
+ç	ç	C	186	50	kɯçãnõŋ;çohiç;çohiç;jĩpkoçɯk;jĩmpɯtoç
+çh	çh/çʰ	C	1	1	pɯçhep
+e	e	E	39	32	pepi;keppa;teçtop;çeçka;kanep
+h	h	H	55	27	çohiç;mɯ̃nĩhĩn;maih;hep;taha
+ʔ	ʔ	H	18	18	mõʔkoɯk;piʔõn;ĩjãʔĩŋã;çoʔop;çɯʔɯk
+i	i	I	73	69	pepi;çohiç;maih;çitçɯt;piʔõn
+ĩ	ĩ	I	35	34	mɯ̃nĩhĩn;mɯ̃nĩhĩn;jĩpkoçɯk;jĩmpɯtoç;jĩka
+ɯ	ɯ	I	126	124	kɯçãnõŋ;kɯ̃nãj_tɯ;tɯt;jĩpkoçɯk;jĩmpɯtoç
+ɯɯ	ɯː	I	1	1	ãmɯɯh
+ɯ̃	ɯ̃	I	37	22	kɯ̃nãj_tɯ;mɯ̃nĩhĩn;mɯ̃nĩj;nɯ̃n;nɯ̃ʔçip
+j	j	J	73	27	kɯ̃nãj_tɯ;ŋãj;jĩpkoçɯk;jĩmpɯtoç;jĩka
+k	k	K	123	41	kɯçãnõŋ;kɯ̃nãj_tɯ;jĩpkoçɯk;jĩpkoçɯk;pɯtok
+kh	kh/kʰ	K	2	2	kɯtokheç;kɯtokheç
+kk	kk/kː	K	1	1	mõkkaʔok
+m	m	M	61	23	mɯ̃nĩhĩn;jĩmpɯtoç;çãm;maih;mɯ̃nĩj
+mh	mh/m̥	M	3	3	hãmhɯ̃mnãŋ;ãmhok;nõmhã
+mm	mm/mː	M	4	4	kɯmmɯk;jĩmmãçaç;hãmjɯ̃mmɯ̃ŋ;kɯmmɯk
+n	n	N	68	43	kɯçãnõŋ;kɯ̃nãj_tɯ;mɯ̃nĩhĩn;mɯ̃nĩhĩn;pɯtɯçnãŋ
+ŋ	ŋ	N	35	15	kɯçãnõŋ;ŋãj;pɯtɯçnãŋ;ŋõj;ĩjãʔĩŋã
+nh	nh/n̥	N	1	1	mãjõnheç
+nn	nn/nː	N	6	6	mĩnnɯt;tɯnnep;mãjõnnãŋ;ponnok;çõnnɯ̃
+p	p	P	109	37	pepi;pepi;jĩpkoçɯk;jĩmpɯtoç;pɯtok
+pp	pp/pː	P	2	2	keppa;keppa
+t	t	T	106	70	kɯ̃nãj_tɯ;tɯt;tɯt;jĩmpɯtoç;pɯtok
+th	th/tʰ	T	1	1	pɯnethok
+tt	tt/tː	T	2	2	hittɯp;çɯtta
+o	o	U	66	66	çohiç;jĩpkoçɯk;jĩmpɯtoç;pɯtok;teçtop
+õ	õ	U	35	33	kɯçãnõŋ;mõʔkoɯk;ŋõj;koçjõj;piʔõn
+_	+	_	8	8	kɯ̃nãj_tɯ;kakçop_heç;ãmot_çɯçpeç;kõnãŋ_kopaʔ_mõŋ;kõnãŋ_kopaʔ_mõŋ

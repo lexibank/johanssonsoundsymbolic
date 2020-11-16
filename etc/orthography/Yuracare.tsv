@@ -1,63 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	34
-^b	b	P	16
-^d	d	T	5
-^e	e	E	11
-^ee	eː	E	2
-^i	i	I	3
-^i$	i	I	1
-^k	k	K	11
-^l	l	L	31
-^m	m	M	6
-^n	n	N	13
-^oo	oː	U	1
-^p	p	P	26
-^s	s	S	33
-^t	t	T	40
-^tʃ	tʃ	T	16
-^u	u	Y	3
-^w	w	W	4
-^y	y/j	J	12
-^ʃ	ʃ	S	1
-_	+	_	7
-a	a	A	89
-a$	a	A	63
-b	b	P	23
-d	d	T	3
-e	e	E	109
-e$	e	E	82
-ee	eː	E	1
-ee$	eː	E	8
-g	g	K	2
-h	h	H	18
-i	i	I	46
-i$	i	I	71
-ii$	iː	I	3
-k	k	K	17
-ks	k s	K S	1
-l	l	L	52
-m	m	M	40
-m$	m	M	1
-n	n	N	30
-ns	n s	N S	2
-o	o	U	42
-o$	o	U	25
-oo$	oː	U	1
-p	p	P	17
-ps	p s	P S	1
-r	r	R	11
-s	s	S	52
-s$	s	S	2
-t	t	T	66
-tt	tt/tː	T	1
-tt$	tt/tː	T	1
-tʃ	tʃ	T	14
-u	u	Y	70
-u$	u	Y	10
-uu	uː	Y	1
-w	w	W	7
-y	y	Y	22
-y$	y	Y	1
-ɲ	ɲ	N	4
-ʂ	ʂ	S	1
-ʃ	ʃ	S	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		256	NULL	doho;pentʃi;pupata;amumui;neteme_atiwata
+$	NULL		265	NULL	doho;pentʃi;pupata;amumui;neteme_atiwata
+a	a	A	186	89	pupata;pupata;amumui;neteme_atiwata;neteme_atiwata
+e	e	E	202	109	pentʃi;neteme_atiwata;neteme_atiwata;neteme_atiwata;kuemnetei
+ee	eː	E	11	1	beeme;eeʂi;eei;tee;tee
+h	h	H	18	18	doho;doho;asinohoi;asaha;imuhu
+i	i	I	121	46	pentʃi;amumui;neteme_atiwata;kuemnetei;atila
+ii$	iː	I	3	3	tuii;tubii;mii
+^y	y/j	J	12	12	yume;yenye;yeta;yoyonyo;yoyoi
+g	g	K	2	2	pogye;tegmi
+k	k	K	29	17	pakta;taktata;kuemnetei;ataklatai;kabatai
+l	l	L	83	52	pele;suyule;atila;ataklatai;ele
+m	m	M	47	40	amumui;amumui;neteme_atiwata;kuemnetei;mapepe
+n	n	N	45	30	pentʃi;neteme_atiwata;bana;bana;kuemnetei
+ɲ	ɲ	N	4	4	suɲe;nuɲuta;aɲu;aɲu
+b	b	P	39	23	bana;bana;soboto;tebe;kabatai
+p	p	P	44	17	pentʃi;pupata;pupata;pakta;pele
+r	r	R	11	11	tʃeretʃei;suruna;arohoi;burumburum;burumburum
+s	s	S	91	52	suyule;usta;soboto;sasasi;sasasi
+ʂ	ʂ	S	1	1	eeʂi
+ʃ	ʃ	S	2	1	ʃeʃesi;ʃeʃesi
+d	d	T	8	3	doho;adetʃea;doho;dulai;tibanti_lektandoho
+t	t	T	106	66	pupata;neteme_atiwata;neteme_atiwata;neteme_atiwata;pakta
+tt	tt/tː	T	2	1	atta;tehtt
+tʃ	tʃ	T	30	14	pentʃi;adetʃea;tʃeretʃei;tʃeretʃei;tʃamo
+o	o	U	67	42	doho;doho;soboto;soboto;soboto
+^oo	oː	U	1	1	ooi
+oo$	oː	U	1	1	too
+w	w	W	11	7	neteme_atiwata;awewei;awewei;wile;sama_atiwata
+u	u	Y	83	70	pupata;amumui;amumui;kuemnetei;suyule
+y	y	Y	23	22	suyule;eiye;boyos;kinyoyo;kinyoyo
+uu	uː	Y	1	1	puuta
+_	+	_	7	7	neteme_atiwata;lekta_tese;tibanti_lektandoho;sama_atiwata;pilele_sa

@@ -1,44 +1,23 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	25
-^d	d	T	11
-^f	f	B	3
-^g	g	K	11
-^i	i	I	13
-^j	j	J	10
-^kh	kʰ	K	13
-^l	l	L	1
-^m	m	M	14
-^n	n	N	17
-^o	o	U	8
-^s	s	S	3
-^th	th/tʰ	T	6
-^u	u	Y	15
-^u$	u	Y	2
-^ɑ	ɑ	A	38
-^ɛ	ɛ	E	3
-^ɾ	ɾ	R	17
-^β	β	B	36
-_	+	_	52
-b	b	P	30
-d	d	T	31
-f	f	B	28
-g	g	K	15
-i	i	I	58
-i$	i	I	37
-j	j	J	14
-kh	kh/kʰ	K	46
-m	m	M	16
-n	n	N	64
-o	o	U	72
-o$	o	U	26
-s	s	S	14
-th	th/tʰ	T	23
-u	u	Y	66
-u$	u	Y	26
-ɑ	ɑ	A	128
-ɑ$	ɑ	A	119
-ɛ	ɛ	E	55
-ɛ$	ɛ	E	35
-ɾ	ɾ	R	66
-ɾ$	ɾ	R	1
-β	β	B	15
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		232	NULL	odoɾo;oɾi_ɾɛ;gɑbi;thɑu;ɑdɑ_fɑiɾo_ɾɛ
+$	NULL		246	NULL	odoɾo;oɾi_ɾɛ;gɑbi;thɑu;ɑdɑ_fɑiɾo_ɾɛ
+ɑ	ɑ	A	285	128	gɑbi;thɑu;ɑdɑ_fɑiɾo_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ
+f	f	B	31	28	ɑdɑ_fɑiɾo_ɾɛ;fu;thufɑ;βɑnɑ_ufo_jokhoi;buɑfu
+β	β	B	51	15	βɑnɑ_thu;βɑnɑ_thu;ɾoβɑithɑ;khɛβo;βɑnɑ_bɛɾou_ɑuthu_ɾɛgodɛ
+ɛ	ɛ	E	93	55	oɾi_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ;bogɛɾi;gɑbiɾɛ;ɛɾɛnɑ
+i	i	I	108	58	oɾi_ɾɛ;gɑbi;ɑdɑ_fɑiɾo_ɾɛ;buni_buni;buni_buni
+j	j	J	24	14	mujɛ;βɑnɑ_ufo_jokhoi;ojɛnɑ;jɑβɑ;umujɛ
+g	g	K	26	15	gɑbi;bogɛɾi;gɑbiɾɛ;gɑbu;gɑbu
+kh	kh/kʰ	K	46	46	ukhɑ;ɑkhi;uɑkhɑi;ɛsiɾokhɑ_ni;isɑkhɑ_ni
+^kh	kʰ	K	13	13	khɛβo;khono;khɛtho;khɛβɑ;khɑkhɑ
+^l	l	L	1	1	lɑgɑni
+m	m	M	30	16	mujɛ;mɑikhɛ;mɑɾ;mɑsibo;mini
+n	n	N	81	64	βɑnɑ_thu;βɑnɑ_thu;no;buni_buni;buni_buni
+b	b	P	55	30	gɑbi;buni_buni;buni_buni;budɑ;bogɛɾi
+ɾ	ɾ	R	84	66	odoɾo;oɾi_ɾɛ;oɾi_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ
+s	s	S	17	14	ɑsɑ;ɛsiɾokhɑ_ni;isɑkhɑ_ni;βɑnɑ_goiso;mɑsibo
+d	d	T	42	31	odoɾo;ɑdɑ_fɑiɾo_ɾɛ;udo;ɑdinɑ;budɑ
+th	th/tʰ	T	29	23	thɑu;βɑnɑ_thu;βɑnɑ_thu;thoɾɑ;ɾoβɑithɑ
+o	o	U	106	72	odoɾo;odoɾo;odoɾo;oɾi_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ
+u	u	Y	109	66	thɑu;βɑnɑ_thu;βɑnɑ_thu;udo;buni_buni
+_	+	_	52	52	oɾi_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ;ɑdɑ_fɑiɾo_ɾɛ;βɑnɑ_thu;βɑnɑ_thu

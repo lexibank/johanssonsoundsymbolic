@@ -1,80 +1,42 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	57
-^aa	aː	A	1
-^aa$	aː	A	1
-^b	b	P	43
-^d	d	T	5
-^e	e	E	8
-^f	f	B	22
-^i	i	I	35
-^ii$	iː	I	1
-^k	k	K	21
-^k$	k	K	1
-^l	l	L	1
-^m	m	M	12
-^n	n	N	28
-^o	o	U	29
-^p	p	P	2
-^r	r	R	5
-^s	s	S	1
-^t	t	T	2
-^t̪	t̪	T	34
-^u	u	Y	5
-^ŋ	ŋ	N	2
-^ɔ	ɔ	U	10
-^ɔɔ$	ɔː	U	1
-^ɗ	ɗ	T	1
-^ɛ	ɛ	E	4
-_	+	_	146
-a	a	A	216
-a$	a	A	97
-aa	aː	A	2
-aa$	aː	A	1
-b	b	P	58
-d	d	T	44
-dd	dː	T	1
-dw	d w	T W	1
-d̪	d̪	T	109
-e	e	E	11
-e$	e	E	7
-f	f	B	29
-g	g	K	67
-gs	g s	K S	1
-gw	gw/g w	K W	4
-i	i	I	161
-i$	i	I	51
-ii	iː	I	1
-j	j	J	62
-k	k	K	17
-kw	kw/k w	K W	2
-l	l	L	53
-l$	l	L	1
-ll	ll/lː	L	8
-m	m	M	41
-m$	m	M	5
-n	n	N	78
-nn	nn/nː	N	2
-o	o	U	58
-o$	o	U	33
-p	p	P	5
-r	r	R	67
-r$	r	R	1
-rr	rr/rː	R	1
-s	s	S	18
-ss	ss/sː	S	1
-t	t	T	29
-t$	t	T	1
-t̪	t̪	T	35
-u	u	Y	94
-u$	u	Y	22
-w	w	W	3
-z	z	S	15
-ŋ	ŋ	N	24
-ɓ	ɓ	P	2
-ɔ	ɔ	U	42
-ɔ$	ɔ	U	50
-ɔɔ	ɔː	U	1
-ɗ	ɗ	T	14
-ɛ	ɛ	E	29
-ɛ$	ɛ	E	59
-ɟ	ɟ	C	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		332	NULL	kɔɗɔ;ariba;karɛ;nja;indili
+$	NULL		332	NULL	kɔɗɔ;ariba;karɛ;nja;indili
+a	a	A	370	216	ariba;ariba;karɛ;nja;ad̪iginagɔ
+aa	aː	A	5	2	naraa;aguɗaana;aa;aamina;arraagɔ
+f	f	B	51	29	fudo;ndofu;fulle;ifinɛ;ofunu_id̪ɔna
+ɟ	ɟ	C	4	4	ki_sodu_ɟa;eɟɔlɔ;ikiɟɛnɛ;iɟa
+e	e	E	26	11	nimo_mo_tile;adela_ku_tugota;ndwe;aderi;fulle
+ɛ	ɛ	E	92	29	karɛ;dugwarɛ;karɛ_m;ku_dugullɛ_m;dɔŋɛ
+i	i	I	247	161	ariba;indili;indili;indili;ad̪iginagɔ
+ii	iː	I	2	1	ii;siiga
+j	j	J	62	62	nja;nja;injint̪od̪o;eji;anjɔrɔ
+g	g	K	68	67	ad̪iginagɔ;ad̪iginagɔ;agɔrɔbɔ;adela_ku_tugota;ku_dugullɛ_m
+k	k	K	39	17	kɔɗɔ;karɛ;adela_ku_tugota;kud̪u_m;karɛ_m
+l	l	L	55	53	indili;nimo_mo_tile;adela_ku_tugota;kuluba_t̪alɔ_mana_kwuri;kuluba_t̪alɔ_mana_kwuri
+ll	ll/lː	L	8	8	billi;ku_dugullɛ_m;fulle;itilli;kullu
+m	m	M	58	41	nimo_mo_tile;nimo_mo_tile;kud̪u_m;karɛ_m;ku_t̪umbu_m
+n	n	N	106	78	nja;indili;ad̪iginagɔ;nimo_mo_tile;nizo
+ŋ	ŋ	N	26	24	dɔŋɛ;agɔɗulɔŋgɛ;atɔŋgɔrɔ;duŋguru;id̪umu_an_izinɛ_ofunu_ŋgɔtɔ
+nn	nn/nː	N	2	2	inni;annɛ
+b	b	P	101	58	ariba;agɔrɔbɔ;billi;ku_t̪umbu_m;adagbo
+p	p	P	7	5	t̪ilipi;t̪ugurupu;t̪afara_ma_t̪impidɔ;pupa;pupa
+ɓ	ɓ	P	2	2	kuɓa;aguɓa
+r	r	R	73	67	ariba;karɛ;dugwarɛ;agɔrɔbɔ;karɛ_m
+rr	rr/rː	R	1	1	arraagɔ
+s	s	S	20	18	ki_sodu_ɟa;osiri;musolaga;isi;nd̪anasa
+z	z	S	15	15	nizo;nizo;inzili;nɛzɔ;tunzulɛ
+ss	ss/sː	S	1	1	amussu
+d	d	T	50	44	indili;fudo;dugwarɛ;ndofu;adela_ku_tugota
+t	t	T	32	29	nimo_mo_tile;adela_ku_tugota;adela_ku_tugota;ete;atɔŋgɔrɔ
+ɗ	ɗ	T	15	14	kɔɗɔ;uɗuɗu;uɗuɗu;uɗuɗu;uɗuɗu
+dd	dː	T	1	1	iddi
+d̪	d̪	T	109	109	ad̪iginagɔ;kud̪u_m;aid̪i;orid̪o;ad̪amand̪a
+t̪	t̪	T	69	35	ku_t̪umbu_m;kuluba_t̪alɔ_mana_kwuri;t̪onogo;t̪umbu;t̪ilipi
+o	o	U	120	58	nimo_mo_tile;nimo_mo_tile;nizo;nizo;fudo
+ɔ	ɔ	U	102	42	kɔɗɔ;kɔɗɔ;ad̪iginagɔ;agɔrɔbɔ;agɔrɔbɔ
+ɔɔ	ɔː	U	2	1	asɔɔrɔ;ɔɔ
+w	w	W	4	3	ndwe;ɔwa;ɔwa;band̪ɔwa
+u	u	Y	121	94	fudo;dugwarɛ;ndofu;adela_ku_tugota;adela_ku_tugota
+_	+	_	146	146	nimo_mo_tile;nimo_mo_tile;adela_ku_tugota;adela_ku_tugota;kud̪u_m
+gw	gw/g w	K W	4	4	dugwarɛ;agwu;nizo_maugwuri;dogwana_kɔna
+kw	kw/k w	K W	2	2	kuluba_t̪alɔ_mana_kwuri;ana_kwuri

@@ -1,58 +1,31 @@
-Grapheme	IPA	SCA	Frequency
-I	I/i	I	1
-^a	a	A	58
-^b	b	P	13
-^d	d	T	18
-^e	e	E	16
-^f	f	B	2
-^g	g	K	13
-^h	h	H	2
-^i	i	I	20
-^k	k	K	17
-^l	l	L	15
-^m	m	M	11
-^n	n	N	33
-^o	o	U	16
-^p	p	P	5
-^r	r	R	4
-^s	s	S	10
-^t	t	T	10
-^u	u	Y	8
-^v	v	B	7
-^w	w	W	10
-_	+	_	5
-a	a	A	163
-a$	a	A	106
-b	b	P	50
-d	d	T	36
-e	e	E	66
-e$	e	E	43
-ee	eː	E	3
-f	f	B	1
-g	g	K	34
-g$	g	K	1
-h	h	H	1
-i	i	I	82
-i$	i	I	62
-ii	iː	I	3
-j	j	J	1
-k	k	K	15
-l	l	L	23
-m	m	M	40
-n	n	N	71
-n$	n	N	2
-o	o	U	89
-o$	o	U	30
-oo	oː	U	2
-oo$	oː	U	1
-p	p	P	13
-r	r	R	85
-s	s	S	37
-t	t	T	15
-u	u	Y	84
-u$	u	Y	41
-uu	uː	Y	2
-uu$	uː	Y	2
-v	v	B	20
-w	w	W	7
-ʔ	ʔ	H	6
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		288	NULL	taguru;deni;mau;ikokoida;veʔa
+$	NULL		288	NULL	taguru;deni;mau;ikokoida;veʔa
+a	a	A	327	163	taguru;mau;ikokoida;veʔa;ama
+f	f	B	3	1	fueʔe;foe;nafe
+v	v	B	27	20	veʔa;evaeva;evaeva;gevageva;gevageva
+e	e	E	125	66	deni;veʔa;doe;oreore;oreore
+ee	eː	E	3	3	edeede;emeeme;edeede
+h	h	H	3	1	ahari;haro;hekurenaia
+ʔ	ʔ	H	6	6	veʔa;fueʔe;moraʔe;moraʔa;aʔaʔma
+I	I/i	I	1	1	imaIiliaomu
+i	i	I	164	82	deni;ikokoida;ikokoida;digu;ima
+ii	iː	I	3	3	niiniiri;niiniiri;isiisi
+j	j	J	1	1	ijau
+g	g	K	48	34	taguru;digu;wawaga;ogoda;worugala
+k	k	K	32	15	ikokoida;ikokoida;kau;korakorara;korakorara
+l	l	L	38	23	lala;lala;worugala;lopalopa;lopalopa
+m	m	M	51	40	mau;ama;ima;ima;dema
+n	n	N	106	71	deni;neure;deniaura;abanasa;auna
+b	b	P	63	50	abanasa;sebi;dubaduba;dubaduba;uba
+p	p	P	18	13	poripori;poripori;apuapu;apuapu;upunu
+r	r	R	89	85	taguru;oreore;oreore;neure;poripori
+s	s	S	47	37	abanasa;sebi;seara;aboiso;emasingaia
+d	d	T	54	36	deni;ikokoida;digu;doe;dema
+t	t	T	25	15	taguru;tamaru;tovele;tourai;torea
+o	o	U	135	89	ikokoida;ikokoida;doe;oreore;oreore
+oo	oː	U	3	2	ogoogo;soosoo;soosoo
+w	w	W	17	7	wawaga;wawaga;wuwuri;wuwuri;worugala
+u	u	Y	133	84	taguru;taguru;mau;digu;kau
+uu	uː	Y	4	2	muruu;duuri;limuu;auduuri
+_	+	_	5	5	nanau_omu_omu;nanau_omu_omu;nanau_omu_ava;nanau_omu_ava;nanau_ava

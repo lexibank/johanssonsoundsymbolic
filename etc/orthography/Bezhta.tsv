@@ -1,138 +1,67 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	9
-^b	b	P	19
-^d	d	T	4
-^e	e	E	7
-^g	g	K	4
-^h	h	H	34
-^i	i	I	35
-^j	j	J	8
-^k	k	K	10
-^kʼ	kʼ	K	5
-^l	l	L	1
-^m	m	M	18
-^n	n	N	12
-^o	o	U	2
-^p	p	P	4
-^q	q	K	6
-^qʼ	qʼ	K	8
-^r	r	R	1
-^s	s	S	9
-^t	t	T	14
-^ts	ts	C	5
-^tʃ	tʃ	T	3
-^tʃʼ	tʃʼ	T	2
-^tʼ	tʼ	T	3
-^tʼsʼ	tsʼ	T	5
-^u	u	Y	10
-^w	w	W	3
-^z	z	S	3
-^ã	ã	A	4
-^æ	æ	E	5
-^æ̃	æ̃	E	5
-^õ	õ	U	1
-^ø	ø	U	8
-^ø̃	ø̃	U	1
-^ĩ	ĩ	I	4
-^ũ	ũ	Y	1
-^ɬ	ɬ	L	5
-^ʃ	ʃ	S	3
-^ʒ	ʒ	S	1
-^ʔ	ʔ	H	1
-^ʔ$	ʔ	H	1
-^χ	χ	G	8
-^ẽ	ẽ	E	5
-_	+	_	24
-a	a	A	63
-a$	a	A	36
-aa	aː	A	1
-aa$	aː	A	9
-b	b	P	12
-b$	b	P	8
-d	d	T	22
-d$	d	T	5
-dd	dː	T	1
-e	e	E	35
-e$	e	E	15
-g	g	K	7
-h	h	H	7
-h$	h	H	1
-i	i	I	89
-i$	i	I	28
-j	j	J	28
-j$	j	J	2
-k	k	K	6
-k$	k	K	1
-kk	kk/kː	K	1
-kʼ	kʼ	K	11
-kʼ$	kʼ	K	2
-l	l	L	27
-l$	l	L	5
-ll	ll/lː	L	3
-m	m	M	8
-m$	m	M	1
-mm	mm/mː	M	1
-n	n	N	27
-n$	n	N	1
-o	o	U	59
-o$	o	U	84
-oo$	oː	U	3
-q	q	K	4
-q$	q	K	3
-qʼ	qʼ	K	18
-qʼqʼ	qʼː	K	2
-r	r	R	8
-s	s	S	19
-s$	s	S	24
-ss	ss/sː	S	1
-t	t	T	23
-t$	t	T	2
-ts	ts	C	20
-ts$	ts	C	1
-tʃ	tʃ	T	2
-tʃtʃ	tʃtʃ/tʃː	T	1
-tʃʼ	tʃʼ	T	2
-tʃʼ$	tʃʼ	T	1
-tʃʼtʃʼ	tʃʼː	T	4
-tʼ	tʼ	T	32
-tʼ$	tʼ	T	4
-tʼsʼ	tsʼ	T	5
-tʼsʼ$	tsʼ	T	3
-tʼsʼtʼsʼ	tsʼː	T	4
-tʼtʼ	tʼː	T	3
-u	u	Y	22
-u$	u	Y	1
-w	w	W	6
-w$	w	W	3
-y	y	Y	7
-z	z	S	5
-ã$	ã	A	1
-ãã$	ãː	A	1
-æ	æ	E	20
-æ$	æ	E	9
-ææ	æː	E	1
-ææ$	æː	E	5
-æ̃	æ̃	E	2
-õ	õ	U	2
-ø	ø	U	14
-ø$	ø	U	17
-ø̃	ø̃	U	2
-ĩ$	ĩ	I	1
-ũ	ũ	Y	3
-ɬ	ɬ	L	28
-ɬ$	ɬ	L	5
-ɬʼ	ɬʼ	L	18
-ɬʼ$	ɬʼ	L	2
-ʁ	ʁ	R	10
-ʁ$	ʁ	R	3
-ʃ	ʃ	S	5
-ʃ$	ʃ	S	1
-ʃʃ	ʃʃ/ʃː	S	3
-ʒ	ʒ	S	5
-ʔ	ʔ	H	6
-ʔ$	ʔ	H	3
-χ	χ	G	8
-χ$	χ	G	4
-ẽ	ẽ	E	2
-ẽ$	ẽ	E	1
-ỹ	ỹ	Y	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		285	NULL	tʼɬʼa;hinkʼi;beta;qʼatʼsʼtʼsʼo;simo
+$	NULL		291	NULL	tʼɬʼa;hinkʼi;beta;qʼatʼsʼtʼsʼo;simo
+a	a	A	108	63	tʼɬʼa;beta;qʼatʼsʼtʼsʼo;hũtsa;bertsinab
+^ã	ã	A	4	4	ãtsoo;ãga;ãtʼsʼtʼsʼo;ãqʼojtʼsʼojo
+aa	aː	A	10	1	miqaa;æ̃jdaa;niqʼaa;tsotʼaa;tsiχaa
+ã$	ã	A	1	1	tsã
+ãã$	ãː	A	1	1	tsãã
+ts	ts	C	26	20	hũtsa;bitso;bitso;bertsinab;hatsaʁas
+e	e	E	57	35	beta;tʃikejo;beʃ;bertsinab;nene
+æ	æ	E	34	20	hæjmæn;hæjmæn;myʁætɬ;tɬø̃wæ;æ̃dæ
+ẽ	ẽ	E	8	2	hẽ;tɬẽja;ẽtʼɬʼe;ẽkʼ;ẽχe
+ææ	æː	E	6	1	qʼææm;æ̃jdææ;mææ;mææ;χøwææ
+æ̃	æ̃	E	7	2	æ̃jdaa;æ̃dæ;ʔæ̃ʔæ̃la;ʔæ̃ʔæ̃la;æ̃ʁæ
+χ	χ	G	20	8	χutɬo;paχ;tʼsʼiχo;boχ;χæbæ
+h	h	H	42	7	hinkʼi;hæjmæn;hũtsa;mihna;hẽ
+ʔ	ʔ	H	11	6	ʔæ̃ʔæ̃la;ʔæ̃ʔæ̃la;diʔi;hetɬaɬtsoʔos;hotɬoʔ
+i	i	I	152	89	hinkʼi;hinkʼi;simo;bitso;bitso
+^ĩ	ĩ	I	4	4	ĩja;ĩzo;ĩtso;ĩʔaa
+ĩ$	ĩ	I	1	1	hĩ
+j	j	J	38	28	hæjmæn;tʃikejo;æ̃jdaa;tɬijo;doj
+g	g	K	11	7	sila_gul;gow;giɬillo;hawaltʼɬʼa_ogitʼsʼ;nagah
+k	k	K	17	6	tʃikejo;kotʼa;kotɬtɬo;tʃikejo;ek
+q	q	K	13	4	miqaa;qoqoo;qoqoo;qætʃʼtʃʼø;tuq
+kk	kk/kː	K	1	1	kikko
+kʼ	kʼ	K	18	11	hinkʼi;ekʼe;tʃʼekʼdijo;nyʃøkʼ;kʼetʼo
+qʼ	qʼ	K	26	18	qʼatʼsʼtʼsʼo;uqʼo;niqʼaa;qʼarqʼala;qʼarqʼala
+qʼqʼ	q’ː	K	2	2	æqʼqʼø;qʼeqʼqʼo
+l	l	L	33	27	sila_gul;sila_gul;tʼsʼodolo;qʼarqʼala;ʔæ̃ʔæ̃la
+ɬ	ɬ	L	38	28	sudtɬo_nisoda;myʁætɬ;tɬijo;pytɬø;tɬø̃wæ
+ll	ll/lː	L	3	3	giɬillo;kello;kello
+ɬʼ	ɬʼ	L	20	18	tʼɬʼa;jøtʼɬʼtʼɬʼæ;jøtʼɬʼtʼɬʼæ;zotʼɬʼo;hawaltʼɬʼa_ogitʼsʼ
+m	m	M	27	8	simo;hæjmæn;miqaa;myʁætɬ;mihna
+mm	mm/mː	M	1	1	tɬæmmø
+n	n	N	40	27	hinkʼi;hæjmæn;bertsinab;sudtɬo_nisoda;mihna
+b	b	P	39	12	beta;bitso;bitso;beʃ;bertsinab
+^p	p	P	4	4	pytɬø;paχ;poro;pijtʼi
+r	r	R	9	8	bertsinab;qʼarqʼala;bitʼarab;poro;ømrø_bow
+ʁ	ʁ	R	13	10	myʁætɬ;hatsaʁas;myʃø_baʁ;uʁ;æ̃ʁæ
+s	s	S	52	19	simo;sudtɬo_nisoda;sudtɬo_nisoda;sila_gul;hatsaʁas
+z	z	S	8	5	eze;mizo;zotʼɬʼo;hudizu;ĩzo
+ʃ	ʃ	S	9	5	beʃ;myʃø_baʁ;nyʃøkʼ;ʃelo;ʃebo
+ʒ	ʒ	S	6	5	øʒø;ʒe;jæʒe;miʒe;øʒø
+ss	ss/sː	S	1	1	qusso
+ʃʃ	ʃʃ/ʃː	S	3	3	hø̃ʃʃøna;ʃyʃʃø;æ̃ʃʃø
+d	d	T	31	22	sudtɬo_nisoda;sudtɬo_nisoda;æ̃jdaa;doj;tʼsʼodolo
+t	t	T	39	23	beta;tit;tit;sudtɬo_nisoda;myʁætɬ
+dd	dː	T	1	1	tʼsʼuddo
+tʃ	tʃ	T	5	2	tʃikejo;tʃikejo;tʃatʃalo;tʃatʃalo;øktʃi
+tʼ	tʼ	T	39	32	tʼɬʼa;kotʼa;bitʼarab;jøtʼɬʼtʼɬʼæ;jøtʼɬʼtʼɬʼæ
+tʃʼ	tʃʼ	T	5	2	tʃʼekʼdijo;mætʃʼæ;mytʃʼ;ætʃʼena;tʃʼanaʁo
+tʃtʃ	tʃtʃ/tʃː	T	1	1	kætʃtʃø
+tʼsʼ	tsʼ	T	13	5	tʼsʼodolo;tʼsʼemutʼsʼ;tʼsʼemutʼsʼ;atʼsʼona_hõs;tʼsʼiχo
+tʼtʼ	t’ː	T	3	3	bøtʼtʼø;hætʼtʼø;χetʼtʼo
+tʃʼtʃʼ	tʃʼː	T	4	4	ætʃʼtʃʼø;øtʃʼtʃʼø;qætʃʼtʃʼø;qætʃʼtʃʼø
+tʼsʼtʼsʼ	ts’ː	T	4	4	qʼatʼsʼtʼsʼo;itʼsʼtʼsʼo;atʼsʼtʼsʼo;ãtʼsʼtʼsʼo
+o	o	U	145	59	qʼatʼsʼtʼsʼo;simo;bitso;bitso;tʃikejo
+õ	õ	U	3	2	atʼsʼona_hõs;õtʼɬʼatʼɬʼas;hõs
+ø	ø	U	39	14	pytɬø;bøtʼtʼø;bøtʼtʼø;øʒø;øʒø
+ø̃	ø̃	U	3	2	tɬø̃wæ;ø̃qʼønæ;hø̃ʃʃøna
+oo$	oː	U	3	3	ãtsoo;qoqoo;koo
+w	w	W	12	6	tɬø̃wæ;gow;wodo;ow;wo
+u	u	Y	33	22	sudtɬo_nisoda;uqʼo;sila_gul;uʁ;χutɬo
+y	y	Y	7	7	myʁætɬ;pytɬø;myʃø_baʁ;nyʃøkʼ;mytʃʼ
+ũ	ũ	Y	4	3	hũtsa;ũtso;hũtʼɬʼ;hũɬ
+ỹ	ỹ	Y	1	1	kʼæj_ỹχøl
+_	+	_	24	24	sudtɬo_nisoda;sila_gul;myʃø_baʁ;atʼsʼona_hõs;hawaltʼɬʼa_ogitʼsʼ

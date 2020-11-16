@@ -1,88 +1,38 @@
-Grapheme	IPA	SCA	Frequency
-C	C/c	C	1
-^C	C/c	C	1
-^h	h	H	5
-^i	i	I	22
-^ii	iː	I	15
-^j	j	J	10
-^k	k	K	30
-^ks	k s	K S	1
-^m	m	M	18
-^m$	m	M	1
-^n	n	N	4
-^o	o	U	6
-^oo	oː	U	11
-^p	p	P	10
-^s	s	S	2
-^t	t	T	1
-^t̪	t̪	T	20
-^x	x	G	5
-^æ	æ	E	1
-^ææ	æː	E	4
-^ɑ	ɑ	A	79
-^ɑɑ	ɑː	A	30
-^ɑɑ$	ɑː	A	1
-^ɛɛ$	ɛː	E	1
-^ɬ	ɬ	L	3
-^ɸ	ɸ	B	1
-^ʃ	ʃ	S	18
-^ʔ	ʔ	H	33
-^χ	χ	G	6
-_	+	_	45
-h$	h	H	1
-i	i	I	76
-i$	i	I	16
-ii	iː	I	32
-ii$	iː	I	9
-j	j	J	3
-k	k	K	54
-k$	k	K	46
-kk	kk/kː	K	1
-kw	kw/k w	K W	1
-kw$	kw/kʷ	K	3
-kws	kw/kʷ s	K S	1
-kʃ$	k ʃ	K S	2
-m	m	M	50
-m$	m	M	20
-mʃ	m ʃ	M S	1
-n	n	N	34
-n$	n	N	4
-nʃ	n ʃ	N S	1
-o	o	U	60
-o$	o	U	12
-oo	oː	U	15
-p	p	P	45
-p$	p	P	14
-s	s	S	32
-s$	s	S	4
-t	t	T	1
-tʃ	tʃ	T	1
-t̪	t̪	T	48
-t̪$	t̪	T	33
-x	x	G	16
-x$	x	G	45
-xw	xw/xʷ	G	1
-xw$	xw/xʷ	G	1
-æ	æ	E	8
-æ$	æ	E	10
-ææ	æː	E	6
-ææ$	æː	E	1
-ɑ	ɑ	A	138
-ɑ$	ɑ	A	23
-ɑɑ	ɑː	A	26
-ɑɑ$	ɑː	A	6
-ɛ$	ɛ	E	4
-ɬ	ɬ	L	13
-ɬ$	ɬ	L	24
-ɸ	ɸ	B	1
-ɸ$	ɸ	B	1
-ɸʃ	ɸ ʃ	B S	2
-ʃ	ʃ	S	23
-ʃ$	ʃ	S	23
-ʔ	ʔ	H	39
-ʔ$	ʔ	H	10
-χ	χ	G	30
-χ$	χ	G	20
-χw	χw/χʷ	G	2
-χw$	χw/χʷ	G	3
-χʃ$	χ ʃ	G S	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		333	NULL	ɑt̪i;iiχim;ʔɑi;iix_kɑp_t̪ɑʃo;ɑχpχ
+$	NULL		330	NULL	ɑt̪i;iiχim;ʔɑi;iix_kɑp_t̪ɑʃo;ɑχpχ
+^ɛɛ$	ɛː	E	1	1	ɛɛ
+ɑ	ɑ	A	240	138	ɑt̪i;ʔɑi;iix_kɑp_t̪ɑʃo;iix_kɑp_t̪ɑʃo;ɑχpχ
+ɑɑ	ɑː	A	63	26	ɑɑ_kiʔ;ɑɑkp;ɑɑkox;ɑɑʃi;pɑɑisχ
+ɸ	ɸ	B	5	1	ɑɑɸʃχ;ɑɸɬk;ɑɸʃχ;ɑɑɸ;ɸit̪
+C	C/c	C	2	1	Cii;ɑCɑ
+æ	æ	E	19	8	ʔæʔæ_inɑiɬ;ʔæʔæ_inɑiɬ;xoænæ;xoænæ;ækæ
+ææ	æː	E	11	6	konææ;ɑmt̪_it̪ææn;ææxim;ææxim;ʔææɬ
+ɛ$	ɛ	E	4	4	hɛ;hɛ;koomɛ;koomɛ
+x	x	G	66	16	iix_kɑp_t̪ɑʃo;koot̪ɑx;pokx;ɑɑkox;kɑχxox
+χ	χ	G	57	30	iiχim;ɑχpχ;ɑχpχ;ʃiiχ_kkɑm;kɑχxox
+xw	xw/xʷ	G	2	1	oɑt̪xw;ʃimxwk
+χw	χw/χʷ	G	5	2	ɑχw;jɑpχwt̪;ʃooχwk;isχw;omt̪χw
+ʔ	ʔ	H	83	39	ʔɑi;ʔɑnt̪_imɑk;ʔæʔæ_inɑiɬ;ʔæʔæ_inɑiɬ;ɑɑ_kiʔ
+^h	h	H	5	5	hɑʃ_jɑʃp_oo_kwokih;hɑɑ;hɑɑ;hɛ;hɛ
+h$	h	H	1	1	hɑʃ_jɑʃp_oo_kwokih
+i	i	I	114	76	ɑt̪i;iiχim;ʔɑi;ʔɑnt̪_imɑk;ʔæʔæ_inɑiɬ
+ii	iː	I	56	32	iiχim;iix_kɑp_t̪ɑʃo;ʃiiχ_kkɑm;miipɬɑ;ɑʃiim
+j	j	J	13	3	jɑniikp;ɑno_jɑʔit̪;jɑiɬ;jɑpχwt̪;hɑʃ_jɑʃp_oo_kwokih
+k	k	K	133	54	iix_kɑp_t̪ɑʃo;koot̪ɑx;ʔɑnt̪_imɑk;pokx;ɑɑ_kiʔ
+kk	kk/kː	K	1	1	ʃiiχ_kkɑm
+kw$	kw/kʷ	K	3	3	nokw;ɑkw;ipkw
+ɬ	ɬ	L	40	13	ɑnoɬ;ɑnoɬ;miipɬɑ;ʔæʔæ_inɑiɬ;oopoɬ
+m	m	M	90	50	iiχim;ʃiiχ_kkɑm;ʔɑnt̪_imɑk;miipɬɑ;ɑʃiim
+n	n	N	43	34	ɑnoɬ;ɑnoɬ;ʔɑnt̪_imɑk;ʔæʔæ_inɑiɬ;jɑniikp
+p	p	P	69	45	iix_kɑp_t̪ɑʃo;ɑχpχ;pokx;miipɬɑ;jɑniikp
+s	s	S	39	32	ɑsox;ʃiiχ_kisiiɬ;iisɑχ;pɑɑisχ;ɑsi
+ʃ	ʃ	S	72	23	iix_kɑp_t̪ɑʃo;ʃiiχ_kkɑm;ɑʃiim;ʃiik;ʃiiχ_kisiiɬ
+t	t	T	2	1	mɑtiʃ;tikɑx
+tʃ	tʃ	T	1	1	komtʃo
+t̪	t̪	T	101	48	ɑt̪i;iix_kɑp_t̪ɑʃo;koot̪ɑx;ʔɑnt̪_imɑk;ɑno_jɑʔit̪
+o	o	U	78	60	iix_kɑp_t̪ɑʃo;ɑnoɬ;ɑnoɬ;pokx;ɑno_jɑʔit̪
+oo	oː	U	26	15	koot̪ɑx;oopoɬ;ɬit̪nooʃ;ooʔɑ;oopoɬ
+_	+	_	45	45	iix_kɑp_t̪ɑʃo;iix_kɑp_t̪ɑʃo;ʃiiχ_kkɑm;ʔɑnt̪_imɑk;ʔæʔæ_inɑiɬ
+kws	kw/kʷ s	K S	1	1	ɑkwsχɑx
+kw	kw/k w	K W	1	1	hɑʃ_jɑʃp_oo_kwokih

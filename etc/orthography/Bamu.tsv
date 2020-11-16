@@ -1,42 +1,23 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	19
-^d	d	T	12
-^e	e	E	6
-^g	g	K	15
-^h	h	H	7
-^i	i	I	20
-^k	k	K	25
-^m	m	M	24
-^n	n	N	23
-^o	o	U	27
-^p	p	P	10
-^s	s	S	14
-^t	t	T	17
-^u	u	Y	7
-^w	w	W	1
-^ɑ	ɑ	A	60
-_	+	_	27
-a	a	A	1
-b	b	P	51
-d	d	T	31
-e	e	E	90
-e$	e	E	39
-ee$	eː	E	2
-g	g	K	32
-h	h	H	11
-i	i	I	89
-i$	i	I	53
-k	k	K	36
-m	m	M	71
-n	n	N	20
-o	o	U	131
-o$	o	U	93
-p	p	P	48
-s	s	S	36
-t	t	T	37
-u	u	Y	84
-u$	u	Y	48
-w	w	W	32
-ɑ	ɑ	A	169
-ɑ$	ɑ	A	52
-ɾ	ɾ	R	160
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		287	NULL	teɾe;siɾio;ɑgɑgɑ;butumu;butumu
+$	NULL		285	NULL	teɾe;siɾio;ɑgɑgɑ;butumu;butumu
+a	a	A	1	1	netoa_petewi
+ɑ	ɑ	A	281	169	ɑgɑgɑ;ɑgɑgɑ;ɑgɑgɑ;pɑnese;ubɑubɑ
+e	e	E	135	90	teɾe;teɾe;pɑnese;pɑnese;ɑgege
+ee$	eː	E	2	2	gɑɾee;pepee
+h	h	H	18	11	huɾu;ɑhoho;ɑhoho;huɾ_ohuɾuti;huɾ_ohuɾuti
+i	i	I	162	89	siɾio;siɾio;niɾo;tuɾituɾi;tuɾituɾi
+g	g	K	47	32	ɑgɑgɑ;ɑgɑgɑ;sɑgɑɾu;ɑgege;ɑgege
+k	k	K	61	36	kɑɾɑkɑɾɑ;kɑɾɑkɑɾɑ;kɑɾimɑ;kokɑmo;kokɑmo
+m	m	M	95	71	butumu;butumu;tɑmɑ;kɑɾimɑ;iwɑmisiɑi
+n	n	N	43	20	pɑnese;noudo_noudo;noudo_noudo;niɾo;nono
+b	b	P	70	51	butumu;butumu;ubɑubɑ;ubɑubɑ;bɑɾɑ
+p	p	P	58	48	pɑnese;duɾupi;bepu;idomɑɾi_iopu;guɾupɑi
+ɾ	ɾ	R	160	160	teɾe;siɾio;huɾu;sɑgɑɾu;sɑɾo
+s	s	S	50	36	siɾio;pɑnese;sɑgɑɾu;sɑɾo;soɾo
+d	d	T	43	31	noudo_noudo;noudo_noudo;ɑduduɾo;ɑduduɾo;duɾupi
+t	t	T	54	37	teɾe;butumu;butumu;tɑmɑ;tuɾituɾi
+o	o	U	251	131	siɾio;noudo_noudo;noudo_noudo;noudo_noudo;noudo_noudo
+w	w	W	33	32	ɑwoɑwo;ɑwoɑwo;iwɑmisiɑi;keɾewɑikeɾewɑi_keɾewɑikeɾewɑi;keɾewɑikeɾewɑi_keɾewɑikeɾewɑi
+u	u	Y	139	84	butumu;butumu;butumu;butumu;butumu
+_	+	_	27	27	noudo_noudo;iɾɑɾibɑi_iɾɑɾibɑi;ɑɾɑmodoɾɑi_ɑɾɑmodoɾɑi;keɾewɑikeɾewɑi_keɾewɑikeɾewɑi;huɾ_ohuɾuti

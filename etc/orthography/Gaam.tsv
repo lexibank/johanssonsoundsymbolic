@@ -1,93 +1,43 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	1
-^a	a	A	18
-^aa	aː	A	9
-^b	b	P	13
-^c	c	C	5
-^d̪	d̪	T	8
-^f	f	B	10
-^g	g	K	7
-^i	i	I	3
-^ii	iː	I	1
-^j	j	J	7
-^k	k	K	18
-^l	l	L	10
-^m	m	M	18
-^n	n	N	5
-^p	p	P	8
-^r	r	R	2
-^s	s	S	4
-^t	t	T	10
-^t̪	t̪	T	16
-^uu$	uː	Y	1
-^w	w	W	9
-^ŋ	ŋ	N	4
-^ɔ	ɔ	U	3
-^ɔɔ	ɔː	U	4
-^ɖ	ɖ	T	1
-^ə	ə	E	8
-^əə	əː	E	4
-^ɛ	ɛ	E	2
-^ɛɛ	ɛː	E	2
-^ɟ	ɟ	C	10
-^ɲ	ɲ	N	9
-_	+	_	11
-a	a	A	56
-a$	a	A	18
-aa	aː	A	42
-aa$	aː	A	18
-b	b	P	6
-d̪	d̪	T	17
-d̪$	d̪	T	27
-e	e	E	1
-f	f	B	4
-f$	f	B	3
-g	g	K	9
-g$	g	K	26
-gg	gː	K	4
-i	i	I	18
-i$	i	I	6
-ii	iː	I	3
-ii$	iː	I	5
-i̪	i̥	I	1
-j	j	J	3
-k	k	K	1
-l	l	L	19
-l$	l	L	14
-m	m	M	9
-m$	m	M	10
-ms	m s	M S	1
-n	n	N	7
-n$	n	N	21
-r	r	R	10
-r$	r	R	19
-s	s	S	11
-s$	s	S	4
-ss	ss/sː	S	1
-t̪	t̪	T	1
-u	u	Y	16
-u$	u	Y	4
-uu	uː	Y	9
-uu$	uː	Y	1
-w	w	W	11
-ð	ð	D	11
-ð$	ð	D	10
-ŋ	ŋ	N	6
-ŋ$	ŋ	N	3
-ɔ	ɔ	U	22
-ɔ$	ɔ	U	7
-ɔɔ	ɔː	U	2
-ɔɔ$	ɔː	U	2
-ɖ	ɖ	T	3
-ə	ə	E	13
-ə$	ə	E	5
-əə	əː	E	8
-əə$	əː	E	3
-ɛ	ɛ	E	22
-ɛ$	ɛ	E	7
-ɛɛ	ɛː	E	12
-ɛɛ$	ɛː	E	4
-ɟ	ɟ	C	2
-ɟ$	ɟ	C	4
-ɲ	ɲ	N	2
-ɲ$	ɲ	N	6
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		190	NULL	ɔɔl;kɔɟɔ;uu;kaɛ;əər
+$	NULL		228	NULL	ɔɔl;kɔɟɔ;uu;kaɛ;əər
+_$	NULL		1	1	lɛwd̪a_
+a	a	A	92	56	kaɛ;lɛwd̪a_;caŋald̪a;caŋald̪a;caŋald̪a
+aa	aː	A	69	42	kajaar;aaɲ;baard̪;bɛɲaag;aaŋ
+f	f	B	17	4	afad̪;fuɟ;fuulmaa;fiid̪;fɔrɔg
+ɟ	ɟ	C	16	2	kɔɟɔ;fuɟ;ɟaa;kuɲɟ;ɟis
+^c	c	C	5	5	caŋald̪a;caŋald̪a;cafag;cɛɛɟ;calaad̪
+ð	ð	D	21	11	laaða;aða;id̪igɔðɔ;t̪ɛɛðɛ;bəəð
+e	e	E	1	1	feid̪
+ə	ə	E	26	13	ən;bəl;əild̪;əsəgd̪i_i_na_t̪aman;əsəgd̪i_i_na_t̪aman
+ɛ	ɛ	E	31	22	kaɛ;lɛwd̪a_;ɛ_kɔlra;bɛɲaag;wɛlɛɲ
+əə	əː	E	15	8	əər;əər;gəuld̪əə;jəəsə;kəə
+ɛɛ	ɛː	E	18	12	lɛɛn;lɛɛn;wɛɛd̪;lɛɛn;ɛɛn
+i	i	I	27	18	d̪ui;əild̪;ɟis;wind̪;id̪igɔðɔ
+ii	iː	I	9	3	wiid̪;fiid̪;məsii;kusumii;iig
+i̪	i̥	I	1	1	ti̪f
+j	j	J	10	3	kajaar;jaram;jəəsə;jaa;id̪igjəəsə
+g	g	K	42	9	d̪uug;bɛɲaag;gɔɔd̪;id̪igɔðɔ;əsəgd̪i_i_na_t̪aman
+k	k	K	19	1	kɔɟɔ;kaɛ;kajaar;ɛ_kɔlra;kulmu
+gg	gː	K	4	4	ɛgga;agga;agga;ɔggɔ
+l	l	L	43	19	ɔɔl;lɛwd̪a_;caŋald̪a;caŋald̪a;ɛ_kɔlra
+m	m	M	38	9	muu;aam;kulmu;jaram;mɔɔs
+n	n	N	33	7	ən;lɛɛn;ɔn;naand̪;naand̪
+ŋ	ŋ	N	13	6	caŋald̪a;caŋald̪a;aaŋ;əŋə;ŋaaŋaad̪
+ɲ	ɲ	N	17	2	ɔɔɲ;aaɲ;bɛɲaag;bɔɲ;wɛlɛɲ
+b	b	P	19	6	baard̪;bəl;bɛɲaag;bɔɲ;bɛr
+^p	p	P	8	8	pal;pur;pərd̪;paras;pɛɛl
+r	r	R	31	10	əər;əər;kajaar;ɛ_kɔlra;baard̪
+s	s	S	20	11	mɔɔs;ɟis;aamsa;əsəgd̪i_i_na_t̪aman;məsii
+ss	ss/sː	S	1	1	sassaa
+ɖ	ɖ	T	4	3	id̪igɖaag;əsəgd̪i_i_na_ɖaag;ɟaa_ɖui_əəŋ;ɖaag
+^t	t	T	10	10	təld̪ig;ti̪f;tawɛg;tawɛg;tawɛg
+d̪	d̪	T	52	17	lɛwd̪a_;caŋald̪a;caŋald̪a;d̪uug;baard̪
+t̪	t̪	T	1	1	əsəgd̪i_i_na_t̪aman
+^t̪	t̪	T	16	16	t̪u;t̪ɛɛðɛ;t̪ird̪;t̪ɛɛfa;t̪alg
+ɔ	ɔ	U	32	22	kɔɟɔ;kɔɟɔ;ɛ_kɔlra;bɔɲ;ɔn
+ɔɔ	ɔː	U	8	2	ɔɔl;ɔɔɲ;gɔɔd̪;mɔɔs;mɔɔ
+w	w	W	20	11	lɛwd̪a_;wɛlɛɲ;wiid̪;war;wind̪
+u	u	Y	20	16	d̪ui;fuɟ;kulmu;kulmu;t̪u
+uu	uː	Y	11	9	uu;d̪uug;muu;fuulmaa;suud̪
+_	+	_	11	11	ɛ_kɔlra;əsəgd̪i_i_na_t̪aman;əsəgd̪i_i_na_t̪aman;əsəgd̪i_i_na_t̪aman;fan_isi

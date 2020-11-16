@@ -1,145 +1,71 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	83
-^a$	a	A	1
-^dd	dː	T	2
-^dʒdʒ	dʒː	T	1
-^f	f	B	5
-^fs	f s	B S	2
-^g	g	K	1
-^gg	gː	K	2
-^gg$	gː	K	1
-^i	i	I	22
-^j	j	J	8
-^k	k	K	1
-^l	l	L	1
-^lh	l̥	L	1
-^m	m	M	11
-^mm	mː	M	8
-^n	n	N	8
-^nn	nː	N	3
-^ns	n s	N S	2
-^p	p	P	1
-^q	q	K	4
-^qq	qː	K	3
-^qs	q s	K S	1
-^qw	qw/qʷ	K	1
-^r	r	R	2
-^s	s	S	6
-^ss	sː	S	6
-^t	t	T	3
-^ts	ts	C	1
-^u	u	Y	11
-^w	w	W	7
-^ww	wː	W	1
-^x	x	G	8
-^xs	x s	G S	1
-^xw	xw/xʷ	G	1
-^z	z	S	3
-^zz	zː	S	2
-^ð	ð	D	13
-^ħ	ħ	H	8
-^ħs	ħ s	H S	1
-^ə	ə	E	2
-^ɣ	ɣ	G	4
-^ɾ	ɾ	R	3
-^ʃ	ʃ	S	6
-^ʃs	ʃ s	S S	2
-^ʃw	ʃ w	S W	1
-^ʃʃ	ʃː	S	2
-^ʃʃ$	ʃː	S	1
-^ʒ	ʒ	S	4
-^ʒh	ʒʰ	S	1
-^ʒʒ	ʒː	S	1
-^ʕ	ʕ	H	9
-^β	β	B	6
-^θ	θ	D	33
-^θs	θ s	D S	1
-_	+	_	33
-a	a	A	151
-a$	a	A	69
-bb	bː	P	2
-bb$	bː	P	1
-d	d	T	2
-dd	dː	T	7
-dd$	dː	T	1
-dʒdʒ	dʒː	T	12
-f	f	B	10
-f$	f	B	4
-ff	fː	B	1
-ff$	fː	B	1
-fs$	f s	B S	1
-g$	g	K	2
-gg	gː	K	3
-h	h	H	2
-i	i	I	63
-i$	i	I	51
-j	j	J	21
-j$	j	J	3
-jj	jː	J	17
-k	k	K	1
-kk$	kk/kː	K	1
-l	l	L	2
-m	m	M	48
-m$	m	M	7
-mm	mm/mː	M	8
-n	n	N	31
-n$	n	N	33
-nn	nn/nː	N	9
-ns	n s	N S	1
-nʃ	n ʃ	N S	2
-nʒ	n ʒ	N S	2
-q	q	K	6
-q$	q	K	1
-qq	qq/qː	K	8
-r	r	R	21
-rr	rr/rː	R	8
-rʃ	r ʃ	R S	1
-s	s	S	20
-s$	s	S	11
-ss	ss/sː	S	3
-ss$	ss/sː	S	1
-t	t	T	19
-t$	t	T	6
-tt	tt/tː	T	3
-tt$	tt/tː	T	1
-tʃ	tʃ	T	8
-tʃ$	tʃ	T	1
-u	u	Y	32
-u$	u	Y	12
-w	w	W	20
-w$	w	W	12
-ww	ww/wː	W	3
-wʃ$	w ʃ	W S	1
-x	x	G	1
-xx	xx/xː	G	2
-z	z	S	46
-z$	z	S	1
-zz	zz/zː	S	2
-ð	ð	D	42
-ð$	ð	D	6
-ħ	ħ	H	10
-ħ$	ħ	H	4
-ŋw$	ŋw/ŋʷ	N	1
-ə	ə	E	148
-ɣ	ɣ	G	6
-ɣ$	ɣ	G	11
-ɣɣ	ɣɣ/ɣː	G	1
-ɾ	ɾ	R	22
-ɾ$	ɾ	R	13
-ʃ	ʃ	S	11
-ʃ$	ʃ	S	5
-ʃs	ʃ s	S S	1
-ʃw	ʃ w	S W	1
-ʃʃ	ʃʃ/ʃː	S	4
-ʃʃ$	ʃʃ/ʃː	S	2
-ʒ	ʒ	S	4
-ʒ$	ʒ	S	3
-ʒʒ	ʒʒ/ʒː	S	5
-ʔ	ʔ	H	63
-ʔ$	ʔ	H	21
-ʕ	ʕ	H	9
-ʕ$	ʕ	H	3
-β	β	B	10
-β$	β	B	3
-θ	θ	D	6
-θ$	θ	D	27
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		286	NULL	s_nnəʒ;θiggwði;awan;marra;marrɣa
+$	NULL		319	NULL	s_nnəʒ;θiggwði;awan;lhawa;marra
+a	a	A	304	151	awan;awan;lhawa;lhawa;marra
+f	f	B	22	10	θikəðʔfətʔ;tʔtʔaf;ħfa;arr_nnəfs;fajəðʔ
+β	β	B	19	10	qβəɾ;aβarʃan;aʒəʕβuβ;aʒəʕβuβ;βaðʔ
+ff	fː	B	2	1	ssnuffa;uff
+^ts	ts	C	1	1	tsʕa
+ð	ð	D	61	42	θiggwði;θikəðʔfətʔ;iɣɣəð;aʒðʔiðʔ;aʒðʔiðʔ
+θ	θ	D	67	6	θiggwði;θikəðʔfətʔ;arriməθ;mməθ;θaʕəʒʒaʃθ
+ə	ə	E	150	148	s_nnəʒ;θikəðʔfətʔ;θikəðʔfətʔ;iɣɣəð;wa_jəħɾi
+x	x	G	10	1	xsʔa;ʃʃuxɾəðʔ;xatʃi;xatʃi;xatʃi
+ɣ	ɣ	G	21	6	marrɣa;ɣiɾ;ɣiɾ;iɣəss;adʒdʒəɣ
+xx	xx/xː	G	2	2	ɾəxxu;ddəxxan
+ɣɣ	ɣɣ/ɣː	G	1	1	iɣɣəð
+^xw	xw/xʷ	G	1	1	xwa
+h	h	H	2	2	nnha;nihni
+ħ	ħ	H	23	10	lħajawan;wa_jəħɾi;ħfa;aħənʒia;ħaj
+ʔ	ʔ	H	86	63	θikəðʔfətʔ;θikəðʔfətʔ;tʔtʔaf;tʔtʔaf;aməqqrʔan
+ʕ	ʕ	H	21	9	aʕrua;aʕəddis;aʒəʕβuβ;θaʕəʒʒaʃθ;arrβiʕ
+i	i	I	136	63	θiggwði;θiggwði;θikəðʔfətʔ;ɣiɾ;ɣiɾ
+j	j	J	32	21	lħajawan;wa_jəħɾi;azijza;asijnu;fajəðʔ
+jj	jː	J	17	17	aqəjjua;θajjawθ;θajjawθ;θajjawθ;θajjawθ
+k	k	K	2	1	θikəðʔfətʔ;kənniw
+q	q	K	12	6	qβəɾ;ħðʔəq;qsəħ;aqəjjua;ðqəɾ
+^g	g	K	1	1	gða
+g$	g	K	2	2	amazʔag;aməzðag
+gg	gː	K	3	3	θiggwði;azəggwaɣ;asəggwas
+qq	qq/qː	K	8	8	aməqqrʔan;aməqqrʔan;aməqqrʔan;aɾəqqaɣ;utʃma_θaməqqrʔant
+^gg	gː	K	3	2	gg;ggwəʒ;gg_arriħθ
+^qq	qː	K	3	3	qqu;qqim;qqən
+^qw	qw/qʷ	K	1	1	qwa
+kk$	kk/kː	K	1	1	ʃəkk
+l	l	L	3	2	lħajawan;walu;ɣalatʔ
+^lh	l̥	L	1	1	lhawa
+m	m	M	66	48	marra;marrɣa;s_minzi;aməqqrʔan;mmaməʃ
+mm	mm/mː	M	8	8	iðammən;asəmmaðʔ;aqəmmum;asəmmam;majəmmi
+^mm	mː	M	8	8	mmaməʃ;mməθ;mmis_n_uma;mmis_n_uma;mmis_n_uma
+n	n	N	79	31	awan;lħajawan;s_minzi;awan;aməqqrʔan
+nn	nn/nː	N	9	9	s_nnəʒ;arr_nnəfs;aʒənna;iðʔənnaðʔ;kənniw
+^nn	nː	N	3	3	nnha;nnəɣni;nndfa
+ŋw$	ŋw/ŋʷ	N	1	1	əŋw
+^p	p	P	1	1	pinsʔa
+bb	bː	P	3	2	ibbəʃ;θaʕəbbutʔ;ɾħəbb
+r	r	R	24	21	aʕrua;aməqqrʔan;aβarʃan;ru;ðrus
+ɾ	ɾ	R	38	22	ɣiɾ;ɣiɾ;wa_jəħɾi;qβəɾ;ʃaɾ
+rr	rr/rː	R	8	8	marra;marrɣa;arriməθ;arr_nnəfs;marrəɣ
+s	s	S	50	20	s_nnəʒ;s_minzi;aʕəddis;arr_nnəfs;ʃsi
+z	z	S	50	46	s_minzi;amazʔag;azijza;azijza;aməzðag
+ʃ	ʃ	S	32	11	ʃəwwa;mmaməʃ;aβarʃan;ibbəʃ;ʃməðʔ
+ʒ	ʒ	S	13	4	s_nnəʒ;aʒðʔiðʔ;aħənʒia;aʒəʕβuβ;ggwəʒ
+ss	ss/sː	S	4	3	iɣəss;θiməssi;awəssa;θawəssaθ
+zz	zz/zː	S	2	2	s_θazzɾa;azzəɾ
+ʃʃ	ʃʃ/ʃː	S	6	4	iʃʃa;iʃʃ;nəʃʃ;θiʃʃəʃθ;nəʃʃin
+ʒʒ	ʒʒ/ʒː	S	5	5	θaʕəʒʒaʃθ;iʒʒən;θmiʒʒa;aʒʒaʒ;ssəʒʒaθ
+^ss	sː	S	6	6	ssuðʔ;ssnuffa;ssən;ssqa;ssusəf
+^zz	zː	S	2	2	zzaθ;zzəɾ
+^ʃʃ	ʃː	S	3	2	ʃʃ;ʃʃua;ʃʃuxɾəðʔ
+^ʒh	ʒʰ	S	1	1	ʒhəð
+^ʒʒ	ʒː	S	1	1	ʒʒðið
+d	d	T	2	2	adu;nndfa
+t	t	T	28	19	θikəðʔfətʔ;tʔtʔaf;tʔtʔaf;θitʔtʔ;θitʔtʔ
+dd	dː	T	10	7	aʕəddis;θaddaθ;ifaddən;ddəxxan;βədd
+tt	tt/tː	T	4	3	nətta;θaβritt;sətta;ðjəs_ttiβəθ
+tʃ	tʃ	T	9	8	θamədʒdʒatʃ;xatʃi;xatʃi;xatʃi;xatʃi
+dʒdʒ	dʒː	T	13	12	adʒdʒi;adʒdʒəɣ;θamədʒdʒatʃ;dʒdʒiɾəθ;idʒdʒi
+w	w	W	43	20	θiggwði;awan;lhawa;lħajawan;wa_jəħɾi
+ww	ww/wː	W	3	3	ʃəwwa;θanəwwaʃθ;aʃəwwaf
+^ww	wː	W	1	1	wwəθ
+u	u	Y	55	32	aʕrua;adu;ssuðʔ;aʒəʕβuβ;asijnu
+_	+	_	33	33	s_nnəʒ;wa_jəħɾi;s_minzi;arr_nnəfs;s_θazzɾa

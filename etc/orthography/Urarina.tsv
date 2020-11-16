@@ -1,73 +1,41 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	32
-^aa	aː	A	2
-^b	b	P	16
-^d	d	T	3
-^dʒ	dʒ	T	5
-^e	e	E	6
-^ee	eː	E	1
-^f	f	B	2
-^h	h	H	17
-^i	i	I	9
-^ii$	iː	I	1
-^k	k	K	78
-^kw	kw/k w	K W	7
-^l	l	L	7
-^m	m	M	6
-^n	n	N	18
-^o	o	U	2
-^s	s	S	11
-^t	t	T	10
-^tʃ	tʃ	T	1
-^u	u	Y	2
-^ŋ	ŋ	N	1
-^ɲ	ɲ	N	1
-^ɽ	ɽ	R	7
-^ʉ	ʉ	Y	3
-^ʉ$	ʉ	Y	1
-_	+	_	18
-a	a	A	198
-a$	a	A	80
-aa	aː	A	14
-aa$	aː	A	27
-b	b	P	8
-d	d	T	4
-e	e	E	39
-e$	e	E	33
-ee	eː	E	3
-ee$	eː	E	1
-fw	f w	B W	5
-h	h	H	43
-hw	hw/hʷ	H	6
-i	i	I	64
-i$	i	I	29
-ii	iː	I	3
-ii$	iː	I	3
-j	j	J	15
-j$	j	J	5
-jh	jh/j̊	J	1
-k	k	K	45
-kw	kw/k w	K W	2
-l	l	L	10
-m	m	M	9
-n	n	N	75
-o	o	U	25
-o$	o	U	24
-s	s	S	23
-t	t	T	33
-tʃ	tʃ	T	33
-u	u	Y	46
-u$	u	Y	21
-uu	uː	Y	1
-ã	ã	A	1
-ĩĩ$	ĩː	I	2
-ŋ	ŋ	N	1
-ũ$	ũ	Y	1
-ɲ	ɲ	N	17
-ɽ	ɽ	R	47
-ʉ	ʉ	Y	31
-ʉ$	ʉ	Y	14
-ʉʉ	ʉː	Y	3
-ʉ̃$	ʉ̃	Y	5
-ʉ̃ʉ̃$	ʉ̃	Y	1
-ẽ$	ẽ	E	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		242	NULL	ekʉ̃ʉ̃;kwaasia;baja;satĩĩ;uba
+$	NULL		239	NULL	kwaasia;baja;uba;atajbi_ɲaae;bihi
+a	a	A	310	198	kwaasia;baja;baja;satĩĩ;uba
+ã	ã	A	1	1	aãka
+aa	aː	A	43	14	kwaasia;atajbi_ɲaae;ahaane;baaso;tabaa
+^f	f	B	2	2	fofwa;fofwa
+e	e	E	78	39	ekʉ̃ʉ̃;atajbi_ɲaae;ahaane;haihje;asae
+ee	eː	E	5	3	ɽeemae;heena;huee;haɽeheeɽia;eene
+ẽ$	ẽ	E	1	1	seteẽ
+h	h	H	60	43	bihi;bihi;ahaane;haʉ̃;ahinia
+hw	hw/hʷ	H	6	6	hitʃuhwaj;beɽaʉesiohwaj;beɽaʉesiohwaa;nohwaa;laauhwiɽi
+i	i	I	102	64	kwaasia;atajbi_ɲaae;bihi;bihi;bihi
+ii	iː	I	7	3	bii_ɲa;bii_ɲa;bii_ɲa;nii;nii
+ĩĩ$	ĩː	I	2	2	satĩĩ;aɽahĩĩ
+j	j	J	20	15	baja;atajbi_ɲaae;haihje;hitʃuhwaj;beɽaʉesiohwaj
+jh	jh/j̊	J	1	1	lejhũ
+k	k	K	123	45	ekʉ̃ʉ̃;kuɽi;kaɽi;kauatoa;akatia
+l	l	L	17	10	kala;elonaa;lenone;baʉleneto;nulunu
+m	m	M	15	9	ɽeemae;komo;makaekoa;makuitʃa;maueki
+n	n	N	93	75	ahaane;ahinia;elonaa;kwitʃana;iani
+ŋ	ŋ	N	2	1	kuɽua_tʃuŋka;ŋaaɽa
+ɲ	ɲ	N	18	17	atajbi_ɲaae;natʃasi_ɲe;bii_ɲa;bii_ɲa;bii_ɲa
+b	b	P	24	8	baja;uba;atajbi_ɲaae;bihi;bihi
+ɽ	ɽ	R	54	47	kuɽi;kaɽi;sʉɽi;beɽaʉesiohwaj;habeɽuku
+s	s	S	34	23	kwaasia;satĩĩ;baaso;sʉɽi;asae
+d	d	T	7	4	daha;ɲadeɽa;dede;dede;djabana
+t	t	T	43	33	satĩĩ;atajbi_ɲaae;kauatoa;akatia;tabaa
+tʃ	tʃ	T	34	33	hitʃuhwaj;kwitʃana;kihtʃa;itʃa;iɽitʃu
+^dʒ	dʒ	T	5	5	dʒaʉɽa;dʒatoania;dʒa;dʒa;dʒanu
+o	o	U	51	25	baaso;kauatoa;elonaa;beɽaʉesiohwaj;isitao
+u	u	Y	69	46	uba;kuɽi;kauatoa;hitʃuhwaj;habeɽuku
+ʉ	ʉ	Y	49	31	sʉɽi;beɽaʉesiohwaj;bʉkʉ;bʉkʉ;ɽʉakaa
+uu	uː	Y	1	1	ukuuni
+ũ$	ũ	Y	1	1	lejhũ
+ʉʉ	ʉː	Y	3	3	sʉʉha;itʃʉʉni;mʉlʉʉtoa
+ʉ̃$	ʉ̃	Y	5	5	haʉ̃;kakaʉ̃;kakaʉ̃;kakaʉ̃;kakaʉ̃
+ʉ̃ʉ̃$	ʉ̃	Y	1	1	ekʉ̃ʉ̃
+_	+	_	18	18	atajbi_ɲaae;bihi_kutʉɽi;tuɽue_koa;natʃasi_ɲe;bii_ɲa
+fw	f w	B W	5	5	kafwahaj;ofwa;ofwa;fofwa;fofwa
+kw	kw/k w	K W	9	2	kwaasia;kwitʃana;kwitʉkʉa;kwena;kwaa

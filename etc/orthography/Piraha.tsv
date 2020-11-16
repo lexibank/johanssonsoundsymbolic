@@ -1,37 +1,23 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	27
-^g	g	K	1
-^h	h	H	21
-^k	k	K	20
-^n	n	N	17
-^p	p	P	11
-^s	s	S	2
-^t	t	T	3
-^tʃ	tʃ	T	14
-^ʃ	ʃ	S	1
-^ʔ	ʔ	H	98
-_	+	_	4
-a	a	A	175
-a$	a	A	9
-aa	aː	A	24
-aa$	aː	A	1
-b	b	P	38
-b$	b	P	4
-g	g	K	57
-g$	g	K	1
-h	h	H	44
-i	i	I	162
-i$	i	I	153
-ii	iː	I	14
-ii$	iː	I	11
-iii$	iii/iː	I	1
-o	o	U	88
-o$	o	U	35
-oo	oː	U	3
-p	p	P	27
-r	r	R	1
-s	s	S	24
-t	t	T	7
-tʃ	tʃ	T	12
-ʃ	ʃ	S	21
-ʔ	ʔ	H	26
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		178	NULL	bai;ʔogiagao;ʔaopi;ʔiʃi;poiʔi
+$	NULL		214	NULL	bai;naaba;ʔogiagao;ʔaopi;ʔiʃi
+a	a	A	184	175	bai;naaba;ʔogiagao;ʔogiagao;ʔaopi
+aa	aː	A	25	24	naaba;baaʔai;ʔaabi;ʔaai;baagiso
+h	h	H	65	44	hoatʃii;sohoagi;ʔahoasai;tʃiobahai;bohoi
+ʔ	ʔ	H	124	26	ʔogiagao;ʔaopi;ʔiʃi;poiʔi;ʔapiʃi
+i	i	I	315	162	bai;ʔogiagao;ʔaopi;ʔiʃi;ʔiʃi
+ii	iː	I	25	14	hoatʃii;ʔiipi;ʔogii;piibigi;biipai
+iii$	iii/iː	I	1	1	kaiii
+g	g	K	59	57	ʔogiagao;ʔogiagao;ʔigao;ʔogii;piibigi
+^k	k	K	20	20	kopaiai;kopaiai;koʃi;kaob;kao
+^n	n	N	17	17	naaba;naia;niopaiʔi;no;no
+b	b	P	69	38	bai;naaba;baaʔai;piibigi;ʔaabi
+p	p	P	38	27	ʔaopi;poiʔi;ʔapiʃi;ʔapiʃi;ʔiipi
+r	r	R	1	1	kari
+s	s	S	26	24	sohoagi;ʔahoasai;baagiso;baagiso;baagiso
+ʃ	ʃ	S	22	21	ʔiʃi;ʔapiʃi;ʔapiʃi;hiʃibai;ʃi
+t	t	T	10	7	ʔiʃitai;ʔapaitai;ʔitaiʔi;tai;ʔitaoi
+tʃ	tʃ	T	26	12	hoatʃii;ʔitʃio;ʔaitʃi;tʃiobahai;tʃiapai
+o	o	U	123	88	ʔogiagao;ʔogiagao;ʔaopi;poiʔi;hoatʃii
+oo	oː	U	3	3	ʔaooi;ʔaoobai;poobahai
+_	+	_	4	4	ʔi_aba;ʔaibogi_ʔaha;hoa_ʔai;ʔahoa_pia

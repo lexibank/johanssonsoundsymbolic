@@ -1,52 +1,25 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	28
-^a$	a	A	5
-^b	b	P	21
-^e	e	E	8
-^e$	e	E	2
-^i	i	I	7
-^ii$	iː	I	1
-^j	j	J	5
-^k	k	K	25
-^m	m	M	18
-^n	n	N	18
-^o	o	U	15
-^p	p	P	29
-^r	r	R	40
-^s	s	S	1
-^t	t	T	22
-^tʃ	tʃ	T	9
-^u	u	Y	4
-^v	v	B	1
-^w	w	W	8
-_	+	_	33
-a	a	A	115
-a$	a	A	56
-b	b	P	5
-e	e	E	56
-e$	e	E	46
-g$	g	K	1
-i	i	I	59
-i$	i	I	43
-ii$	iː	I	1
-j	j	J	4
-k	k	K	35
-l	l	L	3
-l$	l	L	1
-m	m	M	32
-m$	m	M	7
-n	n	N	27
-n$	n	N	11
-o	o	U	77
-o$	o	U	62
-p	p	P	55
-pw	p w	P W	2
-r	r	R	89
-s	s	S	2
-t	t	T	25
-tʃ	tʃ	T	1
-u	u	Y	33
-u$	u	Y	31
-v	v	B	11
-w	w	W	16
-ʔ	ʔ	H	23
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		267	NULL	nake;peʔe_koruriri;pa;note;o_koruroro
+$	NULL		264	NULL	nake;peʔe_koruriri;pa;note;o_koruroro
+a	a	A	204	115	nake;pa;ame;ai_mo;oreva
+v	v	B	12	11	oreva;reva;rovi;teve;o_korova
+e	e	E	112	56	nake;peʔe_koruriri;peʔe_koruriri;note;ame
+ʔ	ʔ	H	23	23	peʔe_koruriri;riʔi;ruʔu;popoʔo;bumbuʔum
+i	i	I	109	59	peʔe_koruriri;peʔe_koruriri;ai_mo;taipe;riʔi
+ii$	iː	I	2	1	ii;risii
+j	j	J	9	4	paija;ja;je;je;beja
+k	k	K	60	35	nake;peʔe_koruriri;o_koruroro;pako;ekoku
+g$	g	K	1	1	ating
+l	l	L	4	3	arl;inla;rlriva;blo
+m	m	M	57	32	ame;omon;ai_mo;bumbuʔum;bumbuʔum
+n	n	N	56	27	nake;note;omon;eno;eno
+b	b	P	26	5	bumbuʔum;bumbuʔum;ma_biam;bereren;ba
+p	p	P	86	55	peʔe_koruriri;pa;taipe;pa;paija
+r	r	R	129	89	peʔe_koruriri;peʔe_koruriri;peʔe_koruriri;o_koruroro;o_koruroro
+s	s	S	3	2	save;risii;buso
+t	t	T	47	25	note;taipe;putu;to;iti
+tʃ	tʃ	T	10	1	tʃa;tʃauku_mu;tʃa;tʃao;tʃeʔe
+o	o	U	154	77	peʔe_koruriri;note;o_koruroro;o_koruroro;o_koruroro
+w	w	W	26	16	awoku;tuwo;kupwana;awoto_korara;awo
+u	u	Y	68	33	peʔe_koruriri;o_koruroro;ruʔu;ruʔu;putu
+_	+	_	33	33	peʔe_koruriri;o_koruroro;ai_mo;ma_biam;tʃauku_mu

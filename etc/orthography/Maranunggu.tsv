@@ -1,61 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-I	I/i	I	1
-^a	a	A	8
-^c	c	C	18
-^i	i	I	1
-^j	j	J	16
-^k	k	K	32
-^l	l	L	3
-^m	m	M	28
-^n	n	N	24
-^p	p	P	28
-^t	t	T	19
-^w	w	W	35
-^æ	æ	E	8
-^ŋ	ŋ	N	22
-^ɾ	ɾ	R	2
-_	+	_	13
-a	a	A	125
-a$	a	A	42
-c	c	C	24
-i	i	I	95
-i$	i	I	49
-j	j	J	20
-j$	j	J	3
-k	k	K	41
-k$	k	K	11
-kk	kk/kː	K	1
-kw	kw/k w	K W	2
-l	l	L	56
-l$	l	L	9
-lw	l w	L W	1
-m	m	M	27
-m$	m	M	6
-n	n	N	32
-n$	n	N	9
-nn	nn/nː	N	2
-p	p	P	26
-p$	p	P	1
-pp	pp/pː	P	1
-r	r	R	6
-r$	r	R	8
-t	t	T	35
-t$	t	T	9
-tt	tt/tː	T	5
-u	u	Y	69
-u$	u	Y	17
-w	w	W	17
-w$	w	W	3
-æ	æ	E	84
-æ$	æ	E	15
-ç	ç	C	34
-ç$	ç	C	8
-ŋ	ŋ	N	27
-ŋ$	ŋ	N	7
-œ	œ	U	16
-œ$	œ	U	7
-ɲ	ɲ	N	3
-ɲ$	ɲ	N	19
-ɾ	ɾ	R	55
-ɾ$	ɾ	R	21
-ɾw	ɾ w	R W	5
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		244	NULL	kukukwaj;inkini;pija_wæɾik;pæ;pæ
+$	NULL		244	NULL	kukukwaj;inkini;pija_wæɾik;pæ;pæ
+a	a	A	175	125	kukukwaj;pija_wæɾik;tara;tara;puwal
+c	c	C	42	24	picçpicç;picçpicç;cçipmæ;wiɾicça;cçæŋi
+ç	ç	C	42	34	picçpicç;picçpicç;cçipmæ;wiɾicça;cçæŋi
+æ	æ	E	107	84	pija_wæɾik;pæ;pæ;tæti;wæɾik
+I	I/i	I	1	1	waIkiticç
+i	i	I	145	95	inkini;inkini;inkini;pija_wæɾik;pija_wæɾik
+j	j	J	39	20	kukukwaj;pija_wæɾik;wuji;jiɾi;jæɾa_ŋulpak
+k	k	K	84	41	kukukwaj;kukukwaj;inkini;pija_wæɾik;wæɾik
+kk	kk/kː	K	1	1	awa_wakkaɾ
+l	l	L	69	56	lur;puwal;wlɾwiɾ;jæɾa_ŋulpak;jitljitl
+m	m	M	61	27	cçipmæ;mu;mœɾmœɾ;mœɾmœɾ;mi
+n	n	N	65	32	inkini;inkini;pænpæ;wun;wattan
+ŋ	ŋ	N	56	27	jæɾa_ŋulpak;jiŋi;ŋuŋuk;ŋuŋuk;wœŋœ
+ɲ	ɲ	N	22	3	jimiɲ;mijitiɲ_mijitiɲ;mijitiɲ_mijitiɲ;ŋankuɲ;ŋaɲ
+nn	nn/nː	N	2	2	pœnnœ;mænnæɾ
+p	p	P	55	26	pija_wæɾik;pæ;pæ;pænpæ;pænpæ
+pp	pp/pː	P	1	1	ŋuppæl
+r	r	R	14	6	tara;lur;karkar;karkar;pœr
+ɾ	ɾ	R	83	55	pija_wæɾik;wæɾik;jiɾi;tuɾwu;puɾwuɾ
+t	t	T	63	35	tara;tæti;tæti;tuɾwu;tuɾ
+tt	tt/tː	T	5	5	wattan;ælmættæɾ;ŋatta;mættæɾ;wuttaɾ
+œ	œ	U	23	16	pœr;wœŋœ;wœŋœ;mœɾmœɾ;mœɾmœɾ
+w	w	W	61	17	pija_wæɾik;wæɾik;wuji;puwal;tuɾwu
+u	u	Y	86	69	kukukwaj;kukukwaj;wuji;lur;puwal
+_	+	_	13	13	pija_wæɾik;jæɾa_ŋulpak;kila_wuta;awa_wakkaɾ;mijitiɲ_mijitiɲ
+kw	kw/k w	K W	2	2	kukukwaj;pækwujcç

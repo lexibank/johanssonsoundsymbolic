@@ -1,80 +1,45 @@
-Grapheme	IPA	SCA	Frequency
-^S	S/s	S	1
-^h	h	H	55
-^ii	iː	I	1
-^j	j	J	12
-^k	k	K	36
-^l	l	L	18
-^m	m	M	23
-^n	n	N	14
-^p	p	P	13
-^s	s	S	15
-^t	t	T	8
-^tʃ	tʃ	T	17
-^t̪	t̪	T	28
-^w	w	W	17
-^ŋ	ŋ	N	2
-^ɨ	ɨ	I	2
-^ʔ	ʔ	H	68
-_	+	_	2
-a	a	A	120
-a$	a	A	97
-aa	aː	A	26
-aa$	aː	A	1
-e	e	E	49
-e$	e	E	40
-ee	eː	E	25
-ee$	eː	E	1
-h	h	H	7
-i	i	I	64
-i$	i	I	52
-ii	iː	I	12
-ii$	iː	I	2
-iii$	iii/iː	I	1
-j	j	J	29
-jj	jː	J	12
-k	k	K	44
-k$	k	K	3
-kk	kk/kː	K	24
-ks	k s	K S	4
-l	l	L	51
-ll	ll/lː	L	13
-m	m	M	35
-mm	mm/mː	M	10
-ms	m s	M S	1
-n	n	N	30
-n$	n	N	1
-nn	nn/nː	N	7
-ns	n s	N S	1
-nss	n ss/sː	N S	1
-o	o	U	49
-o$	o	U	10
-oo	oː	U	23
-oo$	oː	U	3
-p	p	P	24
-pp	pp/pː	P	7
-ps	p s	P S	17
-s	s	S	22
-ss	ss/sː	S	10
-t	t	T	23
-tt	tt/tː	T	10
-tʃ	tʃ	T	32
-tʃtʃ	tʃtʃ/tʃː	T	13
-t̪	t̪	T	23
-t̪$	t̪	T	1
-t̪t̪	t̪t̪/t̪ː	T	19
-u	u	Y	43
-u$	u	Y	34
-uu	uː	Y	11
-w	w	W	14
-ws	w s	W S	1
-ww	ww/wː	W	7
-ŋ	ŋ	N	8
-ŋs	ŋ s	N S	2
-ŋŋ	ŋŋ/ŋː	N	8
-ɨ	ɨ	I	65
-ɨ$	ɨ	I	78
-ɨɨ	ɨː	I	9
-ʔ	ʔ	H	16
-ʔ$	ʔ	H	6
-ʔʔ	ʔʔ/ʔː	H	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		329	NULL	liile;holuhŋe;sokket̪t̪i;naŋʔŋe;meetʃa
+$	NULL		329	NULL	liile;holuhŋe;sokket̪t̪i;naŋʔŋe;meetʃa
+a	a	A	217	120	naŋʔŋe;meetʃa;tisiinaɨ;t̪ɨmmalɨ;t̪ɨmmalɨ
+aa	aː	A	27	26	ʔapaat̪ɨ;kaawi;hɨjaakɨ;kaapet̪ku;ʔaanik
+e	e	E	89	49	liile;holuhŋe;sokket̪t̪i;naŋʔŋe;sajje
+ee	eː	E	26	25	meetʃa;ʔeeʔatti;mitʃeemati;miweejaʔ;hiʔeema
+h	h	H	62	7	holuhŋe;holuhŋe;henna;hɨɨmɨmɨ;hiʔeema
+ʔ	ʔ	H	92	16	naŋʔŋe;ʔejtʃitʃɨ;ʔetʃtʃa;ʔolowwit̪;ʔeeʔatti
+ʔʔ	ʔʔ/ʔː	H	4	4	musuʔʔa;t̪ɨʔʔele;naʔʔa;t̪inɨʔʔɨɨpak
+i	i	I	116	64	sokket̪t̪i;tisiinaɨ;joli;semmila;ʔejtʃitʃɨ
+ɨ	ɨ	I	145	65	tisiinaɨ;t̪ɨmmalɨ;t̪ɨmmalɨ;t̪ɨmmalɨ;t̪ɨmmalɨ
+ii	iː	I	15	12	liile;tisiinaɨ;patiiwa;waliitɨ;lapiisajɨ
+ɨɨ	ɨː	I	9	9	ʔɨɨnɨ;hɨɨmɨmɨ;lɨɨmehnɨ;kawɨɨlɨ;hɨɨlakiʔwa
+iii$	iii/iː	I	1	1	waliii
+j	j	J	41	29	joli;kɨtʃɨjɨ;ʔejtʃitʃɨ;jɨllɨ;miweejaʔ
+jj	jː	J	12	12	sajje;t̪ujju;ʔojjissa;tʃajja;hajje
+k	k	K	87	44	kɨtʃɨjɨ;ŋka;seksekɨ;seksekɨ;kululli
+kk	kk/kː	K	24	24	sokket̪t̪i;nikkiti;lekkɨtʃɨ;tʃokka;lnssakkeenu
+l	l	L	69	51	liile;liile;holuhŋe;t̪ɨmmalɨ;t̪ɨmmalɨ
+ll	ll/lː	L	13	13	jɨllɨ;kululli;kolle;walli;hallesɨ
+m	m	M	59	35	meetʃa;mitʃeemati;mitʃeemati;miweejaʔ;muusu
+mm	mm/mː	M	10	10	t̪ɨmmalɨ;t̪ɨmmalɨ;semmila;loojemma;hojkimmatɨ
+n	n	N	47	30	naŋʔŋe;tisiinaɨ;nikkiti;ʔɨɨnɨ;notʃtʃu
+ŋ	ŋ	N	12	8	holuhŋe;naŋʔŋe;naŋʔŋe;ŋka;hɨŋkatʃɨ
+nn	nn/nː	N	7	7	henna;hanna;hanna;kanni;janna
+ŋŋ	ŋŋ/ŋː	N	8	8	juŋŋa;haŋŋɨ;hɨŋŋa;haŋŋoju;jaŋŋatʃtʃɨ
+p	p	P	54	24	puutʃe;ʔapaat̪ɨ;ʔoopa;patiiwa;tʃɨt̪pɨ
+pp	pp/pː	P	7	7	luppetɨ;ʔɨsɨppa;tʃapput̪t̪i;hineppu;huppete
+s	s	S	63	22	sokket̪t̪i;tisiinaɨ;sajje;semmila;seksekɨ
+^S	S/s	S	1	1	Saliit̪ɨ
+ss	ss/sː	S	11	10	lnssakkeenu;massokka;ʔojjissa;haʔtʃissɨ;hossokkona
+t	t	T	31	23	tisiinaɨ;mitʃeemati;nikkiti;luppetɨ;tuttutu
+tt	tt/tː	T	10	10	ʔeeʔatti;tuttutu;mututti;hettɨtɨ;ʔujatti
+tʃ	tʃ	T	49	32	meetʃa;kɨtʃɨjɨ;ʔejtʃitʃɨ;ʔejtʃitʃɨ;mitʃeemati
+t̪	t̪	T	52	23	t̪ɨmmalɨ;t̪ɨmmalɨ;lot̪o;ʔolowwit̪;wɨkt̪ɨ
+tʃtʃ	tʃtʃ/tʃː	T	13	13	ʔetʃtʃa;kitʃtʃawɨ;kɨtʃtʃɨtʃɨ;notʃtʃu;mitʃtʃɨ
+t̪t̪	t̪t̪/t̪ː	T	19	19	sokket̪t̪i;sɨt̪t̪ɨ;t̪ot̪t̪oʔ;t̪at̪t̪a;ket̪t̪ɨ
+o	o	U	59	49	holuhŋe;sokket̪t̪i;joli;lot̪o;lot̪o
+oo	oː	U	26	23	tʃooki;ʔoopa;toot̪osu;loojemma;homoomajɨ
+w	w	W	34	14	kitʃtʃawɨ;miweejaʔ;wɨkt̪ɨ;patiiwa;waliitɨ
+ww	ww/wː	W	7	7	ʔolowwit̪;kawwinta;kawwali;hɨlawwa;ʔawwo
+u	u	Y	77	43	holuhŋe;kululli;kululli;luppetɨ;muusu
+uu	uː	Y	11	11	puutʃe;muusu;huuwa;luuti;muusu
+_	+	_	2	2	noh_nakkeʔ;ii_hawsɨ

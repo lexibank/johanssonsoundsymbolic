@@ -1,129 +1,56 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	7
-^d	d	T	26
-^g	g	K	36
-^gw	gw/g w	K W	8
-^h	h	H	21
-^j	j	J	3
-^k	k	K	3
-^ks	k s	K S	6
-^kʼ	kʼ	K	13
-^l	l	L	17
-^m	m	M	12
-^mm	mː	M	1
-^n	n	N	31
-^p	p	P	1
-^pʼ	pʼ	P	3
-^qʼ	qʼ	K	3
-^s	s	S	13
-^t	t	T	6
-^tʼ	tʼ	T	9
-^tʼsʼ	tsʼ	T	11
-^w	w	W	12
-^æ	æ	E	23
-^ææ	æː	E	3
-^ɛɛ	ɛː	E	1
-^ɢ	ɢ	K	14
-^ɪ	ɪ	I	2
-^ɬ	ɬ	L	41
-^ʔ	ʔ	H	4
-^ʔw	ʔʷ	H	2
-^χ	χ	G	2
-^χs	χ s	G S	4
-_	+	_	12
-a$	a	A	1
-aa	aː	A	1
-b	b	P	15
-b$	b	P	1
-d	d	T	32
-d$	d	T	1
-e	e	E	2
-g	g	K	63
-g$	g	K	4
-gw	gw/g w	K W	3
-h	h	H	11
-h$	h	H	6
-i	i	I	4
-i$	i	I	1
-j	j	J	58
-j$	j	J	7
-js	j s	J S	1
-k	k	K	14
-k$	k	K	49
-ks	k s	K S	4
-ks$	k s	K S	11
-kw$	kw/kʷ	K	2
-kʼ	kʼ	K	7
-kʼ$	kʼ	K	4
-kʼw	kʼ w	K W	1
-l	l	L	35
-l$	l	L	10
-lh	lh/l̥	L	1
-ls	l s	L S	1
-ls$	l s	L S	3
-lw	l w	L W	1
-m	m	M	33
-m$	m	M	15
-mh	mh/m̥	M	3
-ms	m s	M S	1
-ms$	m s	M S	2
-n	n	N	49
-n$	n	N	22
-ns	n s	N S	1
-ns$	n s	N S	1
-o	o	U	1
-oo	oː	U	2
-p	p	P	13
-p$	p	P	21
-ps$	p s	P S	1
-pʼ	pʼ	P	4
-q$	q	K	1
-qʼ	qʼ	K	1
-s	s	S	23
-s$	s	S	27
-t	t	T	20
-t$	t	T	17
-ts	ts	C	6
-ts$	ts	C	2
-tʼ	tʼ	T	7
-tʼsʼ	tsʼ	T	8
-u	u	Y	44
-u$	u	Y	4
-uu	uː	Y	15
-uu$	uː	Y	7
-w	w	W	16
-w$	w	W	2
-ws$	w s	W S	6
-x$	x	G	1
-xh	xh/xʰ	G	1
-z	z	S	16
-z$	z	S	1
-æ	æ	E	165
-æ$	æ	E	19
-ææ	æː	E	55
-ææ$	æː	E	9
-ɒ	ɒ	O	40
-ɒ$	ɒ	O	2
-ɔ	ɔ	U	17
-ɔ$	ɔ	U	1
-ɔɔ	ɔː	U	22
-ɔɔ$	ɔː	U	6
-ɛ	ɛ	E	22
-ɛ$	ɛ	E	1
-ɛɛ	ɛː	E	5
-ɛɛ$	ɛː	E	4
-ɢ	ɢ	K	1
-ɪ	ɪ	I	56
-ɪ$	ɪ	I	11
-ɪɪ	ɪː	I	20
-ɪɪ$	ɪː	I	4
-ɬ	ɬ	L	17
-ɬ$	ɬ	L	21
-ɯ	ɯ	I	6
-ɯ$	ɯ	I	1
-ɯɯ	ɯː	I	6
-ɯɯ$	ɯː	I	3
-ʔ	ʔ	H	71
-χ	χ	G	14
-χ$	χ	G	23
-χs$	χ s	G S	3
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		335	NULL	mæn;næχʔpɪdzuu;tχɒlææn;hæ;gæwdɪ
+$	NULL		333	NULL	mæn;næχʔpɪdzuu;tχɒlææn;hæ;gæwdɪ
+a$	a	A	1	1	dɛɛja
+aa	aː	A	1	1	ɢɒtsɢaatsk
+ts	ts	C	8	6	ɢætsqʼoldzæχ;tʼsʼuuʔts;kʼæwtsɪ;klæʔætsk;tʼsʼuuʔts
+e	e	E	2	2	kʼjepdikʼjææk;æleskw
+æ	æ	E	207	165	mæn;næχʔpɪdzuu;hæ;gæwdɪ;dzækʼwɯsk
+ɛ	ɛ	E	23	22	wɛlɪ;ɬɛʔɪgn;lukʼæhgjɛt;ɬgumɛt;hædzɛjχ
+ææ	æː	E	67	55	tχɒlææn;mææs;gææχ;bææsk;gwɪsgwææsk
+ɛɛ	ɛː	E	10	5	ʔwɪɪlɛɛks;ɪɬɛɛ;wɛɛl;gɛɛ;ɛɛpn
+χ	χ	G	46	14	næχʔpɪdzuu;tχɒlææn;ɢætsqʼoldzæχ;hætʼɒχk;ɢɔɔχ
+x$	x	G	1	1	mɒsx
+xh	xh/xʰ	G	1	1	ɢɒxhɔɔ
+h	h	H	38	11	hæ;hætʼɒχk;hɔjæχ;wɪhææwtk;sæh
+ʔ	ʔ	H	77	71	næχʔpɪdzuu;gælʔɔɔs;nʔæstʼɔɔks;tʼsʼuuʔts;ɬɛʔɪgn
+^ʔw	ʔʷ	H	2	2	ʔwɪɪlɛɛks;ʔwææn
+i	i	I	5	4	kʼjepdikʼjææk;æʔædzik;kʼjɛpdi;gupʼlwilkʼjɛp;æwil_gɔɔ
+ɪ	ɪ	I	69	56	næχʔpɪdzuu;gæwdɪ;ɬuuntɪ;æwɪl;tkjɪ
+ɯ	ɯ	I	7	6	dzækʼwɯsk;wɯngæws;pʼææsɯ;mɯdzægælɛ;ɬgwɯsgɯɯ
+ɪɪ	ɪː	I	24	20	ædæbɪɪs;ʔwɪɪlɛɛks;dzɪɪblk;lɪɪ;gjɪɪk
+ɯɯ	ɯː	I	9	6	gɯɯnæks;ɬgwɯsgɯɯ;jɯɯ;nʔɯɯju;lɪsgɯɯ
+j	j	J	69	58	tʼmgæj;tʼmgæj;tkjɪ;kʼæj;sæjp
+g	g	K	103	63	gæwdɪ;tʼmgæj;tʼmgæj;gɔɔm;gælʔɔɔs
+k	k	K	87	14	dzækʼwɯsk;hætʼɒχk;tkjɪ;nʔæstʼɔɔks;ʔwɪɪlɛɛks
+ɢ	ɢ	K	15	1	ɢætsqʼoldzæχ;ɢɔɔχ;ɢɒsχ;ɢæjæk;ɢɒntʼɔʔɔsk
+kʼ	kʼ	K	25	7	dzækʼwɯsk;ækʼɔɔ;ækʼɔm;kʼæj;kʼɬɪkʼægun
+q$	q	K	1	1	bɒq
+qʼ	qʼ	K	4	1	ɢætsqʼoldzæχ;qʼɔɔlɒχ;qʼɒmtʼsʼn;qʼɔɔl
+kw$	kw/kʷ	K	2	2	tʼsʼæskw;æleskw
+l	l	L	67	35	tχɒlææn;ɢætsqʼoldzæχ;æwɪl;gælʔɔɔs;lɒχbæ
+ɬ	ɬ	L	79	17	ɬuuntɪ;ɪɬɛɛ;ksɪnææɬ;ɬɛʔɪgn;kʼɬɪkʼægun
+lh	lh/l̥	L	1	1	hægwɪlhuu
+m	m	M	63	33	mæn;tʼmgæj;tʼmgæj;gɔɔm;mææs
+mh	mh/m̥	M	3	3	ɬguɬgmhænæʔæ;ɬguɬgmhænæʔæ;ɬguɬgmhænæʔæ
+^mm	mː	M	1	1	mmɔ
+n	n	N	104	49	mæn;næχʔpɪdzuu;tχɒlææn;ɬuuntɪ;nʔæstʼɔɔks
+ɒ	ɒ	O	42	40	tχɒlææn;hætʼɒχk;lɒχbæ;ɢɒsχ;qʼɔɔlɒχ
+b	b	P	23	15	ædæbɪɪs;lɒχbæ;bææsk;dzɪɪblk;bæχjææ
+p	p	P	36	13	næχʔpɪdzuu;sæjp;ɬæp;juup;læχjuup
+pʼ	pʼ	P	7	4	spʼɒm;pʼææsɯ;pʼæs;pʼɪjææn;lɔɔpʼɪs
+s	s	S	108	23	dzækʼwɯsk;mææs;ædæbɪɪs;gælʔɔɔs;nʔæstʼɔɔks
+z	z	S	17	16	næχʔpɪdzuu;dzækʼwɯsk;ɢætsqʼoldzæχ;dzɪɪblk;nægædzæw
+d	d	T	59	32	næχʔpɪdzuu;gæwdɪ;dzækʼwɯsk;ɢætsqʼoldzæχ;ædæbɪɪs
+t	t	T	43	20	tχɒlææn;ɬuuntɪ;tkjɪ;gwætk;wɪhææwtk
+tʼ	tʼ	T	16	7	tʼmgæj;tʼmgæj;hætʼɒχk;nʔæstʼɔɔks;tʼmgæws
+tʼsʼ	tsʼ	T	19	8	tʼsʼuuʔts;wuktʼsʼæn;tʼsʼæl;hætʼsʼæχɬk;tʼsʼææw
+o	o	U	1	1	ɢætsqʼoldzæχ
+ɔ	ɔ	U	18	17	ækʼɔm;hɔjæχ;gɔl;hɔn;luhɔʔnɬ
+oo	oː	U	2	2	ksdɒmoos;χɒnoojɒχ
+ɔɔ	ɔː	U	28	22	gɔɔm;ækʼɔɔ;ɢɔɔχ;gælʔɔɔs;nʔæstʼɔɔks
+w	w	W	40	16	gæwdɪ;dzækʼwɯsk;æwɪl;wɯngæws;wɯngæws
+u	u	Y	48	44	wuktʼsʼæn;kʼɬɪkʼægun;lukʼæhgjɛt;muk;ɬgumɛt
+uu	uː	Y	22	15	næχʔpɪdzuu;ɬuuntɪ;tʼsʼuuʔts;dɪduuls;juup
+_	+	_	12	12	ækæ_dɪ_gɔɔ;ækæ_dɪ_gɔɔ;dɪp_nʔɪɪt;æwil_gɔɔ;ɬukdæʔæjnm_hænɒʔɒχ
+gw	gw/g w	K W	11	3	gwɪsgwææsk;gwɪsgwææsk;gwætk;ɬgwɯsgɯɯ;gwæænks

@@ -1,77 +1,42 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	41
-^aa	aː	A	1
-^e	e	E	1
-^h	h	H	47
-^i	i	I	7
-^j	j	J	6
-^k	k	K	16
-^m	m	M	23
-^mm	mː	M	2
-^n	n	N	2
-^nn	nː	N	2
-^o	o	U	1
-^p	p	P	18
-^s	s	S	7
-^t	t	T	101
-^tʃ	tʃ	T	5
-^uu	uː	Y	1
-^w	w	W	24
-^ɔ	ɔ	U	11
-^ɔɔ	ɔː	U	1
-^ə	ə	E	1
-^ɛ	ɛ	E	9
-^ɛɛ	ɛː	E	1
-^ɺ	ɺ	R	5
-^ʃ	ʃ	S	3
-_	+	_	24
-a	a	A	245
-a$	a	A	100
-aa	aː	A	22
-aa$	aː	A	37
-e	e	E	3
-ee	eː	E	1
-h	h	H	36
-i	i	I	113
-i$	i	I	69
-ii	iː	I	6
-ii$	iː	I	2
-j	j	J	33
-k	k	K	32
-l	l	L	2
-m	m	M	25
-n	n	N	39
-n$	n	N	39
-nh	nh/n̥	N	2
-nw	n w	N W	1
-nʃ	n ʃ	N S	1
-o	o	U	4
-p	p	P	43
-pp	pp/pː	P	1
-r	r	R	41
-s	s	S	60
-t	t	T	61
-ts	ts	C	5
-tt	tt/tː	T	11
-tʃ	tʃ	T	43
-u	u	Y	62
-u$	u	Y	25
-uu	uː	Y	12
-uu$	uː	Y	3
-uuu	uuu/uː	Y	1
-w	w	W	26
-ɔ	ɔ	U	72
-ɔ$	ɔ	U	5
-ɔɔ	ɔː	U	3
-ɔɔ$	ɔː	U	1
-ə	ə	E	99
-ə$	ə	E	47
-əə	əː	E	3
-ɛ	ɛ	E	56
-ɛ$	ɛ	E	6
-ɛɛ	ɛː	E	5
-ɛɛ$	ɛː	E	1
-ɨ$	ɨ	I	1
-ɺ	ɺ	R	85
-ʃ	ʃ	S	46
-ʔ	ʔ	H	122
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		332	NULL	ipəna;amɔmɔɺʔia;mapa;houktai;həpəʃuaaɺʔɛɛja
+$	NULL		335	NULL	ipəna;amɔmɔɺʔia;mapa;houktai;həpəʃuaaɺʔɛɛja
+a	a	A	386	245	ipəna;amɔmɔɺʔia;amɔmɔɺʔia;mapa;mapa
+aa	aː	A	60	22	həpəʃuaaɺʔɛɛja;paaɺʔa;haatɔu;ɔhɔttaa;iʃaa
+ts	ts	C	5	5	mətsia;mɔtsaʃi;mɔtsajəi;haɺʔɛhtsə;tʃətsə
+e	e	E	4	3	herottaa;waneʔeja;waneʔeja;ekia
+ə	ə	E	147	99	ipəna;həpəʃuaaɺʔɛɛja;həpəʃuaaɺʔɛɛja;ətta_ain;mərəɺʔə
+ɛ	ɛ	E	71	56	hɛju;taɺʔɛʔɛ;taɺʔɛʔɛ;məɺʔɛu;tɛpitʃi
+ee	eː	E	1	1	seepɨ
+əə	əː	E	3	3	aɺʔəəha;jəətəhiwaa;haʃəəsə
+ɛɛ	ɛː	E	7	5	həpəʃuaaɺʔɛɛja;həsɛɛruupəna;ɛpɛɛruu;mɛkiɛɛtasaɺʔə;tɛɛra
+h	h	H	83	36	houktai;həpəʃuaaɺʔɛɛja;hɛju;mɔhusu;həta
+ʔ	ʔ	H	123	122	amɔmɔɺʔia;həpəʃuaaɺʔɛɛja;mərəɺʔə;paɺʔiiʔi;paɺʔiiʔi
+i	i	I	189	113	ipəna;amɔmɔɺʔia;houktai;ətta_ain;paɺʔiiʔi
+ii	iː	I	8	6	paɺʔiiʔi;wutʃii;hiipə;tɛkiiʃɔɺʔɔin;atʃiitaa
+ɨ$	ɨ	I	1	1	seepɨ
+j	j	J	39	33	həpəʃuaaɺʔɛɛja;hɛju;ajaɺʔahaa;jarəttəsə;jaaja
+k	k	K	48	32	houktai;aka;ainkəin;akuaippa;tɛkiiʃɔɺʔɔin
+l	l	L	2	2	jala;jala
+m	m	M	48	25	amɔmɔɺʔia;amɔmɔɺʔia;mapa;mərəɺʔə;mɔhusu
+^mm	mː	M	2	2	mma;mmɔɔɺʔuʔu
+n	n	N	82	39	ipəna;ətta_ain;tatəna;tatəna;anasə
+nh	nh/n̥	N	2	2	aainha;ɔnhuɺʔa
+^nn	nː	N	2	2	nnɔhɔiʃi;nnɔhɔ
+p	p	P	61	43	ipəna;mapa;həpəʃuaaɺʔɛɛja;paɺʔiiʔi;tasapə
+pp	pp/pː	P	1	1	akuaippa
+r	r	R	41	41	mərəɺʔə;hətʃirua;tatʃira;siruma;jarəttəsə
+ɺ	ɺ	R	90	85	amɔmɔɺʔia;həpəʃuaaɺʔɛɛja;mərəɺʔə;paɺʔiiʔi;paaɺʔa
+s	s	S	67	60	tasapə;mɔhusu;anasə;iʃisə;wəitəsə
+ʃ	ʃ	S	50	46	həpəʃuaaɺʔɛɛja;iʃisə;iʃaa;tɛkiiʃɔɺʔɔin;ʃɔkɔtʃi
+t	t	T	162	61	houktai;tatəna;tatəna;tatəna;tatəna
+tt	tt/tː	T	11	11	ətta_ain;ɔhɔttaa;jarəttəsə;wattapəi;herottaa
+tʃ	tʃ	T	48	43	hətʃirua;wutʃii;tɛpitʃi;tatʃira;ʃɔkɔtʃi
+o	o	U	5	4	houktai;oʔutaa_aaʔin;herottaa;wopu;mohuu_aaʔin
+ɔ	ɔ	U	88	72	amɔmɔɺʔia;amɔmɔɺʔia;mɔhusu;haatɔu;ɔhɔttaa
+ɔɔ	ɔː	U	5	3	ɔɔnɔhɔɔ;ɔɔnɔhɔɔ;mmɔɔɺʔuʔu;wajuu_tɔɔɺʔɔ;wajuu_tɔɔɺʔɔ_ɺʔaəɺʔaa
+w	w	W	52	26	wənapəna;wutʃii;wəitəsə;asanaɺʔaawaa;wəɺʔɛsə
+u	u	Y	87	62	houktai;həpəʃuaaɺʔɛɛja;hɛju;mɔhusu;mɔhusu
+uu	uː	Y	16	12	tɔuui;həsɛɛruupəna;ɛpɛɛruu;wajuu_tɔɔɺʔɔ;uutʃi
+uuu	uuu/uː	Y	1	1	huuuɺʔia_wəraitʃi
+_	+	_	24	24	ətta_ain;pɔɺʔɔ_wanɛʃ_wanɛʃiməin;pɔɺʔɔ_wanɛʃ_wanɛʃiməin;oʔutaa_aaʔin;kataa_ɔʔu

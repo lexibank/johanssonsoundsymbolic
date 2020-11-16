@@ -1,69 +1,33 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	1
-^a	a	A	26
-^aa	aː	A	2
-^aa$	aː	A	1
-^b	b	P	23
-^d	d	T	13
-^e	e	E	8
-^ee	eː	E	11
-^ee$	eː	E	1
-^g	g	K	10
-^h	h	H	17
-^i	i	I	5
-^k	k	K	9
-^kh	kʰ	K	9
-^m	m	M	32
-^n	n	N	32
-^o	o	U	15
-^oo	oː	U	1
-^oo$	oː	U	1
-^p	p	P	24
-^s	s	S	15
-^t	t	T	9
-^th	th/tʰ	T	24
-^u	u	Y	7
-^ŋ	ŋ	N	1
-^ɽ	ɽ	R	2
-^ʔ	ʔ	H	29
-_	+	_	85
-a	a	A	288
-a$	a	A	149
-aa	aː	A	13
-aa$	aː	A	5
-b	b	P	5
-d	d	T	20
-e	e	E	58
-e$	e	E	31
-ee	eː	E	28
-ee$	eː	E	4
-g	g	K	15
-h	h	H	14
-i	i	I	92
-i$	i	I	41
-ii	iː	I	4
-ii$	iː	I	2
-k	k	K	34
-kh	kh/kʰ	K	6
-m	m	M	77
-m$	m	M	1
-n	n	N	46
-o	o	U	88
-o$	o	U	15
-oo	oː	U	7
-oo$	oː	U	2
-p	p	P	61
-p$	p	P	4
-s	s	S	74
-t	t	T	14
-th	th/tʰ	T	101
-u	u	Y	52
-u$	u	Y	66
-uu	uː	Y	8
-uu$	uː	Y	2
-v	v	B	53
-z	z	S	33
-ŋ	ŋ	N	15
-ɽ	ɽ	R	62
-ɽ$	ɽ	R	1
-ʔ	ʔ	H	50
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		318	NULL	ʔusu;ati_ʔuʔuimaʔu;ipitha;utha;gama
+$	NULL		326	NULL	ʔusu;ati_ʔuʔuimaʔu;ipitha;utha;gama
+_$	NULL		1	1	kiɽisthuho_thumakhametho_botho_theena_ma_sika_eseɽi_
+a	a	A	463	288	ati_ʔuʔuimaʔu;ati_ʔuʔuimaʔu;ipitha;utha;gama
+aa	aː	A	21	13	gaame;kaka_ʔaama;saasaɽi;dzaapa;baavaʔu
+v	v	B	53	53	kaviɽa;ʔuva_ma_aviho_thume;ʔuva_ma_aviho_thume;ʔuvake;agova
+e	e	E	97	58	eɽiŋa;ʔuva_ma_aviho_thume;bagenoma;ʔuvake;thume
+ee	eː	E	44	28	nee;haa_eethaʔu;eethaʔu;heenoma;nee_muthu
+h	h	H	31	14	ʔuva_ma_aviho_thume;huithaʔu;haa_eethaʔu;nahusa;haa
+ʔ	ʔ	H	79	50	ʔusu;ati_ʔuʔuimaʔu;ati_ʔuʔuimaʔu;ati_ʔuʔuimaʔu;ʔauso
+i	i	I	138	92	ati_ʔuʔuimaʔu;ati_ʔuʔuimaʔu;ipitha;ipitha;kaviɽa
+ii	iː	I	6	4	paiimu;siiɽu_keva;kuɽuha_biidzaʔu;upati_biidzaʔu;thii
+g	g	K	25	15	gama;bagenoma;agova;ʔuɽa_sogo;gaame
+k	k	K	43	34	kaviɽa;ʔuvake;kaka_ʔaama;kaka_ʔaama;nakunoma
+kh	kh/kʰ	K	6	6	avi_khametho;hava_khaɽa;botho_khatha;ʔekhetidza;oko_khatha
+^kh	kʰ	K	9	9	khau;khaa;khathatha;khaɽa;khava
+m	m	M	110	77	ati_ʔuʔuimaʔu;gama;ʔuva_ma_aviho_thume;ʔuva_ma_aviho_thume;paiimu
+n	n	N	78	46	noo_thanthaŋa;noo_thanthaŋa;bagenoma;tidza_netha;mina
+ŋ	ŋ	N	16	15	noo_thanthaŋa;eɽiŋa;ʔaŋa;dzaaŋi;ʔoŋaɽa
+b	b	P	28	5	botho;botho;bagenoma;bisa;baavaʔu
+p	p	P	89	61	ipitha;paiimu;ʔupi;dzaapa;povithaʔu
+ɽ	ɽ	R	65	62	kaviɽa;eɽiŋa;ʔuɽa_sogo;maɽi;titiɽa
+s	s	S	89	74	ʔusu;ʔauso;ʔuɽa_sogo;samaʔatha;bisa
+z	z	S	33	33	tidza_netha;dzu;dzaapa;tidza_ʔuuvaʔu;dzaaŋi
+d	d	T	33	20	tidza_netha;dzu;dzaapa;tidza_ʔuuvaʔu;dzaaŋi
+t	t	T	23	14	ati_ʔuʔuimaʔu;tidza_netha;gota;titiɽa;titiɽa
+th	th/tʰ	T	125	101	ipitha;utha;noo_thanthaŋa;noo_thanthaŋa;botho
+o	o	U	118	88	botho;botho;botho;botho;ʔauso
+oo	oː	U	11	7	noo_thanthaŋa;ʔoomu;nookaʔu;oosasa;noosa
+u	u	Y	125	52	ʔusu;ʔusu;ati_ʔuʔuimaʔu;ati_ʔuʔuimaʔu;ati_ʔuʔuimaʔu
+uu	uː	Y	10	8	aima_thuumaʔu;tidza_ʔuuvaʔu;nee_suu;thuumaʔu;dzuu_seŋi
+_	+	_	85	85	ati_ʔuʔuimaʔu;noo_thanthaŋa;ʔuva_ma_aviho_thume;ʔuva_ma_aviho_thume;ʔuva_ma_aviho_thume

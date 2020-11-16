@@ -12,25 +12,25 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from the Johansson et al.'s \"The typology of sound symbolism\" from 2020 ",
-    "dcat:accessURL": "https://github.com/lexibank/johanssonsoundsymbolic",
+    "dcat:accessURL": "git@github.com:lexibank/johanssonsoundsymbolic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/johanssonsoundsymbolic",
-            "dc:created": "a0a250e"
+            "rdf:about": "git@github.com:lexibank/johanssonsoundsymbolic",
+            "dc:created": "44a29ee"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-13-g81c4eed"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.9"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",

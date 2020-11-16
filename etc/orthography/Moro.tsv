@@ -1,84 +1,36 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	20
-^b	b	P	5
-^d	d	T	7
-^d̪	d̪	T	21
-^d̪w	d̪ w	T W	1
-^e	e	E	9
-^f	f	B	1
-^g	g	K	44
-^gw	gw/g w	K W	7
-^i	i	I	11
-^k	k	K	1
-^l	l	L	12
-^lw	l w	L W	1
-^m	m	M	4
-^n	n	N	5
-^nw	n w	N W	1
-^o	o	U	14
-^p	p	P	4
-^r	r	R	4
-^s	s	S	1
-^tʃ	tʃ	T	4
-^t̪	t̪	T	4
-^t̪w	t̪ w	T W	1
-^u	u	Y	18
-^w	w	W	5
-^ð	ð	D	1
-^ŋ	ŋ	N	14
-^ɘ	ɘ	E	2
-^ə	ə	E	1
-^ɽ	ɽ	R	3
-_	+	_	15
-a	a	A	113
-a$	a	A	83
-b	b	P	25
-bw	b w	P W	4
-d	d	T	16
-dʒ	dʒ	T	3
-d̪	d̪	T	37
-d̪$	d̪	T	3
-d̪w	d̪ w	T W	1
-e	e	E	44
-e$	e	E	12
-f	f	B	8
-g	g	K	18
-i	i	I	43
-i$	i	I	11
-j	j	J	6
-l	l	L	35
-l$	l	L	3
-lw	l w	L W	3
-m	m	M	13
-m$	m	M	4
-mm	mm/mː	M	1
-mw	m w	M W	1
-n	n	N	53
-n$	n	N	23
-nw	n w	N W	1
-o	o	U	22
-o$	o	U	52
-p	p	P	9
-pw	p w	P W	1
-r	r	R	57
-r$	r	R	3
-rr	rr/rː	R	4
-rw	r w	R W	2
-s	s	S	3
-t	t	T	11
-t$	t	T	1
-tʃ	tʃ	T	10
-t̪	t̪	T	16
-u	u	Y	23
-u$	u	Y	21
-w	w	W	4
-w$	w	W	1
-ŋ	ŋ	N	25
-ŋ$	ŋ	N	8
-ɘ	ɘ	E	5
-ə	ə	E	107
-ɲ	ɲ	N	17
-ɲ$	ɲ	N	1
-ɲw	ɲ w	N W	1
-ɽ	ɽ	R	18
-ɽw	ɽ w	R W	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		217	NULL	elo;d̪əɲit̪u;nd̪urt̪u;dəbəra;pred̪
+$	NULL		226	NULL	elo;d̪əɲit̪u;nd̪urt̪u;dəbəra;pred̪
+a	a	A	216	113	dəbəra;waɲgalo;waɲgalo;uməɽa;obwana
+f	f	B	9	8	uɽəfia;ŋəfəni;gero_ɲəfən;aut̪_ufud̪a;gafelo
+^ð	ð	D	1	1	ðenəŋ_ləgitʃan
+e	e	E	65	44	elo;pred̪;gaŋeraŋajo;ŋenŋant̪a;geɽe
+ɘ	ɘ	E	7	5	lɘɽwa;ɘd̪u;ɘnəŋia;lɘri;d̪ɘbia
+ə	ə	E	108	107	d̪əɲit̪u;dəbəra;dəbəra;uməɽa;dəŋ
+i	i	I	65	43	d̪əɲit̪u;tʃino;tʃit̪u;imwad̪əlwa;id̪urt̪u
+j	j	J	6	6	gaŋeraŋajo;aijo;kejo;gwaja;ajen
+g	g	K	62	18	waɲgalo;gaŋeraŋajo;iligano;gamaŋəno;geɽe
+^k	k	K	1	1	kejo
+l	l	L	54	35	elo;waɲgalo;lɘɽwa;imwad̪əlwa;pəlalo
+m	m	M	22	13	uməɽa;imwad̪əlwa;gamaŋəno;gamənwa;gamolo
+mm	mm/mː	M	1	1	ummia
+n	n	N	83	53	nd̪urt̪u;tʃino;obwana;ŋenŋant̪a;ŋenŋant̪a
+ŋ	ŋ	N	47	25	dəŋ;dəŋ;gaŋeraŋajo;gaŋeraŋajo;ŋenŋant̪a
+ɲ	ɲ	N	19	17	d̪əɲit̪u;waɲgalo;gero_ɲəfən;ad̪əɲin;gataɲa
+b	b	P	34	25	dəbəra;obwana;d̪aba;abəɽa;aboro
+p	p	P	14	9	pred̪;pəlalo;apo;gapəd̪unano;gapiano
+r	r	R	66	57	nd̪urt̪u;dəbəra;pred̪;gaŋeraŋajo;id̪urt̪u
+ɽ	ɽ	R	22	18	uməɽa;lɘɽwa;uɽəfia;geɽe;uɽu
+rr	rr/rː	R	4	4	garram;garram;ŋərraɽa;errega
+s	s	S	4	3	so;isia;usil;asagi
+d	d	T	23	16	dəbəra;dəŋ;dəŋ;andud̪u;erldo
+t	t	T	12	11	gataɲa;ret_nəgonto;ret_nəgonto;etam;gonto
+dʒ	dʒ	T	3	3	madʒe;gəɽədʒan;wudʒi
+d̪	d̪	T	63	37	d̪əɲit̪u;nd̪urt̪u;pred̪;imwad̪əlwa;id̪urt̪u
+tʃ	tʃ	T	14	10	tʃino;tʃit̪u;ðenəŋ_ləgitʃan;tʃabe;tʃəbəro
+t̪	t̪	T	21	16	d̪əɲit̪u;nd̪urt̪u;tʃit̪u;ŋenŋant̪a;id̪urt̪u
+o	o	U	88	22	elo;tʃino;waɲgalo;obwana;gaŋeraŋajo
+w	w	W	29	4	waɲgalo;obwana;lɘɽwa;imwad̪əlwa;imwad̪əlwa
+u	u	Y	62	23	d̪əɲit̪u;nd̪urt̪u;nd̪urt̪u;uməɽa;tʃit̪u
+_	+	_	15	15	gero_ɲəfən;aut̪_ufud̪a;ðenəŋ_ləgitʃan;ret_nəgonto;gwaɲa_ŋəɲwa
+^gw	gw/g w	K W	7	7	gwalano;gwaɲa_ŋəɲwa;gwaja;gwala;gwaɲa

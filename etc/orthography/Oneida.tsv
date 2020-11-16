@@ -1,86 +1,40 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	78
-^e	e	E	6
-^ee	eː	E	3
-^h	h	H	6
-^hs	h s	H S	1
-^hw	hʷ	H	1
-^i	i	I	5
-^j	j	J	9
-^k	k	K	20
-^k$	k	K	2
-^ks	k s	K S	7
-^l	l	L	7
-^n	n	N	12
-^nh	nh/n̥	N	1
-^o	o	U	84
-^oo	oː	U	2
-^s	s	S	3
-^s$	s	S	1
-^sh	sh/sʰ	S	2
-^sw	s w	S W	2
-^t	t	T	9
-^t$	t	T	1
-^th	th/tʰ	T	4
-^ts	ts	C	6
-^tw	t w	T W	1
-^u	u	Y	1
-^w	w	W	7
-^ũ	ũ	Y	5
-^ũũ	ũ	Y	3
-^ʌ̃	ʌ̃	E	18
-^ʔ	ʔ	H	4
-_	+	_	7
-a	a	A	195
-a$	a	A	51
-aa	aː	A	21
-aa$	aː	A	5
-e	e	E	60
-e$	e	E	27
-ee	eː	E	8
-h	h	H	69
-h$	h	H	2
-hs	h s	H S	24
-hw	hw/hʷ	H	19
-i	i	I	40
-i$	i	I	12
-ii	iː	I	13
-j	j	J	50
-j$	j	J	7
-jh	jh/j̊	J	1
-k	k	K	50
-k$	k	K	13
-kh	kh/kʰ	K	2
-khw	khw/kʰ w	K W	1
-ks	k s	K S	10
-ks$	k s	K S	1
-kw	kw/k w	K W	26
-kw$	kw/kʷ	K	1
-l	l	L	82
-l$	l	L	22
-lh	lh/l̥	L	21
-lh$	lh/l̥	L	1
-n	n	N	92
-nh	nh/n̥	N	6
-o	o	U	21
-o$	o	U	12
-oo	oː	U	2
-s	s	S	25
-s$	s	S	4
-sh	sh/sʰ	S	3
-t	t	T	135
-t$	t	T	19
-th	th/tʰ	T	14
-thw	th/tʰ w	T W	2
-ts	ts	C	28
-tsh	tsh/tsʰ	C	2
-tt	tt/tː	T	1
-w	w	W	17
-ũ	ũ	Y	67
-ũ$	ũ	Y	15
-ũũ	ũ	Y	7
-ʌ̃	ʌ̃	E	32
-ʌ̃$	ʌ̃	E	36
-ʌ̃ʌ̃	ʌ̃	E	11
-ʔ	ʔ	H	36
-ʔ$	ʔ	H	79
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		309	NULL	eenike;tsahnik;oweela;oskũ;naʔkhwʌ̃
+$	NULL		310	NULL	eenike;tsahnik;oweela;oskũ;naʔkhwʌ̃
+a	a	A	324	195	tsahnik;oweela;naʔkhwʌ̃;kaljoʔ;onʌ̃tshaʔ
+aa	aː	A	26	21	kaanlo;oʔwaatsisteʔ;ehtaake;ojaataʔ;ohnaatsaʔ
+ts	ts	C	34	28	tsahnik;oʔwaatsisteʔ;otsiʔtʌ̃haʔ;ohnaatsaʔ;ahtsiʔkl
+tsh	tsh/tsʰ	C	2	2	onʌ̃tshaʔ;onʌ̃tshaʔ
+e	e	E	93	60	eenike;oʔwaatsisteʔ;ehtaake;ehtaake;atek
+ee	eː	E	11	8	eenike;oweela;olũhkweenaʔ;eelhal;otsiʔeela
+ʌ̃	ʌ̃	E	86	32	naʔkhwʌ̃;onʌ̃tshaʔ;onʌ̃tshaʔ;aksʌ̃;owanʌ̃
+ʌ̃ʌ̃	ʌ̃	E	11	11	onikwʌ̃ʌ̃taʔ;oʔkʌ̃ʌ̃laʔ;uskah_jawʌ̃ʌ̃le;kʌ̃ʌ̃je;awʌ̃ʌ̃la
+h	h	H	102	69	tsahnik;olũhkweenaʔ;ehtaake;otsiʔtʌ̃haʔ;onikwʌ̃hsaʔ
+ʔ	ʔ	H	126	36	naʔkhwʌ̃;kaljoʔ;onʌ̃tshaʔ;onʌ̃tshaʔ;olũhkweenaʔ
+hw	hw/hʷ	H	19	19	atũhwʌ̃tsjo;atlihwateʔwaht;atskalahwaʔt;ʌ̃hwatʌ̃;ʌ̃hwatʌ̃
+^hw	hʷ	H	1	1	hwanhak
+i	i	I	57	40	eenike;tsahnik;oʔwaatsisteʔ;onikwʌ̃ʌ̃taʔ;otsiʔtʌ̃haʔ
+ii	iː	I	13	13	otsiitsjaʔ;tsiiks;ohsiitaʔ;ohsiinaa;ohsiinaa
+j	j	J	66	50	kaljoʔ;kalj;olũũjaʔ;athjoʔktũ;ojaataʔ
+jh	jh/j̊	J	1	1	kawjhũhaʔ
+k	k	K	103	50	eenike;tsahnik;oskũ;kaljoʔ;kaanlo
+kh	kh/kʰ	K	2	2	takhe;ũkhaʔ
+kw$	kw/kʷ	K	1	1	itjũkwahkw
+l	l	L	111	82	oweela;kaljoʔ;kaanlo;olũhkweenaʔ;kalo
+lh	lh/l̥	L	22	21	atohtalhak;eelhal;elh;atkalhatenj;onũlha
+n	n	N	104	92	eenike;tsahnik;naʔkhwʌ̃;onʌ̃tshaʔ;onʌ̃tshaʔ
+nh	nh/n̥	N	7	6	nhũstalũʔtat;oʔnhũhsaʔ;atũnhahel;ũnhe;aʔnhaalũk
+s	s	S	82	25	oskũ;aksʌ̃;oʔwaatsisteʔ;skalat;aʔswʌ̃ʔt
+sh	sh/sʰ	S	5	3	ashʌ̃tho;shũwes;esha;shajũ;tʌ̃sha
+t	t	T	165	135	oʔwaatsisteʔ;onikwʌ̃ʌ̃taʔ;ehtaake;otsiʔtʌ̃haʔ;skalat
+th	th/tʰ	T	20	14	athjoʔktũ;ashʌ̃tho;astathʌ̃ʔ;athũte;othwʌ̃hsa
+tt	tt/tː	T	1	1	attakwalihsj
+o	o	U	117	21	oweela;oskũ;kaljoʔ;onʌ̃tshaʔ;onʌ̃tshaʔ
+oo	oː	U	4	2	ostoosliʔ;ootsisteʔ;tookaat;ooja
+w	w	W	33	17	oweela;oʔwaatsisteʔ;owanʌ̃;aʔswʌ̃ʔt;wisto
+ũ	ũ	Y	87	67	oskũ;olũhkweenaʔ;nhũstalũʔtat;nhũstalũʔtat;athjoʔktũ
+^u	u	Y	1	1	uskah_jawʌ̃ʌ̃le
+ũũ	ũ	Y	10	7	olũũjaʔ;onũũalat;onũũtaʔ;ũũkwe;onũũtaʔ
+_	+	_	7	7	uskah_jawʌ̃ʌ̃le;kʌ̃h_nũkwa;kaʔ_ũhteʔ;tho_nũkwa;isi_nũkwa
+kw	kw/k w	K W	26	26	olũhkweenaʔ;onikwʌ̃ʌ̃taʔ;onikwʌ̃hsaʔ;atkwatũ;nitstakwalal
+khw	khw/kʰ w	K W	1	1	naʔkhwʌ̃

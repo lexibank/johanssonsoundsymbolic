@@ -1,61 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-$	NULL	NULL	4
-^b	b	P	53
-^h	h	H	67
-^j	j	J	2
-^k	k	K	16
-^n	n	N	117
-^o	o	U	2
-^s	s	S	5
-^t	t	T	25
-^tʃ	tʃ	T	27
-^w	w	W	17
-^x	x	G	1
-^ɔ	ɔ	U	1
-^θ	θ	D	10
-_	+	_	1
-b	b	P	45
-b$	b	P	4
-h	h	H	97
-h$	h	H	6
-j	j	J	17
-k	k	K	19
-k$	k	K	3
-n	n	N	90
-n$	n	N	23
-ns	n s	N S	1
-o	o	U	1
-s	s	S	85
-s$	s	S	13
-t	t	T	60
-t$	t	T	23
-tʃ	tʃ	T	30
-tʃ$	tʃ	T	7
-u	u	Y	2
-w	w	W	26
-w$	w	W	1
-x	x	G	19
-x$	x	G	10
-ɔ	ɔ	U	144
-ɔ$	ɔ	U	4
-ɔɔ	ɔː	U	75
-ɔɔ$	ɔː	U	45
-ɔɔɔ	ɔɔɔ/ɔː	U	4
-ɛ	ɛ	E	289
-ɛ$	ɛ	E	29
-ɛɛ	ɛː	E	58
-ɛɛ$	ɛː	E	26
-ɪ	ɪ	I	150
-ɪ$	ɪ	I	50
-ɪɪ	ɪː	I	85
-ɪɪ$	ɪː	I	11
-ɪɪɪ	ɪɪɪ/ɪː	I	4
-ʊ	ʊ	Y	34
-ʊ$	ʊ	Y	7
-ʊʊ	ʊː	Y	7
-ʊʊ$	ʊː	Y	3
-ʔ	ʔ	H	76
-ʔ$	ʔ	H	67
-θ	θ	D	51
-θ$	θ	D	7
-θh	θh/θʰ	D	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		343	NULL	hɪhtʃɛbɛʔ;hɪɪs;tɔh;hɔɔwʊθɔɔw;bɛhɪɪhɪʔ
+$	NULL		343	4	hɪhtʃɛbɛʔ;hɪɪs;tɔh;hɔɔwʊθɔɔw;bɛhɪɪhɪʔ
+θ	θ	D	68	51	hɔɔwʊθɔɔw;tʃɛsɔnɪθɛtʃɔɔ;tʃɛʔɪθɛɛ;nɛɛhɪɪθɛɪʔ;hɛɛbɛθɪɪhɪʔ
+θh	θh/θʰ	D	1	1	kɔʊθhɛjɛɪ
+ɛ	ɛ	E	318	289	hɪhtʃɛbɛʔ;hɪhtʃɛbɛʔ;bɛhɪɪhɪʔ;tʃɛsɔnɪθɛtʃɔɔ;tʃɛsɔnɪθɛtʃɔɔ
+ɛɛ	ɛː	E	84	58	hɛɛnɪʔ;bɛɛtʃɛt;bɛɛtʃɛt;tʃɛʔɪθɛɛ;bɛbɛɛnɛɪhɪ
+x	x	G	30	19	wɔxʊtɔɔ;hɪnɔɔɔx;hɔɔwtɔxʊʔɔɔ;hɪx;hɛtʃɛxɔnɔhʔɔɛ
+h	h	H	170	97	hɪhtʃɛbɛʔ;hɪhtʃɛbɛʔ;hɪɪs;tɔh;hɔɔwʊθɔɔw
+ʔ	ʔ	H	143	76	hɪhtʃɛbɛʔ;bɛhɪɪhɪʔ;tʃɛsɛʔɛɪhɪɪ;hɛɛnɪʔ;tʃɛʔɪθɛɛ
+ɪ	ɪ	I	200	150	hɪhtʃɛbɛʔ;bɛhɪɪhɪʔ;tʃɛsɔnɪθɛtʃɔɔ;tʃɛsɛʔɛɪhɪɪ;hɛɛnɪʔ
+ɪɪ	ɪː	I	96	85	hɪɪs;bɛhɪɪhɪʔ;tʃɛsɛʔɛɪhɪɪ;hɛɛstʃɪɪ;nɪɪtʃɪbɛʔ
+ɪɪɪ	ɪɪɪ/ɪː	I	4	4	bɛsɪɪɪsɛʔ;bɪɪɪ;hɪɪsɪɪɪʔɔɔ;nɪɪɪt
+j	j	J	19	17	tɔjɔɔb;tʃɛnɛɛtɛɛjɔɔ;bɛtɛnɛjɔɔɔ;hɪɪjɔɔt;tɔjɔθɔɔ
+k	k	K	38	19	wʊkʊʊ;kɔkɔɔn;kɔkɔɔn;sɛnɪɪsnɔɔkʊtʃɔɔʔ;kɔtɛɛ
+n	n	N	231	90	tʃɛsɔnɪθɛtʃɔɔ;hɛɛnɪʔ;hɪnɔɔɔx;bɛbɛɛnɛɪhɪ;nɪɪtʃɪbɛʔ
+b	b	P	102	45	hɪhtʃɛbɛʔ;bɛhɪɪhɪʔ;bɛɛtʃɛt;bɛɛtʃɛt;bɛbɛɛnɛɪhɪ
+s	s	S	104	85	hɪɪs;tʃɛsɔnɪθɛtʃɔɔ;tʃɛsɛʔɛɪhɪɪ;hɛɛstʃɪɪ;sɛnɪɪsnɔɔkʊtʃɔɔʔ
+t	t	T	108	60	tɔh;bɛɛtʃɛt;bɛɛtʃɛt;wɔxʊtɔɔ;tɔh
+tʃ	tʃ	T	64	30	hɪhtʃɛbɛʔ;tʃɛsɔnɪθɛtʃɔɔ;tʃɛsɔnɪθɛtʃɔɔ;tʃɛsɛʔɛɪhɪɪ;bɛɛtʃɛt
+o	o	U	3	1	owuʔ;owunoʔ;owunoʔ
+ɔ	ɔ	U	149	144	tɔh;tʃɛsɔnɪθɛtʃɔɔ;wɔxʊtɔɔ;tɔh;wɔnɔt
+ɔɔ	ɔː	U	120	75	hɔɔwʊθɔɔw;hɔɔwʊθɔɔw;tʃɛsɔnɪθɛtʃɔɔ;wɔxʊtɔɔ;kɔkɔɔn
+ɔɔɔ	ɔɔɔ/ɔː	U	4	4	hɪnɔɔɔx;bɛtɛnɛjɔɔɔ;bɛɪtɔɔɔ;bɔhʔɔɔɔ
+w	w	W	44	26	hɔɔwʊθɔɔw;hɔɔwʊθɔɔw;wʊkʊʊ;wɔxʊtɔɔ;wɔnɔt
+u	u	Y	2	2	owuʔ;owunoʔ
+ʊ	ʊ	Y	41	34	hɔɔwʊθɔɔw;wʊkʊʊ;wɔxʊtɔɔ;sɛnɪɪsnɔɔkʊtʃɔɔʔ;hɔɔwtɔxʊʔɔɔ
+ʊʊ	ʊː	Y	10	7	wʊkʊʊ;kɔɔʔɔʊʊtɛ;tʃɔʔɔʊʊθɪɪhɪʔ;hɔɔwʊʊnɪ;hɔɔwʊʊhʊʔ
+_	+	_	1	1	bɛtɛɛtɔx_nɪɪsɪɪnɪ

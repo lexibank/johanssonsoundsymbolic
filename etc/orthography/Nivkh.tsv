@@ -1,100 +1,47 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	26
-^c	c	C	9
-^ch	ch/tʃ	T	1
-^e	e	E	7
-^h	h	H	10
-^i	i	I	7
-^j	j	J	6
-^k	k	K	5
-^kh	kʰ	K	3
-^l	l	L	8
-^m	m	M	19
-^n	n	N	15
-^o	o	U	13
-^p	p	P	13
-^ph	pʰ	P	6
-^q	q	K	6
-^qh	qʰ	K	6
-^r	r	R	17
-^r̥	r̥	R	4
-^s	s	S	3
-^t	t	T	25
-^th	th/tʰ	T	12
-^ts	ts	C	1
-^u	u	Y	6
-^v	v	B	13
-^x	x	G	3
-^z	z	S	3
-^zz	zː	S	1
-^ŋ	ŋ	N	20
-^ə	ə	E	17
-^ɲ	ɲ	N	3
-_	+	_	32
-a	a	A	101
-a$	a	A	46
-b	b	P	1
-c	c	C	10
-c$	c	C	11
-d	d	T	5
-d$	d	T	4
-e	e	E	18
-f	f	B	3
-f$	f	B	10
-g	g	K	30
-g$	g	K	3
-i	i	I	44
-i$	i	I	7
-j	j	J	21
-j$	j	J	3
-k	k	K	37
-k$	k	K	36
-l	l	L	68
-l$	l	L	3
-ls	l s	L S	1
-m	m	M	25
-m$	m	M	2
-ms	m s	M S	1
-n	n	N	17
-n$	n	N	12
-o	o	U	46
-o$	o	U	2
-p	p	P	16
-p$	p	P	7
-ph	ph/pʰ	P	1
-q	q	K	16
-q$	q	K	3
-r	r	R	24
-r$	r	R	15
-rʃ	r ʃ	R S	1
-r̥	r̥	R	1
-r̥$	r̥	R	6
-s	s	S	5
-s$	s	S	4
-t	t	T	38
-t$	t	T	3
-u	u	Y	104
-u$	u	Y	17
-v	v	B	39
-vs$	v s	B S	1
-x	x	G	2
-x$	x	G	16
-z	z	S	6
-z$	z	S	1
-ŋ	ŋ	N	14
-ŋ$	ŋ	N	5
-ə	ə	E	74
-ə$	ə	E	1
-ɟ	ɟ	C	3
-ɟ$	ɟ	C	55
-ɟh	ɟh/ɟ̊	C	1
-ɢ	ɢ	K	1
-ɢ$	ɢ	K	1
-ɣ	ɣ	G	22
-ɣs$	ɣ s	G S	1
-ɲ	ɲ	N	3
-ɲ$	ɲ	N	5
-ʁ	ʁ	R	33
-ʁ$	ʁ	R	1
-χ	χ	G	7
-χ$	χ	G	7
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		248	NULL	iɣluɟ;sək;ŋa;təmk;təmk
+$	NULL		288	NULL	khikr̥;iɣluɟ;hoʁap;thaf;sək
+a	a	A	173	101	hoʁap;thaf;ŋa;əkila;laʁa
+f	f	B	13	3	thaf;ŋəɲf;muɣf_ku;ceɟ_furɟ;mif
+v	v	B	53	39	vaqvaqc;vaqvaqc;vəlvələɟ;vəlvələɟ;thivla
+c	c	C	30	10	vaqvaqc;uɣətc;r̥ikc;zrqc;ceɟ_furɟ
+ɟ	ɟ	C	58	3	iɣluɟ;təɟ_ənk;pilɟ;jazɟ;vəlvələɟ
+ɟh	ɟh/ɟ̥	C	1	1	siɟhagin
+^ts	ts	C	1	1	tstc
+e	e	E	25	18	teʁɟ;eʁjeʁɟ;eʁjeʁɟ;ceɟ_furɟ;eŋvk_tjomr̥
+ə	ə	E	92	74	sək;təmk;təmk;phləŋg;kədr
+x	x	G	21	2	lax;murki_xirɟ;pix;ŋəcx;ŋəcx
+ɣ	ɣ	G	23	22	iɣluɟ;ŋərɣər;uɣətc;muɣf_ku;thuɣp
+χ	χ	G	14	7	qoχ;mχoqp_ninurk;njaχ;hemanjaχ;maχ
+^h	h	H	10	10	hoʁap;hal;həskc;haʁaɟ;humɟ
+i	i	I	58	44	khikr̥;iɣluɟ;əkila;pilɟ;r̥ikc
+j	j	J	30	21	pəj_ŋa;jazɟ;təj;məjɟ;eʁjeʁɟ
+g	g	K	33	30	phləŋg;məkərgur̥;pilaumguoʁla;ŋəŋg;əŋg
+k	k	K	78	37	khikr̥;sək;təmk;təmk;kədr
+q	q	K	25	16	qoχ;vaqvaqc;vaqvaqc;zrqc;ŋalsqo
+ɢ	ɢ	K	2	1	pheŋɢ;əu_maŋɢlaɟ
+^kh	kʰ	K	3	3	khikr̥;khəs_jivɟ;khjeŋ
+^qh	qʰ	K	6	6	qhunu;qhavləɟ;qha;qhos;qhoɟ
+l	l	L	80	68	iɣluɟ;phləŋg;əkila;laʁa;pilɟ
+m	m	M	47	25	təmk;təmk;om;məjɟ;məkərgur̥
+n	n	N	44	17	təɟ_ənk;qhunu;nəɟ;qan;nos
+ŋ	ŋ	N	39	14	ŋa;phləŋg;pəj_ŋa;ŋap;ŋəɲf
+ɲ	ɲ	N	11	3	ŋəɲf;tuɲ;təkəɲ;ɲəɲben;ɲəɲben
+b	b	P	1	1	ɲəɲben
+p	p	P	36	16	hoʁap;pilɟ;pəj_ŋa;ŋap;mχoqp_ninurk
+ph	ph/pʰ	P	1	1	thəlfphiɟ
+^ph	pʰ	P	6	6	phləŋg;phrəɟ;phova;pheŋɢ;phux
+r	r	R	56	24	kədr;ŋərɣər;ŋərɣər;phrəɟ;məkərgur̥
+ʁ	ʁ	R	34	33	hoʁap;laʁa;teʁɟ;utku_oʁla;eʁjeʁɟ
+r̥	r̥	R	11	1	khikr̥;r̥ikc;məkərgur̥;eŋvk_tjomr̥;tjomr̥
+s	s	S	16	5	sək;ŋalsqo;nos;həskc;tjus
+z	z	S	10	6	jazɟ;zrqc;ŋəzl;zeljonəj;zaɟ
+^zz	zː	S	1	1	zzmulaɟ
+d	d	T	9	5	kədr;kutnd;pand;ləvd;indəɟ
+t	t	T	66	38	təmk;təmk;təɟ_ənk;teʁɟ;təj
+^ch	ch/tʃ	T	1	1	chi
+^th	th/tʰ	T	12	12	thaf;thaɟ;thivla;thəlfphiɟ;thuɣp
+o	o	U	61	46	hoʁap;om;qoχ;utku_oʁla;toɟ
+u	u	Y	127	104	iɣluɟ;utku_oʁla;utku_oʁla;uɣətc;qhunu
+_	+	_	32	32	təɟ_ənk;pəj_ŋa;utku_oʁla;muɣf_ku;ceɟ_furɟ
+rʃ	r ʃ	R S	1	1	irʃpc

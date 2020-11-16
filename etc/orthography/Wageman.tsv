@@ -1,63 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	34
-^d	d	T	22
-^g	g	K	39
-^j	j	J	8
-^l	l	L	32
-^m	m	M	24
-^n	n	N	33
-^w	w	W	18
-^ŋ	ŋ	N	25
-^ɟ	ɟ	C	23
-^ɲ	ɲ	N	1
-a	a	A	207
-a$	a	A	86
-b	b	P	65
-c	c	C	13
-c$	c	C	9
-d	d	T	26
-g	g	K	42
-j	j	J	16
-j$	j	J	4
-k	k	K	17
-k$	k	K	5
-l	l	L	39
-l$	l	L	19
-lw	l w	L W	2
-m	m	M	48
-m$	m	M	3
-mm	mm/mː	M	1
-n	n	N	19
-n$	n	N	52
-nn	nn/nː	N	2
-p	p	P	9
-r	r	R	29
-r$	r	R	1
-t	t	T	2
-t$	t	T	2
-w	w	W	19
-w$	w	W	1
-ŋ	ŋ	N	32
-ŋ$	ŋ	N	5
-ŋŋ	ŋŋ/ŋː	N	5
-ɔ	ɔ	U	64
-ɔ$	ɔ	U	14
-ɖ	ɖ	T	20
-ɛ	ɛ	E	43
-ɛ$	ɛ	E	4
-ɟ	ɟ	C	31
-ɪ	ɪ	I	97
-ɪ$	ɪ	I	27
-ɭ	ɭ	L	3
-ɭ$	ɭ	L	1
-ɲ	ɲ	N	8
-ɲ$	ɲ	N	9
-ɲɲ	ɲɲ/ɲː	N	1
-ɳ	ɳ	N	12
-ɳ$	ɳ	N	1
-ɻ	ɻ	R	28
-ɻ$	ɻ	R	1
-ʈ	ʈ	T	9
-ʊ	ʊ	Y	86
-ʊ$	ʊ	Y	15
-ʔ	ʔ	H	37
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		259	NULL	darpba;ɟʊmbaɲ;wʊjawʊ;ŋalʔma;lamaŋ
+$	NULL		259	NULL	darpba;ɟʊmbaɲ;wʊjawʊ;ŋalʔma;lamaŋ
+a	a	A	293	207	darpba;darpba;ɟʊmbaɲ;wʊjawʊ;ŋalʔma
+c	c	C	22	13	ŋacɟɔlma;ŋɪcɟɪn;ŋacbara;dɪmɪcɟal;dacɟa
+ɟ	ɟ	C	54	31	ɟʊmbaɲ;ɟaɲbʊlkgʊ;nʊgʊɟakgɪn;gʊbɪɟɪ;ŋacɟɔlma
+ɛ	ɛ	E	47	43	mɔɳɛn;nɔmɛlɛma;nɔmɛlɛma;ŋɛjpba;bɛɖajɪ
+ʔ	ʔ	H	38	37	ŋalʔma;lɪʔwa;jɔŋgɔɳʔna;bʊwʔma;nʊbaɻʔbaɻɪn
+ɪ	ɪ	I	124	97	laɻɪ;laɻɪ;jɔʈdɪn;lɪʔwa;bɪndal
+j	j	J	28	16	wʊjawʊ;jɔʈdɪn;jɔŋgɔɳʔna;laɖɪlɪjan;ŋɛjpba
+g	g	K	81	42	jɔŋgɔɳʔna;ɟaɲbʊlkgʊ;nʊgʊɟakgɪn;nʊgʊɟakgɪn;gʊbɪɟɪ
+k	k	K	22	17	ɟaɲbʊlkgʊ;nʊgʊɟakgɪn;gɔŋɔɻk;bɪrkga;ɟɛkga
+l	l	L	92	39	ŋalʔma;lamaŋ;laɻɪ;laɻɪ;lɪʔwa
+ɭ	ɭ	L	4	3	nɔbɛɭbɛɭɪn;nɔbɛɭbɛɭɪn;maɭʊga;lawʊɭ
+m	m	M	75	48	ɟʊmbaɲ;ŋalʔma;lamaŋ;mɔɳɛn;mʊɲa
+mm	mm/mː	M	1	1	lɛmma
+n	n	N	104	19	jɔʈdɪn;mɔɳɛn;jɔŋgɔɳʔna;bɪndal;bɪrɪman
+ŋ	ŋ	N	62	32	ŋalʔma;lamaŋ;jɔŋgɔɳʔna;gɔŋɔɻk;ŋapbʊɲ
+ɲ	ɲ	N	18	8	ɟʊmbaɲ;mʊɲa;ɟaɲbʊlkgʊ;nʊbʊɲ;ŋapbʊɲ
+ɳ	ɳ	N	13	12	mɔɳɛn;jɔŋgɔɳʔna;gʊbʊɳbʊɳɪn;gʊbʊɳbʊɳɪn;gabaɳna
+nn	nn/nː	N	2	2	ɟɛmɛnna;ɟɛmɛnna
+ŋŋ	ŋŋ/ŋː	N	5	5	dɔŋŋa;wɛŋŋa;dɔɻɔŋŋa;laraŋŋa;gɛljɛŋŋa
+ɲɲ	ɲɲ/ɲː	N	1	1	wɪrɪɲɲa
+b	b	P	99	65	darpba;ɟʊmbaɲ;baɻpba;baɻpba;bɪndal
+p	p	P	9	9	darpba;baɻpba;ŋapbʊɲ;ŋɛjpba;mawʊpban
+r	r	R	30	29	darpba;bɪrɪman;bɪrkga;lamara;wʊŋgʊr
+ɻ	ɻ	R	29	28	laɻɪ;laɻɪ;baɻpba;nʊbaɻʔbaɻɪn;nʊbaɻʔbaɻɪn
+d	d	T	48	26	darpba;jɔʈdɪn;bɪndal;badɪna;gandɪ
+t	t	T	4	2	bʊnɪt;gʊgɪt;dɪtda;lɛtda
+ɖ	ɖ	T	20	20	laɖɪlɪjan;bɛɖajɪ;naɖal;dalmɛɖal;naɖal
+ʈ	ʈ	T	9	9	jɔʈdɪn;bɔʈda;maʈdal;gaʈgaʈda;gaʈgaʈda
+ɔ	ɔ	U	78	64	jɔʈdɪn;mɔɳɛn;jɔŋgɔɳʔna;jɔŋgɔɳʔna;nɔmɛlɛma
+w	w	W	41	19	wʊjawʊ;wʊjawʊ;lɪʔwa;bʊwʔma;wʊŋgʊr
+ʊ	ʊ	Y	101	86	ɟʊmbaɲ;wʊjawʊ;wʊjawʊ;mʊɲa;ɟaɲbʊlkgʊ

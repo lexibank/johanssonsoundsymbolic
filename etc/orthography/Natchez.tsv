@@ -1,82 +1,43 @@
-Grapheme	IPA	SCA	Frequency
-^S	S/s	S	1
-^W	W/w	W	1
-^a	a	A	1
-^c	c	C	16
-^e	e	E	40
-^h	h	H	25
-^j	j	J	4
-^k	k	K	36
-^kw	kw/k w	K W	15
-^l	l	L	15
-^m	m	M	14
-^n	n	N	9
-^o	o	U	8
-^p	p	P	15
-^t	t	T	33
-^u	u	Y	9
-^w	w	W	19
-^ə	ə	E	28
-^ʃ	ʃ	S	17
-^ʃh	ʃh/ʃʰ	S	2
-_	+	_	25
-a	a	A	36
-a$	a	A	1
-c	c	C	24
-c$	c	C	4
-ch	ch/tʃ	T	1
-e	e	E	234
-e$	e	E	29
-ee	eː	E	13
-f	f	B	5
-f$	f	B	3
-g	g	K	1
-h	h	H	60
-h$	h	H	16
-i	i	I	3
-j	j	J	19
-jh	jh/j̊	J	1
-k	k	K	102
-k$	k	K	26
-kh	kh/kʰ	K	2
-kw	kw/k w	K W	13
-kʃ	k ʃ	K S	2
-kʃ$	k ʃ	K S	1
-kʃh	k ʃʰ	K S	1
-l	l	L	59
-l$	l	L	36
-lh	lh/l̥	L	1
-m	m	M	17
-m$	m	M	1
-mh	mh/m̥	M	1
-n	n	N	81
-n$	n	N	16
-nh	nh/n̥	N	2
-nʃ	n ʃ	N S	1
-o	o	U	51
-o$	o	U	3
-oo	oː	U	1
-p	p	P	44
-p$	p	P	32
-pʃ	p ʃ	P S	1
-pʃh	p ʃh/ʃʰ	P S	1
-r	r	R	6
-r$	r	R	1
-t	t	T	67
-t$	t	T	12
-th	th/tʰ	T	1
-tʃ	tʃ	T	7
-tʃh	tʃh/tʃʰ	T	1
-tʃh$	tʃh/tʃʰ	T	1
-u	u	Y	106
-u$	u	Y	14
-uu	uː	Y	1
-w	w	W	32
-x	x	G	10
-ə	ə	E	214
-ə$	ə	E	71
-əə	əː	E	2
-ʃ	ʃ	S	64
-ʃ$	ʃ	S	30
-ʃh	ʃh/ʃʰ	S	11
-ʃh$	ʃh/ʃʰ	S	11
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		306	NULL	eʃəhə;kəlumhnəkek;eʃəhəeʃ;lətəʃe;lemetʃkup
+$	NULL		308	NULL	eʃəhə;kəlumhnəkek;eʃəhəeʃ;lətəʃe;lemetʃkup
+a	a	A	38	36	wata;wata;pakurpe;lehakuʃ;ohonaktek
+f	f	B	8	5	həpnəf;kəʃhtef;lakefkupət;lahənəf;ləkəfkup
+c	c	C	44	24	eəcə;eʃopocə;cokup;cətekepət;cetəkup
+e	e	E	303	234	eʃəhə;kəlumhnəkek;eʃəhəeʃ;eʃəhəeʃ;lətəʃe
+ə	ə	E	313	214	eʃəhə;eʃəhə;kəlumhnəkek;kəlumhnəkek;eʃəhəeʃ
+ee	eː	E	13	13	kwəleeʃh;kwəleeʃh;kwəleeʃh;kwəleeʃh;kwəleeʃh
+əə	əː	E	2	2	təjəəh;məʃenəəwə
+x	x	G	10	10	əpuxkul;pexkujə;kət_əx_təho;kuʃəxtep;tətʃoxuk
+h	h	H	101	60	eʃəhə;eʃəhəeʃ;əhəl;əhəl;həpnəf
+i	i	I	3	3	ceknakik;hiəkwəl;wih
+j	j	J	23	19	ʃhujə;təjəəh;pexkujə;məjokup;juwətek
+jh	jh/j̊	J	1	1	teʃajhekteʃ
+g	g	K	1	1	pəgup
+k	k	K	167	102	kəlumhnəkek;kəlumhnəkek;kəlumhnəkek;lemetʃkup;wəlkə
+kh	kh/kʰ	K	2	2	məkhaweʃ;wakhelkuʃ
+l	l	L	110	59	kəlumhnəkek;lətəʃe;lemetʃkup;wele;əhəl
+lh	lh/l̥	L	1	1	holhəneʃu
+m	m	M	32	17	lemetʃkup;eməwə;emə;məjokup;kolomkup
+mh	mh/m̥	M	1	1	kəlumhnəkek
+n	n	N	107	81	kəlumhnəkek;eno;həpnəf;kəpenənu;kəpenənu
+nh	nh/n̥	N	2	2	hənhəʃh;unhkwə
+p	p	P	93	44	lemetʃkup;epeʃh;eʃopocə;lekupe;həpnəf
+r	r	R	7	6	ewere;ʃorkor;ʃorkor;pakurpe;eʃpete_or_ʃpete
+ʃ	ʃ	S	116	64	eʃəhə;eʃəhəeʃ;eʃəhəeʃ;lətəʃe;uʃuʃ
+^S	S/s	S	1	1	Secə
+ʃh	ʃh/ʃʰ	S	25	11	epeʃh;ʃhujə;cek_heluuʃh;hənhəʃh;kəʃhtef
+t	t	T	112	67	lətəʃe;wata;wətəkʃ;cətekepət;cətekepət
+ch	ch/tʃ	T	1	1	nuchaleʃ
+th	th/tʰ	T	1	1	kwethelueʃ
+tʃ	tʃ	T	7	7	lemetʃkup;untʃə;eətʃək;tətʃoxuk;ehetʃel
+tʃh	tʃh/tʃʰ	T	2	1	etʃh;hətʃhenake
+o	o	U	62	51	eno;eʃopocə;eʃopocə;ʃorkor;ʃorkor
+oo	oː	U	1	1	puhooeʃ
+w	w	W	51	32	wata;wele;wəlkə;wətəkʃ;eməwə
+^W	W/w	W	1	1	Wəʃkup
+u	u	Y	129	106	kəlumhnəkek;lemetʃkup;uʃuʃ;uʃuʃ;lekupe
+uu	uː	Y	1	1	cek_heluuʃh
+_	+	_	25	25	kət_əx_təho;kət_əx_təho;pelet_haleʃ;cek_heluuʃh;oku_wetən_kouʃe
+kʃh	k ʃʰ	K S	1	1	helekʃhen
+kw	kw/k w	K W	28	13	ekwel;hokwaleʃ;nehkwə;kwencepe;kwethelueʃ

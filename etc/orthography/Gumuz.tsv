@@ -1,124 +1,52 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	20
-^a$	a	A	1
-^b	b	P	10
-^c	c	C	7
-^d	d	T	19
-^e	e	E	6
-^ee	eː	E	1
-^ee$	eː	E	2
-^f	f	B	3
-^f$	f	B	1
-^fw	f w	B W	1
-^g	g	K	16
-^h	h	H	5
-^i	i	I	1
-^ii	iː	I	3
-^k	k	K	7
-^kʼ	kʼ	K	6
-^l	l	L	6
-^m	m	M	27
-^n	n	N	6
-^o	o	U	9
-^oo	oː	U	4
-^p	p	P	4
-^pʼ	pʼ	P	1
-^s	s	S	11
-^t	t	T	2
-^ts	ts	C	1
-^tsʼ	tsʼ	T	4
-^tʃ	tʃ	T	10
-^tʼ	tʼ	T	3
-^u	u	Y	2
-^w	w	W	1
-^z	z	S	4
-^ŋ	ŋ	N	2
-^ɓ	ɓ	P	8
-^ɗ	ɗ	T	2
-^ɟ	ɟ	C	4
-^ʃ	ʃ	S	3
-^ʃ$	ʃ	S	1
-^ʒ	ʒ	S	4
-^ʔ	ʔ	H	7
-^χ	χ	G	4
-_	+	_	5
-a	a	A	73
-a$	a	A	110
-aa	aː	A	32
-aa$	aː	A	3
-b	b	P	13
-b$	b	P	3
-c	c	C	3
-c$	c	C	2
-cʼ	cʼ	C	1
-d	d	T	13
-d$	d	T	3
-e	e	E	14
-e$	e	E	12
-ee	eː	E	3
-ee$	eː	E	3
-f	f	B	1
-g	g	K	18
-g$	g	K	5
-gw	gw/g w	K W	4
-gw$	gw/gʷ	K	2
-h	h	H	1
-i	i	I	41
-i$	i	I	1
-ii	iː	I	6
-ii$	iː	I	4
-j	j	J	2
-k	k	K	10
-k$	k	K	1
-kw	kw/k w	K W	4
-kw$	kw/kʷ	K	2
-kʼ	kʼ	K	5
-kʼ$	kʼ	K	1
-kʼw	kʼ w	K W	1
-l	l	L	12
-l$	l	L	4
-m	m	M	23
-m$	m	M	2
-n	n	N	21
-n$	n	N	3
-o	o	U	24
-o$	o	U	11
-oo	oː	U	1
-p	p	P	4
-p$	p	P	5
-pʼ	pʼ	P	2
-r	r	R	3
-r$	r	R	4
-s	s	S	2
-s$	s	S	5
-t	t	T	8
-t$	t	T	5
-ts	ts	C	9
-ts$	ts	C	1
-tsʼ	tsʼ	T	2
-tsʼ$	tsʼ	T	1
-tʃ	tʃ	T	1
-tʃ$	tʃ	T	1
-tʃʼ	tʃʼ	T	1
-tʃʼ$	tʃʼ	T	2
-tʼ	tʼ	T	1
-u	u	Y	11
-u$	u	Y	7
-uu	uː	Y	9
-uu$	uː	Y	8
-w	w	W	1
-z	z	S	11
-z$	z	S	4
-ŋ	ŋ	N	12
-ŋ$	ŋ	N	5
-ɓ	ɓ	P	2
-ɗ$	ɗ	T	1
-ɟ	ɟ	C	5
-ɟ$	ɟ	C	2
-ʃ	ʃ	S	2
-ʃ$	ʃ	S	1
-ʒ	ʒ	S	5
-ʔ	ʔ	H	4
-ʔ$	ʔ	H	7
-χ	χ	G	5
-χ$	χ	G	3
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		237	NULL	moa;tʼeeɟa;kooa;hom;dagazia
+$	NULL		234	NULL	moa;tʼeeɟa;kooa;hom;dagazia
+a	a	A	204	73	moa;tʼeeɟa;kooa;dagazia;dagazia
+aa	aː	A	35	32	maaka;sanaakw;haat;maakʼusa;nzaac
+f	f	B	6	1	fwitʃʼ;f;fag;fintʃʼ;fag
+c	c	C	12	3	ceʔ;ca;nzaac;ca;caca
+ɟ	ɟ	C	11	5	tʼeeɟa;manɟa;ʒiɟ;ɟikʼwe;tsʼinɟa
+cʼ	cʼ	C	1	1	bogocʼiriʒa
+ts	ts	C	11	9	ets;kʼutsitsela;kʼutsitsela;kʼobiitsa;tsia
+e	e	E	32	14	ela;ela;ets;ceʔ;tsʼea
+ee	eː	E	9	3	tʼeeɟa;uee;bee;beesa;tsʼee
+χ	χ	G	12	5	gonaχa;maχa;χokwa;mɓoχ;gaχ
+h	h	H	6	1	hom;hii;haat;haliil;behip
+ʔ	ʔ	H	18	4	ʔis;ceʔ;beʔ;diʔa;ʃiʔ
+i	i	I	43	41	dagazia;fwitʃʼ;gis;gidida;gidida
+ii	iː	I	13	6	iila;ŋii;hii;anzii;kʼobiitsa
+j	j	J	2	2	eeaja;aja
+g	g	K	39	18	dagazia;boŋgo;dagona;nago;boŋgo
+k	k	K	18	10	kooa;kua;maaka;tʃika_kʼoma_meta;komber
+kʼ	kʼ	K	13	5	kʼaŋa;kʼaŋ;kʼoa;tʃika_kʼoma_meta;kʼutsitsela
+gw$	gw/gʷ	K	2	2	dugw;ʔiitʃagw
+kw$	kw/kʷ	K	2	2	ʃakw;sanaakw
+l	l	L	22	12	ela;ela;iila;tila;kʼutsitsela
+m	m	M	52	23	moa;hom;mata;maχa;mɓoχ
+n	n	N	30	21	nas;dagona;nago;gonaχa;duugunza
+ŋ	ŋ	N	19	12	kʼaŋa;boŋgo;boŋgo;kʼaŋ;ŋii
+b	b	P	26	13	boŋgo;boŋgo;oobo;beʔ;komber
+p	p	P	13	4	par;peʔ;behip;paŋ;pu
+ɓ	ɓ	P	10	2	ɓaɓa;ɓaɓa;ɓor;mɓoχ;ɓatsʼ
+pʼ	pʼ	P	3	2	ompʼu;pʼapʼa;pʼapʼa
+r	r	R	7	3	ɓor;komber;par;ara;bogocʼiriʒa
+s	s	S	18	2	nas;gis;sanza;ʔis;sa
+z	z	S	19	11	dagazia;duugunza;sanza;zenzen;zenzen
+ʃ	ʃ	S	7	2	ʃakw;gaʃ;ʃ;iʃa;ʃiʔ
+ʒ	ʒ	S	9	5	ʒakwa;ʒiɟ;miiʒugwa;bogocʼiriʒa;ʒiɟ
+d	d	T	35	13	dagazia;dagona;duugunza;gidida;gidida
+t	t	T	15	8	mata;tila;tʃika_kʼoma_meta;haat;git
+^ɗ	ɗ	T	2	2	ɗa;ɗamb
+tʃ	tʃ	T	12	1	tʃika_kʼoma_meta;tʃagwa;ɓatʃ;tʃagwa;ʔiitʃagw
+tʼ	tʼ	T	4	1	tʼeeɟa;tʼakʼ;tʼatʼa;tʼatʼa
+ɗ$	ɗ	T	1	1	koɗ
+tsʼ	tsʼ	T	7	2	tsʼea;ɓatsʼ;matsʼa;tsʼinɟa;tsʼee
+tʃʼ	tʃʼ	T	3	1	fwitʃʼ;batʃʼa;fintʃʼ
+o	o	U	44	24	moa;hom;boŋgo;boŋgo;dagona
+oo	oː	U	5	1	kooa;oobo;ook;ooka;oole
+w	w	W	4	1	fwitʃʼ;ɟikʼwe;owaat;weʔ
+u	u	Y	20	11	duugunza;kua;uee;kʼutsitsela;uŋa
+uu	uː	Y	17	9	duugunza;duuduu;duuduu;duuduu;duuduu
+_	+	_	5	5	tʃika_kʼoma_meta;tʃika_kʼoma_meta;tʃika_kʼoma_mbaand;tʃika_kʼoma_mbaand;tʃika_baand
+gw	gw/g w	K W	4	4	tʃagwa;saagwa;tʃagwa;miiʒugwa
+kw	kw/k w	K W	4	4	ʒakwa;χokwa;magakwa;akwa

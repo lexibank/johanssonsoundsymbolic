@@ -1,89 +1,49 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	13
-^a̰	a̰	A	1
-^h	h	H	40
-^i	i	I	4
-^j	j	J	17
-^k	k	K	33
-^kh	kʰ	K	1
-^kw	kw/k w	K W	4
-^n	n	N	19
-^o	o	U	3
-^ph	pʰ	P	1
-^s	s	S	45
-^t	t	T	16
-^th	th/tʰ	T	2
-^tʃ	tʃ	T	1
-^u	u	Y	2
-^u$	u	Y	1
-^w	w	W	39
-^ã	ã	A	8
-^ĩ	ĩ	I	20
-^ĩ$	ĩ	I	1
-^ũ	ũ	Y	2
-^ḭ̃	ḭ̃	I	1
-_	+	_	24
-a	a	A	224
-a$	a	A	31
-aa̰	aa̰/a̰ː	A	1
-a̰	a̰	A	13
-a̰$	a̰	A	1
-e	e	E	36
-e$	e	E	2
-g	g	K	4
-h	h	H	50
-h$	h	H	9
-hh	hː	H	1
-hs	h s	H S	1
-i	i	I	171
-i$	i	I	31
-j	j	J	14
-k	k	K	65
-kh	kh/kʰ	K	1
-kk	kk/kː	K	1
-kw	kw/k w	K W	3
-l	l	L	74
-lh	lh/l̥	L	15
-n	n	N	112
-n$	n	N	31
-nh	nh/n̥	N	6
-nn	nn/nː	N	7
-ns	n s	N S	13
-o	o	U	26
-o$	o	U	3
-o̰	o̰	U	5
-ph	ph/pʰ	P	1
-s	s	S	107
-t	t	T	82
-t$	t	T	6
-th	th/tʰ	T	1
-ts	ts	C	27
-tt	tt/tː	T	2
-tʃ	tʃ	T	4
-u	u	Y	83
-u$	u	Y	144
-w	w	W	41
-wh	wh/w̥	W	1
-ã	ã	A	51
-ã$	ã	A	7
-ã̰	ã	A	18
-ĩ	ĩ	I	9
-ĩ$	ĩ	I	2
-ũ	ũ	Y	13
-ũ$	ũ	Y	1
-ʔ	ʔ	H	121
-ʔ$	ʔ	H	2
-ʔh	ʔh/ʔʰ	H	1
-ḛ	ḛ	E	5
-ḛs	ḛ s	E S	3
-ḛw	ḛ w	E W	1
-ḛ̃	ḛ̃ 	E	1
-ḭ	ḭ	I	2
-ḭ̃	ḭ̃	I	1
-ḭ̃h	ḭ̃ h	I H	1
-ḭ̃s	ḭ̃ s	I S	1
-ṵ	ṵ	Y	2
-ṵ$	ṵ	Y	2
-ṵ̃	ṵ̃	Y	10
-ṵ̃s	ṵ̃ s	Y S	1
-ẽ	ẽ	E	14
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		272	NULL	ãtalohẽt;juhlʔi;katṵ;hãinʔtiʔã;a̰ntakʔi
+$	NULL		274	NULL	ãtalohẽt;juhlʔi;katṵ;hãinʔtiʔã;a̰ntakʔi
+a	a	A	268	224	ãtalohẽt;katṵ;a̰ntakʔi;janṵ̃kisu;jejantʔi
+ã	ã	A	66	51	ãtalohẽt;hãinʔtiʔã;hãinʔtiʔã;sijonnãua;tanãnnãua
+a̰	a̰	A	15	13	a̰ntakʔi;ta̰lhitantisu;ta̰n;nṵ̃kwa̰ilhu;ta̰ita̰in
+ã̰	ã	A	18	18	nekalã̰ulã̰uʔsu;nekalã̰ulã̰uʔsu;nã̰n;wʔã̰tãusu;kwatã̰talʔisu
+aa̰	aa̰/a̰ː	A	1	1	ãnaa̰tiheʔ
+ts	ts	C	27	27	wekawʔetsu;ĩhnʔetsʔã;hʔihatĩhna_whãina_hali_wʔahaitsoʔinũnsʔã;sawitsu;sawitsu
+e	e	E	38	36	jejantʔi;nekalã̰ulã̰uʔsu;jekatakisu;wekawʔetsu;wekawʔetsu
+ḛ	ḛ	E	9	5	nḛnʔẽnsu;satḛsatḛn;satḛsatḛn;ĩsanḛwih;katḛnsu
+ẽ	ẽ	E	14	14	ãtalohẽt;ãhʔitẽnha;nḛnʔẽnsu;hʔikawẽhalʔisu;hanẽtisu
+ḛ̃	ḛ̃	E	1	1	tḛ̃lhʔu
+h	h	H	101	50	ãtalohẽt;juhlʔi;hãinʔtiʔã;tihajausʔu;ãhʔitẽnha
+ʔ	ʔ	H	124	121	juhlʔi;hãinʔtiʔã;hãinʔtiʔã;a̰ntakʔi;nʔũkisu
+hh	hː	H	1	1	ahhi
+ʔh	ʔh/ʔʰ	H	1	1	ka̰nʔhḭ̃nesu
+i	i	I	206	171	juhlʔi;hãinʔtiʔã;hãinʔtiʔã;a̰ntakʔi;nʔũkisu
+ĩ	ĩ	I	32	9	ĩjĩ;ĩjĩ;ĩʔikkʔi;ohsĩnsu;ĩkanʔah
+ḭ	ḭ	I	2	2	sukatḭkisu;hḭlhu
+ḭ̃	ḭ̃	I	4	1	kʔḭ̃hnʔṵ̃sʔu;nekḭ̃sakisu;ka̰nʔhḭ̃nesu;ḭ̃jausʔu
+j	j	J	31	14	juhlʔi;janṵ̃kisu;jejantʔi;jejantʔi;sijonnãua
+g	g	K	4	4	hali_hali_kanagi;hali_hali_hali_kanagi;hali_hali_hali_kanagi;hali_kanagi
+k	k	K	98	65	katṵ;a̰ntakʔi;nʔũkisu;nʔũkisu;janṵ̃kisu
+kh	kh/kʰ	K	1	1	khokhotti
+kk	kk/kː	K	1	1	ĩʔikkʔi
+^kh	kʰ	K	1	1	khokhotti
+l	l	L	74	74	ãtalohẽt;juhlʔi;nekalã̰ulã̰uʔsu;nekalã̰ulã̰uʔsu;waliwalin
+lh	lh/l̥	L	15	15	ta̰lhitantisu;nṵ̃kwa̰ilhu;tḛ̃lhʔu;wilhin;nʔesailhʔu
+n	n	N	175	112	hãinʔtiʔã;a̰ntakʔi;nʔũkisu;nʔũkisu;janṵ̃kisu
+nh	nh/n̥	N	6	6	ãhʔitẽnha;wikonha;kwʔanhẽnsu;ãnhʔitẽnha;ãnhʔitẽnha
+nn	nn/nː	N	7	7	sijonnãua;tanãnnãua;jannãua;newakonnha;hãnnih
+ph	ph/pʰ	P	1	1	phauphaun
+^ph	pʰ	P	1	1	phauphaun
+s	s	S	172	107	nʔũkisu;nʔũkisu;janṵ̃kisu;sijonnãua;ta̰lhitantisu
+t	t	T	104	82	ãtalohẽt;ãtalohẽt;katṵ;hãinʔtiʔã;a̰ntakʔi
+th	th/tʰ	T	3	1	thũkʔa;thaintila;athũtekʔai
+tt	tt/tː	T	2	2	khokhotti;ittisu
+tʃ	tʃ	T	5	4	ĩsotʃĩ;ĩtʃãuʔ;utʃenakisu;tʃuʔa;ĩhnʔetʃuta
+o	o	U	32	26	ãtalohẽt;sijonnãua;ohsĩnsu;olakʔi;ĩsotʃĩ
+o̰	o̰	U	5	5	ko̰nʔtesu;ko̰nʔtesu;ko̰nton;ĩjo̰nso;ko̰nʔtesu
+w	w	W	81	41	wiwin;wiwin;iha_wʔã;waliwalin;waliwalin
+wh	wh/w̥	W	1	1	hʔihatĩhna_whãina_hali_wʔahaitsoʔinũnsʔã
+u	u	Y	230	83	juhlʔi;nʔũkisu;nʔũkisu;janṵ̃kisu;sijonnãua
+ũ	ũ	Y	16	13	nʔũkisu;nʔũkisu;nũanãusu;thũkʔa;ũhũ
+ṵ	ṵ	Y	4	2	katṵ;kʔainãntṵ;katṵkatṵlʔi;katṵkatṵlʔi
+ṵ̃	ṵ̃	Y	11	10	janṵ̃kisu;nṵ̃kwa̰ilhu;kʔḭ̃hnʔṵ̃sʔu;sṵ̃nusu;sṵ̃nusu
+_	+	_	24	24	iha_wʔã;hali_hali_hali_hali;hali_hali_hali_hali;hali_hali_hali_hali;hali_hali_kanagi
+kw	kw/k w	K W	7	3	nṵ̃kwa̰ilhu;kwasuntakʔi;sukwalaulẽnsu;kwatã̰talʔisu;kwẽntaina

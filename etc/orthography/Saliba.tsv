@@ -1,74 +1,39 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	14
-^b	b	P	11
-^d	d	T	6
-^e̞	e̞	E	3
-^g	g	K	6
-^i	i	I	14
-^k	k	K	5
-^l	l	L	3
-^ll	lː	L	11
-^ls	l s	L S	1
-^m	m	M	3
-^n	n	N	6
-^o̞	o̞	U	22
-^p	p	P	9
-^r	r	R	2
-^s	s	S	9
-^t	t	T	7
-^u	u	Y	7
-^x	x	G	84
-^ã	ã	A	9
-^õ̞	õ̞	U	7
-^ĩ	ĩ	I	6
-^ũ	ũ	Y	4
-^ɲ	ɲ	N	8
-^ɸ	ɸ	B	2
-^β	β	B	5
-^ẽ̞	ẽ̞	E	2
-_	+	_	5
-a	a	A	154
-a$	a	A	84
-aa	aː	A	4
-b	b	P	23
-d	d	T	47
-e̞	e̞	E	60
-e̞$	e̞	E	49
-g	g	K	18
-gw	gw/g w	K W	2
-h	h	H	113
-h$	h	H	11
-hs	h s	H S	2
-i	i	I	47
-i$	i	I	33
-k	k	K	17
-kh	kh/kʰ	K	18
-l	l	L	9
-ll	ll/lː	L	11
-m	m	M	24
-n	n	N	21
-o̞	o̞	U	47
-o̞$	o̞	U	39
-o̞o̞	o̞ː	U	3
-o̞o̞$	o̞ː	U	4
-p	p	P	9
-r	r	R	1
-rr	rr/rː	R	1
-s	s	S	26
-t	t	T	18
-u	u	Y	77
-u$	u	Y	27
-x	x	G	146
-ã	ã	A	35
-ã$	ã	A	10
-õ̞	õ̞	U	9
-õ̞$	õ̞	U	2
-õ̞õ̞$	õ̞	U	1
-ĩ	ĩ	I	18
-ũ	ũ	Y	1
-ɲ	ɲ	N	4
-ɸ	ɸ	B	2
-β	β	B	21
-ẽ̞	ẽ̞	E	6
-ẽ̞$	ẽ̞	E	4
-ẽ̞ẽ̞$	ẽ̞ː	E	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		255	NULL	muna;te̞kue̞he̞;e̞kue̞he̞;ĩguβa;o̞maĩdi
+$	NULL		263	NULL	muna;te̞kue̞he̞;e̞kue̞he̞;ĩguβa;o̞maĩdi
+a	a	A	252	154	muna;ĩguβa;o̞maĩdi;amana;amana
+ã	ã	A	54	35	pãĩxõ̞te̞;kãkhadahga;ɲukudiã;ãhẽ̞baxaha;lle̞kihãxĩã
+aa	aː	A	4	4	pame̞naaxa;e̞kaana;inaakhu;ɲaaxu
+ɸ	ɸ	B	4	2	ɸara;aɸxi;ɸapadi;guβahe̞ɸa
+β	β	B	26	21	ĩguβa;βo̞di;kaβa;xuβo̞o̞;guβaxaha
+e̞	e̞	E	112	60	te̞kue̞he̞;te̞kue̞he̞;te̞kue̞he̞;e̞kue̞he̞;e̞kue̞he̞
+ẽ̞	ẽ̞	E	12	6	ẽ̞pigaxaha;ẽ̞go̞axaha;ãhẽ̞baxaha;baxẽ̞game̞hga;xẽ̞ã
+ẽ̞ẽ̞$	ẽ̞ː	E	2	2	βãkhẽ̞ẽ̞;βãkhẽ̞ẽ̞
+x	x	G	230	146	ixo̞xo̞;ixo̞xo̞;ixo̞xo̞;ixo̞xo̞;e̞mixõ̞
+h	h	H	126	113	te̞kue̞he̞;e̞kue̞he̞;o̞me̞hnataha;o̞me̞hnataha;te̞hkhe̞
+i	i	I	94	47	o̞maĩdi;niɲo̞;ixo̞xo̞;ixo̞xo̞;e̞mixõ̞
+ĩ	ĩ	I	24	18	ĩguβa;o̞maĩdi;nugu_ĩxe̞xe̞;no̞o̞kho̞xa_ĩxa;pãĩxõ̞te̞
+g	g	K	24	18	ĩguβa;nugu_ĩxe̞xe̞;ẽ̞pigaxaha;ẽ̞go̞axaha;kãkhadahga
+k	k	K	22	17	te̞kue̞he̞;e̞kue̞he̞;e̞kaana;kuabo̞;kãkhadahga
+kh	kh/kʰ	K	18	18	te̞hkhe̞;no̞o̞kho̞xa_ĩxa;kãkhadahga;lkhaxe̞;ĩde̞khe̞
+l	l	L	13	9	dile̞baxaba;ke̞le̞axaba;o̞li;lpudi;lse̞xõ̞
+ll	ll/lː	L	11	11	lluhllu;xille̞lla;xille̞lla;illu;tuhallaha
+^ll	lː	L	11	11	lluhllu;lle̞kihãxĩã;llahbaxaha;llo̞xo̞h;lle̞a
+m	m	M	27	24	muna;o̞maĩdi;e̞mixõ̞;amana;o̞me̞hnataha
+n	n	N	27	21	muna;niɲo̞;amana;nugu_ĩxe̞xe̞;o̞me̞hnataha
+ɲ	ɲ	N	12	4	niɲo̞;ɲide̞;ɲiaxaha;ɲukudiã;xihɲa
+b	b	P	34	23	bae̞pu;ube̞na;kuabo̞;o̞bo̞di;dile̞baxaba
+p	p	P	18	9	bae̞pu;pame̞naaxa;pãĩxõ̞te̞;ẽ̞pigaxaha;lpudi
+r	r	R	3	1	ɸara;ro̞adaxaha;rãpo̞o̞
+rr	rr/rː	R	1	1	xarripah
+s	s	S	38	26	se̞axaha;lse̞xõ̞;saxi;ĩãhsaxaha;sĩko̞bme̞hga
+d	d	T	53	47	o̞maĩdi;βo̞di;ɲide̞;didi;didi
+t	t	T	25	18	te̞kue̞he̞;o̞me̞hnataha;te̞hkhe̞;ahite̞xu;pãĩxõ̞te̞
+o̞	o̞	U	108	47	o̞maĩdi;niɲo̞;ixo̞xo̞;ixo̞xo̞;ixo̞xo̞
+õ̞	õ̞	U	18	9	e̞mixõ̞;pãĩxõ̞te̞;õ̞iuaxaha;lse̞xõ̞;õ̞de̞
+o̞o̞	o̞ː	U	7	3	no̞o̞kho̞xa_ĩxa;xuβo̞o̞;puluto̞o̞;xuβo̞o̞;o̞to̞o̞na
+õ̞õ̞$	õ̞	U	1	1	xũβõ̞õ̞
+u	u	Y	111	77	muna;te̞kue̞he̞;e̞kue̞he̞;ĩguβa;nugu_ĩxe̞xe̞
+ũ	ũ	Y	5	1	ũxã;ũxã;xũβõ̞õ̞;ũkuhdo̞;ũku
+_	+	_	5	5	nugu_ĩxe̞xe̞;no̞o̞kho̞xa_ĩxa;o̞hde̞_uβo̞;me̞se̞a_saxi;xahba_ĩde̞khe̞
+gw	gw/g w	K W	2	2	sĩgwe̞;sĩgwe̞

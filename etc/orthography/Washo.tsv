@@ -1,98 +1,46 @@
-Grapheme	IPA	SCA	Frequency
-L	L/l	L	1
-^L	L/l	L	1
-^a	a	A	18
-^aa	aː	A	3
-^b	b	P	11
-^d	d	T	44
-^g	g	K	10
-^h	h	H	12
-^i	i	I	17
-^ii	iː	I	9
-^j	j	J	15
-^k	k	K	1
-^kʼ	kʼ	K	4
-^l	l	L	3
-^l̥	l̥	L	9
-^m	m	M	18
-^m̥	m̥	M	1
-^n	n	N	1
-^p	p	P	1
-^pʼ	pʼ	P	2
-^pʼ$	pʼ	P	1
-^s	s	S	4
-^t	t	T	6
-^tʼ	tʼ	T	1
-^tʼsʼ	tsʼ	T	5
-^w	w	W	8
-^ŋ	ŋ	N	2
-^ɛ	ɛ	E	3
-^ɨɨ	ɨː	I	1
-^ʃ	ʃ	S	6
-^ʔ	ʔ	H	25
-_	+	_	26
-a	a	A	119
-a$	a	A	20
-aa	aː	A	26
-b	b	P	12
-b$	b	P	5
-c	c	C	1
-d	d	T	25
-d$	d	T	2
-e	e	E	6
-g	g	K	23
-g$	g	K	9
-h	h	H	10
-i	i	I	91
-i$	i	I	19
-ii	iː	I	7
-ii$	iː	I	2
-j	j	J	19
-j$	j	J	3
-k	k	K	11
-k$	k	K	6
-kʼ	kʼ	K	12
-kʼ$	kʼ	K	3
-l	l	L	5
-l̥	l̥	L	46
-l̥$	l̥	L	16
-l̥ʃ	l̥ ʃ	L S	1
-m	m	M	26
-m$	m	M	12
-mh	mh/m̥	M	2
-m̥	m̥	M	4
-n	n	N	3
-n$	n	N	1
-o	o	U	15
-o$	o	U	2
-oo	oː	U	2
-p	p	P	8
-p$	p	P	1
-pʃ$	p ʃ	P S	1
-pʼ	pʼ	P	8
-s	s	S	16
-s$	s	S	1
-t	t	T	7
-t$	t	T	2
-ts	ts	C	4
-tʼ	tʼ	T	8
-tʼsʼ	tsʼ	T	6
-u	u	Y	48
-u$	u	Y	25
-uu	uː	Y	2
-w	w	W	13
-w$	w	W	8
-wh	wh/w̥	W	1
-z	z	S	2
-ŋ	ŋ	N	13
-ŋ$	ŋ	N	8
-ɛ	ɛ	E	80
-ɛ$	ɛ	E	9
-ɛɛ	ɛː	E	7
-ɛɛ$	ɛː	E	1
-ɨ	ɨ	I	27
-ʃ	ʃ	S	34
-ʃ$	ʃ	S	15
-ʔ	ʔ	H	51
-ʔ$	ʔ	H	69
-ʔs$	ʔs/ˀs	S	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		241	NULL	wiʔ;ʃaʃuduwɛʔi;jaal̥aʔ;dɛwtʼɛʔɛʃ;al̥ŋ
+$	NULL		241	NULL	wiʔ;ʃaʃuduwɛʔi;jaal̥aʔ;dɛwtʼɛʔɛʃ;al̥ŋ
+a	a	A	157	119	ʃaʃuduwɛʔi;jaal̥aʔ;al̥ŋ;al̥ŋ;tʼsʼapuʔ
+aa	aː	A	29	26	jaal̥aʔ;jaagɨl̥;aadaʃ;aadu;waaʔ
+c	c	C	1	1	tul̥icig
+ts	ts	C	4	4	lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;lakaʔ_m̥uʔtsɨm;lakaʔ_muʔtsɨm_ʔida_hesgeʔ;hesgeʔ_m̥uʔtsɨm
+e	e	E	6	6	dubaldiʔ_ʔida_hesgeʔ;dubaldiʔ_ʔida_hesgeʔ;lakaʔ_muʔtsɨm_ʔida_hesgeʔ;lakaʔ_muʔtsɨm_ʔida_hesgeʔ;hesgeʔ_m̥uʔtsɨm
+ɛ	ɛ	E	92	80	ʃaʃuduwɛʔi;dɛwtʼɛʔɛʃ;dɛwtʼɛʔɛʃ;dɛwtʼɛʔɛʃ;iijɛl̥
+ɛɛ	ɛː	E	8	7	jɛkʼil̥gɛɛsi;mɛɛhu;l̥ɛɛ;tʼɛɛkʼɛ;mɛɛLu
+h	h	H	22	10	mɛɛhu;dawahɨm;ihukʼ;haʔwaʔwaʔ;haʔwa
+ʔ	ʔ	H	156	51	wiʔ;ʃaʃuduwɛʔi;jaal̥aʔ;dɛwtʼɛʔɛʃ;tʼsʼapuʔ
+i	i	I	127	91	wiʔ;ʃaʃuduwɛʔi;tʼsʼiguuguʃ;Lisiʔ;Lisiʔ
+ɨ	ɨ	I	27	27	dawahɨm;jaagɨl̥;lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;iipʼɨl̥;iʃɨʃ
+ii	iː	I	18	7	iijɛl̥;siisu;iibiʔ;iiʃib;iigɛʔ
+^ɨɨ	ɨː	I	1	1	ɨɨl̥ɨl̥
+j	j	J	37	19	jaal̥aʔ;iijɛl̥;jɛkʼil̥gɛɛsi;ijɛ;jul̥iɛ
+g	g	K	42	23	aʃg;tʼsʼiguuguʃ;tʼsʼiguuguʃ;ʔl̥ɛ_atʼig;jɛkʼil̥gɛɛsi
+k	k	K	18	11	sukuʔ;lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;jagaŋkaʃɛmiʔi;haʔwaʔwaʔ_ʔita_lakaʔ
+kʼ	kʼ	K	19	12	jɛkʼil̥gɛɛsi;kʼɛʃɛ;imɛkʼ;dimikʼu;ihukʼ
+L	L/l	L	2	1	Lisiʔ;mɛɛLu
+l	l	L	8	5	lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;haʔwaʔwaʔ_ʔita_lakaʔ;dubaldiʔ_ʔida_hesgeʔ;dubaldiʔ_ʔida_lakaʔ
+l̥	l̥	L	72	46	jaal̥aʔ;al̥ŋ;al̥ŋ;iijɛl̥;ʔl̥ɛ_atʼig
+m	m	M	56	26	mɛɛhu;dawahɨm;mɛtuʔ;imɛkʼ;dimikʼu
+mh	mh/m̥	M	2	2	ʃawl̥amhu;amham
+m̥	m̥	M	5	4	lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;km̥u;lakaʔ_m̥uʔtsɨm;m̥aadut;hesgeʔ_m̥uʔtsɨm
+n	n	N	5	3	nɛntʼuʃ;nɛntʼuʃ;intʼɨn;intʼɨn;ajnaj
+ŋ	ŋ	N	23	13	al̥ŋ;al̥ŋ;daʃaŋ;tʼsʼaŋa;aŋaʔ
+b	b	P	28	12	sɛbɛ;iibiʔ;iiʃib;ʔɛ_iʔib;dubal̥diʔ
+p	p	P	11	8	tʼsʼapuʔ;ʔapʃ;pitiʔ;tul̥ipiʔ;daʔil̥popoʃiʔ
+pʼ	pʼ	P	11	8	il̥pʼil̥;pʼisɛw;ipʼiw;iipʼɨl̥;dipʼaapʼɨʃ
+s	s	S	22	16	Lisiʔ;siisu;siisu;sɛbɛ;jɛkʼil̥gɛɛsi
+z	z	S	2	2	hɛɛdzi;daʔl̥oŋdziŋ
+ʃ	ʃ	S	61	34	ʃaʃuduwɛʔi;ʃaʃuduwɛʔi;dɛwtʼɛʔɛʃ;aʃg;tʼsʼiguuguʃ
+ʔs$	ʔs/ˀs	S	1	1	iʔs
+d	d	T	71	25	ʃaʃuduwɛʔi;dɛwtʼɛʔɛʃ;daʃaŋ;du;dawahɨm
+t	t	T	15	7	mɛtuʔ;pitiʔ;tul̥icig;tul̥ipiʔ;atg
+tʼ	tʼ	T	9	8	dɛwtʼɛʔɛʃ;ʔl̥ɛ_atʼig;tʼɛɛkʼɛ;nɛntʼuʃ;watʼa
+tʼsʼ	tsʼ	T	11	6	tʼsʼapuʔ;tʼsʼiguuguʃ;tʼsʼaŋa;ʔudɛ_itʼsʼiʃ;atʼsʼim
+o	o	U	17	15	ŋowa;daʔil̥popoʃiʔ;daʔil̥popoʃiʔ;mookʼo;dajoʔwiʔ
+oo	oː	U	2	2	mookʼo;ʔl̥oot
+w	w	W	35	13	wiʔ;ʃaʃuduwɛʔi;dɛwtʼɛʔɛʃ;dawahɨm;pʼisɛw
+wh	wh/w̥	W	1	1	l̥ɛwhu
+u	u	Y	73	48	ʃaʃuduwɛʔi;ʃaʃuduwɛʔi;tʼsʼapuʔ;tʼsʼiguuguʃ;siisu
+uu	uː	Y	2	2	tʼsʼiguuguʃ;guudiŋa
+_	+	_	26	26	ʔl̥ɛ_atʼig;ʔɛ_iʔib;ʔudɛ_itʼsʼiʃ;lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ;lakaʔ_m̥uʔtsɨm_ʔida_lakaʔ

@@ -1,80 +1,44 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	54
-^b	b	P	3
-^d̪	d̪	T	54
-^e	e	E	3
-^f	f	B	1
-^g	g	K	13
-^i	i	I	28
-^l	l	L	41
-^m	m	M	1
-^n̪	n̪	N	1
-^o	o	U	3
-^ts	ts	C	1
-^u	u	Y	3
-^x	x	G	7
-^ɬ	ɬ	L	69
-_	+	_	18
-a	a	A	269
-a$	a	A	112
-b	b	P	45
-d̪	d̪	T	25
-e	e	E	60
-e$	e	E	13
-f	f	B	16
-fʼ	fʼ	B	4
-g	g	K	67
-gg	gː	K	1
-gw	gw/g w	K W	10
-i	i	I	126
-i$	i	I	32
-ii	iː	I	1
-j	j	J	30
-j$	j	J	11
-k	k	K	13
-k$	k	K	8
-kʼ	kʼ	K	10
-kʼ$	kʼ	K	6
-l	l	L	35
-ll	ll/lː	L	4
-ls	l s	L S	1
-lw	l w	L W	2
-lʃ	l ʃ	L S	3
-m	m	M	110
-mm	mm/mː	M	1
-n̪	n̪	N	46
-n̪$	n̪	N	1
-n̪n̪	n̪n̪/n̪ː	N	2
-n̪s	n̪ s	N S	1
-n̪s$	n̪ s	N S	3
-n̪ʃ	n̪ ʃ	N S	4
-o	o	U	38
-o$	o	U	13
-p	p	P	5
-qʼ	qʼ	K	2
-r	r	R	6
-s	s	S	4
-s$	s	S	7
-ts	ts	C	8
-ts$	ts	C	1
-tʃ	tʃ	T	2
-tʼ	tʼ	T	9
-tʼsʼ	tsʼ	T	6
-tʼsʼ$	tsʼ	T	2
-tʼʃʼ	tʃʼ	T	1
-t̪	t̪	T	8
-u	u	Y	98
-u$	u	Y	6
-w	w	W	18
-x	x	G	44
-xʃ	x ʃ	G S	1
-z	z	S	1
-ŋ	ŋ	N	13
-ɬ	ɬ	L	12
-ɬ$	ɬ	L	9
-ɬʼ	ɬʼ	L	4
-ɬʼ$	ɬʼ	L	5
-ʃ	ʃ	S	45
-ʃw	ʃ w	S W	1
-ʔ	ʔ	H	107
-ʔ$	ʔ	H	53
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		282	NULL	guid̪eʔ;ɬawaʔ;en̪t̪ero;ɬin̪n̪exa;ɬun̪tsi
+$	NULL		282	NULL	guid̪eʔ;ɬawaʔ;en̪t̪ero;ɬin̪n̪exa;ɬun̪tsi
+a	a	A	435	269	ɬawaʔ;ɬawaʔ;ɬin̪n̪exa;laman̪e;laman̪e
+f	f	B	17	16	d̪ifusʔma;d̪imelefgueʔma;umi_afuxga;amafga;faʔa
+fʼ	fʼ	B	4	4	ɬaʔfʼin̪uʔ;iʔn̪ofʼguijaʔ;d̪iɬofʼeʔma;d̪ixafʼima_gaʔwi
+ts	ts	C	10	8	ɬun̪tsi;d̪itsetʼɬʼʔma;galtsiki;lifin̪o_guitsalaʔ;agajtsi
+e	e	E	76	60	guid̪eʔ;en̪t̪ero;en̪t̪ero;ɬin̪n̪exa;laman̪e
+x	x	G	52	44	ɬin̪n̪exa;laxuatʼsʼ;aʃuixga;ɬon̪ʃaxmaʔ;d̪ixoxʔma
+ʔ	ʔ	H	161	107	guid̪eʔ;ɬawaʔ;laʃpulaʔ;goɬt̪aʔ;laguʔu
+i	i	I	186	126	guid̪eʔ;ɬin̪n̪exa;ɬun̪tsi;ɬabi;iʃkaj
+ii	iː	I	1	1	d̪iʃiisʔma
+j	j	J	41	30	iʃkaj;alʔogaj;d̪igwajʔed̪a;lummawaj;d̪iwajn̪awo
+g	g	K	80	67	guid̪eʔ;goɬt̪aʔ;laguʔu;alʔogaj;agwegaʔ
+k	k	K	21	13	iʃkaj;liʃmi_qʼuek;galtsiki;iʃkuaxmaʔ;ɬaʔn̪aɬuk
+gg	gː	K	1	1	aggua
+kʼ	kʼ	K	16	10	aɬukʼga;aʃuxkʼa;akʼa;d̪e_tʼsʼiʔikʼ;ɬaxokʼ
+qʼ	qʼ	K	2	2	liʃmi_qʼuek;ɬin̪u_ɬoqʼuexba
+l	l	L	82	35	laman̪e;laman̪e;laʃpulaʔ;laʃpulaʔ;liʃmi_qʼuek
+ɬ	ɬ	L	90	12	ɬawaʔ;ɬin̪n̪exa;ɬun̪tsi;ɬabi;goɬt̪aʔ
+ll	ll/lː	L	4	4	illaʔ;abella;ɬaʔalli;ɬaʔalli
+ɬʼ	ɬʼ	L	9	4	d̪itsetʼɬʼʔma;laxutʼɬʼ;galn̪utʼɬʼa;iwetʼɬʼgui;d̪itsutʼɬʼiʔma
+m	m	M	111	110	laman̪e;laman̪e;liʃmi_qʼuek;d̪igaʔma;umi
+mm	mm/mː	M	1	1	lummawaj
+ŋ	ŋ	N	13	13	d̪id̪aŋguewo;ɬuŋa;galxoŋaɬ;ɬaŋon̪e;lad̪uŋu
+n̪	n̪	N	56	46	en̪t̪ero;ɬun̪tsi;laman̪e;laman̪e;ɬon̪ʃaxmaʔ
+n̪n̪	n̪n̪/n̪ː	N	2	2	ɬin̪n̪exa;iman̪n̪a
+b	b	P	48	45	ɬabi;d̪ibiʔma;ibuguiʔ;ɬabi;ɬabiʔe
+p	p	P	5	5	laʃpulaʔ;apelot̪eʔ;xipija;d̪e_paraʔ;eʃpatʼsʼgui
+r	r	R	6	6	en̪t̪ero;iʔuagui_en̪t̪ero;galʔora;ajlobaʔa_guifuerza;d̪ex_ʔora
+s	s	S	16	4	d̪ifusʔma;galseso;galseso;d̪iʃiisʔma;laʃʔmas
+z	z	S	1	1	ajlobaʔa_guifuerza
+ʃ	ʃ	S	54	45	laʃpulaʔ;iʃkaj;liʃmi_qʼuek;aʃuixga;ɬon̪ʃaxmaʔ
+d̪	d̪	T	79	25	guid̪eʔ;d̪igaʔma;d̪ifusʔma;d̪un̪ʃaʔma;d̪ibiʔma
+tʃ	tʃ	T	2	2	atʃulo;itʃija
+tʼ	tʼ	T	9	9	d̪itsetʼɬʼʔma;laxutʼɬʼ;galn̪utʼɬʼa;iwetʼɬʼgui;d̪itsutʼɬʼiʔma
+t̪	t̪	T	8	8	en̪t̪ero;goɬt̪aʔ;d̪iʃt̪aʃʔma;awat̪aʔ;iʔuagui_en̪t̪ero
+tʼsʼ	tsʼ	T	8	6	laxuatʼsʼ;id̪atʼsʼijaʔ;d̪itʼsʼiʔma;ɬamatʼsʼ;d̪e_tʼsʼiʔikʼ
+tʼʃʼ	tʃʼ	T	1	1	atʼʃʼiʃga
+o	o	U	54	38	en̪t̪ero;atʃulo;goɬt̪aʔ;alʔogaj;galseso
+w	w	W	22	18	ɬawaʔ;lummawaj;d̪iwajn̪awo;d̪iwajn̪awo;d̪id̪aŋguewo
+u	u	Y	107	98	guid̪eʔ;ɬun̪tsi;laʃpulaʔ;liʃmi_qʼuek;atʃulo
+_	+	_	18	18	liʃmi_qʼuek;ma_d̪aɬmaj;imbamax_n̪uli;lagwe_gaman̪e;umi_afuxga
+gw	gw/g w	K W	10	10	agwegaʔ;d̪igwajʔed̪a;lagwe_gaman̪e;ɬajgwi;agwegaʔ

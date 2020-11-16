@@ -1,100 +1,41 @@
-Grapheme	IPA	SCA	Frequency
-^_	+	_	1
-^a	a	A	17
-^aa	aː	A	3
-^e̞	e̞	E	3
-^e̞$	e̞	E	2
-^h	h	H	7
-^i	i	I	22
-^ii	iː	I	5
-^ii$	iː	I	8
-^j	j	J	3
-^k	k	K	24
-^kʼ	kʼ	K	10
-^l	l	L	9
-^m	m	M	12
-^n	n	N	14
-^o̞	o̞	U	4
-^o̞o̞	o̞ː	U	1
-^p	p	P	8
-^q	q	K	2
-^qʼ	qʼ	K	14
-^r	r	R	31
-^s	s	S	15
-^t	t	T	17
-^tʃ	tʃ	T	20
-^tʼsʼ	tsʼ	T	8
-^tʼʃʼ	tʃʼ	T	10
-^u	u	Y	5
-^w	w	W	7
-^x	x	G	15
-^ɓ	ɓ	P	15
-^ʃ	ʃ	S	23
-_	+	_	64
-a	a	A	249
-a$	a	A	4
-aa	aː	A	22
-b	b	P	2
-e̞	e̞	E	32
-e̞$	e̞	E	9
-e̞e̞	e̞ː	E	6
-g	g	K	1
-h	h	H	7
-i	i	I	91
-i$	i	I	3
-ii	iː	I	6
-j	j	J	11
-j$	j	J	4
-k	k	K	20
-k$	k	K	60
-kʼ	kʼ	K	9
-kʼ$	kʼ	K	6
-l	l	L	46
-l$	l	L	25
-m	m	M	18
-m$	m	M	18
-ms	m s	M S	1
-mʃ	m ʃ	M S	1
-n	n	N	67
-n$	n	N	41
-nʃ	n ʃ	N S	1
-o̞	o̞	U	53
-o̞$	o̞	U	6
-o̞o̞	o̞ː	U	4
-p	p	P	7
-p$	p	P	1
-q	q	K	13
-q$	q	K	20
-qs$	q s	K S	1
-qw	qw/qʷ	K	1
-qʼ	qʼ	K	21
-qʼ$	qʼ	K	4
-r	r	R	23
-r$	r	R	3
-s	s	S	9
-s$	s	S	6
-t	t	T	15
-t$	t	T	7
-tʃ	tʃ	T	21
-tʃ$	tʃ	T	1
-tʼ	tʼ	T	1
-tʼsʼ	tsʼ	T	8
-tʼsʼ$	tsʼ	T	1
-tʼʃʼ	tʃʼ	T	7
-tʼʃʼ$	tʃʼ	T	4
-u	u	Y	67
-u$	u	Y	10
-uu	uː	Y	6
-w	w	W	7
-w$	w	W	5
-x	x	G	22
-x$	x	G	8
-xw	xw/xʷ	G	2
-xʃ	x ʃ	G S	1
-z	z	S	2
-ɓ	ɓ	P	23
-ɓ$	ɓ	P	19
-ʃ	ʃ	S	23
-ʃ$	ʃ	S	10
-ʔ	ʔ	H	39
-ʔ$	ʔ	H	49
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		335	NULL	ʃiw;mo̞qo̞n;iqʼ;tʃi_xunil;waʃe̞rk
+$	NULL		335	NULL	ʃiw;mo̞qo̞n;iqʼ;tʃi_xunil;waʃe̞rk
+a	a	A	270	249	waʃe̞rk;sank;tʃa;laɓ;ʃtʃaqʼal_wuʔ
+aa	aː	A	25	22	ʃɓaan_naq;qʼaʃal_tʃaaɓil;jaaɓak;ɓaanunk;xunpaat
+e̞	e̞	E	46	32	waʃe̞rk;te̞l;te̞l;riʃ_tʃe̞;ruɓe̞l
+e̞e̞	e̞ː	E	6	6	mante̞e̞k;te̞e̞lo̞m;ɓe̞le̞e̞ɓ;qʼe̞e̞l;qʼe̞e̞l
+x	x	G	46	22	tʃi_xunil;tʼʃʼaxo̞m;tʼʃʼaxmitʼʃʼax;tʼʃʼaxmitʼʃʼax;o̞xɓak
+xw	xw/xʷ	G	2	2	tʼsʼe̞xwal;_kaʔaxwiʔ_laaʔo̞
+h	h	H	14	7	humuk;kaahiɓ;kʼe̞ho̞k;haʔan;haɓ
+ʔ	ʔ	H	89	39	ʃtʃaqʼal_wuʔ;saʔ;saʔ_ʃkʼatq;tuʔ;tʼsʼiʔ
+i	i	I	116	91	ʃiw;iqʼ;tʃi_xunil;tʃi_xunil;iʃ
+ii	iː	I	19	6	iiqank;tiiʃ;tiiʃ;ʃaqliik;tiik
+j	j	J	18	11	jaaɓak;qʼo̞xjin;ɓuuj;patʼʃʼajaʔ;po̞j
+g	g	K	1	1	nio̞i_ga_suru
+k	k	K	104	20	waʃe̞rk;sank;tʼsʼik;qatʃo̞k;kikʼ
+q	q	K	36	13	mo̞qo̞n;ʃɓaan_naq;saʔ_ʃkʼatq;qatʃo̞k;qʼe̞q
+kʼ	kʼ	K	25	9	saʔ_ʃkʼatq;kʼa;kikʼ;ɓalakʼ;ukʼak
+qw	qw/qʷ	K	1	1	anaqwan
+qʼ	qʼ	K	39	21	iqʼ;ʃtʃaqʼal_wuʔ;qʼe̞q;musiqʼak;qʼaʃal_tʃaaɓil
+l	l	L	80	46	tʃi_xunil;ʃul;te̞l;te̞l;laɓ
+m	m	M	50	18	mo̞qo̞n;nim;ro̞o̞m;tʼʃʼaxo̞m;musiqʼak
+n	n	N	123	67	mo̞qo̞n;tʃi_xunil;sank;ʃɓaan_naq;ʃɓaan_naq
+b	b	P	2	2	ʃrabin_iitʼsʼin;ʃrabin_iitʼsʼin
+p	p	P	16	7	apuunk;po̞qs;xunpaat;rupik;patʼʃʼajaʔ
+ɓ	ɓ	P	57	23	laɓ;ʃɓaan_naq;ruɓe̞l;ɓaq;qʼaʃal_tʃaaɓil
+r	r	R	57	23	waʃe̞rk;riʃ_tʃe̞;tʃi_ru;tʃi_riʃ;ruɓe̞l
+s	s	S	32	9	sank;saʔ;saʔ_ʃkʼatq;musiqʼak;po̞qs
+z	z	S	2	2	tzakank;tzuul
+ʃ	ʃ	S	59	23	ʃiw;waʃe̞rk;ʃul;iʃ;riʃ_tʃe̞
+t	t	T	39	15	te̞l;te̞l;saʔ_ʃkʼatq;tuʔ;ko̞_it
+tʃ	tʃ	T	42	21	tʃi_xunil;tʃa;riʃ_tʃe̞;ʃtʃaqʼal_wuʔ;tʃi_ru
+tʼ	tʼ	T	1	1	atʼisɓak
+tʼsʼ	tsʼ	T	17	8	tʼsʼik;tʼsʼe̞xwal;tʼsʼe̞qo̞k_iɓ;tʼsʼiʔ;atʼsʼum
+tʼʃʼ	tʃʼ	T	21	7	tʼʃʼaxo̞m;tʼʃʼaxmitʼʃʼax;tʼʃʼaxmitʼʃʼax;xe̞tʼʃʼ;tʼʃʼo̞tʼʃʼ
+o̞	o̞	U	63	53	mo̞qo̞n;mo̞qo̞n;qatʃo̞k;tʼʃʼaxo̞m;ko̞_it
+o̞o̞	o̞ː	U	5	4	ro̞o̞m;o̞o̞ɓ;kʼo̞xkʼo̞_ʃtʼʃʼo̞o̞l;tʼʃʼo̞o̞l;qo̞o̞rank
+w	w	W	20	7	ʃiw;waʃe̞rk;ʃtʃaqʼal_wuʔ;waxʃaqiɓ;kaw
+u	u	Y	82	67	tʃi_xunil;ʃul;ʃtʃaqʼal_wuʔ;tʃi_ru;ruɓe̞l
+uu	uː	Y	6	6	apuunk;ɓuuj;tʼsʼuumale̞;tzuul;tʃuuɓak
+_	+	_	65	64	tʃi_xunil;riʃ_tʃe̞;ʃtʃaqʼal_wuʔ;ʃɓaan_naq;tʃi_ru

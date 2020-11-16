@@ -1,87 +1,38 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	14
-^a$	a	A	3
-^aa	aː	A	2
-^e	e	E	4
-^e$	e	E	1
-^h	h	H	44
-^i	i	I	26
-^j	j	J	8
-^k	k	K	48
-^l	l	L	11
-^m	m	M	14
-^n	n	N	34
-^n$	n	N	2
-^o	o	U	6
-^o$	o	U	1
-^oo	oː	U	1
-^oo$	oː	U	1
-^p	p	P	12
-^t	t	T	39
-^ts	ts	C	10
-^uu	uː	Y	4
-^w	w	W	21
-^ɕ	ɕ	S	13
-^ɛ	ɛ	E	2
-_	+	_	15
-a	a	A	80
-a$	a	A	31
-aa	aː	A	16
-b$	b	P	1
-e	e	E	38
-e$	e	E	12
-ee	eː	E	10
-ee$	eː	E	1
-gh	gh/gʰ	K	1
-h	h	H	6
-i	i	I	53
-i$	i	I	21
-ii	iː	I	19
-j	j	J	3
-k	k	K	17
-k$	k	K	37
-kh	kh/kʰ	K	1
-ks$	k s	K S	2
-kɕ	k ɕ	K S	1
-kɕ$	k ɕ	K S	1
-l	l	L	21
-l$	l	L	41
-ll	ll/lː	L	2
-lɕ	l ɕ	L S	8
-m	m	M	7
-m$	m	M	7
-ms$	m s	M S	1
-n	n	N	11
-n$	n	N	14
-ns	n s	N S	2
-ns$	n s	N S	17
-o	o	U	35
-o$	o	U	5
-oo	oː	U	12
-p	p	P	6
-p$	p	P	3
-s	s	S	1
-s$	s	S	1
-t	t	T	16
-t$	t	T	33
-th	th/tʰ	T	2
-ts	ts	C	17
-ts$	ts	C	17
-tt	tt/tː	T	1
-tt$	tt/tː	T	2
-uu	uː	Y	22
-uu$	uː	Y	21
-w	w	W	2
-x	x	G	3
-x$	x	G	7
-xɕ$	x ɕ	G S	8
-ŋ	ŋ	N	2
-ŋ$	ŋ	N	13
-ɕ	ɕ	S	18
-ɕ$	ɕ	S	16
-ə	ə	E	3
-ɛ	ɛ	E	9
-ɛ$	ɛ	E	1
-ɬ	ɬ	L	1
-ɸ	ɸ	B	1
-ʊ	ʊ	Y	11
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		321	NULL	itse;anian;ha;kaŋ;hikauu
+$	NULL		320	NULL	itse;anian;ha;kaŋ;hikauu
+a	a	A	128	80	anian;anian;ha;kaŋ;hikauu
+aa	aː	A	18	16	itsaak_iɕkem;iɕaat;aal;hikaat;jaaŋ
+ɸ	ɸ	B	1	1	temoɸi
+ts	ts	C	44	17	itse;itsaak_iɕkem;nats;nats;hatseeɕ
+e	e	E	55	38	itse;itsaak_iɕkem;temoɸi;otkine;hathe
+ə	ə	E	3	3	nəuu;kəkauu;kəkhauu
+ɛ	ɛ	E	12	9	hɛts;ɛŋ;kɛtsk;ɛhɛ;ɛhɛ
+ee	eː	E	11	10	hatseeɕ;nee;meel;peel;teexlk
+x	x	G	18	3	pax;teexlk;aax;nox;uuxts
+h	h	H	50	6	ha;hikauu;hattoiauu;hal;hatseeɕ
+i	i	I	100	53	itse;anian;hikauu;iuuɕ;hattoiauu
+ii	iː	I	19	19	tsiik;niik;himatol_tsiik;niit;niik
+j	j	J	11	3	jouu;jil;jal;jaaŋ;ije
+k	k	K	106	17	kaŋ;hikauu;itsaak_iɕkem;itsaak_iɕkem;nak
+gh	gh/gʰ	K	1	1	maghasuu
+kh	kh/kʰ	K	1	1	kəkhauu
+l	l	L	81	21	hal;tal;ɕiliŋ;hal;meel
+ɬ	ɬ	L	1	1	tɬakɕ
+ll	ll/lː	L	2	2	holli;illitt
+m	m	M	29	7	itsaak_iɕkem;temoɸi;kom;meel;lam
+n	n	N	80	11	anian;anian;nats;nats;nak
+ŋ	ŋ	N	15	2	kaŋ;ɕiliŋ;aŋpats;oŋ;ɛŋ
+p	p	P	21	6	aŋpats;pooɕ;puun;kop;pai
+b$	b	P	1	1	aɕeb
+s	s	S	24	1	ehuuks;maghasuu;tuus;muuks;akonst
+ɕ	ɕ	S	65	18	iuuɕ;itsaak_iɕkem;hatseeɕ;ɕiliŋ;ɕokɕooɕ
+t	t	T	88	16	temoɸi;tal;otkine;tok;iɕaat
+th	th/tʰ	T	2	2	hathe;ithaans
+tt	tt/tː	T	3	1	hattoiauu;katt;illitt
+o	o	U	47	35	hattoiauu;temoɸi;kom;otkine;ɕokɕooɕ
+oo	oː	U	14	12	ɕokɕooɕ;pooɕ;iool;mook;wool
+w	w	W	23	2	woɕ_pe_hal_tanuuk;wool;matsiwa;wooɕ;waɕ
+ʊ	ʊ	Y	11	11	kʊl;tsʊk;kʊts;kʊlɕa;kʊlɕa
+uu	uː	Y	47	22	hikauu;iuuɕ;hattoiauu;puun;aktsauu
+_	+	_	15	15	itsaak_iɕkem;himatol_tsiik;woɕ_pe_hal_tanuuk;woɕ_pe_hal_tanuuk;woɕ_pe_hal_tanuuk

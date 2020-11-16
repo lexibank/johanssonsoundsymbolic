@@ -1,48 +1,26 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	16
-^b	b	P	7
-^d	d	T	5
-^e̞	e̞	E	11
-^i	i	I	4
-^k	k	K	52
-^l	l	L	10
-^m	m	M	32
-^n	n	N	11
-^o̞	o̞	U	6
-^p	p	P	16
-^s	s	S	10
-^t	t	T	18
-^z	z	S	2
-^ŋ	ŋ	N	6
-^ɣ	ɣ	G	7
-^ɲ	ɲ	N	10
-^ɾ	ɾ	R	1
-^β	β	B	3
-_	+	_	2
-a	a	A	101
-a$	a	A	105
-b	b	P	12
-d	d	T	11
-e̞	e̞	E	24
-e̞$	e̞	E	27
-g	g	K	8
-i	i	I	32
-i$	i	I	39
-k	k	K	39
-l	l	L	37
-m	m	M	20
-n	n	N	12
-o̞	o̞	U	57
-o̞$	o̞	U	23
-p	p	P	11
-s	s	S	11
-t	t	T	25
-u	u	Y	76
-u$	u	Y	33
-z	z	S	11
-ŋ	ŋ	N	6
-ɟ	ɟ	C	2
-ɣ	ɣ	G	27
-ɲ	ɲ	N	5
-ɾ	ɾ	R	16
-β	β	B	21
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		227	NULL	taɣa;dada;kasaŋa;lilikia;kakau
+$	NULL		227	NULL	taɣa;dada;kasaŋa;lilikia;kakau
+a	a	A	222	101	taɣa;taɣa;dada;dada;kasaŋa
+β	β	B	24	21	o̞βa;βui;to̞lo̞βo̞;e̞βo̞;to̞βi
+ɟ	ɟ	C	2	2	miɲɟila;ɲɟai
+e̞	e̞	E	62	24	ɣe̞de̞;ɣe̞de̞;ne̞u;kine̞ɣe̞;kine̞ɣe̞
+ɣ	ɣ	G	34	27	taɣa;ɣe̞de̞;bo̞bo̞ɾaɣa;kine̞ɣe̞;ɣo̞ɣo̞la
+i	i	I	75	32	lilikia;lilikia;lilikia;isaɾo̞ŋo̞;apo̞i
+g	g	K	8	8	ŋgo̞zi;ŋgo̞la_kiba;ŋgaɾuŋgaɾu;ŋgaɾuŋgaɾu;ɲe̞ŋga
+k	k	K	91	39	kasaŋa;lilikia;kakau;kakau;kakau
+l	l	L	47	37	lilikia;lilikia;miɲɟila;to̞lo̞βo̞;ɣo̞ɣo̞la
+m	m	M	52	20	miɲɟila;maɾaɾa;muzi;muzikaβili;lumu
+n	n	N	23	12	ne̞u;kine̞ɣe̞;panipiti;nito̞;nata
+ŋ	ŋ	N	12	6	kasaŋa;isaɾo̞ŋo̞;ŋe̞i;ŋgo̞zi;ŋgo̞la_kiba
+ɲ	ɲ	N	15	5	miɲɟila;o̞ɲo̞;aɲi;ɲe̞ŋga;ɲo̞ko̞
+b	b	P	19	12	bo̞bo̞ɾaɣa;bo̞bo̞ɾaɣa;ba;ko̞bako̞ba;ko̞bako̞ba
+p	p	P	27	11	po̞to̞po̞to̞;po̞to̞po̞to̞;apo̞i;pika;pai
+ɾ	ɾ	R	17	16	isaɾo̞ŋo̞;bo̞bo̞ɾaɣa;maɾaɾa;maɾaɾa;ɾe̞ka
+s	s	S	21	11	kasaŋa;isaɾo̞ŋo̞;ko̞su;misu;suɣu
+z	z	S	13	11	aze̞aze̞;aze̞aze̞;muzi;muzikaβili;zuɣa
+d	d	T	16	11	dada;dada;ɣe̞de̞;do̞i;ke̞da
+t	t	T	43	25	taɣa;po̞to̞po̞to̞;po̞to̞po̞to̞;ko̞ata;to̞lo̞βo̞
+o̞	o̞	U	86	57	po̞to̞po̞to̞;po̞to̞po̞to̞;po̞to̞po̞to̞;po̞to̞po̞to̞;isaɾo̞ŋo̞
+u	u	Y	109	76	kakau;kakau;ne̞u;ko̞su;βui
+_	+	_	2	2	ŋgo̞la_kiba;e̞la_kale̞le̞

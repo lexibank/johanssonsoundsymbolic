@@ -1,35 +1,20 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	30
-^d̪	d̪	T	11
-^g	g	K	53
-^j	j	J	14
-^l	l	L	2
-^m	m	M	28
-^n̪	n̪	N	14
-^w	w	W	20
-^ŋ	ŋ	N	24
-^ɟ	ɟ	C	29
-^ɳ	ɳ	N	5
-_	+	_	4
-a	a	A	210
-a$	a	A	114
-b	b	P	52
-d̪	d̪	T	37
-g	g	K	58
-i	i	I	88
-i$	i	I	62
-j	j	J	10
-l	l	L	70
-l$	l	L	9
-lw	l w	L W	1
-m	m	M	26
-n̪	n̪	N	47
-r	r	R	21
-r$	r	R	5
-u	u	Y	116
-u$	u	Y	40
-w	w	W	26
-ŋ	ŋ	N	16
-ɟ	ɟ	C	60
-ɳ	ɳ	N	39
-ɻ	ɻ	R	10
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		230	NULL	bugamba;ban̪ɟa;ɟalu;ɟalu;ɟulur
+$	NULL		230	NULL	bugamba;ban̪ɟa;ɟalu;ɟalu;ɟulur
+a	a	A	324	210	bugamba;bugamba;ban̪ɟa;ban̪ɟa;ɟalu
+ɟ	ɟ	C	89	60	ban̪ɟa;ɟalu;ɟalu;ɟulur;ɟulagi
+i	i	I	150	88	balgi;miliɳba;miliɳba;baɳgan̪i;balalaɳi
+j	j	J	24	10	ŋulja;jabimba;jami;jirba;jilwil
+g	g	K	111	58	bugamba;balgi;baɳgan̪i;ɟulagi;gugud̪u
+l	l	L	82	70	ɟalu;ɟalu;ɟulur;balgi;miliɳba
+m	m	M	54	26	bugamba;miliɳba;muwa;man̪gaɳi;ŋamulu
+ŋ	ŋ	N	40	16	ŋulja;ŋuli;ŋamulu;ŋalu;baɟaŋu
+ɳ	ɳ	N	44	39	miliɳba;baɳgan̪i;balalaɳi;man̪gaɳi;d̪aɳga
+n̪	n̪	N	61	47	ban̪ɟa;baɳgan̪i;man̪gaɳi;d̪ugan̪a;gilin̪imba
+b	b	P	82	52	bugamba;bugamba;ban̪ɟa;balgi;miliɳba
+r	r	R	26	21	ɟulur;ɟun̪d̪ur;ɟarba;jirba;murgu
+ɻ	ɻ	R	10	10	ŋaɻaba;ɳiɻi;ŋiɻuga;baɻawu;ŋad̪aɻa
+d̪	d̪	T	48	37	gugud̪u;d̪aɳga;d̪ugan̪a;mad̪umad̪u;mad̪umad̪u
+w	w	W	47	26	waluwa;waluwa;muwa;gawa;guwad̪a
+u	u	Y	156	116	bugamba;ɟalu;ɟalu;ɟulur;ɟulur
+_	+	_	4	4	bagi_jiŋamali;guɟara_bagi_guɟara;guɟara_bagi_guɟara;guɟara_jiŋamali

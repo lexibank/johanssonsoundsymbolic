@@ -1,103 +1,57 @@
-Grapheme	IPA	SCA	Frequency
-$	NULL	NULL	1
-^a	a	A	81
-^aa	aː	A	10
-^aa$	aː	A	1
-^b	b	P	32
-^bw	b w	P W	1
-^d	d	T	12
-^i	i	I	8
-^ii	iː	I	4
-^j	j	J	3
-^k	k	K	25
-^kw	kw/k w	K W	1
-^l	l	L	1
-^m	m	M	3
-^n	n	N	2
-^o	o	U	4
-^oo	oː	U	2
-^oo$	oː	U	1
-^r	r	R	3
-^s	s	S	15
-^t	t	T	8
-^tw	t w	T W	1
-^tʃ	tʃ	T	1
-^ã	ã	A	1
-^ãã	ãː	A	6
-^ãã$	ãː	A	1
-^ĩĩ	ĩː	I	3
-^ũũ	ũ	Y	1
-^ɲ	ɲ	N	1
-^ʃ	ʃ	S	15
-^ʔw	ʔʷ	H	1
-_	+	_	49
-a	a	A	152
-a$	a	A	47
-aa	aː	A	46
-aa$	aː	A	22
-aaa$	aaa/aː	A	2
-b	b	P	82
-d	d	T	44
-e	e	E	6
-e$	e	E	1
-g	g	K	10
-g$	g	K	3
-gs	g s	K S	2
-gʃ	g ʃ	K S	2
-h	h	H	25
-h$	h	H	7
-i	i	I	111
-i$	i	I	64
-ii	iː	I	25
-ii$	iː	I	16
-iii$	iii/iː	I	1
-iiii$	iiii/iː	I	1
-j	j	J	14
-j$	j	J	1
-k	k	K	54
-k$	k	K	1
-ks	k s	K S	1
-l	l	L	1
-m	m	M	16
-n	n	N	18
-n$	n	N	8
-nʃ	n ʃ	N S	1
-o	o	U	34
-o$	o	U	4
-oo	oː	U	11
-oo$	oː	U	4
-p	p	P	1
-q	q	K	24
-qʃ	q ʃ	K S	3
-r	r	R	63
-rw	r w	R W	1
-s	s	S	45
-t	t	T	35
-tt	tt/tː	T	2
-tʃ	tʃ	T	7
-u	u	Y	21
-u$	u	Y	12
-uu	uː	Y	8
-uu$	uː	Y	12
-uuu	uuu/uː	Y	3
-ã	ã	A	10
-ã$	ã	A	3
-ãã	ãː	A	3
-ãã$	ãː	A	8
-õ	õ	U	1
-õõ$	õ	U	2
-ĩ	ĩ	I	4
-ĩ$	ĩ	I	5
-ĩĩ$	ĩː	I	4
-ŋ	ŋ	N	8
-ŋ$	ŋ	N	5
-ũ$	ũ	Y	2
-ũũ$	ũ	Y	1
-ɨ	ɨ	I	13
-ɨ$	ɨ	I	3
-ɨɨ	ɨː	I	2
-ɨ̃	ɨ̃	I	1
-ɨ̃ɨ̃$	ɨ̃	I	1
-ʃ	ʃ	S	66
-ʔ$	ʔ	H	2
-ẽ$	ẽ	E	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		239	NULL	baaduu;doqtosõn;rugtʃii;kumaaa;bisãã
+$	NULL		230	1	baaduu;doqtosõn;ĩĩʃki;rugtʃii;bisãã
+a	a	A	280	152	aroŋbɨʃini;aɨgʃuu;roradi;baqosõõ;aidjiii
+ã	ã	A	14	10	djoosaqãn;abãi;ʃirɨ̃_aqbaikãŋ;baɨgkirakbã;kãatũũ
+aa	aː	A	79	46	baaduu;aabii;daarikbi;aabi;saaʃi
+ãã	ãː	A	18	3	bisãã;bisãã;buubãã;ããkai;ihtãã
+aaa$	aaa/aː	A	2	2	kumaaa;ʃuŋbaaa
+e	e	E	7	6	karabaseɨba;bireikara;aʃiʃe;ʃkikbeh;ooqbarekʔ
+ẽ$	ẽ	E	2	2	asaaridgẽ;kobẽ
+h	h	H	32	25	bɨɨh;ahkara;ahtuuu;nindihkɨ;irohbaah
+ʔ$	ʔ	H	2	2	ĩĩtoupʔ;ooqbarekʔ
+^ʔw	ʔʷ	H	1	1	ʔwara
+i	i	I	183	111	ĩĩʃki;bisãã;bisãã;ibuuŋdji;ibuuŋdji
+ĩ	ĩ	I	9	4	kwĩ;kobahkaaĩ;boohboo_oqadjĩ;baakaĩ;tuu_aɨgsadjĩ
+ɨ	ɨ	I	16	13	aroŋbɨʃini;aɨgʃuu;nindihkɨ;karabaseɨba;baɨgkirakbã
+ii	iː	I	45	25	rugtʃii;iʃii;aabii;koqtʃii;iittʃikiri
+ɨɨ	ɨː	I	2	2	bɨɨh;tɨɨʃini
+ɨ̃	ɨ̃	I	1	1	ʃirɨ̃_aqbaikãŋ
+^ĩĩ	ĩː	I	3	3	ĩĩʃki;ĩĩtoupʔ;ĩĩsaami
+ĩĩ$	ĩː	I	4	4	ããtʃĩĩ;aqbadjĩĩ;aʃiʃĩĩ;ãtʃĩĩ
+iii$	iii/iː	I	1	1	aidjiii
+iiii$	iiii/iː	I	1	1	bibiiii
+ɨ̃ɨ̃$	ɨ̃	I	1	1	sɨ̃ɨ̃
+j	j	J	18	14	ibuuŋdji;aidjiii;djoosaqãn;taj;boohboo_oqadjĩ
+g	g	K	17	10	rugtʃii;aɨgʃuu;baɨgkirakbã;asaaridgẽ;anaɨgkãŋ
+k	k	K	81	54	ĩĩʃki;kumaaa;daarikbi;ahkara;bosobuku
+q	q	K	27	24	doqtosõn;baqosõõ;djoosaqãn;ʃirɨ̃_aqbaikãŋ;koqtʃii
+l	l	L	2	1	la;kabaala
+m	m	M	19	16	kumaaa;kaama;miikã;muuŋdani;maadji
+n	n	N	29	18	doqtosõn;aroŋbɨʃini;djoosaqãn;nindihkɨ;nindihkɨ
+ŋ	ŋ	N	13	8	ibuuŋdji;aroŋbɨʃini;ʃirɨ̃_aqbaikãŋ;ʃuŋbaaa;anaɨgkãŋ
+^ɲ	ɲ	N	1	1	ɲaa
+b	b	P	114	82	baaduu;bisãã;bisãã;ibuuŋdji;aroŋbɨʃini
+p	p	P	1	1	ĩĩtoupʔ
+r	r	R	66	63	rugtʃii;aroŋbɨʃini;roradi;roradi;daarikbi
+s	s	S	63	45	doqtosõn;bisãã;bisãã;baqosõõ;saaʃi
+ʃ	ʃ	S	87	66	ĩĩʃki;aroŋbɨʃini;aɨgʃuu;iʃii;saaʃi
+d	d	T	56	44	baaduu;doqtosõn;ibuuŋdji;roradi;daarikbi
+t	t	T	43	35	doqtosõn;ahtuuu;tɨɨʃini;ahtuu;ihtanbruki
+tt	tt/tː	T	2	2	iittʃikiri;ittʃiki
+tʃ	tʃ	T	8	7	rugtʃii;koqtʃii;ããtʃĩĩ;tʃibaɨg;baatʃiidu
+o	o	U	42	34	doqtosõn;doqtosõn;aroŋbɨʃini;roradi;baqosõõ
+õ	õ	U	1	1	doqtosõn
+oo	oː	U	18	11	djoosaqãn;oo;ʃdooh;tootubi;boohboo_oqadjĩ
+õõ$	õ	U	2	2	baqosõõ;dõõ
+u	u	Y	33	21	rugtʃii;kumaaa;bosobuku;bosobuku;duraaba
+uu	uː	Y	20	8	baaduu;ibuuŋdji;aɨgʃuu;buubãã;ahtuu
+ũ$	ũ	Y	2	2	baʃiʃũ;badũ
+^ũũ	ũ	Y	1	1	ũũŋda
+uuu	uuu/uː	Y	3	3	ahtuuu;kibuuuni;buuuri
+ũũ$	ũ	Y	1	1	kãatũũ
+_	+	_	49	49	ʃirɨ̃_aqbaikãŋ;aqduu_kiokbaa;aqdu_inʃki;boohboo_oqadjĩ;ʃikbaa_dikaina
+^kw	kw/k w	K W	1	1	kwĩ
+^bw	b w	P W	1	1	bwaikaan
+rw	r w	R W	1	1	biroorwai
+^tw	t w	T W	1	1	twaa

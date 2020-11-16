@@ -1,50 +1,26 @@
-Grapheme	IPA	SCA	Frequency
-^f	f	B	1
-^i	i	I	39
-^k	k	K	20
-^l	l	L	32
-^m	m	M	32
-^n	n	N	9
-^o	o	U	8
-^p	p	P	4
-^s	s	S	18
-^t	t	T	36
-^u	u	Y	4
-^x	x	G	14
-^ŋ	ŋ	N	6
-^ɑ	ɑ	A	34
-^ɑ$	ɑ	A	1
-^ɛ	ɛ	E	8
-^ʔ	ʔ	H	1
-^β	β	B	24
-_	+	_	15
-i	i	I	94
-i$	i	I	45
-ii	iː	I	1
-ii$	iː	I	1
-k	k	K	21
-l	l	L	109
-m	m	M	49
-n	n	N	35
-o	o	U	64
-o$	o	U	27
-oo	oː	U	1
-oo$	oː	U	2
-p	p	P	8
-s	s	S	40
-t	t	T	43
-u	u	Y	76
-u$	u	Y	70
-uu$	uː	Y	1
-x	x	G	60
-ŋ	ŋ	N	17
-ɑ	ɑ	A	193
-ɑ$	ɑ	A	39
-ɑɑ	ɑː	A	3
-ɑɑ$	ɑː	A	4
-ɛ	ɛ	E	95
-ɛ$	ɛ	E	99
-ɛɛ	ɛː	E	2
-ɛɛ$	ɛː	E	2
-ʔ	ʔ	H	41
-β	β	B	46
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		290	NULL	tɛitɛxi;βɑβɑlɑ;lɑtɑlɑ;kilikɑlu;tɛmɛnɛ
+$	NULL		290	NULL	tɛitɛxi;βɑβɑlɑ;lɑtɑlɑ;kilikɑlu;tɛmɛnɛ
+ɑ	ɑ	A	267	193	βɑβɑlɑ;βɑβɑlɑ;βɑβɑlɑ;lɑtɑlɑ;lɑtɑlɑ
+ɑɑ	ɑː	A	7	3	ɑʔɑɑ;tɑɑtɑɑ;tɑɑtɑɑ;tɑɑsiɛ;ɑloxoβɑɑ
+β	β	B	70	46	βɑβɑlɑ;βɑβɑlɑ;lɑuβɑnu;βɑsimɛlɛ;iβo
+^f	f	B	1	1	fɑu
+ɛ	ɛ	E	202	95	tɛitɛxi;tɛitɛxi;tɛmɛnɛ;tɛmɛnɛ;tɛmɛnɛ
+ɛɛ	ɛː	E	4	2	sɛsɛɛnu;βɛβɛɛ;βɛβɛɛ;xɑlɛɛxu
+x	x	G	74	60	tɛitɛxi;suxiŋɛŋi;suxiŋɛŋi;mɑɛxo;xo
+ʔ	ʔ	H	42	41	luʔɛ;ʔɛlɑʔɛlɑ;ʔɛlɑʔɛlɑ;siβɑβɑʔɛ;nɛʔɛ
+i	i	I	178	94	tɛitɛxi;tɛitɛxi;kilikɑlu;kilikɑlu;lululi
+ii	iː	I	2	1	kii;ɑiinu
+k	k	K	41	21	kilikɑlu;kilikɑlu;oko;kolo;koo
+l	l	L	141	109	βɑβɑlɑ;lɑtɑlɑ;lɑtɑlɑ;kilikɑlu;kilikɑlu
+m	m	M	81	49	tɛmɛnɛ;lomulo;tumɑliɛ;mɑɛxo;muximuxi
+n	n	N	44	35	tɛmɛnɛ;lɑuβɑnu;nɛʔɛ;nɑβɑɛ;ɑni
+ŋ	ŋ	N	23	17	suxiŋɛŋi;suxiŋɛŋi;suxiŋɛŋi;suxiŋɛŋi;ŋotu
+p	p	P	12	8	opoo;mulɑpu;lɑpɑu;pukɛ;pɑpɑxɛxu
+s	s	S	58	40	suxiŋɛŋi;suxiŋɛŋi;sixulɑ;siɑluxu;βɑsimɛlɛ
+t	t	T	79	43	tɛitɛxi;tɛitɛxi;lɑtɑlɑ;tɛmɛnɛ;tumɑliɛ
+o	o	U	99	64	lomulo;lomulo;mɑɛxo;ŋotu;xo
+oo	oː	U	3	1	opoo;koo;mɑtoxoonu
+u	u	Y	150	76	kilikɑlu;lululi;lululi;suxiŋɛŋi;suxiŋɛŋi
+uu$	uː	Y	1	1	βuβuu
+_	+	_	15	15	muxɑtɛlɛ_tɑtɑlu;mɑβoloβɛxɑ_βilɛ_mo_mulɛliɑ_βilɛ;mɑβoloβɛxɑ_βilɛ_mo_mulɛliɑ_βilɛ;mɑβoloβɛxɑ_βilɛ_mo_mulɛliɑ_βilɛ;mɑβoloβɛxɑ_βilɛ_mo_mulɛliɑ_βilɛ

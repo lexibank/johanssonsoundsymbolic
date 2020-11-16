@@ -1,84 +1,46 @@
-Grapheme	IPA	SCA	Frequency
-^d	d	T	1
-^h	h	H	47
-^j	j	J	6
-^k	k	K	16
-^kh	kʰ	K	2
-^l̪	l̪	L	11
-^m	m	M	29
-^n̪	n̪	N	21
-^p	p	P	29
-^ph	pʰ	P	5
-^s̪	s̪	S	2
-^t	t	T	20
-^tʃ	tʃ	T	11
-^tʃh	tʃʰ	T	1
-^t̪h	t̪ʰ	T	2
-^t̪s̪	ts̪	T	18
-^t̪s̪h	ts̪ʰ	T	8
-^w	w	W	4
-^ʃ	ʃ	S	17
-^ʔ	ʔ	H	66
-_	+	_	3
-a	a	A	110
-a$	a	A	80
-aa	aː	A	18
-aa$	aː	A	1
-e	e	E	131
-e$	e	E	32
-ee	eː	E	5
-h	h	H	21
-h$	h	H	5
-hs̪	h s̪	H S	1
-hw	hw/hʷ	H	1
-hʃ	h ʃ	H S	4
-i	i	I	117
-i$	i	I	41
-ii	iː	I	10
-j	j	J	37
-j$	j	J	6
-jh	jh/j̊	J	2
-js̪$	j s̪	J S	1
-k	k	K	34
-kh	kh/kʰ	K	14
-kh$	kh/kʰ	K	7
-khʃ	kh/kʰ ʃ	K S	1
-l̪	l̪	L	43
-l̪$	l̪	L	11
-l̪h	l̪ʰ	L	1
-l̪s̪	l̪ s̪	L S	1
-m	m	M	26
-m$	m	M	1
-n̪	n̪	N	14
-n̪$	n̪	N	8
-n̪s̪	n̪ s̪	N S	1
-o	o	U	71
-o$	o	U	2
-oo	oː	U	7
-p	p	P	44
-ph	ph/pʰ	P	4
-ph$	ph/pʰ	P	2
-s̪	s̪	S	14
-s̪$	s̪	S	14
-s̪h	s̪ʰ	S	1
-t	t	T	41
-t$	t	T	2
-th	th/tʰ	T	3
-th$	th/tʰ	T	1
-tʃ	tʃ	T	13
-tʃh	tʃh/tʃʰ	T	1
-t̪h	t̪h/t̪ʰ	T	1
-t̪s̪	ts̪/ts̪	T	19
-t̪s̪h	t̪s̪h/ts̪ʰ	T	21
-t̪s̪h$	t̪s̪h/ts̪ʰ	T	3
-u	u	Y	55
-u$	u	Y	5
-uu	uː	Y	9
-w	w	W	30
-w$	w	W	6
-wʃ	w ʃ	W S	1
-ʃ	ʃ	S	18
-ʃ$	ʃ	S	4
-ʔ	ʔ	H	119
-ʔ$	ʔ	H	84
-ʔh	ʔh/ʔʰ	H	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		279	NULL	tejmu;heʃuʔu;mul̪ʔ;mal̪eʔʃaʔ;teehewʔ
+$	NULL		316	NULL	tejmu;heʃuʔu;mul̪ʔ;mal̪eʔʃaʔ;teehewʔ
+a	a	A	190	110	mal̪eʔʃaʔ;mal̪eʔʃaʔ;l̪akʔa;l̪akʔa;l̪akʔa
+aa	aː	A	19	18	tutʃʔaakhiʔ;t̪s̪ʔhoʔel̪jaamiʔ;mas̪pawaal̪ewin̪ʔ;hojokaal̪aʔ;pit̪s̪aal̪i
+e	e	E	163	131	tejmu;heʃuʔu;mal̪eʔʃaʔ;teehewʔ;hol̪ootʔewʔ
+ee	eː	E	5	5	teehewʔ;n̪eweel̪a;n̪ut̪s̪eete;ʔekheepi;ʔekheepi
+h	h	H	78	21	heʃuʔu;teehewʔ;hol̪ootʔewʔ;hel̪pipol̪ʔ;kʔul̪ih
+ʔ	ʔ	H	277	119	heʃuʔu;mul̪ʔ;mal̪eʔʃaʔ;mal̪eʔʃaʔ;teehewʔ
+hw	hw/hʷ	H	1	1	ʔohwathtaʔ
+ʔh	ʔh/ʔʰ	H	4	4	t̪s̪ʔhoʔel̪jaamiʔ;meʔhol̪e;maʔhajs̪;pheʔhol̪e
+i	i	I	158	117	hel̪pipol̪ʔ;kʔul̪ih;kʔitʔa;huʃikʔa;tutʃʔaakhiʔ
+ii	iː	I	10	10	n̪ot̪hol̪hiijakhiʔ;huuʃiʔiija;ʔohtaʔiija;ʃojʔiija;mehtʃawʔiija
+j	j	J	50	37	tejmu;n̪ot̪hol̪hiijakhiʔ;phujiʔ;tuuj;ʃojʔʃiʔ
+jh	jh/j̊	J	2	2	l̪ajhmej;tujhuwel̪a
+k	k	K	50	34	l̪akʔa;l̪akʔa;kʔul̪ih;t̪s̪ʔekʔma;kʔitʔa
+kh	kh/kʰ	K	22	14	tutʃʔaakhiʔ;n̪ot̪hol̪hiijakhiʔ;hetʔis̪khiʔ;ʔoʃakh;mekhʃiʔ
+^kh	kʰ	K	2	2	khape;khotʔs̪eʔ
+l̪	l̪	L	66	43	mul̪ʔ;mal̪eʔʃaʔ;hol̪ootʔewʔ;l̪akʔa;l̪akʔa
+l̪h	l̪ʰ	L	1	1	n̪ot̪hol̪hiijakhiʔ
+m	m	M	56	26	tejmu;mul̪ʔ;mal̪eʔʃaʔ;t̪s̪ʔekʔma;hupomis̪
+n̪	n̪	N	44	14	n̪aʔkʔaʃiʔ;n̪ot̪hol̪hiijakhiʔ;n̪eph;mehn̪itʔa;hin̪ta
+p	p	P	73	44	hel̪pipol̪ʔ;hel̪pipol̪ʔ;hupomis̪;pol̪ʔeʔ;pes̪itis̪
+ph	ph/pʰ	P	6	4	ʔoph;n̪eph;n̪aphiipa;tʃopha;hephi
+^ph	pʰ	P	5	5	phujiʔ;phikʔeʔ;pheʔ;pheʔmit̪s̪h;pheʔhol̪e
+ʃ	ʃ	S	49	18	heʃuʔu;mal̪eʔʃaʔ;ʃuwel̪a;huʃikʔa;n̪aʔkʔaʃiʔ
+s̪	s̪	S	37	14	ʃikʔatʔis̪;hupomis̪;pes̪itis̪;pes̪itis̪;mehʃikʔs̪eʔ
+s̪h	s̪ʰ	S	1	1	mas̪hopil̪ewin̪ʔ
+t	t	T	63	41	tejmu;teehewʔ;hol̪ootʔewʔ;kʔitʔa;tutʃʔaakhiʔ
+^d	d	T	1	1	dul̪s̪eʔ
+th	th/tʰ	T	4	3	puth;pʔethaʔ;ʔohwathtaʔ;ʃuthe
+tʃ	tʃ	T	24	13	tutʃʔaakhiʔ;tʃoh;tʃajʔis̪;ʔotʃʔitʃa;ʔotʃʔitʃa
+tʃh	tʃh/tʃʰ	T	1	1	ʃitʃhel̪khiʔ
+t̪h	t̪h/t̪ʰ	T	1	1	n̪ot̪hol̪hiijakhiʔ
+^tʃh	tʃʰ	T	1	1	tʃhuja
+^t̪h	t̪ʰ	T	2	2	t̪hal̪;t̪hamaajoh
+t̪s̪	ts̪/ts̪	T	19	19	t̪s̪ʔit̪s̪ʔa;ʃujut̪s̪eʔ;kʔot̪s̪ʔmiʔ;pit̪s̪oowe;hut̪s̪ʔi
+^t̪s̪	ts̪	T	18	18	t̪s̪ʔekʔma;t̪s̪ʔit̪s̪ʔa;t̪s̪oowe;t̪s̪ʔiti;t̪s̪ʔum
+t̪s̪h	t̪s̪h/ts̪ʰ	T	24	21	t̪s̪hat̪s̪h;huʔajt̪s̪h;pheʔmit̪s̪h;hut̪s̪hatis̪;pit̪s̪ha
+^t̪s̪h	ts̪ʰ	T	8	8	t̪s̪hat̪s̪h;t̪s̪how;t̪s̪hiw;t̪s̪hipe;t̪s̪hil̪a
+o	o	U	73	71	hol̪ootʔewʔ;hel̪pipol̪ʔ;ʔoph;n̪ot̪hol̪hiijakhiʔ;n̪ot̪hol̪hiijakhiʔ
+oo	oː	U	7	7	hol̪ootʔewʔ;t̪s̪oowe;pit̪s̪oowe;tʃikooteʔ;hoowaʔi
+w	w	W	42	30	teehewʔ;hol̪ootʔewʔ;ʔuwa;ʃuwel̪a;t̪s̪oowe
+u	u	Y	60	55	tejmu;heʃuʔu;heʃuʔu;mul̪ʔ;kʔul̪ih
+uu	uː	Y	9	9	tuuj;tʃuutʃuʔ;huuʃiʔiija;heuus̪eʔ;mukuukhiʔ
+_	+	_	3	3	ʔokel̪_huukal̪i;metʔe_matʃʔewʔis̪;teʔi_ja

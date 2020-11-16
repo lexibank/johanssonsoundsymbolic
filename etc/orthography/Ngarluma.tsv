@@ -1,45 +1,28 @@
-Grapheme	IPA	SCA	Frequency
-^c	c	C	14
-^j	j	J	17
-^k	k	K	52
-^m	m	M	66
-^n̪	n̪	N	9
-^p	p	P	59
-^t̪	t̪	T	17
-^w	w	W	28
-^ŋ	ŋ	N	34
-^ɲ	ɲ	N	7
-_	+	_	10
-a	a	A	299
-a$	a	A	117
-aa	aː	A	1
-c	c	C	33
-i	i	I	112
-i$	i	I	57
-j	j	J	22
-k	k	K	114
-l	l	L	47
-l$	l	L	2
-l̪	l̪	L	6
-m	m	M	40
-n	n	N	41
-n$	n	N	2
-n̪	n̪	N	1
-p	p	P	48
-r	r	R	45
-rr	rr/rː	R	54
-rr$	rr/rː	R	8
-t	t	T	30
-t̪	t̪	T	22
-u	u	Y	163
-u$	u	Y	104
-w	w	W	12
-ŋ	ŋ	N	34
-ɭ	ɭ	L	30
-ɭ$	ɭ	L	5
-ɲ	ɲ	N	15
-ɲ$	ɲ	N	1
-ɳ	ɳ	N	45
-ɳ$	ɳ	N	7
-ɽ	ɽ	R	33
-ʎ	ʎ	L	11
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		303	NULL	kucura;wajakarriku;puɭura;ŋanka;cuɭu
+$	NULL		303	NULL	kucura;wajakarriku;puɭura;ŋanka;cuɭu
+a	a	A	416	299	kucura;wajakarriku;wajakarriku;wajakarriku;puɭura
+aa	aː	A	1	1	caamaku
+c	c	C	47	33	kucura;cuɭu;pacawaɳilku;ciɭi;ciɭi
+i	i	I	169	112	wajakarriku;pacawaɳilku;ciɭi;ciɭi;ciɭi
+j	j	J	39	22	wajakarriku;jipa;ŋajiɲ_maku;juɳtura;jaɳta
+k	k	K	166	114	kucura;wajakarriku;wajakarriku;ŋanka;pacawaɳilku
+l	l	L	49	47	pacawaɳilku;palaʎi;mal̪ula;piʎalku;mila
+ɭ	ɭ	L	35	30	puɭura;cuɭu;muɭa;ciɭi;ciɭi
+ʎ	ʎ	L	11	11	waʎka;palaʎi;piʎalku;miʎiku;ŋaʎi
+l̪	l̪	L	6	6	mal̪ula;pal̪arra;mul̪aŋka;wal̪aɳ;pipi_mul̪a
+m	m	M	106	40	muɭa;waruma;maŋarr;mal̪ula;mirrka
+n	n	N	43	41	ŋanka;pant̪u;pacacun;muntu;wiɲacun
+ŋ	ŋ	N	68	34	ŋanka;maŋarr;puŋa;ŋajiɲ_maku;ŋaciku
+ɲ	ɲ	N	23	15	ŋajiɲ_maku;ɲuɳtiwaɳiku;waɲca;piɲcalku;wiɲacun
+ɳ	ɳ	N	52	45	pacawaɳilku;t̪aɳa;t̪uɳu;kuɳtu;kaɳtara
+n̪	n̪	N	10	1	n̪aɳukurru;n̪ula;n̪ulawarra;n̪aji;n̪akuku
+p	p	P	107	48	puɭura;pacawaɳilku;jipa;kapu;palaʎi
+r	r	R	45	45	kucura;puɭura;waruma;kari;matiri
+ɽ	ɽ	R	33	33	maɽa;wiɽa;ciɽamarra;miɽamuna;paɽu
+rr	rr/rː	R	62	54	wajakarriku;maŋarr;mirrka;warru;pat̪arrku
+t	t	T	30	30	muntu;kuɳtu;matiri;kaɳtara;caɳtiku
+t̪	t̪	T	39	22	t̪aɳa;pant̪u;t̪uɳu;pat̪arrku;mut̪u
+w	w	W	40	12	wajakarriku;pacawaɳilku;waruma;waʎka;warru
+u	u	Y	267	163	kucura;kucura;wajakarriku;puɭura;puɭura
+_	+	_	10	10	ŋajiɲ_maku;maɽu_mara;maɽu_cina;kuɭukuɭu_maru;pipi_mul̪a

@@ -1,74 +1,39 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	35
-^b	b	P	15
-^d	d	T	12
-^e	e	E	3
-^g	g	K	14
-^h	h	H	60
-^i	i	I	14
-^i$	i	I	1
-^j	j	J	20
-^k	k	K	12
-^kh	kʰ	K	16
-^m	m	M	11
-^n	n	N	5
-^o	o	U	2
-^p	p	P	6
-^ph	pʰ	P	12
-^t	t	T	20
-^th	th/tʰ	T	9
-^tʃ	tʃ	T	8
-^tʃh	tʃʰ	T	14
-^u	u	Y	11
-^ã	ã	A	3
-^ĩ	ĩ	I	1
-^ɔ	ɔ	U	8
-^ɛ	ɛ	E	2
-^ɯ	ɯ	I	1
-^ɾ	ɾ	R	1
-_	+	_	70
-a	a	A	151
-a$	a	A	73
-b	b	P	38
-d	d	T	44
-e	e	E	36
-e$	e	E	6
-g	g	K	6
-h	h	H	12
-i	i	I	64
-i$	i	I	21
-j	j	J	16
-k	k	K	16
-kh	kh/kʰ	K	17
-m	m	M	52
-n	n	N	26
-o	o	U	58
-o$	o	U	12
-p	p	P	21
-ph	ph/pʰ	P	2
-t	t	T	40
-th	th/tʰ	T	1
-tʃ	tʃ	T	25
-tʃh	tʃh/tʃʰ	T	19
-u	u	Y	45
-u$	u	Y	13
-ã	ã	A	67
-ã$	ã	A	20
-ĩ	ĩ	I	41
-ĩ$	ĩ	I	82
-ũ	ũ	Y	3
-ɔ	ɔ	U	23
-ɔ$	ɔ	U	13
-ɔ̃	ɔ̃	U	21
-ɔ̃$	ɔ̃	U	15
-ɛ	ɛ	E	41
-ɛ$	ɛ	E	21
-ɛ̃	ɛ̃	E	18
-ɛ̃$	ɛ̃	E	17
-ɤ̃	ɤ̃	E	2
-ɤ̃$	ɤ̃	E	7
-ɯ	ɯ	I	17
-ɯ$	ɯ	I	15
-ɯ̃	ɯ̃	I	2
-ɾ	ɾ	R	97
-β	β	B	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		274	NULL	uɛ;uapa;duɾi;eɾe_hɯ;koai
+$	NULL		316	NULL	uɛ;uapa;duɾi;phaepa;tʃhɯnãĩ
+a	a	A	259	151	uapa;uapa;phaepa;phaepa;koai
+ã	ã	A	90	67	tʃhɯnãĩ;jabɔtãɾãɾi;jabɔtãɾãɾi;apɛtãɾãɾi;apɛtãɾãɾi
+β	β	B	1	1	iβɛ
+e	e	E	45	36	phaepa;eɾe_hɯ;eɾe_hɯ;ɛtetãɾãɾi;goe
+ɛ	ɛ	E	64	41	uɛ;tʃhaĩdɛ;apɛtãɾãɾi;ɛtetãɾãɾi;ɛ_tʃia
+ɛ̃	ɛ̃	E	35	18	tʃha_khiamɛ̃;hɛ̃oa;domɛ̃;itʃi_tʃhɯnãĩ_khaɾɛ̃mɛ̃;itʃi_tʃhɯnãĩ_khaɾɛ̃mɛ̃
+ɤ̃	ɤ̃	E	9	2	nɤ̃;anɤ̃;pɤ̃ɾɤ̃;pɤ̃ɾɤ̃;kɤ̃
+h	h	H	72	12	eɾe_hɯ;itʃi_hu;itʃi_hu;hui;hɔ̃dɛ_koto
+i	i	I	100	64	duɾi;koai;itʃi_hu;itʃi_hu;itʃi_hu
+ĩ	ĩ	I	124	41	tʃhɯnãĩ;tʃhaĩdɛ;ɔĩ_boĩ;ɔĩ_boĩ;tʃhadɛɾĩ
+ɯ	ɯ	I	33	17	tʃhɯnãĩ;eɾe_hɯ;akɯ;phuɾɛkɯa;phaio_tɯka
+ɯ̃	ɯ̃	I	2	2	to_phɯ̃da;phɯ̃da_to
+j	j	J	36	16	jabɔtãɾãɾi;juɾoɾo;jɔɾɔ;jɔ̃;jatɛ
+g	g	K	20	6	goe;gɔ̃ãɾã;aguɾetʃɯ;gaɔ;gɔ̃ã
+k	k	K	28	16	koai;phutu_kaɾa;akɯ;phuɾɛkɯa;hɔ̃dɛ_koto
+kh	kh/kʰ	K	17	17	tʃha_khiamɛ̃;ikhaɾa;hoa_oa_khia;ehaɾo_khia;itʃi_tʃhɯnãĩ_khaɾɛ̃mɛ̃
+^kh	kʰ	K	16	16	khaĩtãɾãɾi_thaɾaɾĩ;khaɾapeã;khɔ̃dɛ;khaɾɛ̃_itʃimɔ̃;khɔ̃ɾɔ̃
+m	m	M	63	52	tʃha_khiamɛ̃;apɛ_tʃamã;domɛ̃;itʃi_tʃhɯnãĩ_khaɾɛ̃mɛ̃;habɛtaɾĩmĩ
+n	n	N	31	26	tʃhɯnãĩ;anã;hanã;dabu_phɔ̃nɔ̃;nɤ̃
+b	b	P	53	38	jabɔtãɾãɾi;buɾɛbuɾɛa;buɾɛbuɾɛa;ɔĩ_boĩ;buɾɛbuɾɛa
+p	p	P	27	21	uapa;phaepa;apɛtãɾãɾi;pua;apɛ_tʃamã
+ph	ph/pʰ	P	2	2	dabu_phɔ̃nɔ̃;to_phɯ̃da
+^ph	pʰ	P	12	12	phaepa;phutu_kaɾa;phuɾɛkɯa;phaio_tɯka;phatɛ
+ɾ	ɾ	R	98	97	duɾi;eɾe_hɯ;phutu_kaɾa;taɾa;jabɔtãɾãɾi
+d	d	T	56	44	duɾi;tʃhaĩdɛ;hɔ̃dɛ_koto;tʃhadɛɾĩ;hade
+t	t	T	60	40	phutu_kaɾa;to_i;taɾa;jabɔtãɾãɾi;apɛtãɾãɾi
+th	th/tʰ	T	10	1	tha;thɔkɔɾɔ;khaĩtãɾãɾi_thaɾaɾĩ;thomɔ̃;thɔbɛ
+tʃ	tʃ	T	33	25	itʃi_hu;itʃi_hu;ɛ_tʃia;tʃutʃu;tʃutʃu
+tʃh	tʃh/tʃʰ	T	19	19	itʃi_tʃhɯnãĩ_khaɾɛ̃mɛ̃;itʃi_tʃhia;to_tʃhutʃhu;to_tʃhutʃhu;tʃhãtʃhã
+^tʃh	tʃʰ	T	14	14	tʃhɯnãĩ;tʃhaĩdɛ;tʃha_khiamɛ̃;tʃhadɛɾĩ;tʃhadɛ
+o	o	U	72	58	koai;to_i;juɾoɾo;juɾoɾo;goe
+ɔ	ɔ	U	44	23	jabɔtãɾãɾi;tɔtɔa;tɔtɔa;ɔĩ_boĩ;thɔkɔɾɔ
+ɔ̃	ɔ̃	U	36	21	hɔ̃dɛ_koto;gɔ̃ãɾã;dabu_phɔ̃nɔ̃;dabu_phɔ̃nɔ̃;hɔ̃ɛ̃ɾã
+u	u	Y	69	45	uɛ;uapa;duɾi;itʃi_hu;itʃi_hu
+ũ	ũ	Y	3	3	jũɾã;jũɾã_tʃia;phũĩnɔ̃
+_	+	_	70	70	eɾe_hɯ;itʃi_hu;itʃi_hu;phutu_kaɾa;to_i

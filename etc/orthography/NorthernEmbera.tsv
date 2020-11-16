@@ -1,76 +1,38 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	14
-^b	b	P	22
-^d	d	T	10
-^e	e	E	6
-^e$	e	E	1
-^h	h	H	36
-^i	i	I	6
-^i$	i	I	2
-^k	k	K	36
-^m	m	M	13
-^n	n	N	11
-^nn$	nː	N	1
-^o	o	U	13
-^o$	o	U	2
-^p	p	P	21
-^s	s	S	10
-^t	t	T	8
-^tʃ	tʃ	T	8
-^u	u	Y	9
-^w	w	W	4
-^z	z	S	20
-^zh	zʰ	S	1
-^ã	ã	A	10
-^õ	õ	U	11
-^ĩ	ĩ	I	3
-^ũ	ũ	Y	3
-^ɓ	ɓ	P	4
-^ɟ	ɟ	C	10
-^ɯ	ɯ	I	4
-^ɯ̃	ɯ̃	I	2
-^ẽ	ẽ	E	2
-_	+	_	13
-a	a	A	104
-a$	a	A	133
-aa	aː	A	1
-b	b	P	28
-d	d	T	14
-e	e	E	49
-e$	e	E	26
-g	g	K	13
-h	h	H	2
-i	i	I	49
-i$	i	I	21
-j	j	J	4
-k	k	K	26
-m	m	M	31
-n	n	N	11
-o	o	U	38
-o$	o	U	17
-p	p	P	31
-r	r	R	127
-s	s	S	15
-t	t	T	13
-tʃ	tʃ	T	8
-u	u	Y	38
-u$	u	Y	17
-w	w	W	10
-z	z	S	19
-ã	ã	A	68
-ã$	ã	A	49
-õ	õ	U	30
-ĩ	ĩ	I	15
-ĩ$	ĩ	I	8
-ũ	ũ	Y	10
-ũ$	ũ	Y	4
-ɓ	ɓ	P	11
-ɗ	ɗ	T	14
-ɟ	ɟ	C	8
-ɯ	ɯ	I	29
-ɯ$	ɯ	I	12
-ɯ̃	ɯ̃	I	6
-ɯ̃$	ɯ̃	I	5
-ʉ̃$	ʉ̃	Y	1
-ẽ	ẽ	E	28
-ẽ$	ẽ	E	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		301	NULL	ɯ̃rɯ̃;oaja;tẽã;huma;kĩrũ
+$	NULL		301	NULL	ɯ̃rɯ̃;oaja;tẽã;huma;kĩrũ
+^nn$	nː	N	1	1	nn
+a	a	A	251	104	oaja;oaja;huma;animãrã;hɯua
+ã	ã	A	127	68	tẽã;animãrã;animãrã;mẽrã;nãẽɗa
+aa	aː	A	1	1	hɯuaaraɗe
+ɟ	ɟ	C	18	8	kaɟirua;ɟara;iɟi;ɟora;ãɟa
+e	e	E	82	49	ekara;bakurue;karea;ãbɯde;eɗa
+ẽ	ẽ	E	34	28	tẽã;mẽrã;nãẽɗa;sokaraẽ;hẽrũ
+h	h	H	38	2	huma;hɯua;hɯua;harapua;hu
+i	i	I	78	49	animãrã;itaraɓa;kaɟirua;butʃi;uaiɓɯa
+ĩ	ĩ	I	26	15	kĩrũ;ĩbana;hĩã;mĩga;tʃĩ
+ɯ	ɯ	I	45	29	hɯua;hɯua;ãbɯde;uaiɓɯa;bɯuɯrɯ
+ɯ̃	ɯ̃	I	13	6	ɯ̃rɯ̃;ɯ̃rɯ̃;hɯ̃rãrã;hɯ̃ũɯ̃rɯ̃ã;hɯ̃ũɯ̃rɯ̃ã
+j	j	J	4	4	oaja;eja;kɯjakɯja;kɯjakɯja
+g	g	K	13	13	ãga;egoro;mĩga;nẽdraga;zɯgɯa
+k	k	K	62	26	kĩrũ;ekara;kaɟirua;bakurue;karea
+m	m	M	44	31	huma;animãrã;mẽrã;paima;boromoro
+n	n	N	22	11	animãrã;nãẽɗa;ĩbana;ɯnãba;nãɓɯa
+b	b	P	50	28	bakurue;ãbɯde;butʃi;ĩbana;bɯuɯrɯ
+p	p	P	52	31	paima;harapua;pãõãrã;poa;purea
+ɓ	ɓ	P	15	11	itaraɓa;uaiɓɯa;ɓa;nãɓɯa;ɓeda
+r	r	R	127	127	ɯ̃rɯ̃;kĩrũ;animãrã;itaraɓa;ekara
+s	s	S	25	15	asea;kũrãsa;oso;ãsa;usa
+z	z	S	39	19	ze;zarea;zɯgɯa;zrõã;zrõã
+^zh	zʰ	S	1	1	zhiwiɗi
+d	d	T	24	14	ãbɯde;ãdau;do;dau;uduõã
+t	t	T	21	13	tẽã;itaraɓa;atau;mititia;mititia
+ɗ	ɗ	T	14	14	nãẽɗa;eɗa;buɗa;bɯsrɯiɗa;eɗa
+tʃ	tʃ	T	16	8	butʃi;tʃĩ;hɯuabitʃiwi;tʃirua;katʃu
+o	o	U	70	38	oaja;oa;oara;boromoro;boromoro
+õ	õ	U	41	30	pãõãrã;uduõã;õãɓari;õã;pãõãrã
+w	w	W	14	10	hɯuabitʃiwi;sawa;kawa;zhiwiɗi;peweɗea
+u	u	Y	64	38	huma;hɯua;hɯua;kaɟirua;bakurue
+ũ	ũ	Y	17	10	kĩrũ;kũrãsa;hẽrũ;ũrĩ;hɯ̃ũɯ̃rɯ̃ã
+ʉ̃$	ʉ̃	Y	1	1	mãʉ̃
+_	+	_	13	13	sokai_ɓɯ;ɟaba_ũẽrã_nãbema;ɟaba_ũẽrã_nãbema;ɟaba_ũẽrã_nãbema;ɟaba_ũẽrã_nãbema

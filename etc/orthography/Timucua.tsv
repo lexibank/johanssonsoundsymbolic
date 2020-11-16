@@ -1,46 +1,23 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	33
-^b	b	P	10
-^e	e	E	25
-^f	f	B	2
-^h	h	H	24
-^i	i	I	43
-^j	j	J	13
-^k	k	K	27
-^kw	kw/k w	K W	12
-^l	l	L	4
-^ls	l s	L S	2
-^m	m	M	8
-^n	n	N	9
-^o	o	U	7
-^p	p	P	20
-^s	s	S	2
-^t	t	T	10
-^tʃ	tʃ	T	19
-^u	u	Y	4
-a	a	A	60
-a$	a	A	103
-b	b	P	34
-e	e	E	33
-e$	e	E	49
-f	f	B	9
-h	h	H	8
-i	i	I	77
-i$	i	I	48
-j	j	J	10
-k	k	K	49
-kw	kw/k w	K W	14
-l	l	L	32
-m	m	M	23
-n	n	N	28
-o	o	U	34
-o$	o	U	57
-oo	oː	U	1
-p	p	P	13
-r	r	R	35
-s	s	S	23
-s$	s	S	1
-t	t	T	49
-tʃ	tʃ	T	16
-u	u	Y	34
-u$	u	Y	16
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		274	NULL	abo;kere;ake;tooma;kato
+$	NULL		274	NULL	abo;kere;ake;tooma;kato
+a	a	A	196	60	abo;ake;tooma;kato;hatʃipile
+f	f	B	11	9	ofue;tʃulufi;efa;parifo;afaba
+e	e	E	107	33	kere;kere;ake;hatʃipile;anapie
+h	h	H	32	8	hatʃipile;hime;he;pikinahu;huri
+i	i	I	168	77	hatʃipile;hatʃipile;sulukwita;pisoko;pisoko
+j	j	J	23	10	juba;ekojo;jabi;kuju;jamu
+k	k	K	76	49	kere;ake;kato;pisoko;pisoko
+l	l	L	38	32	hatʃipile;sulukwita;lstiko;tʃulufi;ltʃiko
+m	m	M	31	23	tooma;kwimosi;mine;melo;kume
+n	n	N	37	28	anapie;nanaku;nanaku;mine;pikinahu
+b	b	P	44	34	abo;juba;jabi;biu;bio
+p	p	P	33	13	hatʃipile;pisoko;pisoko;api;anapie
+r	r	R	35	35	kere;iparu;areka;bere;marua
+s	s	S	28	23	sulukwita;pisoko;pisoko;lstiko;isa
+t	t	T	59	49	tooma;kato;sulukwita;lstiko;pata
+tʃ	tʃ	T	35	16	hatʃipile;otʃo;tʃulufi;ltʃiko;tʃuku
+o	o	U	98	34	abo;kato;pisoko;pisoko;pisoko
+oo	oː	U	1	1	tooma
+u	u	Y	54	34	sulukwita;sulukwita;juba;nanaku;ofue
+kw	kw/k w	K W	26	14	sulukwita;kwimosi;ukwale;ikwa;ikwi

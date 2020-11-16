@@ -1,69 +1,30 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	3
-^b	b	P	8
-^c	c	C	1
-^d	d	T	5
-^e	e	E	11
-^g	g	K	8
-^i	i	I	6
-^j	j	J	7
-^k	k	K	56
-^l	l	L	4
-^m	m	M	21
-^n	n	N	14
-^o	o	U	2
-^p	p	P	13
-^r	r	R	9
-^s	s	S	12
-^t	t	T	41
-^u	u	Y	3
-^u$	u	Y	4
-^w	w	W	7
-^ɔ	ɔ	U	3
-^ɛ	ɛ	E	6
-_	+	_	17
-a	a	A	172
-a$	a	A	29
-b	b	P	12
-c	c	C	10
-d	d	T	6
-e	e	E	32
-e$	e	E	4
-g	g	K	12
-gg	gː	K	1
-h	h	H	2
-h$	h	H	1
-i	i	I	52
-i$	i	I	5
-j	j	J	3
-k	k	K	23
-k$	k	K	18
-l	l	L	27
-l$	l	L	10
-m	m	M	34
-m$	m	M	14
-n	n	N	38
-n$	n	N	72
-ns	n s	N S	1
-o	o	U	17
-o$	o	U	3
-p	p	P	9
-p$	p	P	12
-r	r	R	48
-r$	r	R	26
-rs	r s	R S	1
-s	s	S	17
-s$	s	S	13
-t	t	T	23
-t$	t	T	7
-u	u	Y	82
-u$	u	Y	6
-w	w	W	6
-ŋ	ŋ	N	11
-ŋ$	ŋ	N	9
-ɑ	ɑ	A	10
-ɔ	ɔ	U	43
-ɔ$	ɔ	U	3
-ɛ	ɛ	E	32
-ɛ$	ɛ	E	8
-ɪ	ɪ	I	6
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		244	NULL	kelɛk;sɛm;setela;tebɔŋgan;dagim
+$	NULL		244	NULL	kelɛk;sɛm;setela;tebɔŋgan;dagim
+a	a	A	204	172	setela;tebɔŋgan;dagim;sɪŋasɪŋat;sɪŋasɪŋat
+ɑ	ɑ	A	10	10	kɑŋ;kɑŋgir;tɑŋgalip;nakɑl;lalɑŋ
+c	c	C	11	10	ecuan;gɔciɛ;canam;ema_caun;ema_caun
+e	e	E	47	32	kelɛk;setela;setela;tebɔŋgan;koep
+ɛ	ɛ	E	46	32	kelɛk;sɛm;ɛp;wɛlɛŋgap;wɛlɛŋgap
+h	h	H	3	2	bersih;kahɛn;kahɛn
+i	i	I	63	52	dagim;kasamin;karaɔŋgis;bersih;ur_kirun
+ɪ	ɪ	I	6	6	sɪŋasɪŋat;sɪŋasɪŋat;kanɪŋgɔniɛ;ramɑndalɪŋ;mɪn
+j	j	J	10	3	karjak;gɔjuɔl;juɔr;tantajɔn;jar
+g	g	K	20	12	tebɔŋgan;dagim;wɛlɛŋgap;karaɔŋgis;gɔjuɔl
+k	k	K	97	23	kelɛk;kelɛk;koep;rɔr_kulun;karena
+gg	gː	K	1	1	welenggap
+l	l	L	41	27	kelɛk;setela;suol;rɔr_kulun;elau
+m	m	M	69	34	sɛm;dagim;temun;kasamin;maŋ
+n	n	N	125	38	tebɔŋgan;tan;tan;ten;rɔr_kulun
+ŋ	ŋ	N	20	11	tebɔŋgan;sɪŋasɪŋat;sɪŋasɪŋat;maŋ;wɛlɛŋgap
+b	b	P	20	12	tebɔŋgan;kabor;bersih;bal;putkɔnbakɔn
+p	p	P	34	9	koep;ɛp;kuskap;wɛlɛŋgap;paruo
+r	r	R	84	48	rɔr_kulun;rɔr_kulun;karena;kabor;kɔraruk
+s	s	S	44	17	sɛm;setela;sɪŋasɪŋat;sɪŋasɪŋat;suol
+d	d	T	11	6	dagim;kadɛn;tamandi;reidak;ramɑndalɪŋ
+t	t	T	71	23	setela;tebɔŋgan;sɪŋasɪŋat;tan;tan
+o	o	U	22	17	koep;suol;kabor;paruo;our
+ɔ	ɔ	U	49	43	tebɔŋgan;rɔr_kulun;kɔraruk;kɔu;karaɔŋgis
+w	w	W	13	6	wɛlɛŋgap;kawɛs;kɔwewepkɔn;kɔwewepkɔn;welenggap
+u	u	Y	95	82	suol;rɔr_kulun;rɔr_kulun;elau;temun
+_	+	_	17	17	rɔr_kulun;ur_kirun;tamandi_nɛba;ema_temun;ema_temun

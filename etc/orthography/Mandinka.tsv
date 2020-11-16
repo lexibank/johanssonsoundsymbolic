@@ -1,62 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	2
-^a$	a	A	1
-^aa	aː	A	1
-^b	b	P	45
-^d	d	T	30
-^dʒ	dʒ	T	18
-^f	f	B	27
-^h	h	H	5
-^i	i	I	1
-^i$	i	I	2
-^j	j	J	2
-^k	k	K	48
-^l	l	L	9
-^m	m	M	36
-^n	n	N	25
-^n$	n	N	1
-^r	r	R	1
-^s	s	S	32
-^t	t	T	27
-^tʃ	tʃ	T	1
-^uu	uː	Y	1
-^v	v	B	1
-^w	w	W	8
-^ŋ	ŋ	N	1
-^ɔ	ɔ	U	4
-^ɲ	ɲ	N	8
-_	+	_	55
-a	a	A	173
-a$	a	A	67
-b	b	P	21
-d	d	T	37
-dʒ	dʒ	T	5
-e	e	E	57
-e$	e	E	10
-ee$	eː	E	1
-f	f	B	11
-i	i	I	144
-i$	i	I	22
-j	j	J	19
-k	k	K	46
-l	l	L	48
-m	m	M	68
-n	n	N	78
-n$	n	N	4
-nn	nn/nː	N	1
-ns	n s	N S	1
-p	p	P	2
-r	r	R	64
-s	s	S	19
-t	t	T	47
-t$	t	T	1
-tʃ$	tʃ	T	1
-u	u	Y	99
-u$	u	Y	7
-w	w	W	6
-ŋ	ŋ	N	83
-ŋ$	ŋ	N	42
-ɔ	ɔ	U	63
-ɔ$	ɔ	U	176
-ɔɔ$	ɔː	U	2
-ɲ	ɲ	N	7
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		328	NULL	wɔ_kɔla;barata;kɔla;iɔɲɔ;bee
+$	NULL		333	NULL	wɔ_kɔla;barata;kɔla;iɔɲɔ;kamfata
+a	a	A	243	173	wɔ_kɔla;barata;barata;barata;kɔla
+^aa	aː	A	1	1	aaŋɔ
+f	f	B	38	11	kamfata;nilamafeŋɔ;fatɔ;kɔmft;fiŋɔ
+^v	v	B	1	1	vuleŋɔ
+e	e	E	67	57	nilamafeŋɔ;sebutɔ;halke;tema;jelɔ
+ee$	eː	E	1	1	bee
+^h	h	H	5	5	halke;hani;hidinkɔ;herɔ;habasi
+i	i	I	169	144	iɔɲɔ;nilamafeŋɔ;ɲima;kiŋ;kunija
+j	j	J	21	19	kunija;jelɔ;man_ilja;kuŋ_juɔ;kɔji
+k	k	K	94	46	wɔ_kɔla;kɔla;kamfata;kɔ;halke
+l	l	L	57	48	wɔ_kɔla;kɔla;nilamafeŋɔ;bulɔ;bulɔ
+m	m	M	104	68	kamfata;nilamafeŋɔ;maɲɔ;ɲima;kɔmft
+n	n	N	109	78	nilamafeŋɔ;nuŋ;kɔnɔ;kunɔ;kunija
+ŋ	ŋ	N	126	83	nilamafeŋɔ;nuŋ;kiŋ;fiŋɔ;kuŋ_juɔ
+ɲ	ɲ	N	15	7	iɔɲɔ;maɲɔ;ɲima;suɲa;ɲa
+nn	nn/nː	N	1	1	tinna
+b	b	P	66	21	barata;bee;bulɔ;bulɔ;sebutɔ
+p	p	P	2	2	lampataŋ;lapirɔ
+r	r	R	65	64	barata;warama;dɔrɔ;tarijata;ŋɔriŋɔ
+s	s	S	52	19	sebutɔ;sundʒɔ;samba;suɲa;sei
+d	d	T	67	37	duma;dala;dɔrɔ;dibi;dinɔnta
+t	t	T	75	47	barata;kamfata;sebutɔ;fatɔ;kɔmft
+dʒ	dʒ	T	23	5	dʒawɔ;sundʒɔ;nidʒi;dʒani;dʒenke
+^tʃ	tʃ	T	1	1	tʃɔji
+tʃ$	tʃ	T	1	1	baltʃ
+ɔ	ɔ	U	243	63	wɔ_kɔla;wɔ_kɔla;kɔla;iɔɲɔ;iɔɲɔ
+ɔɔ$	ɔː	U	2	2	kunɔɔ;kɔkɔɔ
+w	w	W	14	6	wɔ_kɔla;dʒawɔ;warama;wulɔ;ɲewɔ
+u	u	Y	106	99	bulɔ;bulɔ;sebutɔ;nuŋ;duma
+^uu	uː	Y	1	1	uusɔ
+_	+	_	55	55	wɔ_kɔla;man_ilja;kuŋ_juɔ;taŋ_niŋ_kiliŋ;taŋ_niŋ_kiliŋ

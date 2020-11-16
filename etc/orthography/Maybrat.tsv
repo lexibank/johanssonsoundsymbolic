@@ -1,68 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	22
-^b	b	P	7
-^d	d	T	1
-^e	e	E	1
-^f	f	B	13
-^i	i	I	1
-^ii	iː	I	1
-^ii$	iː	I	1
-^j	j	J	2
-^k	k	K	31
-^m	m	M	62
-^ms	m s	M S	1
-^mw	m w	M W	2
-^n	n	N	114
-^ns	n s	N S	7
-^o	o	U	2
-^oo	oː	U	1
-^p	p	P	1
-^r	r	R	8
-^s	s	S	17
-^t	t	T	23
-^u$	u	Y	1
-^w	w	W	4
-^x	x	G	11
-_	+	_	116
-a	a	A	233
-a$	a	A	33
-aa	aː	A	5
-aa$	aː	A	4
-b	b	P	46
-bs	b s	P S	1
-e	e	E	58
-e$	e	E	40
-ee$	eː	E	1
-f	f	B	22
-f$	f	B	16
-i	i	I	62
-i$	i	I	30
-j	j	J	35
-k	k	K	27
-k$	k	K	14
-ks	k s	K S	4
-l	l	L	1
-m	m	M	62
-m$	m	M	16
-n	n	N	55
-n$	n	N	20
-ns	n s	N S	1
-nw	n w	N W	1
-o	o	U	113
-o$	o	U	42
-oo	oː	U	6
-oo$	oː	U	3
-p	p	P	2
-r	r	R	85
-r$	r	R	12
-s	s	S	34
-s$	s	S	26
-t	t	T	75
-t$	t	T	20
-ts	ts	C	1
-u	u	Y	40
-u$	u	Y	26
-uu	uː	Y	2
-w	w	W	12
-x	x	G	34
-x$	x	G	29
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		331	NULL	u;waa;wia_ox_tna;muf;nkmo
+$	NULL		333	NULL	u;waa;wia_ox_tna;muf;nkmo
+a	a	A	288	233	wia_ox_tna;wia_ox_tna;kak;natem_mxaur;natem_mxaur
+aa	aː	A	9	5	waa;maat;naa;naa;maax
+f	f	B	51	22	muf;moofmbai;fe_fares_to;fe_fares_to;nxaf
+ts	ts	C	1	1	netsu
+e	e	E	99	58	natem_mxaur;natem;ke;fe_fares_to;fe_fares_to
+ee$	eː	E	1	1	nee
+x	x	G	74	34	wia_ox_tna;natem_mxaur;box;nxaf;ti_oajox
+i	i	I	93	62	wia_ox_tna;mkair;moofmbai;to_tis;ti_oajox
+^ii	iː	I	2	1	ii;iis
+j	j	J	37	35	ti_oajox;ajox_mbox;xaijax;ajo;nsjo
+k	k	K	76	27	nkmo;kak;kak;kbor_baut;mkair
+l	l	L	1	1	flnja_fain
+m	m	M	143	62	muf;nkmo;natem_mxaur;natem_mxaur;natem
+n	n	N	198	55	wia_ox_tna;nkmo;natem_mxaur;natem;nxaf
+b	b	P	54	46	box;kbor_baut;kbor_baut;moofmbai;mabox
+p	p	P	3	2	pomaru;nupain;mapuox
+r	r	R	105	85	natem_mxaur;kbor_baut;mkair;ara_marak;ara_marak
+s	s	S	91	34	fe_fares_to;to_tis;masuf;safe;mes
+t	t	T	118	75	wia_ox_tna;natem_mxaur;natem;kbor_baut;fe_fares_to
+^d	d	T	1	1	dafit
+o	o	U	157	113	wia_ox_tna;nkmo;box;kbor_baut;fe_fares_to
+oo	oː	U	10	6	moofmbai;moof;foox;moof;moo
+w	w	W	19	12	waa;wia_ox_tna;mwak;nawia;mbtek_nawe
+u	u	Y	67	40	u;muf;natem_mxaur;kbor_baut;masuf
+uu	uː	Y	2	2	krentuuf;tuuf
+_	+	_	116	116	wia_ox_tna;wia_ox_tna;natem_mxaur;kbor_baut;ara_marak

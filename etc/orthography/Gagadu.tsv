@@ -1,68 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	4
-^b	b	P	43
-^d	d	T	3
-^g	g	K	69
-^ii	iː	I	1
-^j	j	J	7
-^l	l	L	2
-^m	m	M	50
-^n	n	N	10
-^o	o	U	1
-^w	w	W	15
-^ŋ	ŋ	N	22
-^ɟ	ɟ	C	25
-^ɲ	ɲ	N	11
-^ɻ	ɻ	R	3
-_	+	_	2
-a	a	A	162
-a$	a	A	98
-aa	aː	A	117
-aa$	aː	A	2
-b	b	P	81
-d	d	T	26
-d$	d	T	1
-e	e	E	4
-e$	e	E	1
-ee	eː	E	16
-ee$	eː	E	5
-f	f	B	1
-g	g	K	54
-i	i	I	52
-i$	i	I	62
-ii	iː	I	24
-ii$	iː	I	1
-j	j	J	20
-j$	j	J	5
-k	k	K	1
-l	l	L	49
-l$	l	L	5
-lw	l w	L W	1
-m	m	M	50
-m$	m	M	1
-n	n	N	33
-n$	n	N	4
-o	o	U	33
-o$	o	U	20
-oo	oː	U	60
-oo$	oː	U	1
-sh	sh/sʰ	S	1
-u	u	Y	34
-u$	u	Y	38
-uu	uː	Y	3
-uu$	uː	Y	1
-w	w	W	19
-ŋ	ŋ	N	48
-ŋw	ŋw/ŋʷ	N	2
-ɖ	ɖ	T	51
-ɟ	ɟ	C	27
-ɭ	ɭ	L	13
-ɭ$	ɭ	L	2
-ɲ	ɲ	N	11
-ɲ$	ɲ	N	1
-ɳ	ɳ	N	13
-ɳ$	ɳ	N	1
-ɻ	ɻ	R	13
-ɾ	ɾ	R	46
-ɾ$	ɾ	R	17
-ɾw	ɾ w	R W	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		266	NULL	gaaŋgi;gumiiɾi;gaɾmaaɳa;geegiɾ;moobiju
+$	NULL		266	NULL	gaaŋgi;gumiiɾi;gaɾmaaɳa;geegiɾ;moobiju
+a	a	A	264	162	gaɾmaaɳa;gaɾmaaɳa;najiiɾiɾi;gamalaaɖaj;gamalaaɖaj
+aa	aː	A	119	117	gaaŋgi;gaɾmaaɳa;gamalaaɖaj;waala;baɾaaŋgiɾ
+f	f	B	1	1	afiila
+ɟ	ɟ	C	52	27	ɟiinba;aɖaaɟi;buɟi;ɟibiiɻi;gooɟgu
+e	e	E	5	4	gaɖega;baɖbenawaɾ;gaɻaaba_she;ŋameneega;ŋameneega
+ee	eː	E	21	16	geegiɾ;gee;gaɖambaɻŋeeŋi;maneeŋul;baɾeeguɭ
+i	i	I	114	52	gaaŋgi;gumiiɾi;geegiɾ;moobiju;najiiɾiɾi
+ii	iː	I	26	24	gumiiɾi;najiiɾiɾi;ɟiinba;ɟibiiɻi;guniliniili
+j	j	J	32	20	moobiju;najiiɾiɾi;gamalaaɖaj;moobijumoobiju;moobijumoobiju
+g	g	K	123	54	gaaŋgi;gaaŋgi;gumiiɾi;gaɾmaaɳa;geegiɾ
+k	k	K	1	1	gaankiɾ
+l	l	L	57	49	gamalaaɖaj;waala;maneeŋul;ŋolwaajuwa;laawala
+ɭ	ɭ	L	15	13	mabooɭo;maɭam;baɾeeguɭ;ɟaaɭi;maaɭaɭ
+m	m	M	101	50	gumiiɾi;gaɾmaaɳa;moobiju;gamalaaɖaj;moonda
+n	n	N	47	33	najiiɾiɾi;moonda;ɟiinba;maneeŋul;binaagaɻa
+ŋ	ŋ	N	70	48	gaaŋgi;ŋoɾooŋgadi;ŋoɾooŋgadi;baɾaaŋgiɾ;baaŋaɖa
+ɲ	ɲ	N	23	11	gaɖaɲbimi;ɲoonbu;ɲaamdada;nooɲbu;gabaɲma
+ɳ	ɳ	N	14	13	gaɾmaaɳa;booɳaj;maaɖaɳ;ŋaaɳɟil;baɳagaɾa
+ŋw	ŋw/ŋʷ	N	2	2	ɲiŋwoombaɖi;ɲiŋwoombaɖi
+b	b	P	124	81	moobiju;ɟiinba;baɾaaŋgiɾ;baaɾi;mabooɭo
+ɻ	ɻ	R	16	13	gaɖambaɻŋeeŋi;ɟibiiɻi;binaagaɻa;ɟoɻee;ŋalaaɻaɾ
+ɾ	ɾ	R	64	46	gumiiɾi;gaɾmaaɳa;geegiɾ;najiiɾiɾi;najiiɾiɾi
+sh	sh/sʰ	S	1	1	gaɻaaba_she
+d	d	T	30	26	ŋoɾooŋgadi;moonda;badoɾooɟbu;maadawa;daa
+ɖ	ɖ	T	51	51	gooɖo;gooɖo;gamalaaɖaj;aɖaaɟi;baaŋaɖa
+o	o	U	54	33	gooɖo;gooɖo;ŋoɾooŋgadi;mabooɭo;ŋolwaajuwa
+oo	oː	U	61	60	moobiju;gooɖo;gooɖo;ŋoɾooŋgadi;moonda
+w	w	W	36	19	waala;maɾawaaɾa;ŋolwaajuwa;ŋolwaajuwa;laawala
+u	u	Y	72	34	gumiiɾi;moobiju;moobijumoobiju;moobijumoobiju;maneeŋul
+uu	uː	Y	4	3	wuuɟa;buuluɾ;buu;buuɾi
+_	+	_	2	2	bu_ŋalaambiɾ;gaɻaaba_she

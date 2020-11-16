@@ -1,80 +1,35 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	10
-^aa	aː	A	2
-^h	h	H	9
-^i	i	I	61
-^ii	iː	I	1
-^k	k	K	17
-^l	l	L	21
-^m	m	M	18
-^n	n	N	3
-^o	o	U	2
-^p	p	P	23
-^q	q	K	14
-^s	s	S	28
-^t	t	T	32
-^ts	ts	C	11
-^tʃ	tʃ	T	19
-^uu	uː	Y	3
-^x	x	G	3
-^y	y/j	J	1
-^z	z	S	2
-^ɬ	ɬ	L	11
-^ʃ	ʃ	S	13
-_	+	_	12
-a	a	A	231
-a$	a	A	28
-aa	aː	A	78
-aa$	aː	A	2
-e	e	E	13
-e$	e	E	2
-ee	eː	E	13
-h	h	H	17
-i	i	I	120
-i$	i	I	5
-ii	iː	I	36
-ii$	iː	I	6
-k	k	K	69
-k$	k	K	13
-ks	k s	K S	3
-kʃ	k ʃ	K S	3
-l	l	L	26
-m	m	M	30
-m$	m	M	2
-n	n	N	97
-n$	n	N	64
-o	o	U	28
-o$	o	U	2
-oo	oː	U	5
-oo$	oː	U	1
-p	p	P	38
-p$	p	P	8
-q	q	K	68
-q$	q	K	5
-qs	q s	K S	3
-qʃ	q ʃ	K S	7
-r	r	R	1
-s	s	S	14
-s$	s	S	2
-t	t	T	82
-t$	t	T	37
-ts	ts	C	27
-tʃ	tʃ	T	12
-u	u	Y	115
-u$	u	Y	14
-uu	uː	Y	21
-uu$	uː	Y	3
-x	x	G	17
-x$	x	G	15
-y	y	Y	6
-y$	y	Y	2
-z	z	S	1
-ɬ	ɬ	L	27
-ɬ$	ɬ	L	5
-ɬʃ	ɬ ʃ	L S	1
-ʃ	ʃ	S	18
-ʃ$	ʃ	S	1
-ʔ	ʔ	H	172
-ʔ$	ʔ	H	86
-ʔh	ʔh/ʔʰ	H	8
-ʔʃ$	ʔʃ/ˀʃ	S	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		303	NULL	nak;aaʔkaliistaan;uuʔniʔ;iʔʃliihuaaq;tʃaʔaaʔn
+$	NULL		303	NULL	nak;aaʔkaliistaan;uuʔniʔ;iʔʃliihuaaq;tʃaʔaaʔn
+a	a	A	269	231	nak;aaʔkaliistaan;tʃaʔaaʔn;iʔʃmakʃpaan;iʔʃmakʃpaan
+aa	aː	A	82	78	aaʔkaliistaan;aaʔkaliistaan;iʔʃliihuaaq;tʃaʔaaʔn;iʔʃmakʃpaan
+ts	ts	C	38	27	tuuʔ_tsey;tseehuaniiʔt;tsiʔtseʔqe;tsiʔtseʔqe;laqatseyan
+e	e	E	15	13	tuuʔ_tsey;tsiʔtseʔqe;tsiʔtseʔqe;maqneqe;maqneqe
+ee	eː	E	13	13	tseehuaniiʔt;qeen;leeʔn;maatseeʔq_a;tʃaaqeen
+x	x	G	35	17	maqxu;tiʔnaʔx_qaʔhuaʔtʃu;xaʃaanaʔn;oʔxonuuʔn;yuxi
+h	h	H	26	17	iʔʃliihuaaq;tseehuaniiʔt;huaʔ;skoohuan;huaʔ
+ʔ	ʔ	H	332	172	aaʔkaliistaan;uuʔniʔ;uuʔniʔ;iʔʃliihuaaq;tʃaʔaaʔn
+ʔh	ʔh/ʔʰ	H	8	8	tiʔnaʔx_qaʔhuaʔtʃu;qeʔhuiʔhuiʔ;qeʔhuiʔhuiʔ;tɬiʔhuiʔki;kiʔhuiʔ
+i	i	I	186	120	uuʔniʔ;iʔʃliihuaaq;iʔʃmakʃpaan;iʔʃmakʃpaan;iʔʃaʔkɬtʃʔaan
+ii	iː	I	43	36	aaʔkaliistaan;iʔʃliihuaaq;tseehuaniiʔt;tatɬeʔqeniit;tantii
+^y	y/j	J	1	1	yuxi
+k	k	K	105	69	nak;aaʔkaliistaan;iʔʃmakʃpaan;iʔʃmakʃpaan;ɬkaʔkaʔn
+q	q	K	97	68	iʔʃliihuaaq;qeen;maqxu;qaʔtɬaʔ;tsiʔtseʔqe
+l	l	L	47	26	aaʔkaliistaan;iʔʃliihuaaq;puuʔla;lakɬpuʔnan;lukut
+ɬ	ɬ	L	44	27	ɬkaʔkaʔn;iʔʃaʔkɬtʃʔaan;lakɬpuʔnan;qaʔtɬaʔ;qaʔɬniʔ
+m	m	M	50	30	iʔʃmakʃpaan;iʔʃmakʃpaan;komo;maqxu;maqneqe
+n	n	N	164	97	nak;aaʔkaliistaan;uuʔniʔ;tʃaʔaaʔn;iʔʃmakʃpaan
+p	p	P	69	38	iʔʃmakʃpaan;iʔʃmakʃpaan;puuʔla;iʔʃpaan;lakɬpuʔnan
+r	r	R	1	1	kristiano
+s	s	S	54	14	aaʔkaliistaan;spuun;smumonqoʔ;stalaʔnqaʔ;skoohuan
+z	z	S	3	1	liiziiʔn;zalaʔ_maqaan;zalaʔ_maqaan
+ʃ	ʃ	S	113	18	iʔʃliihuaaq;iʔʃmakʃpaan;iʔʃmakʃpaan;iʔʃmakʃpaan;iʔʃmakʃpaan
+ʔʃ$	ʔʃ/ˀʃ	S	1	1	huiʔʃ
+t	t	T	151	82	aaʔkaliistaan;tuuʔ_tsey;tseehuaniiʔt;qaʔtɬaʔ;lukut
+tʃ	tʃ	T	31	12	tʃaʔaaʔn;iʔʃaʔkɬtʃʔaan;tiʔnaʔx_qaʔhuaʔtʃu;tʃiʔtʃiniʔ;tʃiʔtʃiniʔ
+o	o	U	32	28	komo;komo;smumonqoʔ;smumonqoʔ;poqɬnuʔ
+oo	oː	U	6	5	tɬoo;skoohuan;tahuiʔla_tooʔla;ɬqoonqa;liilooqnuʔ
+u	u	Y	129	115	iʔʃliihuaaq;tseehuaniiʔt;maqxu;lakɬpuʔnan;smumonqoʔ
+y	y	Y	8	6	tuuʔ_tsey;tiʔyaʔtuaʔ;tiʔyaʔt;laqatseyan;tsey
+uu	uː	Y	27	21	uuʔniʔ;tuuʔ_tsey;puuʔla;spuun;ʃuuʔniʔ
+_	+	_	12	12	tuuʔ_tsey;tiʔnaʔx_qaʔhuaʔtʃu;tuntuuʔ_qaʔɬii;aʔntuu_ɬkaakan;maatseeʔq_a

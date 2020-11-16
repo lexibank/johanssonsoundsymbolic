@@ -14,7 +14,6 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/johanssonsoundsymbolic.svg?branch=master)](https://travis-ci.org/lexibank/johanssonsoundsymbolic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 83%](https://img.shields.io/badge/Concepticon-83%25-yellowgreen.svg "Concepticon: 83%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-green.svg "Source: 99%")
@@ -27,8 +26,8 @@ Conceptlists in Concepticon:
 - **Sources:** 240
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 378,486
-- **Segments:** 447 (0 BIPA errors, 0 CTLS sound class errors, 447 CLTS modified)
+- **Tokens:** 378,477
+- **Segments:** 446 (0 BIPA errors, 0 CTLS sound class errors, 446 CLTS modified)
 - **Inventory size (avg):** 35.04
 
 ## Possible Improvements:

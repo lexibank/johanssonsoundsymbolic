@@ -1,37 +1,20 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	53
-^b	b	P	46
-^e	e	E	1
-^e$	e	E	1
-^h	h	H	35
-^i	i	I	21
-^k	k	K	23
-^m	m	M	11
-^n	n	N	23
-^o	o	U	7
-^s	s	S	14
-^t	t	T	24
-^w	w	W	9
-^y	y/j	J	23
-^ɸ	ɸ	B	24
-^ɾ	ɾ	R	1
-_	+	_	63
-a	a	A	183
-a$	a	A	123
-b	b	P	30
-e	e	E	33
-e$	e	E	49
-h	h	H	41
-i	i	I	119
-i$	i	I	109
-k	k	K	41
-m	m	M	60
-n	n	N	85
-o	o	U	109
-o$	o	U	34
-s	s	S	49
-t	t	T	101
-w	w	W	30
-y	y	Y	14
-ɸ	ɸ	B	15
-ɾ	ɾ	R	53
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		293	NULL	neme;kakomeha;nowati;naɸi;biya_na
+$	NULL		316	NULL	neme;kakomeha;nowati;naɸi;biya_na
+a	a	A	359	183	kakomeha;kakomeha;nowati;naɸi;biya_na
+ɸ	ɸ	B	39	15	naɸi;haɸoɸo_na;haɸoɸo_na;teteɸo_na;tati_aɸone
+e	e	E	84	33	neme;neme;kakomeha;tohe;beheɾi
+h	h	H	76	41	kakomeha;hasawiɾi;tohe;ihi;ihaɾisa
+i	i	I	249	119	nowati;naɸi;biya_na;bani;mani
+^y	y/j	J	23	23	yoha;yotohoti;yama_wehe;yome;yehe
+k	k	K	64	41	kakomeha;kakomeha;nokosi;basa_kana;si_kana
+m	m	M	71	60	neme;kakomeha;mani;mani;ama
+n	n	N	108	85	neme;nowati;naɸi;biya_na;bani
+b	b	P	76	30	biya_na;bani;baɾi;baɾi;sobo
+ɾ	ɾ	R	54	53	hasawiɾi;baɾi;ataɾi;baɾi;ihaɾisa
+s	s	S	63	49	hasawiɾi;nokosi;sobo;ihaɾisa;basa_kana
+t	t	T	125	101	nowati;tohe;ataɾi;ehebote;bita
+o	o	U	150	109	kakomeha;nowati;tohe;nokosi;nokosi
+w	w	W	39	30	nowati;hasawiɾi;inamatewe;keho_nawaha;yama_wehe
+y	y	Y	14	14	biya_na;ɸoya_na;ayaka;bayi;yayai_na
+_	+	_	63	63	biya_na;basa_kana;si_kana;hahasa_na;haɸoɸo_na

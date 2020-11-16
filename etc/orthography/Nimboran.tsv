@@ -1,52 +1,26 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	15
-^d̪	d̪	T	23
-^e	e	E	3
-^h	h	H	8
-^i	i	I	22
-^i$	i	I	1
-^ii$	iː	I	1
-^k	k	K	34
-^m	m	M	22
-^n̪	n̪	N	18
-^p	p	P	7
-^r	r	R	5
-^s̪	s̪	S	10
-^t̪	t̪	T	14
-^u	u	Y	5
-^ŋ	ŋ	N	7
-_	+	_	19
-a	a	A	107
-a$	a	A	11
-b	b	P	12
-b$	b	P	15
-d̪	d̪	T	33
-e	e	E	108
-e$	e	E	25
-g	g	K	14
-i	i	I	66
-i$	i	I	25
-ii	iː	I	2
-ii$	iː	I	1
-k	k	K	28
-m	m	M	37
-m$	m	M	7
-n̪	n̪	N	55
-n̪$	n̪	N	5
-n̪n̪	n̪n̪/n̪ː	N	2
-n̪s̪	n̪ s̪	N S	4
-o	o	U	17
-o$	o	U	31
-p	p	P	10
-p$	p	P	4
-r	r	R	23
-s̪	s̪	S	14
-t	t	T	2
-t̪	t̪	T	14
-u	u	Y	32
-u$	u	Y	17
-uu	uː	Y	1
-ŋ	ŋ	N	12
-ŋ$	ŋ	N	26
-ɨ	ɨ	I	6
-ɨ$	ɨ	I	26
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		187	NULL	ken̪ai;mat̪eb;men̪o;kud̪ipro;s̪uampriŋ
+$	NULL		195	NULL	ken̪ai;mat̪eb;men̪o;kud̪ipro;s̪uampriŋ
+a	a	A	118	107	ken̪ai;mat̪eb;s̪uampriŋ;krapo;ŋgua
+e	e	E	136	108	ken̪ai;mat̪eb;men̪o;min̪ie;t̪eŋgueiŋ
+^h	h	H	8	8	hrao;hamboŋ;hn̪um;hn̪aŋ;hru
+i	i	I	114	66	ken̪ai;kud̪ipro;s̪uampriŋ;min̪ie;min̪ie
+ɨ	ɨ	I	32	6	iɨ;iakɨ;meɨ;t̪ɨm;s̪eɨ
+ii	iː	I	4	2	ii;d̪rii;biiab;in̪iim
+g	g	K	14	14	t̪eŋgueiŋ;ŋgua;ŋgɨŋ;iŋgiambu;d̪aŋgu
+k	k	K	62	28	ken̪ai;kud̪ipro;krapo;ket̪i;d̪ekie
+m	m	M	66	37	mat̪eb;men̪o;s̪uampriŋ;min̪ie;t̪emt̪en̪
+ŋ	ŋ	N	45	12	s̪uampriŋ;t̪eŋgueiŋ;t̪eŋgueiŋ;ŋgua;kiŋ
+n̪	n̪	N	82	55	ken̪ai;men̪o;min̪ie;t̪emt̪en̪;t̪en̪aŋ
+n̪n̪	n̪n̪/n̪ː	N	2	2	kien̪en̪t̪akuap_kien̪en̪d̪i_n̪amuan̪n̪amuan̪;kien̪en̪t̪akuap_kien̪en̪d̪i_n̪amuan̪n̪amuan̪
+b	b	P	42	12	mat̪eb;d̪arib;reb;mab;ba
+p	p	P	21	10	kud̪ipro;s̪uampriŋ;krapo;pou;s̪ip
+r	r	R	28	23	kud̪ipro;s̪uampriŋ;krapo;hrao;d̪arib
+s̪	s̪	S	28	14	s̪uampriŋ;s̪ip;s̪eɨ;s̪kie;s̪uŋ
+t	t	T	2	2	kien̪en̪en̪d̪i_mes̪i_n̪e_ten̪d̪u;kien̪en̪t̪akuap_kien̪en̪d̪i_ten̪d̪u
+d̪	d̪	T	56	33	kud̪ipro;d̪ekie;d̪arib;d̪rii;d̪am
+t̪	t̪	T	28	14	mat̪eb;t̪eŋgueiŋ;ket̪i;t̪emt̪en̪;t̪emt̪en̪
+o	o	U	48	17	men̪o;kud̪ipro;krapo;pou;hrao
+u	u	Y	54	32	kud̪ipro;s̪uampriŋ;t̪eŋgueiŋ;ŋgua;pou
+uu	uː	Y	1	1	kauuo
+_	+	_	19	19	kien̪en̪t̪akuap_kien̪en̪d̪i_n̪amuan̪n̪amuan̪;kien̪en̪t̪akuap_kien̪en̪d̪i_n̪amuan̪n̪amuan̪;kien̪en̪en̪d̪i_mes̪i_n̪e_ten̪d̪u;kien̪en̪en̪d̪i_mes̪i_n̪e_ten̪d̪u;kien̪en̪en̪d̪i_mes̪i_n̪e_ten̪d̪u

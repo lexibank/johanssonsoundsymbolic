@@ -1,66 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	21
-^e	e	E	4
-^i	i	I	12
-^j	j	J	11
-^k	k	K	32
-^l	l	L	13
-^m	m	M	10
-^n	n	N	4
-^o	o	U	2
-^o$	o	U	1
-^p	p	P	19
-^r	r	R	3
-^rw	r w	R W	1
-^s	s	S	9
-^t	t	T	22
-^ts	ts	C	28
-^tʃ	tʃ	T	1
-^u	u	Y	3
-^w	w	W	8
-^ɑ	ɑ	A	1
-^ʃ	ʃ	S	23
-_	+	_	3
-a	a	A	109
-a$	a	A	59
-aa	aː	A	1
-e	e	E	35
-e$	e	E	24
-f	f	B	1
-h	h	H	3
-h$	h	H	33
-i	i	I	42
-i$	i	I	23
-j	j	J	10
-j$	j	J	3
-jʃ	j ʃ	J S	1
-k	k	K	50
-l	l	L	26
-l$	l	L	9
-lʃ	l ʃ	L S	1
-m	m	M	10
-m$	m	M	11
-mm	mm/mː	M	1
-n	n	N	23
-n$	n	N	3
-o	o	U	36
-o$	o	U	16
-p	p	P	15
-p$	p	P	1
-r	r	R	9
-r$	r	R	2
-s	s	S	8
-s$	s	S	4
-t	t	T	20
-t$	t	T	2
-ts	ts	C	11
-u	u	Y	33
-u$	u	Y	13
-w	w	W	2
-w$	w	W	1
-ŋ	ŋ	N	28
-ŋ$	ŋ	N	22
-ŋʃ	ŋ ʃ	N S	1
-ʃ	ʃ	S	20
-ʃ$	ʃ	S	1
-ʔ	ʔ	H	50
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		226	NULL	iŋpoajaŋpa;itsʔitsʔi;kal;kal;pilil
+$	NULL		228	NULL	iŋpoajaŋpa;itsʔitsʔi;kal;kal;pilil
+a	a	A	189	109	iŋpoajaŋpa;iŋpoajaŋpa;iŋpoajaŋpa;kal;kal
+^ɑ	ɑ	A	1	1	ɑnuŋ
+aa	aː	A	1	1	maali
+f	f	B	1	1	tefka
+ts	ts	C	39	11	itsʔitsʔi;itsʔitsʔi;tsʔstsʔa;tsʔstsʔa;tsʔimtsʔim
+e	e	E	63	35	toniŋkepa;ʃilatsʔe;tefka;elʃa;en
+h	h	H	36	3	tsʔahjaŋ;tsʔahjaŋ;poh;poh;johaŋ
+ʔ	ʔ	H	52	50	itsʔitsʔi;itsʔitsʔi;tsʔstsʔa;tsʔstsʔa;kʔomo
+i	i	I	77	42	iŋpoajaŋpa;itsʔitsʔi;itsʔitsʔi;itsʔitsʔi;pilil
+j	j	J	25	10	iŋpoajaŋpa;tsʔahjaŋ;kaju;jaʃa;tsʔaj
+k	k	K	82	50	kal;kal;kʔomo;puka;toniŋkepa
+l	l	L	49	26	kal;kal;pilil;pilil;ala
+m	m	M	31	10	kʔomo;tsʔimtsʔim;tsʔimtsʔim;miri;ʃam
+mm	mm/mː	M	1	1	summaŋ
+n	n	N	30	23	toniŋkepa;inkʔala;tsʔana;tina;koʃaka_kuman
+ŋ	ŋ	N	51	28	iŋpoajaŋpa;iŋpoajaŋpa;toniŋkepa;siŋka;tsʔahjaŋ
+p	p	P	35	15	iŋpoajaŋpa;iŋpoajaŋpa;pilil;puka;toniŋkepa
+r	r	R	15	9	miri;tokoro;rom;tʃʔiŋkira;tsʔiriʃir
+s	s	S	22	8	tsʔstsʔa;siŋka;sap;sa;oso
+ʃ	ʃ	S	47	20	ʃilatsʔe;ʃam;jaʃa;ʃil;ʃi
+t	t	T	44	20	ti;toniŋkepa;tali;tina;tula
+^tʃ	tʃ	T	1	1	tʃʔiŋkira
+o	o	U	55	36	iŋpoajaŋpa;kʔomo;kʔomo;toniŋkepa;po
+w	w	W	13	2	waʃa;waʃaka;tʔwa;aw;wesaŋ
+u	u	Y	49	33	puka;tsʔupa;kaju;tsʔupa;ulaŋ
+_	+	_	3	3	koʃaka_kuman;waʃaka_kuman;kaspa_ajʃa

@@ -1,43 +1,21 @@
-Grapheme	IPA	SCA	Frequency
-^e̞	e̞	E	9
-^g	g	K	15
-^i	i	I	8
-^ii	iː	I	3
-^k	k	K	44
-^o̞	o̞	U	15
-^p	p	P	45
-^r	r	R	29
-^s	s	S	7
-^t	t	T	34
-^u	u	Y	7
-^uu	uː	Y	2
-^ɒ	ɒ	O	32
-^ɒɒ	ɒː	O	28
-^β	β	B	49
-_	+	_	26
-e̞	e̞	E	62
-e̞$	e̞	E	30
-e̞e̞	e̞ː	E	1
-e̞e̞$	e̞ː	E	1
-g	g	K	18
-i	i	I	119
-i$	i	I	43
-ii	iː	I	7
-ii$	iː	I	2
-k	k	K	78
-o̞	o̞	U	103
-o̞$	o̞	U	90
-o̞o̞	o̞ː	U	4
-o̞o̞$	o̞ː	U	5
-p	p	P	62
-r	r	R	148
-s	s	S	32
-t	t	T	104
-u	u	Y	128
-u$	u	Y	28
-uu	uː	Y	6
-uu$	uː	Y	1
-ɒ	ɒ	O	208
-ɒ$	ɒ	O	127
-ɒɒ	ɒː	O	34
-β	β	B	134
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		327	NULL	iipɒβirɒ;uriri;re̞kuβirɒ;βiɒuɒro̞;βɒrɒ_rutu
+$	NULL		327	NULL	iipɒβirɒ;uriri;re̞kuβirɒ;βiɒuɒro̞;βɒrɒ_rutu
+β	β	B	183	134	iipɒβirɒ;re̞kuβirɒ;βiɒuɒro̞;βɒrɒ_rutu;kɒrɒβisi
+e̞	e̞	E	101	62	re̞kuβirɒ;ɒɒkɒu_kɒre̞;βe̞ɒro̞_ke̞ke̞;βe̞ɒro̞_ke̞ke̞;βe̞ɒro̞_ke̞ke̞
+e̞e̞	e̞ː	E	2	1	ge̞e̞si;re̞e̞
+i	i	I	170	119	iipɒβirɒ;uriri;uriri;re̞kuβirɒ;βiɒuɒro̞
+ii	iː	I	12	7	iipɒβirɒ;piiro̞o̞;iipɒβirɒ;ko̞pii_pie̞;iirui
+g	g	K	33	18	gɒβutɒ;go̞ro̞βe̞uko̞;sisigɒrue̞;ugo̞ro̞;βɒgo̞to̞
+k	k	K	122	78	re̞kuβirɒ;kɒrɒβisi;ɒɒkɒu_kɒre̞;ɒɒkɒu_kɒre̞;ko̞ɒ
+ɒ	ɒ	O	367	208	iipɒβirɒ;iipɒβirɒ;re̞kuβirɒ;βiɒuɒro̞;βiɒuɒro̞
+ɒɒ	ɒː	O	62	34	ɒɒkɒu_kɒre̞;kɒɒkɒu;kɒɒkɒsi;βɒɒo̞;ɒɒβiiko̞
+p	p	P	107	62	iipɒβirɒ;tuupuu;pupiupi;pupiupi;pupiupi
+r	r	R	177	148	iipɒβirɒ;uriri;uriri;re̞kuβirɒ;re̞kuβirɒ
+s	s	S	39	32	kɒrɒβisi;siro̞βɒ;sɒre̞;re̞βɒsiβɒ;kɒsi
+t	t	T	138	104	βɒrɒ_rutu;tɒβirɒuto̞;tɒβirɒuto̞;tɒβirɒuto̞;tɒβirɒuto̞
+o̞	o̞	U	208	103	βiɒuɒro̞;tɒβirɒuto̞;tɒβirɒuto̞;ko̞ɒ;βe̞ɒro̞_ke̞ke̞
+o̞o̞	o̞ː	U	9	4	ro̞ro̞o̞uɒ;piiro̞o̞;to̞o̞to̞o̞;to̞o̞to̞o̞;kuro̞o̞
+u	u	Y	163	128	uriri;re̞kuβirɒ;βiɒuɒro̞;βɒrɒ_rutu;βɒrɒ_rutu
+uu	uː	Y	9	6	tuupuu;tuupuu;uure̞o̞;kuuβɒ;puuβɒ
+_	+	_	26	26	βɒrɒ_rutu;ɒɒkɒu_kɒre̞;βe̞ɒro̞_ke̞ke̞;ro̞ko̞βirɒ_rutu;βo̞βo̞u_βe̞rɒ

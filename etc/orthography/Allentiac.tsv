@@ -1,69 +1,36 @@
-Grapheme	IPA	SCA	Frequency
-$	NULL	NULL	1
-^a	a	A	6
-^e	e	E	7
-^h	h	H	7
-^j	j	J	10
-^k	k	K	16
-^kh	kʰ	K	6
-^kw	kw/k w	K W	1
-^kw$	kw/kʷ	K	1
-^l	l	L	13
-^m	m	M	7
-^n	n	N	4
-^p	p	P	27
-^r	r	R	1
-^s	s	S	5
-^t	t	T	20
-^ts	ts	C	1
-^u	u	Y	1
-^w	w	W	7
-^ç	ç	C	6
-^ʎ	ʎ	L	18
-a	a	A	119
-a$	a	A	28
-aa	aː	A	2
-aa$	aː	A	2
-e	e	E	90
-e$	e	E	39
-h	h	H	4
-i	i	I	21
-i$	i	I	4
-j	j	J	16
-j$	j	J	2
-k	k	K	40
-k$	k	K	9
-kh	kh/kʰ	K	12
-kh$	kh/kʰ	K	1
-kk	kk/kː	K	3
-ks	k s	K S	9
-l	l	L	15
-l$	l	L	2
-lw	l w	L W	1
-m	m	M	24
-m$	m	M	8
-mh	mh/m̥	M	1
-n	n	N	44
-n$	n	N	28
-nn	nn/nː	N	2
-o	o	U	30
-o$	o	U	3
-p	p	P	12
-p$	p	P	1
-r	r	R	11
-r$	r	R	3
-s	s	S	6
-s$	s	S	2
-t	t	T	48
-t$	t	T	6
-tt	tt/tː	T	1
-u	u	Y	30
-u$	u	Y	14
-uu$	uː	Y	2
-uuu	uuu/uː	Y	1
-w	w	W	26
-ç	ç	C	9
-ŋ$	ŋ	N	8
-ŋs	ŋ s	N S	1
-ɲ	ɲ	N	11
-ʎ	ʎ	L	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		155	NULL	jaŋsotom;homtek;totom;totom;çenek
+$	NULL		153	1	jaŋsotom;homtek;totom;totom;çenek
+^kw$	kw/kʷ	K	1	1	kw
+a	a	A	153	119	jaŋsotom;taru;wjak;tati;homhomniaŋ
+aa	aː	A	4	2	maanona;maan;lkaa;paa
+ç	ç	C	15	9	çenek;lepuçapnen;çlaka;çetukiçetanen;çetukiçetanen
+^ts	ts	C	1	1	tsiʎka
+e	e	E	136	90	homtek;çenek;çenek;neu;jewe
+h	h	H	11	4	homtek;homhomniaŋ;hoho;hoho;horok
+i	i	I	25	21	tati;homhomniaŋ;çetukiçetanen;kitek;eniamanen
+j	j	J	28	16	jaŋsotom;wjak;jewe;kojkoj;kojkoj
+k	k	K	74	40	homtek;çenek;wjak;kojkoj;kojkoj
+kh	kh/kʰ	K	13	12	lkhaj;kwpkhaŋ;puçjamkhakh;puçjamkhakh;ekhaŋ
+kk	kk/kː	K	3	3	mlakkati;akkasʎawe;akkasʎawe
+^kh	kʰ	K	6	6	khejmen;khotoalteunen;khe;kher;khe
+l	l	L	31	15	lepuçapnen;çlaka;ltunkleu;ltunkleu;lkatertekta
+ʎ	ʎ	L	22	4	tsiʎka;kiʎet;ʎawe;ʎawe;ʎawe
+m	m	M	39	24	jaŋsotom;homtek;totom;totom;homhomniaŋ
+mh	mh/m̥	M	1	1	homhomniaŋ
+n	n	N	76	44	çenek;neu;homhomniaŋ;mamejenen;mamejenen
+ɲ	ɲ	N	11	11	maɲanen;piɲa;piɲa;pekɲakse;pekɲakse
+nn	nn/nː	N	2	2	penne;penne
+ŋ$	ŋ	N	8	8	homhomniaŋ;lturlturniaŋ;kwpkhaŋ;lkerkerniaŋ;ekhaŋ
+p	p	P	40	12	lepuçapnen;lepuçapnen;pejnen;lpuu;topatenen
+r	r	R	15	11	taru;lkatertekta;suru;horok;lturlturniaŋ
+s	s	S	22	6	suksuk;suksuk;wasa;suru;sakatkanen
+t	t	T	74	48	jaŋsotom;homtek;totom;totom;totom
+tt	tt/tː	T	1	1	motta
+o	o	U	33	30	jaŋsotom;jaŋsotom;homtek;totom;totom
+w	w	W	34	26	wjak;jewe;wasa;wese;howe
+u	u	Y	45	30	neu;taru;suksuk;suksuk;teujanen
+uu$	uː	Y	2	2	lpuu;lpuu
+uuu	uuu/uː	Y	1	1	çewarlpuuu
+^kw	kw/k w	K W	1	1	kwpkhaŋ
+ŋs	ŋ s	N S	1	1	jaŋsotom

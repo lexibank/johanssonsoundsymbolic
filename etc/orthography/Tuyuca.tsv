@@ -1,82 +1,41 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	8
-^b	b	P	59
-^d	d	T	43
-^e	e	E	5
-^g	g	K	1
-^h	h	H	3
-^i	i	I	2
-^j	j	J	33
-^k	k	K	21
-^m	m	M	1
-^o	o	U	4
-^p	p	P	40
-^r	r	R	1
-^s	s	S	50
-^t	t	T	7
-^u	u	Y	3
-^w	w	W	24
-^ã	ã	A	6
-^õ	õ	U	5
-^ĩ	ĩ	I	3
-^ũ	ũ	Y	3
-^ɨ	ɨ	I	6
-^ɨ̃	ɨ̃	I	9
-^ẽ	ẽ	E	1
-_	+	_	21
-a	a	A	86
-a$	a	A	46
-aa	aː	A	1
-aa$	aː	A	6
-b	b	P	97
-d	d	T	36
-e	e	E	58
-e$	e	E	16
-ee	eː	E	8
-ee$	eː	E	1
-g	g	K	24
-h	h	H	1
-i	i	I	66
-i$	i	I	35
-ii	iː	I	2
-ii$	iː	I	5
-j	j	J	20
-k	k	K	102
-n	n	N	4
-o	o	U	38
-o$	o	U	51
-oo	oː	U	1
-oo$	oː	U	1
-p	p	P	70
-r	r	R	3
-s	s	S	31
-t	t	T	49
-u	u	Y	21
-u$	u	Y	5
-w	w	W	25
-ã	ã	A	78
-ã$	ã	A	35
-ãã$	ãː	A	2
-õ	õ	U	48
-õ$	õ	U	35
-õõ$	õ	U	4
-ĩ	ĩ	I	29
-ĩ$	ĩ	I	17
-ĩĩ	ĩː	I	3
-ĩĩ$	ĩː	I	4
-ũ	ũ	Y	14
-ũ$	ũ	Y	7
-ũũ	ũ	Y	1
-ũũ$	ũ	Y	1
-ɨ	ɨ	I	41
-ɨ$	ɨ	I	14
-ɨɨ	ɨː	I	1
-ɨɨ$	ɨː	I	2
-ɨ̃	ɨ̃	I	37
-ɨ̃$	ɨ̃	I	33
-ɨ̃ɨ̃$	ɨ̃	I	3
-ɾ	ɾ	R	61
-ẽ	ẽ	E	45
-ẽ$	ẽ	E	13
-ẽẽ	ẽː	E	1
-ẽẽ$	ẽː	E	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		337	NULL	sotoa;kui;siɾo;õbẽ;dĩĩpetiɾe
+$	NULL		329	NULL	sotoa;kui;siɾo;õbẽ;dĩĩpetiɾe
+a	a	A	140	86	sotoa;kua;waikɨ;peta;kaseɾo
+ã	ã	A	119	78	wãbõ;wãbõ;dũã;jãjã;jãjã
+aa	aː	A	7	1	paaga;jaa;waa;taa;paiɾo_waa
+ãã$	ãː	A	2	2	jãã;bãã
+e	e	E	79	58	dĩĩpetiɾe;dĩĩpetiɾe;peta;kaseɾo;sɨgeɾo
+ẽ	ẽ	E	59	45	õbẽ;sɨ̃gẽ;sɨ̃bẽ;õpẽã;ũbẽbɨɾɨa
+ee	eː	E	9	8	jeeɾisã;peeɾo;jeeɾipũdã;deeɾo;mee
+ẽẽ	ẽː	E	3	1	dẽẽwa;dẽẽ;jẽẽ
+h	h	H	4	1	hũĩɾĩbãdĩ;hũĩɾĩpi;sikabõhẽjẽ;hĩĩ
+i	i	I	103	66	kui;siɾo;dĩĩpetiɾe;waikɨ;sukubiɾo
+ĩ	ĩ	I	49	29	jĩ;bĩdĩbãkɨ̃;bĩdĩbãkɨ̃;wĩbãgɨ̃;hũĩɾĩbãdĩ
+ɨ	ɨ	I	61	41	waikɨ;sɨgeɾo;ũbẽbɨɾɨa;ũbẽbɨɾɨa;jɨsɨa
+ii	iː	I	7	2	dii;siiga;tii;diiɾo;wii
+ĩĩ	ĩː	I	7	3	dĩĩpetiɾe;jĩĩ;wĩĩpũ;jĩĩ;dĩĩ
+ɨɨ	ɨː	I	3	1	wɨɨ;jɨɨ;wɨɨɾo
+ɨ̃	ɨ̃	I	79	37	bĩdĩbãkɨ̃;sɨ̃gẽ;sɨ̃bẽ;wĩbãgɨ̃;diabãkɨ̃
+ɨ̃ɨ̃$	ɨ̃	I	3	3	õpɨ̃ɨ̃;kɨ̃ɨ̃;bɨ̃ɨ̃
+j	j	J	53	20	jãjã;jãjã;ãjũ;jĩ;jĩĩ
+g	g	K	25	24	sɨgeɾo;paaga;sɨ̃gẽ;wĩbãgɨ̃;siiga
+k	k	K	123	102	kui;kua;waikɨ;sukubiɾo;kaseɾo
+^m	m	M	1	1	mee
+n	n	N	4	4	ãno;ĩni;ĩni;ãni
+b	b	P	156	97	õbẽ;wãbõ;wãbõ;sukubiɾo;bĩdĩbãkɨ̃
+p	p	P	110	70	dĩĩpetiɾe;peta;paaga;pai;wĩĩpũ
+r	r	R	4	3	sero;sodoro;ra;teero_tii
+ɾ	ɾ	R	61	61	siɾo;dĩĩpetiɾe;sukubiɾo;kaseɾo;sɨgeɾo
+s	s	S	81	31	sotoa;siɾo;sukubiɾo;kaseɾo;sɨgeɾo
+d	d	T	79	36	dĩĩpetiɾe;dũã;doka;bĩdĩbãkɨ̃;dii
+t	t	T	56	49	sotoa;dĩĩpetiɾe;peta;watoa;ati
+o	o	U	93	38	sotoa;sotoa;siɾo;sukubiɾo;kaseɾo
+õ	õ	U	88	48	õbẽ;wãbõ;wãbõ;õpɨ̃ɨ̃;kõã
+oo	oː	U	2	1	kooɾo;boo
+õõ$	õ	U	4	4	pĩkõõ;jõõ;jõõ;dõõ
+w	w	W	49	25	waikɨ;wãbõ;wãbõ;wesa;watoa
+u	u	Y	29	21	kui;kua;sukubiɾo;sukubiɾo;udu
+ũ	ũ	Y	24	14	dũã;ãjũ;wĩĩpũ;hũĩɾĩbãdĩ;ũbẽbɨɾɨa
+ũũ	ũ	Y	2	1	pũũ;pũũgɨ̃dɨpo
+_	+	_	21	21	sikabõpeti_apebõpẽdĩpeaɾe_itiaga;sikabõpeti_apebõpẽdĩpeaɾe_itiaga;pɨabõpeti_dɨpo_sikagapẽdĩpeaɾe;pɨabõpeti_dɨpo_sikagapẽdĩpeaɾe;wĩjã_pakaɾa

@@ -1,48 +1,24 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	23
-^a$	a	A	1
-^b	b	P	22
-^d	d	T	14
-^e	e	E	5
-^i	i	I	4
-^j	j	J	2
-^k	k	K	20
-^m	m	M	50
-^n	n	N	18
-^o	o	U	5
-^o$	o	U	1
-^p	p	P	18
-^r	r	R	4
-^s	s	S	1
-^t	t	T	12
-^u	u	Y	2
-^v	v	B	1
-^w	w	W	16
-_	+	_	4
-a	a	A	139
-a$	a	A	39
-aa$	aː	A	1
-b	b	P	16
-d	d	T	11
-e	e	E	51
-e$	e	E	49
-g	g	K	1
-gg	gː	K	4
-i	i	I	55
-i$	i	I	69
-j	j	J	7
-k	k	K	27
-m	m	M	52
-n	n	N	42
-n$	n	N	21
-ns	n s	N S	2
-o	o	U	34
-o$	o	U	29
-p	p	P	20
-r	r	R	44
-s	s	S	9
-t	t	T	41
-u	u	Y	31
-u$	u	Y	9
-v	v	B	25
-w	w	W	9
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		219	NULL	avori;pasi;dore;bera;bera
+$	NULL		218	NULL	avori;pasi;dore;bera;bera
+a	a	A	202	139	avori;pasi;bera;bera;aivu
+aa$	aː	A	1	1	rapaa
+v	v	B	26	25	avori;aivu;buvio;taneva;keva
+e	e	E	105	51	dore;bera;bera;kebonggomboro;pame
+i	i	I	128	55	avori;pasi;aivu;pita;mani
+j	j	J	9	7	juambi;ji;mambajo;metajo;dovorajo
+g	g	K	1	1	mangamba
+k	k	K	47	27	kebonggomboro;taka;kekombo;kekombo;make
+gg	gː	K	4	4	kebonggomboro;paingge;manggai;manggai
+m	m	M	102	52	kebonggomboro;mani;pame;mamani;mamani
+n	n	N	83	42	kebonggomboro;mani;mamani;nue;akuni
+b	b	P	38	16	bera;bera;kebonggomboro;kebonggomboro;juambi
+p	p	P	38	20	pasi;pita;pame;pere;pere
+r	r	R	48	44	avori;dore;bera;bera;kebonggomboro
+s	s	S	12	9	pasi;ansora;mamasi;berasu;waiseno
+d	d	T	25	11	dore;da;damo;bururandi;daran
+t	t	T	53	41	taka;pita;ketutu;ketutu;atino
+o	o	U	69	34	avori;dore;kebonggomboro;kebonggomboro;kebonggomboro
+w	w	W	25	9	waro;wai;ndowa;wanditi_wonti;wanditi_wonti
+u	u	Y	42	31	aivu;juambi;nue;ketutu;ketutu
+_	+	_	4	4	wanditi_wonti;wanditi_wati;wanditi_waitiso;wanditi_waiseno

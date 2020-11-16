@@ -1,66 +1,37 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	26
-^g	g	K	2
-^h	h	H	20
-^i	i	I	16
-^j	j	J	24
-^k	k	K	92
-^m	m	M	25
-^n	n	N	17
-^p	p	P	15
-^t	t	T	15
-^ts	ts	C	2
-^tʃ	tʃ	T	12
-^u	u	Y	3
-^u$	u	Y	1
-^w	w	W	2
-^ŋ	ŋ	N	1
-^ɔ	ɔ	U	4
-^ɛ	ɛ	E	2
-^ɲ	ɲ	N	6
-^ɾ	ɾ	R	2
-_	+	_	96
-a	a	A	201
-a$	a	A	13
-b	b	P	4
-c	c	C	2
-f	f	B	2
-g	g	K	3
-h	h	H	13
-i	i	I	180
-i$	i	I	8
-ii	iː	I	1
-j	j	J	61
-k	k	K	98
-k$	k	K	89
-l	l	L	3
-m	m	M	56
-m$	m	M	44
-mh	mh/m̥	M	2
-n	n	N	94
-n$	n	N	66
-nʃ	n ʃ	N S	1
-o$	o	U	1
-p	p	P	54
-p$	p	P	11
-pʃ	p ʃ	P S	1
-r	r	R	2
-t	t	T	35
-t$	t	T	12
-tt	tt/tː	T	1
-tʃ	tʃ	T	20
-u	u	Y	85
-u$	u	Y	17
-v	v	B	1
-w	w	W	5
-x	x	G	1
-ã	ã	A	2
-ŋ	ŋ	N	4
-ɔ	ɔ	U	90
-ɔ$	ɔ	U	11
-ɔ̃	ɔ̃	U	2
-ɛ	ɛ	E	46
-ɛ$	ɛ	E	14
-ɲ	ɲ	N	33
-ɾ	ɾ	R	68
-ʃ	ʃ	S	18
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		285	NULL	jukupɔ;tɛ_kɾak;pɔ_ta;akɾan;pɾik
+$	NULL		286	NULL	jukupɔ;tɛ_kɾak;pɔ_ta;akɾan;pɾik
+a	a	A	240	201	tɛ_kɾak;pɔ_ta;akɾan;akɾan;pijuk_jaku
+ã	ã	A	2	2	jɔn_atãn;kãɔn
+f	f	B	2	2	miɲan_fɔp;tʃɔn_jufupa
+v	v	B	1	1	intjɔvɛm
+c	c	C	2	2	tsckam;tsckini_jun
+^ts	ts	C	2	2	tsckam;tsckini_jun
+ɛ	ɛ	E	62	46	tɛ_kɾak;jɔjɛk;ɲɔɛ;mɔɲɛk;mak_mɛk
+x	x	G	1	1	kɔtxi
+h	h	H	33	13	him_bakan;him;himpɾan;hinkan;him
+i	i	I	204	180	pɾik;ninun;ninun;pijuk_jaku;jipakiʃu
+ii	iː	I	1	1	taɾu_kɾiin
+j	j	J	85	61	jukupɔ;pijuk_jaku;pijuk_jaku;jɔjɛk;jɔjɛk
+g	g	K	5	3	gamɾa;gɾɔk;nan_gɾan;igɔɛ;igɔɛ
+k	k	K	279	98	jukupɔ;tɛ_kɾak;tɛ_kɾak;akɾan;pɾik
+l	l	L	3	3	hɾlin;nɾlɔk;ɾla
+m	m	M	125	56	ɔmtʃɔp;mɔɾa;him_bakan;him;kɔmtjik
+mh	mh/m̥	M	2	2	amhuɾu;amhimakaki
+n	n	N	178	94	akɾan;ninun;ninun;ninun;ninun
+ŋ	ŋ	N	5	4	aŋɾɔpɔ;niaŋɾɔk;aŋuim;aŋɾak;ŋarimbo
+ɲ	ɲ	N	39	33	ɲɔɛ;mɔɲɛk;miɲan_mut_mut;miɲan_fɔp;ɲɔhɔn
+b	b	P	4	4	him_bakan;nɔmbɾuk;ŋarimbo;taɾu_ambuɾu
+p	p	P	81	54	jukupɔ;pɔ_ta;pɾik;pijuk_jaku;ɔmtʃɔp
+r	r	R	2	2	krutuip;ŋarimbo
+ɾ	ɾ	R	70	68	tɛ_kɾak;akɾan;pɾik;aŋɾɔpɔ;mɔɾa
+ʃ	ʃ	S	20	18	jipakiʃu;mɔnʃak_jak;kiʃɛm;ampʃak;kukiʃum
+t	t	T	62	35	tɛ_kɾak;pɔ_ta;kat;kɔmtjik;miɲan_mut_mut
+tt	tt/tː	T	1	1	amɔttɛ
+tʃ	tʃ	T	32	20	ɔmtʃɔp;intʃɔm;jitʃɔ;tʃɔn_pɛk;tʃin
+ɔ	ɔ	U	105	90	jukupɔ;pɔ_ta;jɔjɛk;ɔmtʃɔp;ɔmtʃɔp
+o$	o	U	1	1	ŋarimbo
+ɔ̃	ɔ̃	U	2	2	pɾam_tɔ̃n_tɔ̃n;pɾam_tɔ̃n_tɔ̃n
+w	w	W	7	5	anku_wɔk_inku;kniɛn_iɲak_wak;tʃin_wup;wa_mu;wa_mu
+u	u	Y	106	85	jukupɔ;jukupɔ;ninun;ninun;pijuk_jaku
+_	+	_	96	96	tɛ_kɾak;pɔ_ta;pijuk_jaku;him_bakan;anku_wɔk_inku

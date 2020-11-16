@@ -1,57 +1,28 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	37
-^a$	a	A	1
-^b	b	P	29
-^bw	b w	P W	1
-^c	c	C	4
-^e	e	E	1
-^h	h	H	124
-^hw	hʷ	H	10
-^i	i	I	26
-^j	j	J	10
-^m	m	M	1
-^o	o	U	5
-^o$	o	U	1
-^t	t	T	10
-^u	u	Y	2
-^w	w	W	12
-^ã	ã	A	3
-^ĩ	ĩ	I	4
-^ũ	ũ	Y	2
-^ũ$	ũ	Y	1
-^ɨ	ɨ	I	5
-^ɾ	ɾ	R	9
-_	+	_	76
-a	a	A	103
-a$	a	A	26
-b	b	P	67
-c	c	C	23
-e	e	E	53
-e$	e	E	40
-h	h	H	80
-hw	hw/hʷ	H	2
-i	i	I	68
-i$	i	I	48
-j	j	J	27
-k	k	K	68
-kw	kw/k w	K W	16
-o	o	U	44
-o$	o	U	43
-t	t	T	97
-u	u	Y	29
-u$	u	Y	34
-w	w	W	43
-ã	ã	A	41
-ã$	ã	A	40
-õ	õ	U	13
-õ$	õ	U	13
-ĩ	ĩ	I	17
-ĩ$	ĩ	I	16
-ũ	ũ	Y	5
-ɨ	ɨ	I	10
-ɨ$	ɨ	I	19
-ɨ̃	ɨ̃	I	6
-ɨ̃$	ɨ̃	I	4
-ɾ	ɾ	R	138
-ẽ	ẽ	E	33
-ẽ$	ẽ	E	12
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		287	NULL	bĩɾẽ;itiwɨ;toɾã;hco;bwecato
+$	NULL		298	NULL	bĩɾẽ;itiwɨ;toɾã;hco;bwecato
+a	a	A	167	103	bwecato;ɾowaɾi;jãhai;hti_hai;ahkuɾẽ
+ã	ã	A	84	41	toɾã;hã;bõ_wãwã;bõ_wãwã;bõ_wãwã
+c	c	C	27	23	hco;bwecato;icuke;ico;icu_bãbeja
+e	e	E	94	53	bwecato;hkɨwe;icuke;ihte;htuhkewaka
+ẽ	ẽ	E	45	33	bĩɾẽ;iɾẽho;hkuɾẽ;ahkuɾẽ;a_jẽɨ
+h	h	H	204	80	hco;hã;hjõ;iɾẽho;jãhai
+hw	hw/hʷ	H	2	2	hkwã_hwɨ;mo_hwɨja_bɨkja
+^hw	hʷ	H	10	10	hwɨ;hwi;hwecato;hwoi;hwau
+i	i	I	142	68	itiwɨ;itiwɨ;ɾowaɾi;iɾẽho;jãhai
+ĩ	ĩ	I	37	17	bĩɾẽ;ĩbɨ;hkabĩ;bĩhtu;bĩjeɾi
+ɨ	ɨ	I	34	10	itiwɨ;hwɨ;ĩbɨ;hkɨwe;a_jẽɨ
+ɨ̃	ɨ̃	I	10	6	ɾɨ̃ɾɨ̃hã;ɾɨ̃ɾɨ̃hã;htabɨ̃;wõiko_bõ_bã_haiɾɨ̃;htabɨ̃
+j	j	J	37	27	hjõ;jãhai;a_jẽɨ;bẽjabekɨ;icu_bãbeja
+k	k	K	68	68	hkɨwe;icuke;hkuɾẽ;ahkuɾẽ;htuhkewaka
+^m	m	M	1	1	mo_hwɨja_bɨkja
+b	b	P	97	67	bĩɾẽ;bwecato;bõ_wãwã;bõ_wãwã;ĩbɨ
+ɾ	ɾ	R	147	138	bĩɾẽ;toɾã;ɾowaɾi;ɾowaɾi;iɾẽho
+t	t	T	107	97	itiwɨ;toɾã;bwecato;toto;toto
+o	o	U	93	44	toɾã;hco;bwecato;ɾowaɾi;iɾẽho
+õ	õ	U	26	13	hjõ;bõ_wãwã;bõ_wãwã;hkẽhõ;hkwõ
+w	w	W	56	43	itiwɨ;bwecato;ɾowaɾi;bõ_wãwã;bõ_wãwã
+u	u	Y	65	29	icuke;hkuɾẽ;ahkuɾẽ;uɾi;htuhkewaka
+ũ	ũ	Y	8	5	ɾũhtibo;bũhkete;ɾũhtibo;ɾũwe;aɾũwẽ
+_	+	_	76	76	bõ_wãwã;bõ_wãwã;hti_hai;a_jẽɨ;hãɾi_hã
+kw	kw/k w	K W	16	16	hkwo;hkwã_huɾẽbu;hkwa_ɾẽi;hkwõ;hkwo_hu

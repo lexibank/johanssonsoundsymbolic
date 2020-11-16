@@ -1,55 +1,30 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	17
-^e	e	E	37
-^g	g	K	10
-^h	h	H	47
-^j	j	J	14
-^kh	kʰ	K	22
-^l	l	L	13
-^m	m	M	17
-^n	n	N	12
-^ph	pʰ	P	7
-^r	r	R	21
-^s	s	S	10
-^th	th/tʰ	T	30
-^thʃh	thʃh/tʃʰ	T	4
-^w	w	W	9
-^ʃ	ʃ	S	10
-^ʔ	ʔ	H	33
-_	+	_	5
-a	a	A	155
-a$	a	A	105
-d	d	T	1
-e	e	E	17
-h	h	H	149
-i	i	I	94
-i$	i	I	91
-j	j	J	29
-kh	kh/kʰ	K	119
-khh	khh/kʰ	K	2
-l	l	L	29
-m	m	M	18
-n	n	N	40
-n$	n	N	1
-o	o	U	56
-o$	o	U	1
-ph	ph/pʰ	P	22
-r	r	R	30
-rw	r w	R W	1
-s	s	S	30
-sw	s w	S W	1
-th	th/tʰ	T	87
-th$	th/tʰ	T	1
-thʃh	thʃh/tʃʰ	T	55
-thʃh$	thʃh/tʃʰ	T	1
-thʃhw	thʃh/tʃʰ w	T W	1
-u	u	Y	78
-u$	u	Y	101
-w	w	W	11
-ɔ	ɔ	U	20
-ɔ$	ɔ	U	2
-ɛ	ɛ	E	18
-ɛ$	ɛ	E	6
-ʃ	ʃ	S	37
-ʃ$	ʃ	S	4
-ʔ	ʔ	H	16
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		274	NULL	hajiʃi;ʃrukha;hothi;jaʃi;jorumʔaha
+$	NULL		313	NULL	hajiʃi;ʃrukha;hothi;jaʃi;jorumʔaha
+a	a	A	277	155	hajiʃi;ʃrukha;jaʃi;jorumʔaha;jorumʔaha
+e	e	E	54	17	eju;eju;mela;esinthalu;semi
+ɛ	ɛ	E	24	18	ʔathɛhkhala;khɛhthʃha;hɛha;ʔɛma;nɛra
+h	h	H	196	149	hajiʃi;hothi;jorumʔaha;ʃirihkha;hahphuʃi
+ʔ	ʔ	H	49	16	jorumʔaha;laphʔɔhɔ;ʔahkhiʃi;ʔathɛhkhala;ʔɔʃtha
+i	i	I	185	94	hajiʃi;hajiʃi;hothi;jaʃi;ʃirihkha
+j	j	J	43	29	hajiʃi;jaʃi;jorumʔaha;eju;eju
+^g	g	K	10	10	gathʃhi;gathʃhi;gathʃhisahu;gathʃhisahu;gathʃhisahu
+kh	kh/kʰ	K	119	119	ʃrukha;ʃirihkha;thahkhiʃi;ʔahkhiʃi;ʔathɛhkhala
+^kh	kʰ	K	22	22	khuwathohkhu;khɛhthʃha;khuthʃha;khɔra;khaphaʃʔohkhu
+khh	khh/kʰ	K	2	2	thʃhikhhi;rikhhu
+l	l	L	42	29	laphʔɔhɔ;haluʃi;ʔathɛhkhala;mela;esinthalu
+m	m	M	35	18	jorumʔaha;mela;ʔɛma;muhi;semi
+n	n	N	53	40	rɔhphanth;esinthalu;sihina;nɛra;ʃihthuna
+ph	ph/pʰ	P	22	22	hahphuʃi;laphʔɔhɔ;rɔhphanth;ʔapharu;juphahtha
+^ph	pʰ	P	7	7	phatha;phuhthʃhu;phɛlkha;phari;phihu
+r	r	R	52	30	ʃrukha;jorumʔaha;ʃirihkha;ʃira;rɔhphanth
+s	s	S	41	30	asthaji;esinthalu;sihina;semi;sa
+ʃ	ʃ	S	51	37	hajiʃi;ʃrukha;jaʃi;ʃirihkha;hahphuʃi
+d	d	T	1	1	ʔɔndethiʃi
+th	th/tʰ	T	118	87	hothi;thahkhiʃi;rɔhphanth;ʔathɛhkhala;thikha
+thʃh	thʃh/tʃʰ	T	61	55	thʃhikhhi;khɛhthʃha;ʔuthʃhu;khuthʃha;huhthʃhu
+o	o	U	57	56	hothi;jorumʔaha;khuwathohkhu;khaphaʃʔohkhu;ʃthosu
+ɔ	ɔ	U	22	20	laphʔɔhɔ;laphʔɔhɔ;rɔhphanth;thɔrahtha;ʔɔʃtha
+w	w	W	23	11	khuwathohkhu;alawɛthʃha;thewali;hkhenthirwaʃi;juwa
+u	u	Y	179	78	ʃrukha;jorumʔaha;eju;eju;hahphuʃi
+_	+	_	5	5	mithʃhu_sahthɛja_sahkhu;mithʃhu_sahthɛja_sahkhu;mithʃhu_sahthɛj_ʔili;mithʃhu_sahthɛj_ʔili;mithʃhu_ʔili

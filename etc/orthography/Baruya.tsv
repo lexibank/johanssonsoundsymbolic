@@ -1,61 +1,36 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	20
-^aa	aː	A	31
-^d	d	T	4
-^j	j	J	25
-^k	k	K	22
-^kw	kw/k w	K W	12
-^l	l	L	8
-^m	m	M	47
-^mw	m w	M W	3
-^n	n	N	54
-^p	p	P	9
-^pw	p w	P W	2
-^s	s	S	24
-^t	t	T	12
-^w	w	W	20
-^ŋ	ŋ	N	15
-_	+	_	27
-a	a	A	191
-a$	a	A	154
-aa	aː	A	121
-aa$	aː	A	9
-b	b	P	21
-bw	b w	P W	21
-d	d	T	37
-e	e	E	18
-e$	e	E	11
-g	g	K	38
-gw	gw/g w	K W	6
-i	i	I	44
-i$	i	I	38
-j	j	J	120
-k	k	K	45
-kw	kw/k w	K W	4
-l	l	L	71
-m	m	M	83
-mw	m w	M W	12
-n	n	N	98
-nn	nn/nː	N	10
-o	o	U	7
-o$	o	U	48
-p	p	P	5
-pw	p w	P W	6
-r	r	R	9
-s	s	S	7
-t	t	T	53
-u	u	Y	35
-u$	u	Y	1
-v	v	B	1
-w	w	W	44
-y	y	Y	2
-ŋ	ŋ	N	30
-ŋw	ŋw/ŋʷ	N	3
-ə	ə	E	208
-ə$	ə	E	8
-ɨ	ɨ	I	24
-ɽ	ɽ	R	46
-ʑ	ʑ	S	1
-ʔ	ʔ	H	38
-ʔ$	ʔ	H	39
-β	β	B	22
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		308	NULL	munja;ləka;jəwəta;juja;maaŋa
+$	NULL		308	NULL	munja;ləka;jəwəta;juja;maaŋa
+a	a	A	365	191	munja;ləka;jəwəta;juja;maaŋa
+aa	aː	A	161	121	maaŋa;jaaŋwia;maaʔnjaanna;maaʔnjaanna;kwaaŋgəta
+v	v	B	1	1	sɨvɨlɨraai_ati_pwɨrɨdaaʔnjɨ_dawaai
+β	β	B	22	22	ləβəkuʔnja;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da;jəβaɽula;səβəla;mundəkeʔ_wənjaaβəmo
+e	e	E	29	18	mbule;kwaakemba;kwaimale;tawe;kaimalei
+ə	ə	E	216	208	ləka;jəwəta;jəwəta;kwaaŋgəta;jəkəlaaka
+ʔ	ʔ	H	77	38	maaʔnjaanna;kajaaʔnanja;nawəʔnja;pwaʔmu;mbiwaaʔnja
+i	i	I	82	44	jaaŋwia;kwaimale;mbiwaaʔnja;minjəminja;minjəminja
+ɨ	ɨ	I	24	24	atina_ata_pwɨrɨdaanyɨ_dawai_da;atina_ata_pwɨrɨdaanyɨ_dawai_da;atina_ata_pwɨrɨdaanyɨ_dawai_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da
+j	j	J	145	120	munja;jəwəta;juja;juja;jaaŋwia
+g	g	K	38	38	kwaaŋgəta;jaŋgənja;ləʔmuŋgunja;pandaʔŋgaləmo;njəgənja
+k	k	K	67	45	ləka;kajaaʔnanja;jəkəlaaka;jəkəlaaka;kwaakemba
+l	l	L	79	71	ləka;mbule;jəkəlaaka;kwaimale;kəlaaka
+m	m	M	145	83	munja;maaŋa;maaʔnjaanna;mbule;munja
+n	n	N	152	98	munja;maaʔnjaanna;kajaaʔnanja;kajaaʔnanja;nawəʔnja
+ŋ	ŋ	N	45	30	maaŋa;kwaaŋgəta;jaŋgənja;ləʔmuŋgunja;pandaʔŋgaləmo
+nn	nn/nː	N	10	10	maaʔnjaanna;ŋgwaamwannja;kənna;tənna;ŋgwalaanna
+ŋw	ŋw/ŋʷ	N	3	3	jaaŋwia;məŋwaɽaka;laŋwe
+b	b	P	42	21	mbule;kwaakemba;mbiwaaʔnja;mbəmo;mbaigəɽəmo
+p	p	P	22	5	pwaʔmu;pandaʔŋgaləmo;atina_ata_pwɨrɨdaanyɨ_dawai_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da;paɽəmbwaaka
+r	r	R	9	9	atina_ata_pwɨrɨdaanyɨ_dawai_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da;atina_ata_pwɨrɨdaaʔnjɨ_dadawaai_dawaai;atina_ata_pwɨrɨdaaʔnjɨ_dawaai
+ɽ	ɽ	R	46	46	kajaakuɽja;muɽənja;məŋwaɽaka;jəɽaaja;jəɽəka
+s	s	S	31	7	ndusə;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da;saamənjamba;asai;səβəla
+ʑ	ʑ	S	1	1	jənjuʑa
+d	d	T	41	37	ndusə;pandaʔŋgaləmo;kandəka;atina_ata_pwɨrɨdaanyɨ_dawai_da;atina_ata_pwɨrɨdaanyɨ_dawai_da
+t	t	T	65	53	jəwəta;ata;ata;kwaaŋgəta;juta
+o	o	U	55	7	nano;jemakuləmo;mbəmo;pandaʔŋgaləmo;jəkəmo
+w	w	W	108	44	jəwəta;nawəʔnja;tawe;pwaʔmu;mbiwaaʔnja
+u	u	Y	36	35	munja;juja;mbule;ndusə;munja
+y	y	Y	2	2	atina_ata_pwɨrɨdaanyɨ_dawai_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da
+_	+	_	27	27	atina_ata_pwɨrɨdaanyɨ_dawai_da;atina_ata_pwɨrɨdaanyɨ_dawai_da;atina_ata_pwɨrɨdaanyɨ_dawai_da;atina_ata_pwɨrɨdaanyɨ_dawai_da;sɨβɨlɨraai_ati_pwɨrɨdaaʔnyɨ_da
+gw	gw/g w	K W	6	6	ŋgwaamwannja;ŋgwalaanna;ŋgwaaigwai;ŋgwaaigwai;ŋgwaaigwai
+kw	kw/k w	K W	16	4	kwaaŋgəta;kwaakemba;kwaimale;kwaawəla;kwaaka

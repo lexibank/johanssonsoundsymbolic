@@ -1,82 +1,39 @@
-Grapheme	IPA	SCA	Frequency
-^_	+	_	1
-^a	a	A	8
-^aa	aː	A	1
-^c	c	C	10
-^ch	ch/tʃ	T	11
-^e̞	e̞	E	2
-^h	h	H	20
-^i	i	I	6
-^j	j	J	5
-^k	k	K	16
-^kh	kʰ	K	16
-^l̪	l̪	L	6
-^m	m	M	30
-^mm	mː	M	1
-^n̪	n̪	N	2
-^p	p	P	33
-^ph	pʰ	P	17
-^r̪	r̪	R	2
-^s̪	s̪	S	9
-^t	t	T	18
-^t̪h	t̪ʰ	T	18
-^u	u	Y	8
-^w	w	W	28
-^x	x	G	8
-^ʔ	ʔ	H	28
-_	+	_	5
-a	a	A	257
-a$	a	A	135
-aa	aː	A	28
-aa$	aː	A	9
-c	c	C	36
-ch	ch/tʃ	T	16
-cs̪	c s̪	C S	1
-cw	c w	C W	2
-e̞	e̞	E	2
-e̞$	e̞	E	1
-e̞e̞	e̞ː	E	8
-e̞e̞$	e̞ː	E	1
-h	h	H	10
-hs̪	h s̪	H S	8
-i	i	I	135
-i$	i	I	81
-ii	iː	I	18
-ii$	iː	I	7
-j	j	J	35
-k	k	K	31
-kh	kh/kʰ	K	22
-ks̪	k s̪	K S	1
-l̪	l̪	L	45
-l̪$	l̪	L	14
-l̪l̪	l̪l̪/l̪ː	L	14
-l̪s̪	l̪ s̪	L S	2
-m	m	M	47
-m$	m	M	2
-ms̪	m s̪	M S	3
-n̪	n̪	N	83
-n̪$	n̪	N	6
-n̪n̪	n̪n̪/n̪ː	N	10
-o̞	o̞	U	2
-o̞o̞	o̞ː	U	3
-p	p	P	10
-p$	p	P	2
-ph	ph/pʰ	P	14
-pp	pp/pː	P	1
-r̪	r̪	R	22
-r̪w	r̪ w	R W	1
-s̪	s̪	S	26
-s̪$	s̪	S	1
-t	t	T	31
-t$	t	T	2
-t̪h	t̪h/t̪ʰ	T	10
-u	u	Y	119
-u$	u	Y	29
-uu	uː	Y	2
-uu$	uː	Y	3
-w	w	W	27
-x	x	G	15
-x$	x	G	1
-xs̪	x s̪	G S	2
-ʔ	ʔ	H	148
-ʔ$	ʔ	H	10
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		252	NULL	was̪a;n̪iʔjuu;puicia;chʔin̪ai;mo̞o̞jaun̪a
+$	NULL		304	NULL	was̪a;n̪iʔjuu;puicia;chʔin̪ai;mo̞o̞jaun̪a
+a	a	A	400	257	was̪a;was̪a;puicia;chʔin̪ai;mo̞o̞jaun̪a
+aa	aː	A	38	28	t̪hʔapʔl̪aawiʔaun̪a;makaa;phʔaakhʔul̪appa;xaat̪hʔain̪a;kaʔl̪aa
+c	c	C	49	36	puicia;pacal̪;cutʔawi;ixcan̪n̪uiphʔa;is̪kal̪ca
+e̞	e̞	E	5	2	e̞xtur̪upʔa;e̞t̪hʔs̪ai;aije̞ʔe̞;aije̞ʔe̞;he̞tʔ
+e̞e̞	e̞ː	E	9	8	je̞e̞mai_r̪ikhʔu;pe̞e̞;we̞e̞ju;he̞e̞cil̪;che̞e̞khʔaun̪a
+x	x	G	26	15	ʔixtal̪ʔ;ixcan̪n̪uiphʔa;e̞xtur̪upʔa;xaat̪hʔain̪a;xaacan̪
+h	h	H	38	10	hin̪ta;hal̪cawau;hal̪ukhʔma;hal̪;hiiwakin̪n̪a
+ʔ	ʔ	H	191	148	n̪iʔjuu;chʔin̪ai;mutʔkiwi;t̪hʔapʔl̪aawiʔaun̪a;t̪hʔapʔl̪aawiʔaun̪a
+i	i	I	222	135	n̪iʔjuu;puicia;puicia;chʔin̪ai;chʔin̪ai
+ii	iː	I	25	18	t̪hiikhʔal̪l̪au;s̪ii;piiwi;paiʔiiwa;pas̪mutʔkiiwi
+j	j	J	40	35	n̪iʔjuu;mo̞o̞jaun̪a;patʔjaun̪a;je̞e̞mai_r̪ikhʔu;ja
+k	k	K	48	31	mutʔkiwi;kal̪u;kal̪u;makaa;chʔkais̪a
+kh	kh/kʰ	K	22	22	makhʔi;mmin̪akhʔi;r̪ikhʔu;je̞e̞mai_r̪ikhʔu;phʔaakhʔul̪appa
+^kh	kʰ	K	16	16	khʔai;khil̪ap;khul̪;khʔujul̪l̪a;khʔar̪at
+l̪	l̪	L	67	45	kal̪u;kal̪u;t̪hʔapʔl̪aawiʔaun̪a;pacal̪;phal̪
+l̪l̪	l̪l̪/l̪ː	L	14	14	mal̪l̪aphʔa;wil̪l̪a;t̪hiikhʔal̪l̪au;tal̪l̪a;l̪al̪l̪a
+m	m	M	82	47	mo̞o̞jaun̪a;mutʔkiwi;makhʔi;mal̪l̪aphʔa;makaa
+^mm	mː	M	1	1	mmin̪akhʔi
+n̪	n̪	N	91	83	n̪iʔjuu;chʔin̪ai;mo̞o̞jaun̪a;t̪hʔapʔl̪aawiʔaun̪a;patʔjaun̪a
+n̪n̪	n̪n̪/n̪ː	N	10	10	ixcan̪n̪uiphʔa;s̪ukhʔuʔn̪imtan̪n̪a;hiiwakin̪n̪a;xan̪n̪a;kan̪n̪a
+p	p	P	45	10	puicia;t̪hʔapʔl̪aawiʔaun̪a;patʔjaun̪a;pacal̪;khil̪ap
+ph	ph/pʰ	P	14	14	mal̪l̪aphʔa;ixcan̪n̪uiphʔa;tʔphal̪;waʔichʔaphʔa;t̪hʔaaphal̪l̪a
+pp	pp/pː	P	1	1	phʔaakhʔul̪appa
+^ph	pʰ	P	17	17	phal̪;phu;phʔaakhʔul̪appa;phaur̪i;phachʔi
+r̪	r̪	R	25	22	r̪ikhʔu;je̞e̞mai_r̪ikhʔu;e̞xtur̪upʔa;phaur̪i;pakar̪waukhʔijau
+s̪	s̪	S	56	26	was̪a;chʔkais̪a;pas̪i;mas̪;is̪kal̪ca
+t	t	T	51	31	mutʔkiwi;patʔjaun̪a;cutʔawi;watʔtuwi;watʔtuwi
+ch	ch/tʃ	T	27	16	chʔin̪ai;chʔkais̪a;chikhʔi;phachʔi;chun̪a
+t̪h	t̪h/t̪ʰ	T	10	10	xaat̪hʔain̪a;s̪t̪haucs̪a;e̞t̪hʔs̪ai;waat̪hʔi;pachʔit̪hʔai
+^t̪h	t̪ʰ	T	18	18	t̪hʔapʔl̪aawiʔaun̪a;t̪hiikhʔal̪l̪au;t̪hʔuin̪a;t̪hʔapʔl̪aawi;t̪hʔaʔl̪ain̪a
+o̞	o̞	U	2	2	s̪o̞pʔl̪ijaun̪a;pho̞ʔl̪a
+o̞o̞	o̞ː	U	3	3	mo̞o̞jaun̪a;ʔo̞o̞caijaun̪a;xo̞o̞s̪ajaun̪a
+w	w	W	60	27	was̪a;mutʔkiwi;t̪hʔapʔl̪aawiʔaun̪a;wil̪l̪a;cutʔawi
+u	u	Y	156	119	puicia;mo̞o̞jaun̪a;mutʔkiwi;kal̪u;kal̪u
+uu	uː	Y	5	2	n̪iʔjuu;s̪uus̪u;puun̪i;wamuu;khuu
+_	+	_	6	5	je̞e̞mai_r̪ikhʔu;_ʔl̪aa;mur̪ul̪_r̪i;xti_ʔa;phe̞e̞ka_ʔa

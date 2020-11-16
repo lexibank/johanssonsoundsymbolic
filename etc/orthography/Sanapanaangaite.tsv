@@ -1,58 +1,30 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	227
-^i	i	I	12
-^j	j	J	8
-^k	k	K	7
-^l	l	L	1
-^m	m	M	12
-^n	n	N	12
-^p	p	P	9
-^s	s	S	11
-^t	t	T	6
-^w	w	W	1
-^ɬ	ɬ	L	8
-_	+	_	48
-a	a	A	294
-a$	a	A	94
-aa	aː	A	11
-aa$	aː	A	3
-h	h	H	50
-i	i	I	334
-i$	i	I	86
-j	j	J	92
-k	k	K	177
-k$	k	K	56
-kh	kh/kʰ	K	24
-ks	k s	K S	2
-kw	kw/k w	K W	17
-l	l	L	14
-lw	l w	L W	5
-m	m	M	117
-m$	m	M	14
-mh	mh/m̥	M	2
-n	n	N	126
-n$	n	N	22
-nh	nh/n̥	N	2
-ns	n s	N S	2
-nw	n w	N W	3
-o	o	U	103
-o$	o	U	8
-oo	oː	U	3
-oo$	oː	U	1
-p	p	P	163
-p$	p	P	6
-ph	ph/pʰ	P	8
-s	s	S	25
-s$	s	S	1
-sw	s w	S W	2
-t	t	T	109
-t$	t	T	6
-th	th/tʰ	T	1
-ts	ts	C	7
-w	w	W	32
-ŋ	ŋ	N	1
-ŋ$	ŋ	N	17
-ŋh	ŋh/ŋ̊	N	2
-ɬ	ɬ	L	45
-ɬw	ɬ w	L W	4
-ɲ	ɲ	N	26
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		314	NULL	nitin;apkakaji;niptamin;akjokhoho;aplawoki
+$	NULL		314	NULL	nitin;apkakaji;niptamin;akjokhoho;aplawoki
+a	a	A	615	294	apkakaji;apkakaji;apkakaji;niptamin;akjokhoho
+aa	aː	A	14	11	antaa;ankiljikwaaji;aɲimaawoi;ɬimaapaktoi;ankimpaaji
+ts	ts	C	7	7	ankilitsitki;atkitsipki;atsimhin;atkitsoi_nikha;watsom
+h	h	H	50	50	akjokhoho;tahap;jamit_ajimpihik;askihi;mitki_ahantik
+i	i	I	432	334	nitin;nitin;apkakaji;niptamin;niptamin
+j	j	J	100	92	apkakaji;akjokhoho;jamit_ajimpihik;jamit_ajimpihik;ajikhik
+k	k	K	242	177	apkakaji;apkakaji;akjokhoho;aplawoki;aktoŋ
+kh	kh/kʰ	K	24	24	akjokhoho;ajikhik;nikha;akhanaktima;sakhiji
+l	l	L	20	14	aplawoki;tipoli;apitik_aptakla;ankiljikwaaji;ankilitsitki
+ɬ	ɬ	L	57	45	aptakɬima;aɬkapok;akwanɬiji;amaɬkawoi;apkiɬjakmi
+m	m	M	143	117	niptamin;jamit_ajimpihik;jamit_ajimpihik;apmaɲi;aptakɬima
+mh	mh/m̥	M	2	2	atsimhin;aɲimhoi
+n	n	N	165	126	nitin;nitin;niptamin;niptamin;antaa
+ŋ	ŋ	N	18	1	aktoŋ;aktoŋ;koniŋ;jiphopaia_nitiŋ;apniŋaji
+ɲ	ɲ	N	26	26	apmaɲi;aɲimaawoi;aɲitnakhik_nahan_amiɬma;aɲimoi;akwaniɲi
+nh	nh/n̥	N	2	2	awanhi;awanhi
+ŋh	ŋh/ŋ̊	N	2	2	iŋhapitik;iŋhapitik
+p	p	P	178	163	apkakaji;niptamin;aplawoki;tipoli;tahap
+ph	ph/pʰ	P	8	8	jiphopaia_nitiŋ;aphihik;ijiphihik;apjiphima;aphikhik
+s	s	S	43	25	asonkoi;antasi;askihi;paisijam;sakhiji
+t	t	T	121	109	nitin;niptamin;antaa;tipoli;aktoŋ
+th	th/tʰ	T	1	1	apkathima
+o	o	U	111	103	akjokhoho;akjokhoho;akjokhoho;aplawoki;tipoli
+oo	oː	U	4	3	amiɬmankoi_mook;koo;apjook;mitki_amiɬma_mook
+w	w	W	47	32	aplawoki;awanhi;apkinawo;amaɬkawoi;aɲimaawoi
+_	+	_	48	48	jamit_ajimpihik;mitki_ahantik;apitik_aptakla;jiphopaia_nitiŋ;ɬipop_ampaia
+kw	kw/k w	K W	17	17	akwatipnapki;akwanɬiji;ankiljikwaaji;akwiniji;akwaniɲi

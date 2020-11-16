@@ -1,51 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	1
-^_	+	_	1
-^a	a	A	78
-^h	h	H	17
-^i	i	I	59
-^j	j	J	7
-^k	k	K	8
-^n	n	N	15
-^o	o	U	4
-^t	t	T	9
-^tʃ	tʃ	T	22
-^u	u	Y	13
-^w	w	W	11
-^x	x	G	7
-^ɨ	ɨ	I	5
-^ɲ	ɲ	N	2
-_	+	_	19
-a	a	A	150
-a$	a	A	56
-b	b	P	1
-e	e	E	1
-h	h	H	26
-h$	h	H	3
-i	i	I	78
-i$	i	I	22
-j	j	J	50
-k	k	K	65
-l	l	L	1
-n	n	N	93
-n$	n	N	35
-nh	nh/n̥	N	11
-nw	n w	N W	1
-o	o	U	43
-o$	o	U	53
-oo$	oː	U	1
-sh	sh/sʰ	S	1
-t	t	T	72
-tʃ	tʃ	T	43
-u	u	Y	74
-u$	u	Y	19
-w	w	W	44
-x	x	G	16
-ɨ	ɨ	I	53
-ɨ$	ɨ	I	33
-ɲ	ɲ	N	13
-ɾ	ɾ	R	14
-ʃ	ʃ	S	1
-ʔ	ʔ	H	172
-ʔ$	ʔ	H	35
-ʔh	ʔh/ʔʰ	H	10
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		258	NULL	kanɨ;taʔxa;awun;nijiʔi;aʔxɨ
+$	NULL		256	NULL	kanɨ;taʔxa;awun;nijiʔi;aʔxɨ
+_$	NULL		1	1	aʃintu_
+a	a	A	284	150	kanɨ;taʔxa;taʔxa;awun;aʔxɨ
+e	e	E	1	1	washiunweantu
+x	x	G	23	16	taʔxa;aʔxɨ;aʔxɨ;aʔxontɨʔna_ʔku;xɨʔanɨ
+h	h	H	46	26	uhuan;hoʔhua;itʃihinhiɾo;huʔ;hihin
+ʔ	ʔ	H	214	172	taʔxa;nijiʔi;aʔxɨ;aʔxɨ;tuʔka
+ʔh	ʔh/ʔʰ	H	10	10	hoʔhua;aʔtʃiʔtʃiʔha;anaʔhuʔ;ajiwaʔhuʔ;naʔhiɾo
+i	i	I	159	78	nijiʔi;nijiʔi;nijiʔi;awaʔitʃi;awaʔitʃi
+ɨ	ɨ	I	91	53	kanɨ;aʔxɨ;aʔxɨ;aʔxontɨʔna_ʔku;aʔkuɨntɨ
+j	j	J	57	50	nijiʔi;jaʔkantu;tʃiju;ajo_ontuʔ;tinɨʔ_xuajo
+k	k	K	73	65	kanɨ;tuʔka;aʔxontɨʔna_ʔku;jaʔkantu;aʔkuɨntɨ
+l	l	L	1	1	aʔwltʃa
+n	n	N	144	93	kanɨ;awun;nijiʔi;aʔxontɨʔna_ʔku;aʔxontɨʔna_ʔku
+ɲ	ɲ	N	15	13	ɲahan;iɲuwun;aɲi;aʔɲanta_iʔtʃi;aʔɲantaʔku
+nh	nh/n̥	N	11	11	itʃihinhiɾo;xuʔunhɨnɨ;kuanha;aʔinhinhiɾo;aʔinhinhiɾo
+b	b	P	1	1	wantaban
+ɾ	ɾ	R	14	14	itʃihinhiɾo;itʃiʔkuɾo;iʔtaʔantaɾo;aʔtɨhiɾo;atʃintuhiɾo
+ʃ	ʃ	S	1	1	aʃintu_
+sh	sh/sʰ	S	1	1	washiunweantu
+t	t	T	81	72	taʔxa;tuʔka;aʔxontɨʔna_ʔku;jaʔkantu;aʔkuɨntɨ
+tʃ	tʃ	T	65	43	awaʔitʃi;tʃiju;itʃihinhiɾo;aʔitʃa_tantuʔ;itʃiʔtu
+o	o	U	100	43	aʔxontɨʔna_ʔku;hoʔhua;aʔxo;ajo_ontuʔ;ajo_ontuʔ
+oo$	oː	U	1	1	aʔoo
+w	w	W	63	44	awun;awaʔitʃi;wantaban;waʔ;iwa
+u	u	Y	106	74	awun;tuʔka;aʔxontɨʔna_ʔku;jaʔkantu;uhuan
+_	+	_	20	19	aʔxontɨʔna_ʔku;ajo_ontuʔ;aʔitʃa_tantuʔ;tinɨʔ_xuajo;ajo_ontuʔ

@@ -1,75 +1,44 @@
-Grapheme	IPA	SCA	Frequency
-^h	h	H	14
-^hw	hʷ	H	1
-^j	j	J	12
-^jʃ	j ʃ	J S	1
-^k	k	K	62
-^kw	kw/k w	K W	13
-^l̪	l̪	L	23
-^m	m	M	1
-^ms̪	m s̪	M S	1
-^n̪	n̪	N	68
-^r̪	r̪	R	1
-^s̪	s̪	S	41
-^ts	ts	C	4
-^tʃ	tʃ	T	14
-^t̪	t̪	T	52
-^w	w	W	3
-^ɲ	ɲ	N	3
-^ʃ	ʃ	S	10
-^ʔ	ʔ	H	2
-_	+	_	200
-a	a	A	161
-a$	a	A	87
-aa	aː	A	2
-aa$	aː	A	7
-dʒ	dʒ	T	1
-d̪	d̪	T	10
-e̞	e̞	E	54
-e̞$	e̞	E	9
-e̞e̞	e̞ː	E	3
-e̞e̞$	e̞ː	E	2
-g	g	K	7
-gw	gw/g w	K W	1
-h	h	H	20
-hw	hw/hʷ	H	1
-i	i	I	110
-i$	i	I	40
-ii	iː	I	2
-ii$	iː	I	4
-j	j	J	91
-k	k	K	72
-kw	kw/k w	K W	22
-l̪	l̪	L	40
-ms̪	m s̪	M S	1
-n̪	n̪	N	43
-n̪ʃ	n̪ ʃ	N S	1
-o̞	o̞	U	11
-o̞$	o̞	U	5
-o̞o̞	o̞ː	U	2
-o̞o̞$	o̞ː	U	8
-r̪	r̪	R	3
-s̪	s̪	S	39
-ts	ts	C	6
-tʃ	tʃ	T	8
-t̪	t̪	T	105
-u	u	Y	146
-u$	u	Y	11
-uu	uː	Y	2
-uu$	uː	Y	3
-w	w	W	7
-ã	ã	A	31
-ã$	ã	A	38
-ãã$	ãː	A	4
-ĩ	ĩ	I	10
-ĩ$	ĩ	I	19
-ĩĩ$	ĩː	I	1
-ũ	ũ	Y	6
-ũ$	ũ	Y	6
-ɲ	ɲ	N	37
-ʃ	ʃ	S	7
-ʔ	ʔ	H	181
-ʔ$	ʔ	H	75
-ẽ̞	ẽ̞	E	5
-ẽ̞$	ẽ̞	E	7
-ẽ̞ẽ̞	ẽ̞ː	E	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		323	NULL	l̪o̞o̞;kutsẽ̞;tʃũʔ_n̪d̪iʔĩ_l̪a;kwiʔĩ;n̪dʒga_n̪ã
+$	NULL		321	NULL	l̪o̞o̞;kutsẽ̞;tʃũʔ_n̪d̪iʔĩ_l̪a;kwiʔĩ;n̪dʒga_n̪ã
+a	a	A	248	161	tʃũʔ_n̪d̪iʔĩ_l̪a;n̪dʒga_n̪ã;n̪d̪ahã_jka;n̪d̪ahã_jka;n̪d̪iʔja_ɲaʔã
+ã	ã	A	69	31	n̪dʒga_n̪ã;n̪d̪ahã_jka;n̪d̪iʔja_ɲaʔã;t̪ihjã;kun̪ãʔ_s̪uũ
+aa	aː	A	9	2	t̪l̪jaa;kjaa;n̪gaʔaa;tsaa_t̪iʔ;l̪aʔa_s̪e̞ʔẽ̞_kaa
+ãã$	ãː	A	4	4	t̪jukwi_ɲaʔãã;kjãã;t̪ãã;n̪ãã
+ts	ts	C	10	6	kutsẽ̞;tsã;tsaa_t̪iʔ;s̪uʔwa_kutsiʔ;tsĩ
+e̞	e̞	E	63	54	n̪e̞ʔ;n̪d̪e̞_ʔja;n̪d̪e̞_l̪aʔa;n̪u_ʃuwe̞_kiʔju;s̪uʔwe̞
+ẽ̞	ẽ̞	E	12	5	kutsẽ̞;t̪n̪ẽ̞;l̪aʔa_s̪e̞ʔẽ̞_kaa;kwẽ̞_t̪jiʔi;s̪ijẽ̞ʔ
+e̞e̞	e̞ː	E	5	3	kwit̪je̞e̞ʔ;ke̞e̞;t̪ike̞e̞ʔ;ke̞e̞_ʃt̪jĩʔ;kje̞e̞
+ẽ̞ẽ̞	ẽ̞ː	E	1	1	ʃẽ̞ẽ̞_l̪o̞o̞
+h	h	H	34	20	hii;n̪d̪ahã_jka;t̪ihjã;kaha;hĩ_n̪ʃkã
+ʔ	ʔ	H	269	181	tʃũʔ_n̪d̪iʔĩ_l̪a;tʃũʔ_n̪d̪iʔĩ_l̪a;kwiʔĩ;ms̪ĩʔ_t̪iʔ;ms̪ĩʔ_t̪iʔ
+hw	hw/hʷ	H	1	1	kuhwi
+^hw	hʷ	H	1	1	hwiʔĩ
+i	i	I	150	110	tʃũʔ_n̪d̪iʔĩ_l̪a;kwiʔĩ;ms̪ĩʔ_t̪iʔ;ʔn̪i;kwit̪je̞e̞ʔ
+ĩ	ĩ	I	29	10	tʃũʔ_n̪d̪iʔĩ_l̪a;kwiʔĩ;ms̪ĩʔ_t̪iʔ;kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ;t̪ikĩ
+ii	iː	I	6	2	hii;t̪ii_ʃka;kiiʔ;kii;s̪ɲii
+ĩĩ$	ĩː	I	1	1	t̪ĩĩ
+j	j	J	104	91	kwit̪je̞e̞ʔ;n̪d̪ahã_jka;n̪d̪iʔja_ɲaʔã;n̪d̪e̞_ʔja;t̪l̪ju
+g	g	K	7	7	n̪dʒga_n̪ã;n̪gat̪a;n̪gaʔaa;n̪gaʔa;n̪guwẽ̞
+k	k	K	134	72	kutsẽ̞;s̪kũ;s̪kũ;kuʃi;n̪d̪ahã_jka
+l̪	l̪	L	63	40	l̪o̞o̞;tʃũʔ_n̪d̪iʔĩ_l̪a;l̪o̞o̞;n̪d̪e̞_l̪aʔa;t̪l̪ju
+^m	m	M	2	1	ms̪ĩʔ_t̪iʔ;mtsuʔ
+ɲ	ɲ	N	40	37	n̪d̪iʔja_ɲaʔã;kiɲi;t̪jukwi_ɲaʔãã;kiʔɲi;n̪i_ɲaʔã
+n̪	n̪	N	112	43	tʃũʔ_n̪d̪iʔĩ_l̪a;n̪dʒga_n̪ã;n̪dʒga_n̪ã;ʔn̪i;n̪d̪ahã_jka
+r̪	r̪	R	4	3	kr̪as̪ija;r̪t̪a;t̪jukwa_r̪t̪a;n̪i_wr̪a
+ʃ	ʃ	S	19	7	kuʃi;kuʃiʔ;n̪u_ʃuwe̞_kiʔju;ʃn̪e̞ʔ;hĩ_n̪ʃkã
+s̪	s̪	S	81	39	ms̪ĩʔ_t̪iʔ;s̪kũ;s̪kũ;s̪iʔja;s̪t̪jiʔ
+dʒ	dʒ	T	1	1	n̪dʒga_n̪ã
+d̪	d̪	T	10	10	tʃũʔ_n̪d̪iʔĩ_l̪a;n̪d̪ahã_jka;n̪d̪iʔja_ɲaʔã;n̪d̪e̞_ʔja;n̪d̪e̞_l̪aʔa
+tʃ	tʃ	T	22	8	tʃũʔ_n̪d̪iʔĩ_l̪a;tʃũʔ;tʃaʔ;tʃũʔ;kitʃuʔ
+t̪	t̪	T	157	105	ms̪ĩʔ_t̪iʔ;kwit̪je̞e̞ʔ;t̪l̪ju;t̪l̪jaa;n̪gat̪a
+o̞	o̞	U	16	11	kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ;kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ;kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ;ko̞;ko̞ʔo̞
+o̞o̞	o̞ː	U	10	2	l̪o̞o̞;l̪o̞o̞;ko̞o̞;kil̪o̞o̞;n̪u_n̪d̪ukwa_l̪o̞o̞
+w	w	W	21	7	n̪u_ʃuwe̞_kiʔju;l̪uwi;s̪uʔwe̞;wt̪ji;s̪kuwe̞
+u	u	Y	157	146	kutsẽ̞;kuʃi;t̪l̪ju;ku;kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ
+ũ	ũ	Y	12	6	tʃũʔ_n̪d̪iʔĩ_l̪a;s̪kũ;s̪kũ;tʃũʔ;tʃũʔ
+uu	uː	Y	5	2	t̪juuʔ;kuuʔ;juu;t̪ijuu;kal̪uu
+_	+	_	200	200	tʃũʔ_n̪d̪iʔĩ_l̪a;tʃũʔ_n̪d̪iʔĩ_l̪a;n̪dʒga_n̪ã;ms̪ĩʔ_t̪iʔ;n̪d̪ahã_jka
+gw	gw/g w	K W	1	1	s̪iʔi_n̪gwaʔã
+kw	kw/k w	K W	35	22	kwiʔĩ;kwit̪je̞e̞ʔ;kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ;kwaʔa_kul̪o̞_t̪o̞ʔo̞_kwiʔĩ;t̪jukwi_ɲaʔãã
+ms̪	m s̪	M S	1	1	n̪ã_ms̪aʔã

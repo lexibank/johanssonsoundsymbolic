@@ -1,79 +1,45 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	30
-^aa	aː	A	5
-^b	b	P	2
-^e	e	E	9
-^ee	eː	E	3
-^g	g	K	1
-^i	i	I	17
-^ii	iː	I	1
-^j	j	J	2
-^k	k	K	32
-^m	m	M	33
-^n	n	N	22
-^o	o	U	6
-^oo	oː	U	1
-^p	p	P	48
-^s	s	S	18
-^tʃ	tʃ	T	4
-^u	u	Y	17
-^uu	uː	Y	1
-^ɖ	ɖ	T	2
-^ʈ	ʈ	T	20
-^ʋ	ʋ	W	17
-_	+	_	21
-a	a	A	242
-a$	a	A	43
-aa	aː	A	66
-aa$	aː	A	22
-b	b	P	12
-d	d	T	38
-e	e	E	16
-ee	eː	E	25
-ee$	eː	E	9
-i	i	I	74
-i$	i	I	33
-ii	iː	I	10
-ii$	iː	I	1
-j	j	J	25
-j$	j	J	32
-jj	jː	J	7
-k	k	K	3
-kk	kk/kː	K	10
-l	l	L	17
-l$	l	L	21
-ll	ll/lː	L	5
-m	m	M	43
-m$	m	M	19
-mm	mm/mː	M	5
-n	n	N	71
-n$	n	N	21
-nn	nn/nː	N	4
-o	o	U	14
-oo	oː	U	8
-oo$	oː	U	1
-p	p	P	20
-pp	pp/pː	P	29
-s	s	S	4
-tʃ	tʃ	T	2
-t̪	t̪	T	6
-t̪t̪	t̪t̪/t̪ː	T	11
-u	u	Y	49
-u$	u	Y	66
-uu	uː	Y	9
-uu$	uː	Y	1
-ŋ	ŋ	N	12
-ɖ	ɖ	T	34
-ɦ	ɦ	H	36
-ɭ	ɭ	L	8
-ɭ$	ɭ	L	9
-ɲ	ɲ	N	2
-ɳ	ɳ	N	8
-ɳ$	ɳ	N	3
-ɳɳ	ɳɳ/ɳː	N	3
-ɻ	ɻ	R	15
-ɾ	ɾ	R	91
-ɾ$	ɾ	R	10
-ʂ	ʂ	S	1
-ʈ	ʈ	T	25
-ʋ	ʋ	W	12
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		290	NULL	meelee;piɾaɦu;kaat̪ɾu;ellaam;koobamaana
+$	NULL		291	NULL	meelee;piɾaɦu;kaat̪ɾu;ellaam;koobamaana
+a	a	A	315	242	piɾaɦu;koobamaana;koobamaana;miɾuɦam;ket̪t̪a
+aa	aː	A	93	66	kaat̪ɾu;ellaam;koobamaana;aɻaɦaana;eenenɾaal
+e	e	E	25	16	ellaam;eɾumbu;ket̪t̪a;eenenɾaal;peɾija
+ee	eː	E	37	25	meelee;meelee;eenenɾaal;kiiɻee;meeɦam
+ɦ	ɦ	H	36	36	piɾaɦu;miɾuɦam;muɖuɦu;aɻaɦaana;pinpuɾamaaɦa
+i	i	I	124	74	piɾaɦu;miɾuɦam;pinpuɾamaaɦa;ʋajiɾu;aɾuɦil
+ii	iː	I	12	10	kiiɻee;niilam;miin;ʋiidu;niiɳda
+j	j	J	59	25	ʋajiɾu;peɾija;paɾaʋaj;muuɭaj;ʈuujmajjaana
+jj	jː	J	7	7	pajjan;ʈuujmajjaana;nuɾajjiiɾal;paɻajja;paɻajja
+k	k	K	35	3	kaat̪ɾu;koobamaana;ket̪t̪a;kiiɻee;kadi
+^g	g	K	1	1	ganamaana
+kk	kk/kː	K	10	10	noɾukku;idaɖupakkam;uɾakkamaana;muukku;samajkkapadaaɖa
+l	l	L	38	17	meelee;eenenɾaal;aɾuɦil;niilam;elumbu
+ɭ	ɭ	L	17	8	muuɭaj;keeɭ;ulɭee;oɾu_ʋeeɭaj;ʋeɭijee
+ll	ll/lː	L	5	5	ellaam;nallaɖu;oɾum_illaj;illaj;olli
+m	m	M	95	43	meelee;ellaam;koobamaana;miɾuɦam;miɾuɦam
+mm	mm/mː	M	5	5	ʈummal;ammaa;ammaa;peɾijammaa;peɾijammaa
+n	n	N	114	71	koobamaana;aɻaɦaana;eenenɾaal;eenenɾaal;mun
+ŋ	ŋ	N	12	12	naaŋu;iŋee;ʈuuŋu;aŋee;aŋee
+ɲ	ɲ	N	2	2	koɲam;maɲaɭ
+ɳ	ɳ	N	11	8	maɳ;kaɳ;niiɳda;aaɳkuɾi;uɾuɳdaj
+nn	nn/nː	N	4	4	sinna;panniɾeɳdu;balaɦiinnamaana;enna
+ɳɳ	ɳɳ/ɳː	N	3	3	ʈaɳɳiiɾ;aɳɳan;aɳɳan
+b	b	P	14	12	koobamaana;eɾumbu;udambu;elumbu;maaɾbaɦam
+p	p	P	68	20	piɾaɦu;pinpuɾamaaɦa;pinpuɾamaaɦa;peɾija;paɾaʋaj
+pp	pp/pː	P	29	29	kasappaana;kaɾuppu;iɾappu;saappidu;neɾuppu
+ɻ	ɻ	R	15	15	aɻaɦaana;kiiɻee;aɻu;aaɻamaana;ʋiɻu
+ɾ	ɾ	R	101	91	piɾaɦu;kaat̪ɾu;miɾuɦam;eɾumbu;eenenɾaal
+s	s	S	22	4	kasappaana;sudu;saɾijaanaa;sej;ɖuusi
+ʂ	ʂ	S	1	1	sanɖooʂam
+d	d	T	38	38	kadi;udambu;sudu;kaɾadi;kudi
+ɖ	ɖ	T	36	34	muɖuɦu;uuɖu;manɖamaana;ɖuusi;kaaɖu
+ʈ	ʈ	T	45	25	iɾaʈam;ʈuujmajjaana;ʈalaj;ʈodaj;kaɻuʈu
+tʃ	tʃ	T	6	2	patʃaj;nat̪tʃaʈiɾam;tʃiʈi;tʃiʈi;tʃiʈappaa
+t̪	t̪	T	6	6	kaat̪ɾu;mat̪ɾa;ut̪kaaɾ;nat̪tʃaʈiɾam;kaat̪ɾu
+t̪t̪	t̪t̪/t̪ː	T	11	11	ket̪t̪a;iɾut̪t̪u;mut̪t̪aj;et̪t̪u;kuɾat̪t̪aj_ʋidu
+o	o	U	20	14	noɾukku;paɖinondɾu;kodu;koɻuppu;oɦinɖukoɦl
+oo	oː	U	10	8	koobamaana;poo;sanɖooʂam;ippooɖu;oodu
+ʋ	ʋ	W	29	12	ʋajiɾu;paɾaʋaj;ʋaa;ʋiɻu;ʋiɾal
+u	u	Y	132	49	piɾaɦu;kaat̪ɾu;miɾuɦam;eɾumbu;eɾumbu
+uu	uː	Y	11	9	uuɖu;muuɭaj;ʈuujmajjaana;ɖuusi;ɖuuɾam
+_	+	_	21	21	saambal_niɾam;oɾu_ʋeeɭaj;oɾum_illaj;soɾa_soɾappaana;kuɾat̪t̪aj_ʋidu

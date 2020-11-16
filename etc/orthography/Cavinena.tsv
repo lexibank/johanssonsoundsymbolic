@@ -1,56 +1,33 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	25
-^b	b	P	20
-^c	c	C	3
-^d	d	T	7
-^e	e	E	112
-^h	h	H	26
-^i	i	I	14
-^j	j	J	12
-^k	k	K	14
-^kw	kw/k w	K W	12
-^m	m	M	11
-^n	n	N	5
-^o	o	U	8
-^oo$	oː	U	1
-^p	p	P	21
-^s	s	S	8
-^t	t	T	20
-^tʃ	tʃ	T	2
-^w	w	W	6
-^ɾ	ɾ	R	4
-^ʃ	ʃ	S	3
-_	+	_	9
-a	a	A	252
-a$	a	A	174
-aa	aː	A	1
-b	b	P	46
-c	c	C	28
-d	d	T	61
-e	e	E	91
-e$	e	E	71
-ee	eː	E	2
-h	h	H	58
-i	i	I	106
-i$	i	I	56
-ii	iː	I	4
-j	j	J	70
-k	k	K	106
-kw	kw/k w	K W	38
-m	m	M	33
-n	n	N	63
-o	o	U	117
-o$	o	U	32
-oo	oː	U	1
-p	p	P	24
-s	s	S	25
-t	t	T	53
-tʃ	tʃ	T	11
-u	u	Y	10
-w	w	W	24
-ŋ	ŋ	N	2
-ɟ	ɟ	C	2
-ɾ	ɾ	R	62
-ʃ	ʃ	S	7
-ʎ	ʎ	L	1
-ʔ	ʔ	H	14
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		334	NULL	ebaɾokwe;bahida;hoʔaco;kana;dotja
+$	NULL		334	NULL	ebaɾokwe;bahida;hoʔaco;kana;dotja
+a	a	A	451	252	ebaɾokwe;bahida;bahida;hoʔaco;kana
+aa	aː	A	1	1	ekwediɾaaja
+c	c	C	31	28	hoʔaco;ehebotʃahoaco;paceda;ecaʔo;ecapona
+ɟ	ɟ	C	2	2	tuekeɟa;peaɟa_toŋka_beta_eaɾakana
+e	e	E	274	91	ebaɾokwe;ebaɾokwe;ebi;ebi;ebebakwa
+ee	eː	E	2	2	inimeeke;heeke
+h	h	H	84	58	bahida;hoʔaco;hidama;hidapihi;hidapihi
+ʔ	ʔ	H	14	14	hoʔaco;tʃaʔi;ecaʔo;haʔe;aʔi
+i	i	I	176	106	bahida;kawaitija;kawaitija;poki;ebi
+ii	iː	I	4	4	etatiine;etatiine;etatiine;etatiine
+j	j	J	82	70	dotja;kawaitija;kaɾoja;hohaja;jakwa
+k	k	K	120	106	kana;kawaitija;poki;emake;peke
+ʎ	ʎ	L	1	1	tiʎjaja
+m	m	M	44	33	moɾo;hidama;edomiti;emake;ami
+n	n	N	68	63	kana;ikwene;ecapona;kanahetija;wani
+ŋ	ŋ	N	2	2	peaɟa_toŋka_beta_eaɾakana;beta_toŋka
+b	b	P	66	46	ebaɾokwe;bahida;ebi;ebi;ebebakwa
+p	p	P	45	24	poki;hidapihi;topoho;peke;paceda
+ɾ	ɾ	R	66	62	ebaɾokwe;moɾo;aɾida;kaɾoja;kweɾodama
+s	s	S	33	25	seweda;sawada;sewesewe;sewesewe;asikadake
+ʃ	ʃ	S	10	7	emeʃoɾo;piʃika;ʃaʃa;ʃaʃa;poʃi
+d	d	T	68	61	bahida;dotja;hidama;hidapihi;edomiti
+t	t	T	73	53	dotja;kawaitija;ebiti;topoho;edomiti
+tʃ	tʃ	T	13	11	ehebotʃahoaco;tʃaʔi;tʃapa;ewatʃi;ɾtʃua
+o	o	U	157	117	ebaɾokwe;hoʔaco;hoʔaco;dotja;poki
+oo	oː	U	2	1	oo;ohoohoja
+w	w	W	30	24	kawaitija;seweda;sawada;wani;sewesewe
+u	u	Y	10	10	ɾtʃua;tumeke;tumeke;tuekeɟa;tuhua
+_	+	_	9	9	emetoko_sapaɾa;hidama_inime;peadja_peadja;ewatʃi_sapaɾa;peaɟa_toŋka_beta_eaɾakana
+kw	kw/k w	K W	50	38	ebaɾokwe;ebebakwa;ikwene;kweɾodama;ekwita

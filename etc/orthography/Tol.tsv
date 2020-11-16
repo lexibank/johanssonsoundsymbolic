@@ -1,70 +1,36 @@
-Grapheme	IPA	SCA	Frequency
-^c	c	C	4
-^ch	ch/tʃ	T	11
-^h	h	H	9
-^i	i	I	1
-^j	j	J	4
-^j$	j	J	1
-^k	k	K	24
-^kh	kʰ	K	3
-^l̪	l̪	L	4
-^m	m	M	13
-^n̪	n̪	N	14
-^n̪$	n̪	N	1
-^p	p	P	15
-^ph	pʰ	P	7
-^phw	pʰ w	P W	2
-^s	s	S	4
-^ts	ts	C	1
-^t̪	t̪	T	7
-^t̪h	t̪ʰ	T	4
-^w	w	W	1
-^ŋ	ŋ	N	1
-^ʔ	ʔ	H	11
-^β	β	B	1
-_	+	_	8
-a	a	A	57
-a$	a	A	25
-c	c	C	7
-c$	c	C	1
-ch	ch/tʃ	T	1
-ch$	ch/cʰ	C	1
-e̞	e̞	E	24
-e̞$	e̞	E	16
-h	h	H	5
-h$	h	H	3
-i	i	I	15
-i$	i	I	7
-j	j	J	13
-j$	j	J	13
-k	k	K	12
-k$	k	K	2
-kh	kh/kʰ	K	2
-kh$	kh/kʰ	K	7
-l̪	l̪	L	8
-l̪$	l̪	L	9
-m	m	M	17
-m$	m	M	10
-n̪	n̪	N	16
-n̪$	n̪	N	7
-o̞	o̞	U	42
-o̞$	o̞	U	7
-p	p	P	18
-p$	p	P	1
-ph	ph/pʰ	P	3
-ph$	ph/pʰ	P	2
-r	r	R	1
-s	s	S	13
-s$	s	S	14
-ts$	ts	C	3
-t̪	t̪	T	6
-t̪h	t̪h/t̪ʰ	T	2
-u	u	Y	17
-u$	u	Y	7
-w	w	W	2
-ɨ	ɨ	I	20
-ɨ$	ɨ	I	1
-ɹ	ɹ	R	1
-ʔ	ʔ	H	36
-ʔ$	ʔ	H	5
-β	β	B	3
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		125	NULL	kasa;ʔan̪imal̪_wit̪hakh;mal̪al̪a;mpe̞s;ko̞l̪
+$	NULL		139	NULL	kasa;phɨ;ʔan̪imal̪_wit̪hakh;phwe̞l̪;phwe̞l̪
+a	a	A	82	57	kasa;kasa;ʔan̪imal̪_wit̪hakh;ʔan̪imal̪_wit̪hakh;ʔan̪imal̪_wit̪hakh
+β	β	B	4	3	n̪ciβe̞;hiβe̞;mβis;βo̞ho̞
+c	c	C	12	7	n̪ciβe̞;n̪co̞cʔ;n̪co̞cʔ;cʔjuskha;cʔakʔ
+^ts	ts	C	1	1	tse̞n̪am_pan̪i
+ch$	ch/cʰ	C	1	1	chach
+ts$	ts	C	3	3	kamajarts;kus_pan̪ikuts;ko̞maspts
+e̞	e̞	E	40	24	phwe̞l̪;phwe̞l̪;mpe̞s;pɨn̪e̞;ŋkhe̞l̪e̞
+h	h	H	17	5	cho̞ho̞se̞;hak;l̪ahaj;pe̞he̞j;hu
+ʔ	ʔ	H	52	36	ʔan̪imal̪_wit̪hakh;khɹiphaʔa;n̪aʔas;n̪co̞cʔ;ʔjɨm
+i	i	I	23	15	ʔan̪imal̪_wit̪hakh;ʔan̪imal̪_wit̪hakh;khɹiphaʔa;chikh;n̪ciβe̞
+ɨ	ɨ	I	21	20	phɨ;phɨphɨs;phɨphɨs;pɨn̪e̞;ʔjɨm
+j	j	J	31	13	ʔjɨm;j;cʔjuskha;l̪ahaj;chijo̞
+k	k	K	38	12	kasa;ko̞l̪;khe̞ska;hak;cʔakʔ
+kh	kh/kʰ	K	9	2	ʔan̪imal̪_wit̪hakh;ŋkhe̞l̪e̞;chikh;cʔjuskha;chikh
+^kh	kʰ	K	3	3	khɹiphaʔa;khe̞ska;khul̪
+l̪	l̪	L	21	8	ʔan̪imal̪_wit̪hakh;phwe̞l̪;phwe̞l̪;mal̪al̪a;mal̪al̪a
+m	m	M	40	17	ʔan̪imal̪_wit̪hakh;mal̪al̪a;mpe̞s;ʔjɨm;mo̞l̪
+^ŋ	ŋ	N	1	1	ŋkhe̞l̪e̞
+n̪	n̪	N	38	16	ʔan̪imal̪_wit̪hakh;pɨn̪e̞;n̪aʔas;n̪ciβe̞;n̪co̞cʔ
+p	p	P	34	18	mpe̞s;pɨn̪e̞;pi;pe̞ʔe̞;pe̞he̞j
+ph	ph/pʰ	P	5	3	phɨphɨs;khɹiphaʔa;jul̪uphan̪a;n̪e̞pn̪e̞ph;ke̞ph
+^ph	pʰ	P	9	7	phɨ;phwe̞l̪;phwe̞l̪;phɨphɨs;pho̞cʔ
+r	r	R	1	1	kamajarts
+ɹ	ɹ	R	1	1	khɹiphaʔa
+s	s	S	31	13	kasa;phɨphɨs;mpe̞s;n̪aʔas;khe̞ska
+ch	ch/tʃ	T	12	1	chikh;cho̞ho̞se̞;chijo̞;chikh;chu
+t̪	t̪	T	13	6	t̪ʔɨn̪t̪ʔɨn̪;t̪ʔɨn̪t̪ʔɨn̪;t̪ʔɨn̪;n̪t̪ʔa;pɨst̪e̞
+t̪h	t̪h/t̪ʰ	T	2	2	ʔan̪imal̪_wit̪hakh;po̞_l̪aʔo̞t̪he̞
+^t̪h	t̪ʰ	T	4	4	t̪ham;t̪ham;t̪ham;t̪ham
+o̞	o̞	U	49	42	ko̞l̪;n̪co̞cʔ;mo̞l̪;cho̞ho̞se̞;cho̞ho̞se̞
+w	w	W	5	2	ʔan̪imal̪_wit̪hakh;phwe̞l̪;phwe̞l̪;ʔawa;wa
+u	u	Y	24	17	cʔjuskha;khul̪;jul̪uphan̪a;jul̪uphan̪a;chu
+_	+	_	8	8	ʔan̪imal̪_wit̪hakh;pal̪a_jak;mas_n̪iʔn̪jampa;ʔɨsɨ_pɨn̪e̞;kus_pan̪ikuts

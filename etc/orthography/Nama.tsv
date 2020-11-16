@@ -1,68 +1,41 @@
-Grapheme	IPA	SCA	Frequency
-^!a	ǃ a	! A	8
-^!a$	ǃ a	! A	1
-^!g	gǃ	!	9
-^!h	ǃʰ	!	4
-^!kxh	ǃxʰ	!	7
-^!n	ǃⁿ	!	8
-^!o	ǃ o	! U	1
-^!u	ǃ u	! Y	2
-^a	a	A	11
-^a$	a	A	2
-^b	b	P	1
-^d	d	T	11
-^g	g	K	3
-^h	h	H	7
-^i	i	I	4
-^k	k	K	14
-^m	m	M	5
-^n	n	N	3
-^o	o	U	11
-^o$	o	U	1
-^s	s	S	10
-^t	t	T	7
-^tsh	tsh/tsʰ	C	9
-^u	u	Y	1
-^u$	u	Y	1
-^x	x	G	4
-^ǀ	ǀ	!	40
-^ǀh	ǀʰ	!	2
-^ǁ	ǁ	!	41
-^ǂ	ǂ	!	36
-^ǂh	ǂʰ	!	6
-_	+	_	3
-a	a	A	115
-a$	a	A	37
-aa$	aː	A	2
-b	b	P	1
-b$	b	P	58
-e	e	E	22
-e$	e	E	14
-g	g	K	32
-i	i	I	26
-i$	i	I	57
-ii	iː	I	1
-ii$	iː	I	1
-k	k	K	22
-m	m	M	14
-m$	m	M	16
-mm	mm/mː	M	10
-ms$	m s	M S	2
-n	n	N	36
-n$	n	N	4
-nn	nn/nː	N	2
-ns$	n s	N S	1
-o	o	U	55
-o$	o	U	12
-r	r	R	43
-s	s	S	11
-s$	s	S	33
-t	t	T	1
-tsh$	tsh/tsʰ	C	1
-u	u	Y	51
-u$	u	Y	27
-w	w	W	18
-x	x	G	5
-xh	xh/xʰ	G	24
-ǀ	ǀ	!	2
-ʔ	ʔ	H	6
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		118	NULL	ǀguru;kai;kxʔanis;na;au
+$	NULL		267	NULL	ǂora;!ao;hoa;ǁami;ǀguru
+ǀ	ǀ	!	42	2	ǀguru;ǀaob;ǀkxhab;ǀom;ǀnanus
+^ǁ	ǁ	!	41	41	ǁami;ǁoab;ǁoab;ǁgona;ǁaegu
+^ǂ	ǂ	!	36	36	ǂora;ǂgowerub;ǂammi;ǂnu;ǂu
+^!g	gǃ	!	9	9	!gab;!gom;!gam;!gu;!gai
+^!h	ǃʰ	!	4	4	!hub;!hae;!hommi;!hu
+^!n	ǃⁿ	!	8	8	!nab;!noa;!no;!nomab;!nubu
+^ǀh	ǀʰ	!	2	2	ǀhe;ǀhommi
+^ǂh	ǂʰ	!	6	6	ǂhuwi;ǂha;ǂhawa;ǂhe;ǂhanu
+^!kxh	ǃxʰ	!	7	7	!kxhai;!kxhaeb;!kxhas;!kxhare;!kxhoe
+a	a	A	165	115	ǂora;hoa;ǁami;ǁoab;ǁoab
+aa$	aː	A	2	2	ǀui_ǀʔaa;ǀam_ǀʔaa
+^tsh	tsh/tsʰ	C	9	9	tshaob;tshu;tshe;tsharab;tshuxub
+tsh$	tsh/tsʰ	C	1	1	satsh
+e	e	E	36	22	ǂgowerub;ǁaegu;ǂares;!kxhaeb;tshe
+x	x	G	9	5	kxʔanis;xai;xau;ǀxʔoa;axas
+xh	xh/xʰ	G	24	24	ǀkxhab;ǂkxho;ǂkxhus;kxhaisa;ǁkxhana
+ʔ	ʔ	H	6	6	kxʔanis;ǀui_ǀʔaa;ǀxʔoa;ǀam_ǀʔaa;tareʔi
+^h	h	H	7	7	hoa;ha;haka;hurib;hu
+i	i	I	87	26	ǁami;ǂammi;!ausi;kai;kxʔanis
+ii	iː	I	2	1	ǁiiga;haii
+g	g	K	35	32	ǀguru;ǂgowerub;ǁgona;ǁaegu;gama
+k	k	K	36	22	kai;kxʔanis;ǀkxhab;ǂkxho;ǂkxhus
+m	m	M	37	14	ǁami;!gom;sams;ǀom;gama
+mm	mm/mː	M	10	10	ǂammi;!ammi;!ommi;!hommi;ommi
+n	n	N	44	36	ǁgona;kxʔanis;na;ǂnu;tani
+nn	nn/nː	N	2	2	ǂonni;ǀannis
+b	b	P	60	1	ǂgowerub;ǁoab;ǁoab;tshaob;!gab
+r	r	R	43	43	ǂora;ǀguru;ǂgowerub;ǂares;ǀuri
+s	s	S	57	11	!ausi;kxʔanis;ǂkxhus;sams;sams
+t	t	T	8	1	tani;ti;tes;tus;ǀam_tisi
+^d	d	T	11	11	dawob;di;danas;daob;disi
+o	o	U	79	55	ǂora;!ao;hoa;ǂgowerub;ǁoab
+w	w	W	18	18	ǂgowerub;dawob;ǂhuwi;!uwus;ǀgawi
+u	u	Y	80	51	ǀguru;ǀguru;ǂgowerub;tshu;!ausi
+_	+	_	3	3	ǀui_ǀʔaa;ǀam_ǀʔaa;ǀam_tisi
+^!a	ǃ a	! A	9	8	!ao;!ausi;!anu;!aru;!ammi
+^!o	ǃ o	! U	1	1	!ommi
+^!u	ǃ u	! Y	2	2	!uwus;!uri

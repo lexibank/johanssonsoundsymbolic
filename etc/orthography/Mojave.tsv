@@ -1,82 +1,36 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	77
-^aa	aː	A	4
-^h	h	H	29
-^i	i	I	72
-^ii	iː	I	31
-^k	k	K	11
-^kw	kw/k w	K W	2
-^l	l	L	3
-^m	m	M	22
-^n	n	N	33
-^o	o	U	1
-^p	p	P	3
-^q	q	K	1
-^r	r	R	2
-^s	s	S	6
-^tʃ	tʃ	T	14
-^t̪	t̪	T	9
-^u	u	Y	2
-^uu	uː	Y	1
-^v	v	B	6
-^ʔ	ʔ	H	1
-^θ	θ	D	2
-_	+	_	35
-a	a	A	293
-a$	a	A	20
-aa	aː	A	16
-aa$	aː	A	3
-d	d	T	18
-e	e	E	33
-e$	e	E	11
-ee	eː	E	5
-h	h	H	25
-h$	h	H	4
-hw	hw/hʷ	H	3
-i	i	I	35
-i$	i	I	2
-ii	iː	I	19
-ii$	iː	I	36
-j	j	J	78
-j$	j	J	48
-k	k	K	32
-k$	k	K	20
-kh	kh/kʰ	K	1
-ks	k s	K S	1
-kw	kw/k w	K W	17
-l	l	L	58
-l$	l	L	1
-m	m	M	57
-m$	m	M	10
-n	n	N	37
-n$	n	N	23
-o	o	U	27
-o$	o	U	4
-oo	oː	U	5
-oo$	oː	U	10
-p	p	P	46
-p$	p	P	9
-q	q	K	5
-q$	q	K	10
-qw	qw/qʷ	K	5
-r	r	R	22
-r$	r	R	23
-s	s	S	26
-s$	s	S	4
-tʃ	tʃ	T	32
-tʃ$	tʃ	T	23
-t̪	t̪	T	18
-t̪$	t̪	T	15
-u	u	Y	37
-u$	u	Y	2
-uu	uː	Y	24
-uu$	uː	Y	7
-v	v	B	58
-v$	v	B	17
-vs	v s	B S	1
-w	w	W	9
-w$	w	W	22
-ʃ	ʃ	S	1
-ʔ	ʔ	H	41
-θ	θ	D	24
-θ$	θ	D	8
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		332	NULL	amaj;masdej;njiimak;tʃaam;mat̪_iθaav
+$	NULL		332	NULL	amaj;masdej;njiimak;tʃaam;mat̪_iθaav
+a	a	A	390	293	amaj;amaj;masdej;njiimak;mat̪_iθaav
+aa	aː	A	23	16	tʃaam;mat̪_iθaav;anjaaʔiilj;iimaat̪;itʃerq_ijaa
+v	v	B	82	58	mat̪_iθaav;imak_utʃvatʃ;t̪avav;t̪avav;ljuuvii
+θ	θ	D	34	24	mat̪_iθaav;ipaθ;kalaθ;iidonoθajv;iθii
+e	e	E	44	33	masdej;itʃajer;uujej;iiʔwe;iikwe
+ee	eː	E	5	5	ineeh;heeq_i;injeetʃvtʃ;injeetʃvtʃ;atʃeem
+h	h	H	58	25	hamʔuulj;uwoh;havasuu;hutʃqol_humar;hutʃqol_humar
+ʔ	ʔ	H	44	41	hamʔuulj;anjaaʔiilj;iiʔwe;uʔuutʃ;araʔar
+hw	hw/hʷ	H	3	3	njahwat̪;ahwat̪;ahwaa
+i	i	I	109	35	mat̪_iθaav;itʃipaj;itʃipaj;imak;imak_utʃvatʃ
+ii	iː	I	86	19	njiimak;iisalj;iisalj;iit̪o;ljuuvii
+j	j	J	126	78	amaj;masdej;njiimak;itʃipaj;iisalj
+k	k	K	64	32	njiimak;imak;imak_utʃvatʃ;tʃakjoo;njasak
+q	q	K	16	5	hutʃqol_humar;qapaj;itʃerq_ijaa;hat̪tʃoq;aljaaqv
+kh	kh/kʰ	K	1	1	sakhav
+qw	qw/qʷ	K	5	5	aqwat̪;aqwaθ;iqwintʃ;iiwanjtʃ_ʔaqwaθ_e;aqwaθ
+l	l	L	62	58	iisalj;iisalj;hamʔuulj;alaj;ljuuvii
+m	m	M	89	57	amaj;masdej;njiimak;tʃaam;mat̪_iθaav
+n	n	N	93	37	njiimak;anjaaʔiilj;njahwat̪;njasak;njama
+p	p	P	58	46	itʃipaj;tʃapuu;ipaθ;qapaj;ipuj
+r	r	R	47	22	itʃajer;hutʃqol_humar;hatʃuur;araʔar;araʔar
+s	s	S	38	26	masdej;iisalj;iisalj;aljmuus;havasuu
+ʃ	ʃ	S	1	1	iiʃ_i
+d	d	T	18	18	masdej;idii;iidonoθajv;iido;vidii
+tʃ	tʃ	T	69	32	tʃaam;itʃipaj;imak_utʃvatʃ;imak_utʃvatʃ;itʃajer
+t̪	t̪	T	42	18	mat̪_iθaav;iit̪o;amat̪;t̪avav;valjt̪ajm
+o	o	U	32	27	uwoh;iit̪o;hutʃqol_humar;ahot̪;ahot̪
+oo	oː	U	15	5	tʃakjoo;avkjoo;t̪aroov;amapoot̪;itʃaθoo
+w	w	W	33	9	uwoh;iiʔwe;aʔwii;iθʔaw;iraw
+u	u	Y	41	37	uwoh;imak_utʃvatʃ;hutʃqol_humar;hutʃqol_humar;uʔuutʃ
+uu	uː	Y	32	24	hamʔuulj;ljuuvii;aljmuus;tʃapuu;havasuu
+_	+	_	35	35	mat̪_iθaav;imak_utʃvatʃ;hutʃqol_humar;itʃerq_ijaa;itʃ_ama
+kw	kw/k w	K W	19	17	iikwe;iisalj_kwaθarap;tʃaθkwil;iikwe;iija_kwahʔuur

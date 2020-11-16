@@ -1,112 +1,49 @@
-Grapheme	IPA	SCA	Frequency
-^c	c	C	20
-^cʼ	cʼ	C	3
-^h	h	H	23
-^j	j	J	7
-^k	k	K	24
-^kʼ	kʼ	K	3
-^l	l	L	9
-^m	m	M	24
-^n	n	N	13
-^p	p	P	44
-^q	q	K	19
-^qʼ	qʼ	K	1
-^s	s	S	20
-^t	t	T	31
-^tʼ	tʼ	T	1
-^w	w	W	26
-^æ	æ	E	1
-^ɬ	ɬ	L	1
-^ʔ	ʔ	H	69
-^χ	χ	G	4
-_	+	_	7
-a	a	A	126
-a$	a	A	20
-aa	aː	A	39
-aa$	aː	A	1
-c	c	C	22
-c$	c	C	19
-cw	c w	C W	1
-cʼ	cʼ	C	4
-h	h	H	9
-j	j	J	40
-j$	j	J	15
-j̰	j̰	J	4
-j̰s$	j̰ s	J S	1
-k	k	K	35
-k$	k	K	8
-ks	k s	K S	7
-ks$	k s	K S	1
-kw	kw/k w	K W	2
-kʼ	kʼ	K	7
-kʼ$	kʼ	K	1
-l	l	L	49
-l$	l	L	7
-ll	ll/lː	L	2
-lw	l w	L W	1
-l̰	l̰	L	1
-m	m	M	31
-m$	m	M	14
-ms	m s	M S	1
-m̰	m̰	M	5
-m̰$	m̰	M	1
-n	n	N	24
-n$	n	N	14
-n̪̰	n̪̰	N	4
-n̪̰$	n̪̰	N	4
-p	p	P	33
-p$	p	P	13
-ps	p s	P S	5
-ps$	p s	P S	4
-pʼ	pʼ	P	2
-q	q	K	40
-q$	q	K	20
-qq	qq/qː	K	1
-qs	q s	K S	1
-qs$	q s	K S	1
-qʼ	qʼ	K	10
-r	r	R	1
-r$	r	R	2
-rw	r w	R W	1
-s	s	S	25
-s$	s	S	36
-sw	s w	S W	2
-t	t	T	47
-t$	t	T	36
-ts$	ts	C	1
-tt	tt/tː	T	2
-tw	t w	T W	3
-tʼ	tʼ	T	13
-w	w	W	17
-w$	w	W	8
-ws$	w s	W S	1
-w̰	w̰	W	3
-w̰$	w̰	W	1
-x	x	G	7
-x$	x	G	21
-xs	x s	G S	3
-xw	xw/xʷ	G	1
-æ	æ	E	104
-æ$	æ	E	26
-ææ	æː	E	57
-ææ$	æː	E	1
-ɔ	ɔ	U	21
-ɔ$	ɔ	U	3
-ɔɔ	ɔː	U	13
-ɔɔ$	ɔː	U	1
-ɪ	ɪ	I	164
-ɪ$	ɪ	I	21
-ɪɪ	ɪː	I	40
-ɪɪ$	ɪː	I	10
-ɯ	ɯ	I	37
-ɯ$	ɯ	I	5
-ɯɯ	ɯː	I	20
-ɯɯ$	ɯː	I	5
-ʔ	ʔ	H	20
-ʔ$	ʔ	H	5
-ʔs$	ʔs/ˀs	S	3
-χ	χ	G	13
-χ$	χ	G	12
-χs	χ s	G S	4
-χs$	χ s	G S	1
-χw	χw/χʷ	G	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		342	NULL	ʔaaqam;cɪkaaw;ærwɪk;hajkat;ʔɔjkala
+$	NULL		339	NULL	ʔaaqam;cɪkaaw;ærwɪk;hajkat;ʔɔjkala
+a	a	A	146	126	ʔaaqam;hajkat;hajkat;ʔɔjkala;ʔɔjkala
+aa	aː	A	40	39	ʔaaqam;cɪkaaw;χɪjaap;ʔaatɪm;ʔaatɪm
+c	c	C	62	22	cɪkaaw;sajaqʼɪc;wæcææn;cɪmɯɯxcɪmɯx;cɪmɯɯxcɪmɯx
+cʼ	cʼ	C	7	4	macʼajɔ;cʼɪxcʼɪx;cʼɪxcʼɪx;mɪcʼɪɪ;cʼalawɪ
+ts$	ts	C	1	1	tɪɪt_sts
+æ	æ	E	131	104	ærwɪk;hæælæækɪn̪̰ɪkæ;qæpsɪʔs;wæcææn;hæælæækɪn̪̰ɪkæ
+ææ	æː	E	58	57	ʔɪlææpɯxpɯx;hæælæækɪn̪̰ɪkæ;hæælæækɪn̪̰ɪkæ;pææqt;wæcææn
+x	x	G	31	7	ʔɪlææpɯxpɯx;ʔɪlææpɯxpɯx;cɪmɯɯxcɪmɯx;cɪmɯɯxcɪmɯx;kajxkajx
+χ	χ	G	34	13	χɪjaap;lɪstʼæχ;jæχjæqɪɪtʼæs;ʔɔχʔɔχa;ʔɔχʔɔχa
+xw	xw/xʷ	G	1	1	wɪʔxwɪʔx
+χw	χw/χʷ	G	1	1	ʔæχwæ
+h	h	H	32	9	hajkat;hæælæækɪn̪̰ɪkæ;hæælæækɪn̪̰ɪkæ;hææpæj;hɪmæqʼɪs
+ʔ	ʔ	H	94	20	ʔaaqam;ʔɔjkala;ʔaatɪm;ʔaatɪm;ʔɪlææpɯxpɯx
+ɪ	ɪ	I	185	164	cɪkaaw;ærwɪk;χɪjaap;waqʼɪswɪtɪn;waqʼɪswɪtɪn
+ɯ	ɯ	I	42	37	ʔɪlææpɯxpɯx;ʔɪlææpɯxpɯx;cɪmɯɯxcɪmɯx;tɪmlɯkstɪmlɯks;tɪmlɯkstɪmlɯks
+ɪɪ	ɪː	I	50	40	pɪɪps;jæχjæqɪɪtʼæs;ʔɪpælɪɪkr;kʼɪllɪɪnɪn̪̰;lɪɪk
+ɯɯ	ɯː	I	25	20	ʔɪlɯɯt;cɪmɯɯxcɪmɯx;sæpɯɯ;kɯɯ;ʔɪɪqcɯɯp
+j	j	J	62	40	hajkat;ʔɔjkala;χɪjaap;tamsɔj;sajaqʼɪc
+j̰	j̰	J	5	4	waj̰at;waj̰ar;ʔæj̰s;waapcɪj̰awca;cakj̰ax
+k	k	K	75	35	cɪkaaw;ærwɪk;hajkat;ʔɔjkala;hæælæækɪn̪̰ɪkæ
+q	q	K	81	40	ʔaaqam;qæpsɪʔs;pææqt;jæχjæqɪɪtʼæs;qahas
+kʼ	kʼ	K	11	7	tɯkʼɯkɪ;kʼɪllɪɪnɪn̪̰;cɔkʼaj;ʔæækʼ;cɪkʼætpæmæjææjæ
+qq	qq/qː	K	1	1	ʔaqqaapx
+qʼ	qʼ	K	11	10	waqʼɪswɪtɪn;sajaqʼɪc;hɪmæqʼɪs;pɪsaqʼɪs;paqʼaw
+l	l	L	66	49	ʔɔjkala;ʔɪlææpɯxpɯx;hæælæækɪn̪̰ɪkæ;hæælæækɪn̪̰ɪkæ;ʔɪlɯɯt
+^ɬ	ɬ	L	1	1	ɬɪtʼæʔ
+ll	ll/lː	L	2	2	ʔallaaj;kʼɪllɪɪnɪn̪̰
+l̰	l̰	L	1	1	wæl̰æjkʼɪpæ
+m	m	M	70	31	ʔaaqam;tamsɔj;ʔaatɪm;ʔaatɪm;hɪmæqʼɪs
+m̰	m̰	M	6	5	taam̰am;taam̰a;hɪm̰;tɪm̰ɪnæ;ham̰ɔɔj
+n	n	N	51	24	waqʼɪswɪtɪn;wæcææn;kæʔnpɪ;ʔɪnæk;kʼɪllɪɪnɪn̪̰
+n̪̰	n̪̰	N	8	4	hæælæækɪn̪̰ɪkæ;hæælæækɪn̪̰ɪkæ;kʼɪllɪɪnɪn̪̰;tɪn̪̰ɯkɪ;pɪtʼɪɪn̪̰
+p	p	P	99	33	χɪjaap;ʔɪlææpɯxpɯx;ʔɪlææpɯxpɯx;qæpsɪʔs;pææqt
+pʼ	pʼ	P	2	2	tɪpʼɯt;ʔɪlpʼɪlp
+r	r	R	4	1	ærwɪk;ʔɪpælɪɪkr;waj̰ar;wææpræs
+s	s	S	113	25	waqʼɪswɪtɪn;tamsɔj;qæpsɪʔs;sajaqʼɪc;ʔææsk
+ʔs$	ʔs/ˀs	S	3	3	qæpsɪʔs;mɪʔs;qæpsɪʔs
+t	t	T	117	47	hajkat;waqʼɪswɪtɪn;tamsɔj;ʔaatɪm;ʔaatɪm
+tt	tt/tː	T	2	2	wæqɪttɪsæ;ʔæχættalam
+tʼ	tʼ	T	14	13	lɪstʼæχ;jæχjæqɪɪtʼæs;qatʼaw;ɬɪtʼæʔ;pɪtʼɪɪn̪̰
+ɔ	ɔ	U	24	21	ʔɔjkala;tamsɔj;ʔɔχʔɔχa;ʔɔχʔɔχa;macʼajɔ
+ɔɔ	ɔː	U	14	13	pajɔɔpajɔɔ;pajɔɔpajɔɔ;jɔɔsjɔɔs;jɔɔsjɔɔs;palɔɔt
+w	w	W	60	17	cɪkaaw;ærwɪk;waqʼɪswɪtɪn;waqʼɪswɪtɪn;wæcææn
+w̰	w̰	W	4	3	taʔaw̰;hɪcaaw̰ɪc;χaw̰ɪc;wææw̰ɯɯq
+_	+	_	7	7	pɯɯtɪmt_waχ_naaqc;pɯɯtɪmt_waχ_naaqc;wæætʼɯ_ʔɪtɯɯ;tɪɪt_sts;pɯɯtɪmt_waχ_læpɪt
+kw	kw/k w	K W	2	2	tɯkwææp;cɯɯkwæ

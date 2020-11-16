@@ -1,64 +1,30 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	12
-^d	d	T	2
-^e	e	E	14
-^i	i	I	9
-^j	j	J	74
-^kh	kʰ	K	16
-^l	l	L	13
-^lw	l w	L W	1
-^m	m	M	17
-^n	n	N	21
-^o	o	U	17
-^ph	pʰ	P	14
-^s	s	S	1
-^th	th/tʰ	T	18
-^u	u	Y	4
-^w	w	W	31
-^æ	æ	E	9
-^ŋ	ŋ	N	9
-^ə	ə	E	1
-^ɾ	ɾ	R	12
-_	+	_	38
-a	a	A	125
-a$	a	A	22
-d	d	T	13
-e	e	E	120
-e$	e	E	87
-i	i	I	93
-i$	i	I	4
-j	j	J	116
-j$	j	J	34
-jw	j w	J W	16
-kh	kh/kʰ	K	84
-kh$	kh/kʰ	K	17
-khkh	kʰː	K	1
-khw	khw/kʰ w	K W	17
-khw$	khw/kʷʰ	K	3
-l	l	L	48
-l$	l	L	8
-ls	l s	L S	1
-lw	l w	L W	3
-m	m	M	36
-m$	m	M	13
-mw	m w	M W	1
-mw$	m w	M W	1
-n	n	N	76
-n$	n	N	33
-o	o	U	46
-o$	o	U	23
-ph	ph/pʰ	P	28
-ph$	ph/pʰ	P	4
-phw	ph/pʰ w	P W	2
-phw$	ph/pʰ w	P W	1
-th	th/tʰ	T	24
-th$	th/tʰ	T	6
-u	u	Y	28
-v	v	B	1
-w	w	W	60
-w$	w	W	22
-æ	æ	E	48
-ə	ə	E	12
-ə$	ə	E	5
-ɾ	ɾ	R	49
-ɾ$	ɾ	R	12
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		255	NULL	oɾe;ajthiɾ;lwa;jijaj;jijle
+$	NULL		292	NULL	oɾe;ajthiɾ;khokhoth;lwa;jijaj
+a	a	A	159	125	ajthiɾ;lwa;jijaj;khajphiw;jekhmakh
+v	v	B	1	1	jijle_jikhijɾ_ɾive_makh_jikhijɾ
+e	e	E	221	120	oɾe;jijle;jijle;jekhmakh;monokhene
+æ	æ	E	57	48	thawmowjæj;wækh;æl;æjphij;iljæmna
+ə	ə	E	18	12	jiɾin_jekhə;umkhuɾkhwə;lakhnə;lamlakhnə;khəmkhəm
+i	i	I	106	93	ajthiɾ;jijaj;jijle;jijle;khajphiw
+j	j	J	240	116	ajthiɾ;jijaj;jijaj;jijaj;jijle
+kh	kh/kʰ	K	101	84	khokhoth;jekhmakh;jekhmakh;monokhene;jekhɾnakhe
+^kh	kʰ	K	16	16	khokhoth;khajphiw;khajphutheɾij;khuphkhwaph;khow
+khkh	kʰː	K	1	1	uɾunkhkhwo
+khw$	khw/kʷʰ	K	3	3	ɾokhw;khalakhw;phumphum_ɾokhw
+l	l	L	73	48	lwa;jijle;jijle;amolekhe;lukhwo
+m	m	M	68	36	jekhmakh;monokhene;thawmowjæj;olsem;amolekhe
+n	n	N	130	76	monokhene;monokhene;jekhɾnakhe;iljæmna;jæn
+^ŋ	ŋ	N	9	9	ŋale;ŋamej;ŋamej;ŋaje;ŋaje
+ph	ph/pʰ	P	35	28	khajphiw;thiphɾajkhwo;æjphij;aphothawkhwo;nampheth
+^ph	pʰ	P	14	14	phijɾen;phokhe;phath;pheɾijajawnow;phujə
+ɾ	ɾ	R	73	49	oɾe;ajthiɾ;jekhɾnakhe;waɾukhe;thiphɾajkhwo
+^s	s	S	1	1	solwaɾa
+d	d	T	15	13	dijakhekhe;jijle_dæni_jijle_makh_uɾunkh;jijle_jikhijɾ_ɾiwe_makh_najdowo;jijle_dæni;medaje
+th	th/tʰ	T	48	24	ajthiɾ;khokhoth;thawmowjæj;thiphɾajkhwo;aphothawkhwo
+o	o	U	86	46	oɾe;khokhoth;khokhoth;monokhene;monokhene
+w	w	W	138	60	lwa;khajphiw;thawmowjæj;thawmowjæj;wækh
+u	u	Y	32	28	lukhwo;waɾukhe;muj;umkhuɾkhwə;umkhuɾkhwə
+_	+	_	38	38	jijkh_liwkhenajijkh;jiɾin_jekhə;jiw_ɾa;æje_ɾa;jijle_dæni_jijle_makh_uɾunkh
+khw	khw/kʰ w	K W	17	17	lukhwo;thiphɾajkhwo;aphothawkhwo;okhwo;umkhuɾkhwə
+ls	l s	L S	1	1	olsem

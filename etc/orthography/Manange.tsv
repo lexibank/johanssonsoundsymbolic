@@ -1,78 +1,46 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	55
-^a$	a	A	1
-^h	h	H	6
-^j	j	J	8
-^k	k	K	27
-^kh	kʰ	K	11
-^kw	kw/k w	K W	8
-^l	l	L	10
-^m	m	M	30
-^mw	m w	M W	3
-^n	n	N	17
-^o	o	U	1
-^p	p	P	13
-^ph	pʰ	P	17
-^r	r	R	2
-^s	s	S	12
-^t̪	t̪	T	21
-^t̪h	t̪ʰ	T	12
-^t̪s	ts̪	T	10
-^t̪sh	ts̪ʰ	T	6
-^t̪ʃ	t̪ʃ/ts̪	T	11
-^t̪ʃh	t̪ʃh/ts̪ʰ	T	6
-^u	u	Y	3
-^u$	u	Y	2
-^ŋ	ŋ	N	16
-^ɲ	ɲ	N	2
-^ʂ	ʂ	S	4
-^ʃ	ʃ	S	13
-^ʈ	ʈ	T	4
-^ʈh	ʈʰ	T	2
-_	+	_	49
-a	a	A	69
-a$	a	A	33
-c	c	C	2
-d	d	T	1
-e	e	E	26
-e$	e	E	43
-h	h	H	1
-i	i	I	41
-i$	i	I	67
-j	j	J	59
-k	k	K	29
-k$	k	K	1
-kh	kh/kʰ	K	11
-l	l	L	35
-l$	l	L	3
-m	m	M	39
-mw	m w	M W	1
-n	n	N	28
-o	o	U	44
-o$	o	U	17
-p	p	P	39
-p$	p	P	1
-ph	ph/pʰ	P	5
-r	r	R	38
-r$	r	R	6
-s	s	S	3
-t̪	t̪	T	16
-t̪h	t̪h/t̪ʰ	T	11
-t̪s	t̪s/ts̪	T	29
-t̪ʃ	t̪ʃ/ts̪	T	7
-t̪ʃh	t̪ʃh/ts̪ʰ	T	1
-u	u	Y	46
-u$	u	Y	25
-ã$	ã	A	2
-ĩ$	ĩ	I	7
-ŋ	ŋ	N	28
-ŋ$	ŋ	N	46
-ɾ	ɾ	R	10
-ɾ$	ɾ	R	3
-ʃ	ʃ	S	9
-ʈ	ʈ	T	4
-ʌ	ʌ	E	52
-ʌ$	ʌ	E	60
-ʔ$	ʔ	H	1
-ẽ	ẽ	E	1
-ẽ$	ẽ	E	15
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		261	NULL	t̪ʃu_t̪ʃu_lari;lapa;t̪ʃharaŋ;ʃit̪aŋ_khʌpʌ;ʃit̪a
+$	NULL		323	NULL	phiri;t̪ʃu_t̪ʃu_lari;lapa;t̪ʃharaŋ;ʃit̪aŋ_khʌpʌ
+a	a	A	158	69	t̪ʃu_t̪ʃu_lari;lapa;lapa;t̪ʃharaŋ;t̪ʃharaŋ
+ã$	ã	A	2	2	t̪ʃã;t̪ʃã
+c	c	C	2	2	ha_coŋpʌ;picaŋ
+e	e	E	69	26	mjephɾa;supʌ_lit̪se;kje;t̪a_pit̪se_pi;nepʌ
+ʌ	ʌ	E	112	52	ʃit̪aŋ_khʌpʌ;ʃit̪aŋ_khʌpʌ;supʌ_lit̪se;asʌ;lit̪sʌri
+ẽ	ẽ	E	16	1	kjẽ;nokrẽ;mɾẽ;t̪hẽ;mẽ_khuju
+h	h	H	7	1	hlo_khʌ;ha_coŋpʌ;khɾihʌ;hajuŋ;hani
+ʔ$	ʔ	H	1	1	peʔ
+i	i	I	108	41	phiri;phiri;t̪ʃu_t̪ʃu_lari;ʃit̪aŋ_khʌpʌ;ʃit̪a
+ĩ$	ĩ	I	7	7	ki_prĩ;phit̪ʌŋ_prĩ;pĩ;t̪ĩ;kunt̪u_pɾĩ
+j	j	J	67	59	ja;ja;mjephɾa;phjoko;kje
+k	k	K	57	29	nokro;phjoko;kje;kjẽ;mleŋkja
+kh	kh/kʰ	K	11	11	ʃit̪aŋ_khʌpʌ;hlo_khʌ;mẽ_khuju;mi_phropʌ_khjẽ;t̪e_t̪haŋ_khʌ
+^kh	kʰ	K	11	11	khʌŋ;khʌ;kharkjʌ;khi;khje_t̪o
+l	l	L	48	35	t̪ʃu_t̪ʃu_lari;lapa;supʌ_lit̪se;lit̪sʌri;mleŋkja
+m	m	M	69	39	mjephɾa;ŋima;mleŋkja;mɾẽ;mukpʌ
+n	n	N	45	28	nokro;naraŋ;naŋri;nepʌ;nokrẽ
+ŋ	ŋ	N	90	28	t̪ʃharaŋ;ʃit̪aŋ_khʌpʌ;naraŋ;naŋri;ŋima
+^ɲ	ɲ	N	2	2	ɲaŋ;ɲe
+p	p	P	53	39	lapa;ʃit̪aŋ_khʌpʌ;supʌ_lit̪se;t̪a_pit̪se_pi;t̪a_pit̪se_pi
+ph	ph/pʰ	P	5	5	mjephɾa;ŋjokɾo_phuŋ;mi_phropʌ_khjẽ;juŋpe_phra;kʌlphuŋ
+^ph	pʰ	P	17	17	phiri;phjoko;pho;phjaŋ;phjaŋ
+r	r	R	46	38	phiri;t̪ʃu_t̪ʃu_lari;t̪ʃharaŋ;nokro;naraŋ
+ɾ	ɾ	R	13	10	mjephɾa;ŋjokɾo;mɾẽ;phɾa;kunt̪u_pɾĩ
+s	s	S	15	3	supʌ_lit̪se;asʌ;sup;sʌ;se
+ʃ	ʃ	S	22	9	ʃit̪aŋ_khʌpʌ;ʃit̪a;ʃakre;ʃi;ja_ʃiŋ
+^ʂ	ʂ	S	4	4	ʂu;ʂe;ʂuŋ;ʂi
+d	d	T	1	1	samundra
+ʈ	ʈ	T	8	4	ja_ʈi;ʈhaʈe;ʈu;ʈu;ʈi_ʃu
+t̪	t̪	T	37	16	ʃit̪aŋ_khʌpʌ;ʃit̪a;t̪a_pit̪se_pi;t̪ʌ;t̪o
+^ʈh	ʈʰ	T	2	2	ʈhaʈe;ʈhu
+t̪h	t̪h/t̪ʰ	T	11	11	t̪e_t̪haŋ_khʌ;t̪huk_t̪hu;ʃu_t̪hjʌ;amt̪hjʌpʌ;amt̪hjʌpʌ
+t̪s	t̪s/ts̪	T	29	29	supʌ_lit̪se;t̪a_pit̪se_pi;lit̪sʌri;at̪saŋ;ŋoŋt̪sʌri
+t̪ʃ	t̪ʃ/ts̪	T	18	7	t̪ʃu_t̪ʃu_lari;t̪ʃu_t̪ʃu_lari;at̪ʃuŋ;t̪ʃukri;t̪ʃaŋku
+^t̪h	t̪ʰ	T	12	12	t̪hjʌ;t̪huŋ;t̪hẽ;t̪haŋ;t̪hjʌpʌ_t̪ʌ
+^t̪s	ts̪	T	10	10	t̪sak;t̪sʌ;t̪suri;t̪saŋ;t̪sʌt̪sʌ_saŋ
+t̪ʃh	t̪ʃh/ts̪ʰ	T	7	1	t̪ʃharaŋ;t̪ʃhe;at̪ʃher;t̪ʃhi;t̪ʃhi
+^t̪sh	ts̪ʰ	T	6	6	t̪shuŋ;t̪she;t̪shimpʌ;t̪sho;t̪shʌɾ
+o	o	U	62	44	nokro;nokro;phjoko;phjoko;pho
+u	u	Y	76	46	t̪ʃu_t̪ʃu_lari;t̪ʃu_t̪ʃu_lari;supʌ_lit̪se;sup;at̪ʃuŋ
+_	+	_	49	49	t̪ʃu_t̪ʃu_lari;t̪ʃu_t̪ʃu_lari;ʃit̪aŋ_khʌpʌ;supʌ_lit̪se;t̪a_pit̪se_pi
+^kw	kw/k w	K W	8	8	kwemi;kwemi;kwemi;kwemi;kweme
+mw	m w	M W	4	1	mwo;ŋima_mwi;mwʌ;mwo_mi

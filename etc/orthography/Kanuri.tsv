@@ -1,75 +1,41 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	3
-^a	a	A	7
-^b	b	P	27
-^d	d	T	26
-^f	f	B	25
-^g	g	K	11
-^i	i	I	1
-^j	j	J	22
-^k	k	K	76
-^kw	kw/k w	K W	1
-^l	l	L	8
-^m	m	M	11
-^n	n	N	42
-^s	s	S	10
-^t	t	T	30
-^tʃ	tʃ	T	20
-^u	u	Y	1
-^w	w	W	7
-^z	z	S	3
-^ɲ	ɲ	N	2
-^ɾ	ɾ	R	8
-^ʃ	ʃ	S	5
-_	+	_	30
-a	a	A	185
-a$	a	A	93
-aa	aː	A	1
-aa$	aː	A	6
-b	b	P	23
-bb	bː	P	2
-d	d	T	50
-e̞	e̞	E	44
-e̞$	e̞	E	15
-f	f	B	12
-g	g	K	54
-gw	gw/g w	K W	4
-i	i	I	69
-i$	i	I	51
-ii$	iː	I	1
-j	j	J	16
-k	k	K	39
-k$	k	K	3
-kk	kk/kː	K	5
-l	l	L	41
-l$	l	L	9
-ll	ll/lː	L	3
-m	m	M	40
-m$	m	M	18
-n	n	N	55
-n$	n	N	15
-nn	nn/nː	N	2
-o$	o	U	1
-o̞	o̞	U	41
-o̞$	o̞	U	45
-p	p	P	1
-r	r	R	2
-rw	r w	R W	1
-s	s	S	26
-t	t	T	44
-t$	t	T	1
-tt	tt/tː	T	6
-tʃ	tʃ	T	5
-u	u	Y	79
-u$	u	Y	31
-w	w	W	43
-z	z	S	6
-ə	ə	E	82
-ə$	ə	E	47
-ɲ	ɲ	N	4
-ɾ	ɾ	R	72
-ɾ$	ɾ	R	4
-ɾs	ɾ s	R S	1
-ɾw	ɾ w	R W	5
-ɾɾ	ɾɾ/ɾː	R	1
-ʃ	ʃ	S	3
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		342	NULL	samilan;ɾita;ngawo̞_be̞n_;kasam;ngaso̞
+$	NULL		338	NULL	samilan;ɾita;kasam;ngaso̞;gəɾgatə
+_$	NULL		3	3	ngawo̞_be̞n_;ngawo̞_be̞n_;gəɾe̞_be̞n_
+a	a	A	285	185	samilan;samilan;ɾita;ngawo̞_be̞n_;kasam
+aa	aː	A	7	1	naadə;abima_baa;mandaa;jaa;jaa
+f	f	B	37	12	jindifarga;futə;fo̞wo̞;kaɾgi_fitə;fəɾgami
+ə	ə	E	129	82	gəɾgatə;gəɾgatə;bugə;ngəla;gəɾe̞_be̞n_
+e̞	e̞	E	59	44	ngawo̞_be̞n_;ngawo̞_be̞n_;gəɾe̞_be̞n_;gəɾe̞_be̞n_;ɲe̞tə
+i	i	I	121	69	samilan;ɾita;tʃidatʃida;tʃidatʃida;kaskaʃi
+ii$	iː	I	1	1	tʃii
+j	j	J	38	16	tʃidija;jindifarga;jintə;jim;je̞ɾta
+g	g	K	65	54	ngawo̞_be̞n_;ngaso̞;gəɾgatə;gəɾgatə;bugə
+k	k	K	118	39	kasam;musko̞;musko̞;kuttu;kaskaʃi
+kk	kk/kː	K	5	5	zəkka;aɾakkə;wo̞diʃase̞kkin;jakkə;wasam_jikko
+l	l	L	58	41	samilan;ngəla;sələm;maltə;duwuli
+ll	ll/lː	L	3	3	ʃilla;fe̞lle̞;fe̞lla
+m	m	M	69	40	samilan;kasam;musko̞;musko̞;timbi
+n	n	N	112	55	samilan;ngawo̞_be̞n_;ngawo̞_be̞n_;ngaso̞;ngawo̞
+ɲ	ɲ	N	6	4	ɲe̞tə;bəɲi;abigaiɲin;kusuɲi;kalkal_gəɲi
+nn	nn/nː	N	2	2	kannu;kannua
+b	b	P	50	23	ngawo̞_be̞n_;bugə;ngawo̞_be̞n_;timbi;gəɾe̞_be̞n_
+p	p	P	1	1	naptə
+bb	bː	P	2	2	dabba;tʃibbu
+r	r	R	3	2	jindifarga;karwukutta;kamuram
+ɾ	ɾ	R	90	72	ɾita;gəɾgatə;nangaɾo̞;gəɾe̞_be̞n_;kuɾa
+ɾɾ	ɾɾ/ɾː	R	1	1	nuɾɾa
+s	s	S	37	26	samilan;kasam;ngaso̞;musko̞;musko̞
+z	z	S	9	6	nzasəɾa;nzuɾo̞;zəmbəli;kaze̞m;nje̞zo̞
+ʃ	ʃ	S	8	3	kaskaʃi;ʃilla;ʃim;ʃi;ʃi
+d	d	T	76	50	dabba;tʃidatʃida;tʃidatʃida;tʃidija;jindifarga
+t	t	T	75	44	ɾita;gəɾgatə;timbi;timin_ta;timin_ta
+tt	tt/tː	T	6	6	kuttu;kəmattən;karwukutta;le̞ttə;məlattə
+tʃ	tʃ	T	25	5	tʃidatʃida;tʃidatʃida;tʃa;tʃidija;tʃim
+o$	o	U	1	1	wasam_jikko
+o̞	o̞	U	86	41	ngawo̞_be̞n_;ngaso̞;musko̞;musko̞;ngawo̞
+w	w	W	56	43	ngawo̞_be̞n_;ngawo̞;ngawo̞_be̞n_;duwuli;fo̞wo̞
+u	u	Y	111	79	musko̞;musko̞;bugə;kuttu;kuttu
+_	+	_	30	30	ngawo̞_be̞n_;ngawo̞_be̞n_;gəɾe̞_be̞n_;timin_ta;me̞wun_tilo̞n
+gw	gw/g w	K W	4	4	diwo̞_ko̞ngwa;diwo̞_ko̞ngwa;diwo̞_ko̞ngwa;diwo̞_ko̞ngwa
+^kw	kw/k w	K W	1	1	kwa

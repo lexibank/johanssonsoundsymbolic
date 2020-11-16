@@ -1,57 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	63
-^b	b	P	3
-^d	d	T	5
-^h	h	H	1
-^i	i	I	13
-^j	j	J	10
-^k	k	K	14
-^kʼ	kʼ	K	4
-^l	l	L	3
-^m	m	M	10
-^n	n	N	4
-^o	o	U	37
-^p	p	P	13
-^s	s	S	8
-^t	t	T	6
-^tʃ	tʃ	T	8
-^tʼ	tʼ	T	4
-^tʼʃʼ	tʃʼ	T	2
-^u	u	Y	53
-^w	w	W	21
-^ɨ	ɨ	I	1
-^ɾ	ɾ	R	1
-_	+	_	1
-a	a	A	220
-a$	a	A	135
-b	b	P	23
-d	d	T	40
-e	e	E	108
-e$	e	E	91
-h	h	H	128
-hs	h s	H S	3
-hw	hw/hʷ	H	8
-i	i	I	77
-i$	i	I	14
-j	j	J	56
-k	k	K	69
-kʼ	kʼ	K	13
-l	l	L	40
-m	m	M	109
-n	n	N	151
-o	o	U	61
-o$	o	U	23
-p	p	P	44
-s	s	S	79
-s$	s	S	3
-t	t	T	46
-tʃ	tʃ	T	24
-tʼ	tʼ	T	6
-tʼʃʼ	tʃʼ	T	5
-u	u	Y	62
-u$	u	Y	14
-w	w	W	49
-ɨ	ɨ	I	50
-ɨ$	ɨ	I	4
-ɾ	ɾ	R	32
-ʔ	ʔ	H	145
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		284	NULL	nadɨlɨ;samɨhna;oʔsohke;jaɾiʔna;kʼijaʔenahkʼe
+$	NULL		284	NULL	nadɨlɨ;samɨhna;oʔsohke;jaɾiʔna;kʼijaʔenahkʼe
+a	a	A	418	220	nadɨlɨ;samɨhna;samɨhna;jaɾiʔna;jaɾiʔna
+e	e	E	199	108	oʔsohke;kʼijaʔenahkʼe;kʼijaʔenahkʼe;okʼela;koweʔte
+h	h	H	132	128	samɨhna;oʔsohke;kʼijaʔenahkʼe;uhmawano;uhmawano
+ʔ	ʔ	H	150	145	oʔsohke;jaɾiʔna;kʼijaʔenahkʼe;uʔwabɨs;koweʔte
+hw	hw/hʷ	H	8	8	uhwanukʼuʔju;uhwapɨkɨ;uhwanɨʔta;uhwaɾastʼaʔtʼa;uhwaʔpaɾa
+i	i	I	104	77	jaɾiʔna;kʼijaʔenahkʼe;ohnikosno;ibɨstʃa;idohne
+ɨ	ɨ	I	55	50	nadɨlɨ;nadɨlɨ;samɨhna;uʔwabɨs;bɨɾuma
+j	j	J	66	56	jaɾiʔna;kʼijaʔenahkʼe;uhbuwaʔtjahkʼe;tʼijaja;tʼijaja
+k	k	K	83	69	oʔsohke;koɾopo;kanadapa;kamala;koweʔte
+kʼ	kʼ	K	17	13	kʼijaʔenahkʼe;kʼijaʔenahkʼe;okʼela;kʼɨɾɨsna;uhbuwaʔtjahkʼe
+l	l	L	43	40	nadɨlɨ;okʼela;kamala;kawolo;wanili
+m	m	M	119	109	samɨhna;uhmawano;uhmawano;kamala;bɨɾuma
+n	n	N	155	151	nadɨlɨ;samɨhna;jaɾiʔna;kʼijaʔenahkʼe;uhmawano
+b	b	P	26	23	uʔwabɨs;bɨɾuma;uhbunu;ibɨstʃa;uhbuwaʔtjahkʼe
+p	p	P	57	44	koɾopo;uhpatʃatʃano;kanadapa;upuwe;ɨpusne
+ɾ	ɾ	R	33	32	jaɾiʔna;koɾopo;bɨɾuma;kʼɨɾɨsna;uhmuʔtuɾu
+s	s	S	94	79	samɨhna;oʔsohke;uʔwabɨs;ohnikosno;nɨkaseta
+d	d	T	45	40	nadɨlɨ;kanadapa;idohne;tʃɨdɨkɨ;dijaʔtja
+t	t	T	52	46	koweʔte;nɨkaseta;unasto;uhbuwaʔtjahkʼe;uhmuʔtuɾu
+tʃ	tʃ	T	32	24	uhpatʃatʃano;uhpatʃatʃano;ibɨstʃa;tʃɨdɨkɨ;ohtʃowi
+tʼ	tʼ	T	10	6	tʼijaja;ohmostʼoʔdo;tʼijajaʔtja;wanupatʼuwaʔna;uhwaɾastʼaʔtʼa
+tʼʃʼ	tʃʼ	T	7	5	utʼʃʼaʔe;utʼʃʼaʔna;okitʼʃʼi;wapatʼʃʼa;tʼʃʼiʔne
+o	o	U	121	61	oʔsohke;oʔsohke;uhmawano;uhmawano;koɾopo
+w	w	W	74	49	uʔwabɨs;uhmawano;uhmawano;koweʔte;upuwe
+u	u	Y	129	62	uʔwabɨs;uhmawano;uhmawano;uhpatʃatʃano;bɨɾuma
+_	+	_	1	1	alɨpɨ_kowowoʔna

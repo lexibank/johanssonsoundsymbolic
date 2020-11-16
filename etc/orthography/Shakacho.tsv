@@ -1,80 +1,48 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	9
-^d	d	T	9
-^ee	eː	E	1
-^g	g	K	26
-^h	h	H	12
-^i	i	I	14
-^j	j	J	11
-^k	k	K	36
-^m	m	M	16
-^n	n	N	34
-^o	o	U	6
-^oo	oː	U	1
-^p	p	P	1
-^s	s	S	1
-^t	t	T	12
-^tʃ	tʃ	T	11
-^u	u	Y	1
-^uu	uː	Y	1
-^w	w	W	10
-^ɑ	ɑ	A	16
-^ɑɑ	ɑː	A	10
-^ɜ	ɜ	E	1
-^ʃ	ʃ	S	22
-^ʔ	ʔ	H	4
-_	+	_	20
-b	b	P	16
-bb	bː	P	9
-d	d	T	20
-d$	d	T	1
-dd	dː	T	4
-dʒ	dʒ	T	1
-dʒdʒ	dʒː	T	6
-e	e	E	11
-e$	e	E	27
-ee	eː	E	8
-g	g	K	8
-gg	gː	K	4
-h	h	H	20
-i	i	I	75
-i$	i	I	58
-ii	iː	I	16
-ii$	iː	I	3
-j	j	J	13
-k	k	K	17
-k$	k	K	1
-kk	kk/kː	K	11
-l	l	L	1
-ll	ll/lː	L	6
-m	m	M	35
-mm	mm/mː	M	5
-n	n	N	63
-nn	nn/nː	N	4
-o	o	U	19
-o$	o	U	139
-oo	oː	U	10
-oo$	oː	U	1
-p	p	P	6
-pp	pp/pː	P	4
-r	r	R	24
-s$	s	S	2
-ss	ss/sː	S	7
-t	t	T	24
-tt	tt/tː	T	15
-tʃ	tʃ	T	26
-tʃ$	tʃ	T	2
-tʃtʃ	tʃtʃ/tʃː	T	14
-u	u	Y	24
-uu	uː	Y	5
-w	w	W	7
-ɑ	ɑ	A	61
-ɑ$	ɑ	A	27
-ɑɑ	ɑː	A	42
-ɑɑ$	ɑː	A	3
-ɘ	ɘ	E	3
-ɜ	ɜ	E	36
-ɜɜ	ɜː	E	1
-ʃ	ʃ	S	18
-ʔ	ʔ	H	113
-ʔ$	ʔ	H	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		264	NULL	dɑmbɑ;ʃɜʔttii;bullo;kɑɑrɑje;tʃʔootʔo
+$	NULL		263	NULL	dɑmbɑ;ʃɜʔttii;bullo;kɑɑrɑje;tʃʔootʔo
+ɑ	ɑ	A	104	61	dɑmbɑ;dɑmbɑ;kɑɑrɑje;ɑkkɑɑtʃtʃo;mɑrikɑtʃtʃo
+ɑɑ	ɑː	A	55	42	kɑɑrɑje;ɑkkɑɑtʃtʃo;mɑɑtʃʔo;ʃɑɑtʃʔtʃʔi;tʃʔɑɑmmi
+e	e	E	38	11	kɑɑrɑje;nɑʔe;tɑɑne;ɑgɑne;kʔɜtte_mitʔo
+ɘ	ɘ	E	3	3	tʃʔungɘtʔo;ʃɘgo;tʃʔɘkk_ɜtti
+ɜ	ɜ	E	37	36	ʃɜʔttii;dɜggos;tʔɜno;tʔɜllo;kʔɜwɑ
+ee	eː	E	9	8	eengo;tʃʔeenno;geenɑ;geenɑ;geeno
+ɜɜ	ɜː	E	1	1	kɜɜdʒdʒo
+h	h	H	32	20	hiro;hiro;dihi;hɑɑʃo;sɜho
+ʔ	ʔ	H	119	113	ʃɜʔttii;tʃʔootʔo;tʃʔootʔo;okʔkʔo;okʔkʔo
+i	i	I	147	75	hiro;hiro;itullo;mɑrikɑtʃtʃo;ʃɑɑtʃʔtʃʔi
+ii	iː	I	19	16	ʃɜʔttii;ʃiimo;kiinɑ;giiʃi;biitti
+j	j	J	24	13	kɑɑrɑje;mijɑ;jɑbɑro;jɜʔwudʒdʒo;jɜtʔtʔi
+g	g	K	34	8	gubbo;gondo;oogo;eengo;guuppo
+k	k	K	54	17	kɑɑrɑje;okʔkʔo;okʔkʔo;mɑrikɑtʃtʃo;kɑpʔo
+gg	gː	K	4	4	dɜggos;puggi;bɑggi;mɑggi
+kk	kk/kː	K	11	11	ɑkkɑɑtʃtʃo;ʃokkɑɑtʃtʃo;wokki;ikko;tʃʔɘkk_ɜtti
+l	l	L	1	1	ɑʃilɑɑ_guttɑɑ
+ll	ll/lː	L	6	6	bullo;itullo;tʔɜllo;tʔɜllɑmɑ;kʔɜllo
+m	m	M	51	35	dɑmbɑ;mɑrikɑtʃtʃo;mɑɑtʃʔo;dɑmo;mitʃʔtʃʔi
+mm	mm/mː	M	5	5	tʃʔɑɑmmi;immi;tʃʔɑmmo;tʔɑmmi;goommi
+n	n	N	97	63	gondo;nɑʔo;eengo;tʔɜno;kiinɑ
+nn	nn/nː	N	4	4	tʃʔeenno;kʔɑnno;kʔɜbinni;gɑbinni
+b	b	P	25	16	dɑmbɑ;bullo;bɑggi;ɑɑbo;gɑbɑtʔo
+p	p	P	7	6	kɑpʔo;puggi;ɑɑpʔo;ɑpʔɑɑpʔinɑ;ɑpʔɑɑpʔinɑ
+bb	bː	P	9	9	gubbo;kʔɜbbi;nibbo;ʃɑɑbbi;tʔɜbbɑ
+pp	pp/pː	P	4	4	guuppo;ɜppi;gɜppo;tippi
+r	r	R	24	24	kɑɑrɑje;hiro;hiro;mɑrikɑtʃtʃo;ɑɑʃirɑ
+ʃ	ʃ	S	40	18	ʃɜʔttii;ʃɑɑtʃʔtʃʔi;ʃɑɑwuʃo;ʃɑɑwuʃo;ʃiimo
+^s	s	S	1	1	sɜho
+s$	s	S	2	2	dɜggos;ɑkkis
+ss	ss/sː	S	7	7	otissi;ussi;ɑbissiinɑ;hɜtʔtʔissi;tʔeessi
+d	d	T	30	20	dɑmbɑ;gondo;dɜggos;dɑmo;dutʃʔtʃʔi
+t	t	T	36	24	tʃʔootʔo;itullo;tʔɜno;tʔɜllo;otissi
+dd	dː	T	4	4	ɑwuddo;dɑmbɑ_giddɑ;tʃʔuddi;bɜddi
+dʒ	dʒ	T	1	1	gɜndʒɑ
+tt	tt/tː	T	15	15	ʃɜʔttii;kʔutto;ʃimitto;biitti;kɜtti
+tʃ	tʃ	T	39	26	tʃʔootʔo;mɑɑtʃʔo;ʃɑɑtʃʔtʃʔi;ʃɑɑtʃʔtʃʔi;tʃʔɑɑmmi
+dʒdʒ	dʒː	T	6	6	jɜʔwudʒdʒo;kʔɑdʒdʒi;jiidʒdʒi;tʔodʒdʒo;tʃʔɑɑdʒdʒɑ
+tʃtʃ	tʃtʃ/tʃː	T	14	14	ɑkkɑɑtʃtʃo;mɑrikɑtʃtʃo;ɑtʃtʃo;kɑtʃtʃi;ʃokkɑɑtʃtʃo
+o	o	U	164	19	bullo;tʃʔootʔo;ɑkkɑɑtʃtʃo;hiro;hiro
+oo	oː	U	12	10	tʃʔootʔo;oogo;doo;jootʃtʃo;noono
+w	w	W	18	7	ʃɑɑwuʃo;kʔɜwɑ;wɑɑ;wɑɑmo;ʃɑwo
+u	u	Y	25	24	bullo;itullo;gubbo;puggi;dutʃʔtʃʔi
+uu	uː	Y	6	5	guuppo;ʃuukʔkʔi;uutʃtʃo;guudo;guutʃtʃo
+_	+	_	20	20	dɑmbɑ_giddɑ;kʔɜtte_mitʔo;tʃʔɘkk_ɜtti;ɑʃilɑɑ_guttɑɑ;indi_ʔinde

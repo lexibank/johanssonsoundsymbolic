@@ -1,59 +1,26 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	16
-^a$	a	A	1
-^e	e	E	2
-^f	f	B	7
-^h	h	H	28
-^i	i	I	6
-^i$	i	I	1
-^j	j	J	2
-^k	k	K	11
-^kh	kʰ	K	19
-^m	m	M	19
-^n	n	N	27
-^o	o	U	2
-^o$	o	U	3
-^p	p	P	16
-^s	s	S	18
-^t	t	T	17
-^u	u	Y	1
-^u$	u	Y	1
-^w	w	W	5
-^ɔ	ɔ	U	5
-^ɛ	ɛ	E	4
-_	+	_	8
-a	a	A	80
-a$	a	A	48
-e	e	E	27
-e$	e	E	7
-ee$	eː	E	1
-f	f	B	14
-f$	f	B	8
-i	i	I	39
-i$	i	I	12
-j	j	J	13
-k	k	K	23
-k$	k	K	2
-kh	kh/kʰ	K	3
-kh$	kh/kʰ	K	1
-m	m	M	38
-m$	m	M	1
-n	n	N	15
-n$	n	N	19
-o	o	U	24
-o$	o	U	14
-p	p	P	18
-p$	p	P	12
-s	s	S	14
-s$	s	S	6
-t	t	T	24
-u	u	Y	17
-u$	u	Y	20
-w	w	W	11
-ɔ	ɔ	U	35
-ɔ$	ɔ	U	35
-ɔɔ	ɔː	U	1
-ɛ	ɛ	E	33
-ɛ$	ɛ	E	14
-ɽ	ɽ	R	54
-ɽ$	ɽ	R	5
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		164	NULL	fɛfɛs;sampo;katijap;nɔ;o
+$	NULL		210	NULL	fɛfɛs;sampo;katijap;nɔ;o
+a	a	A	145	80	sampo;katijap;katijap;mokakɔ;aijɛɽɔ
+f	f	B	29	14	fɛfɛs;fɛfɛs;khuf;fɔn;ifi
+e	e	E	36	27	mena;tikaɽe;khoakeɽɔ;hejɔ;hɔɽen
+ɛ	ɛ	E	51	33	fɛfɛs;fɛfɛs;aijɛɽɔ;ɔpɛ;mɛpuɽuma
+ee$	eː	E	1	1	ɛɽɛɽee
+^h	h	H	28	28	haɽap;hɔpɔ;hoɽoma;hitap;hejɔ
+i	i	I	58	39	katijap;aijɛɽɔ;khi;it_aɽu;kɛɽima
+j	j	J	15	13	katijap;aijɛɽɔ;jɛɽima;hejɔ;hejɔ
+k	k	K	36	23	katijap;mokakɔ;mokakɔ;kɛɽima;tikaɽe
+kh	kh/kʰ	K	4	3	ikhowap;sokh;khu_khɔɽɔn;akhin
+^kh	kʰ	K	19	19	khuf;khi;khaɽu_sɔwa;khoakeɽɔ;khaɽaitɔ
+m	m	M	58	38	sampo;mu;mokakɔ;mɔɽu;mɛpuɽuma
+n	n	N	61	15	nɔ;mena;hɔɽen;khɛɽɛn;hen
+p	p	P	46	18	sampo;katijap;ɔpɛ;mɛpuɽuma;haɽap
+ɽ	ɽ	R	59	54	mɔɽu;aijɛɽɔ;mɛpuɽuma;haɽap;khaɽu_sɔwa
+s	s	S	38	14	fɛfɛs;sampo;khaɽu_sɔwa;pasima;soma
+t	t	T	41	24	katijap;tɔmɔ;it_aɽu;hitap;tikaɽe
+o	o	U	43	24	sampo;o;o;mokakɔ;po
+ɔ	ɔ	U	75	35	nɔ;mokakɔ;mɔɽu;aijɛɽɔ;ɔpɛ
+ɔɔ	ɔː	U	1	1	hɔɔɽɔ
+w	w	W	16	11	khaɽu_sɔwa;ikhowap;wɛɽifɔ;khɛisaɽe_sɔwa;waka
+u	u	Y	39	17	mu;mɔɽu;khuf;mɛpuɽuma;mɛpuɽuma
+_	+	_	8	8	khaɽu_sɔwa;it_aɽu;khɛisaɽe_sɔwa;po_ip;hen_takon

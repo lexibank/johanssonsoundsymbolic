@@ -1,63 +1,32 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	1
-^b	b	P	24
-^d	d	T	28
-^e	e	E	1
-^h	h	H	60
-^i	i	I	3
-^k	k	K	30
-^m	m	M	11
-^n	n	N	43
-^o	o	U	2
-^o$	o	U	3
-^p	p	P	18
-^ps	p s	P S	5
-^t	t	T	45
-^tʃ	tʃ	T	8
-^u	u	Y	2
-^u$	u	Y	1
-^w	w	W	6
-^õ$	õ	U	1
-^ĩ$	ĩ	I	1
-^ə	ə	E	1
-^ə$	ə	E	1
-^ɛ	ɛ	E	2
-^ɾ	ɾ	R	3
-_	+	_	18
-a	a	A	27
-a$	a	A	23
-b	b	P	19
-d	d	T	32
-e	e	E	56
-e$	e	E	57
-f	f	B	16
-h	h	H	31
-i	i	I	64
-i$	i	I	53
-ii$	iː	I	1
-j	j	J	57
-k	k	K	50
-m	m	M	7
-n	n	N	30
-o	o	U	43
-o$	o	U	16
-p	p	P	20
-t	t	T	38
-tʃ	tʃ	T	35
-u	u	Y	26
-u$	u	Y	10
-w	w	W	11
-z	z	S	6
-ã	ã	A	1
-ã$	ã	A	3
-õ	õ	U	36
-õ$	õ	U	47
-ĩ	ĩ	I	19
-ĩ$	ĩ	I	21
-ə	ə	E	25
-ə$	ə	E	34
-ɛ	ɛ	E	50
-ɛ$	ɛ	E	19
-ɛ̃$	ɛ̃	E	9
-ɾ	ɾ	R	45
-β	β	B	19
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		295	NULL	benĩ;djə;hõɛ̃;bzitã;hipfo
+$	NULL		290	NULL	benĩ;djə;bzitã;hipfo;iheɾu
+a	a	A	51	27	hapa;hapa;hapa;hapa;kamɛ̃
+ã	ã	A	4	1	bzitã;kõãka;hetã;hetã
+f	f	B	16	16	hipfo;həpfə;hapfõ;kapfətʃe;kəpfə
+β	β	B	19	19	djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_honotõ
+e	e	E	114	56	benĩ;iheɾu;medjətõ;medjətʃi;bɛtʃe
+ə	ə	E	61	25	djə;medjətõ;medjətʃi;wɛwɛɾə;kənika
+ɛ	ɛ	E	71	50	kɛ;bɛtʃe;bitɛ;wekɛ;wɛwɛɾə
+ɛ̃$	ɛ̃	E	9	9	hõɛ̃;kamɛ̃;nɛ̃;ɾɛnɛ̃;tõĩhɛ̃
+h	h	H	91	31	hõɛ̃;hipfo;iheɾu;hapa;hapa
+i	i	I	120	64	bzitã;hipfo;iheɾu;medjətʃi;pika
+ĩ	ĩ	I	41	19	benĩ;tʃetʃenĩ;nĩkə;nĩmĩ;nĩmĩ
+ii$	iː	I	1	1	nõwii
+j	j	J	57	57	djə;medjətõ;medjətʃi;dji;djiɾi
+k	k	K	80	50	kamɛ̃;kɛ;pika;wekɛ;kɛi
+m	m	M	18	7	kamɛ̃;medjətõ;medjətʃi;nĩmĩ;mĩnõ
+n	n	N	73	30	benĩ;kənika;tʃetʃenĩ;nõwi;habɛdjenõkə
+b	b	P	43	19	benĩ;bzitã;bɛtʃe;beɾi;buɾu
+p	p	P	38	20	hipfo;hapa;hapa;hepe;pika
+ɾ	ɾ	R	48	45	iheɾu;beɾi;buɾu;wɛwɛɾə;biɾo
+z	z	S	6	6	bzitã;djebzi;kɛbzitɛ;bziɾui;bziɾuiwa
+d	d	T	60	32	djə;medjətõ;medjətʃi;dji;djiɾi
+t	t	T	83	38	bzitã;medjətõ;bitɛ;tʃetu;tõhõ
+tʃ	tʃ	T	43	35	medjətʃi;bɛtʃe;tʃetʃenĩ;tʃetʃenĩ;tʃetu
+o	o	U	64	43	hipfo;biɾo;todjo;todjo;ko
+õ	õ	U	84	36	hõɛ̃;medjətõ;nõwi;habɛdjenõkə;benõhi
+w	w	W	17	11	wekɛ;wɛwɛɾə;wɛwɛɾə;nõwi;wa
+u	u	Y	39	26	iheɾu;buɾu;buɾu;heku;tʃetu
+_	+	_	18	18	djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_djɛβo_djɛβo;djɛβo_djɛβo_honotõ;djɛβo_djɛβo_honotõ
+^ps	p s	P S	5	5	psi;psihe;psihe;psihe;psihe

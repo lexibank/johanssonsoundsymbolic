@@ -1,81 +1,43 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	11
-^c	c	C	21
-^d	d	T	23
-^g	g	K	13
-^h	h	H	40
-^j	j	J	14
-^k	k	K	12
-^m	m	M	12
-^n	n	N	24
-^p	p	P	30
-^t	t	T	54
-^tʃ	tʃ	T	2
-^w	w	W	19
-^ɟ	ɟ	C	14
-^ʔ	ʔ	H	35
-_	+	_	24
-__	+	_	1
-a	a	A	67
-a$	a	A	4
-b	b	P	9
-b$	b	P	12
-c	c	C	9
-c$	c	C	1
-d	d	T	16
-d$	d	T	9
-dh	dh/dʰ	T	3
-e	e	E	19
-e$	e	E	1
-g	g	K	9
-g$	g	K	25
-h	h	H	28
-h$	h	H	58
-hw	hw/hʷ	H	1
-i	i	I	38
-i$	i	I	6
-j	j	J	32
-j$	j	J	25
-jh	jh/j̊	J	1
-k	k	K	7
-k$	k	K	15
-m	m	M	13
-m$	m	M	10
-mh	mh/m̥	M	2
-n	n	N	11
-n$	n	N	11
-nh	nh/n̥	N	4
-o	o	U	49
-o$	o	U	5
-p	p	P	18
-p$	p	P	18
-pw	p w	P W	1
-t	t	T	21
-t$	t	T	23
-u	u	Y	41
-u$	u	Y	11
-w	w	W	15
-w$	w	W	10
-ww	ww/wː	W	1
-ã	ã	A	28
-æ	æ	E	34
-æ$	æ	E	3
-æ̃	æ̃	E	21
-ç$	ç	C	16
-ĩ	ĩ	I	6
-ŋ	ŋ	N	2
-ŋ$	ŋ	N	2
-ũ	ũ	Y	9
-ũ$	ũ	Y	1
-ɔ	ɔ	U	42
-ɔ$	ɔ	U	7
-ɔ̃	ɔ̃	U	15
-ɔ̃$	ɔ̃	U	3
-ə	ə	E	25
-ɟ	ɟ	C	3
-ɟ$	ɟ	C	3
-ɨ	ɨ	I	47
-ɨ$	ɨ	I	3
-ɨ̃	ɨ̃	I	4
-ʔ	ʔ	H	94
-ʔ$	ʔ	H	42
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		322	NULL	bujcoʔ;ʔɔm;hũjʔah;nihũʔ;təwwaj
+$	NULL		308	NULL	bujcoʔ;ʔɔm;hũjʔah;nihũʔ;təwwaj
+a	a	A	71	67	hũjʔah;təwwaj;hupah;paj;kɔtʔah
+ã	ã	A	28	28	hũtæ̃h_pãt;tãʔãj_doʔ;tãʔãj_doʔ;pãt;hãwɨg
+c	c	C	31	9	bujcoʔ;cap;cɔ̃wɔ̃h;haŋcak;cək
+ɟ	ɟ	C	20	3	ɟʔa;ɟʔa;ɟʔɨk_kudu;mɔj_ɟʔɨk;mʔaɟʔ
+ç$	ç	C	16	16	gʔəç;tɔç;paç;puç;kukuç
+e	e	E	20	19	teg_hɔw;kejoʔ;cet;dɔʔkej;wʔeh
+æ	æ	E	37	34	gʔæg;næn;jʔæʔ;wæd;hæŋjɨʔ
+ə	ə	E	25	25	təwwaj;gʔəç;cək;ʔəg;həb
+æ̃	æ̃	E	21	21	hũtæ̃h;hũtæ̃h_pãt;tæ̃ʔnɔ;wædtæ̃ʔkej;pæ̃j
+h	h	H	126	28	hũjʔah;hũjʔah;nihũʔ;hũ;teg_hɔw
+ʔ	ʔ	H	171	94	bujcoʔ;ʔɔm;hũjʔah;nihũʔ;bʔɔk
+hw	hw/hʷ	H	1	1	cĩhwɨʔ
+i	i	I	44	38	nihũʔ;bijiw;bijiw;tijiʔ_doʔ;tijiʔ_doʔ
+ĩ	ĩ	I	6	6	tĩmĩj_pog;tĩmĩj_pog;cĩpmʔæh;cĩhwɨʔ;hãcĩh
+ɨ	ɨ	I	50	47	mɨʔ;ɟʔɨk_kudu;bɨʔ;mɔj_ɟʔɨk;hæŋjɨʔ
+ɨ̃	ɨ̃	I	4	4	hɨ̃p;hɨ̃nʔɨh;hɨ̃mʔæ;hɨ̃coʔ
+j	j	J	71	32	bujcoʔ;hũjʔah;təwwaj;juj;juj
+jh	jh/j̊	J	1	1	hæjhɔ
+g	g	K	47	9	teg_hɔw;pog;gʔəç;gʔæg;gʔæg
+k	k	K	34	7	bʔɔk;kejoʔ;kɔtʔah;tok;kakah
+m	m	M	35	13	ʔɔm;mumuj;mumuj;mumuj;mumuj
+mh	mh/m̥	M	2	2	jaʔamhoʔ;ɟʔɔmham
+n	n	N	46	11	nihũʔ;næn;næn;wan;naʔ
+ŋ	ŋ	N	4	2	haŋcak;hæŋjɨʔ;naŋ;mɨnɨŋ
+nh	nh/n̥	N	4	4	ʔinhãç;ʔinhãç;ʔinhãç;ʔinhãç
+b	b	P	32	9	bujcoʔ;bʔɔk;bijiw;bʔatuk;bɨʔ
+p	p	P	67	18	hupah;paj;tuhup;pog;pohowʔ
+d	d	T	48	16	tijiʔ_doʔ;pud;ɟʔɨk_kudu;dɔʔkej;wæd
+t	t	T	98	21	təwwaj;teg_hɔw;tuhup;kɔtʔah;tok
+dh	dh/dʰ	T	3	3	wædhɔ;wædhɔmʔæh;wædhɔ
+^tʃ	tʃ	T	2	2	tʃik;tʃɨʔɨj
+o	o	U	54	49	bujcoʔ;kejoʔ;tok;pog;pohowʔ
+ɔ	ɔ	U	49	42	ʔɔm;teg_hɔw;bʔɔk;kɔtʔah;dɔʔkej
+ɔ̃	ɔ̃	U	18	15	pɔ̃pɔ̃h;pɔ̃pɔ̃h;cɔ̃wɔ̃h;cɔ̃wɔ̃h;hɔ̃
+w	w	W	45	15	teg_hɔw;bijiw;pohowʔ;cɔ̃wɔ̃h;wag
+ww	ww/wː	W	1	1	təwwaj
+u	u	Y	52	41	bujcoʔ;juj;mumuj;mumuj;mumuj
+ũ	ũ	Y	10	9	hũjʔah;nihũʔ;hũ;hũjʔah;hũtæ̃h
+_	+	_	24	24	teg_hɔw;tijiʔ_doʔ;ɟʔɨk_kudu;mɔj_ɟʔɨk;hũtæ̃h_pãt
+__	+	_	1	1	wəwəp__mæh

@@ -1,48 +1,24 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	19
-^a$	a	A	2
-^b	b	P	3
-^d	d	T	20
-^e	e	E	7
-^e$	e	E	2
-^g	g	K	1
-^h	h	H	17
-^i	i	I	2
-^i$	i	I	1
-^k	k	K	5
-^m	m	M	17
-^n	n	N	12
-^o	o	U	6
-^p	p	P	15
-^s	s	S	7
-^t	t	T	13
-^u	u	Y	3
-^w	w	W	5
-^y	y/j	J	8
-^æ	æ	E	2
-_	+	_	5
-a	a	A	82
-a$	a	A	60
-d	d	T	10
-e	e	E	36
-e$	e	E	33
-h	h	H	2
-i	i	I	24
-i$	i	I	30
-k	k	K	18
-l	l	L	63
-m	m	M	47
-m$	m	M	1
-n	n	N	5
-o	o	U	29
-o$	o	U	24
-p	p	P	29
-ps$	p s	P S	1
-s	s	S	13
-t	t	T	36
-u	u	Y	14
-u$	u	Y	12
-w	w	W	2
-y	y	Y	7
-æ	æ	E	5
-æ$	æ	E	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		155	NULL	wote;po;haploma;sialade;alinepi
+$	NULL		167	NULL	wote;po;haploma;sialade;alinepi
+a	a	A	163	82	haploma;haploma;sialade;sialade;alinepi
+e	e	E	78	36	wote;sialade;alinepi;aseka;tea
+æ	æ	E	8	5	tæla;næ;helæde;utlæla;hakæle
+h	h	H	19	2	haploma;hutu;dapiamte_dapiamte_hatlope;hama;hema
+i	i	I	57	24	sialade;alinepi;alinepi;tusupi;diki
+^y	y/j	J	8	8	yele;ye;yu;yikemala;yuhuta
+k	k	K	23	18	aseka;koko;koko;diki;moko
+^g	g	K	1	1	gode
+l	l	L	63	63	haploma;sialade;alinepi;yele;omali
+m	m	M	65	47	haploma;omali;moto;mase;meme
+n	n	N	17	5	alinepi;inoma;næ;nama;nati
+p	p	P	45	29	po;haploma;alinepi;tusupi;pato
+^b	b	P	3	3	blikia;baps;bapa
+s	s	S	21	13	sialade;tusupi;aseka;mase;miste
+d	d	T	30	10	sialade;do;do;diki;de
+t	t	T	49	36	wote;tusupi;pato;tea;moto
+o	o	U	59	29	wote;po;haploma;do;do
+w	w	W	7	2	wote;wata;ewala;uwe;we
+u	u	Y	29	14	tusupi;tusupi;hutu;hutu;pu
+y	y	Y	7	7	teyu;amaseyemala;aya;poyu;totoyemala
+_	+	_	5	5	dapiamte_dapiamte_hatlope;dapiamte_dapiamte_hatlope;dapiamte_dapiamte;meme_de;dupa_kole

@@ -1,102 +1,54 @@
-Grapheme	IPA	SCA	Frequency
-^_	+	_	2
-^a	a	A	31
-^b	b	P	16
-^c	c	C	13
-^d	d	T	1
-^e	e	E	42
-^f	f	B	2
-^h	h	H	1
-^i	i	I	19
-^k	k	K	21
-^kh	kʰ	K	6
-^l	l	L	9
-^m	m	M	19
-^n	n	N	4
-^o	o	U	9
-^o$	o	U	1
-^p	p	P	1
-^ph	pʰ	P	4
-^r	r	R	4
-^s	s	S	4
-^t	t	T	14
-^th	th/tʰ	T	2
-^u	u	Y	9
-^x	x	G	1
-^ç	ç	C	3
-^ŋ	ŋ	N	5
-^ɔ	ɔ	U	2
-^ɖ	ɖ	T	8
-^ɛ	ɛ	E	17
-^ɟ	ɟ	C	14
-^ɲ	ɲ	N	1
-^ʈ	ʈ	T	6
-^ʈh	ʈʰ	T	6
-a	a	A	112
-a$	a	A	27
-aa	aː	A	8
-b	b	P	39
-b$	b	P	2
-c	c	C	28
-c$	c	C	7
-cc	cː	C	4
-d	d	T	3
-e	e	E	62
-e$	e	E	55
-ee	eː	E	2
-f	f	B	3
-i	i	I	96
-i$	i	I	30
-ii	iː	I	2
-j	j	J	14
-j$	j	J	1
-k	k	K	41
-k$	k	K	10
-kh	kh/kʰ	K	16
-kk	kk/kː	K	3
-l	l	L	56
-l$	l	L	14
-ll	ll/lː	L	2
-m	m	M	78
-m$	m	M	9
-n	n	N	19
-n$	n	N	2
-nn	nn/nː	N	2
-o	o	U	84
-o$	o	U	58
-oo	oː	U	2
-p	p	P	2
-p$	p	P	4
-ph	ph/pʰ	P	14
-r	r	R	81
-r$	r	R	10
-s	s	S	9
-t	t	T	49
-t$	t	T	17
-th	th/tʰ	T	10
-tt	tt/tː	T	3
-u	u	Y	87
-u$	u	Y	21
-uu	uː	Y	1
-w	w	W	7
-w$	w	W	1
-x	x	G	5
-ç	ç	C	7
-ŋ	ŋ	N	12
-ŋ$	ŋ	N	10
-ɔ	ɔ	U	52
-ɔ$	ɔ	U	8
-ɔɔ	ɔː	U	1
-ɖ	ɖ	T	11
-ɛ	ɛ	E	21
-ɛ$	ɛ	E	3
-ɛɛ	ɛː	E	2
-ɟ	ɟ	C	4
-ɲ	ɲ	N	2
-ɲ$	ɲ	N	2
-ɽ	ɽ	R	1
-ʈ	ʈ	T	30
-ʈ$	ʈ	T	4
-ʈh	ʈh/ʈʰ	T	12
-ʈh$	ʈh/ʈʰ	T	1
-ʈʈ	ʈʈ/ʈː	T	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		278	NULL	soŋo;laʈbo;tarasulu;ra;ercek
+$	NULL		297	NULL	soŋo;laʈbo;tarasulu;ra;ercek
+a	a	A	170	112	laʈbo;tarasulu;tarasulu;ra;ʈiiccɔwla
+aa	aː	A	8	8	ɛrʈaaŋo;kaan;etcaame;xottaajmunijo;ɛraakaamu
+f	f	B	5	3	forɔɔc;ɛlɛɛwfe;ɛlɛɛwfe;ifile;fooccow
+c	c	C	48	28	ercek;cae;laca;cɛrel;buco
+ç	ç	C	10	7	leiçar;etɛçe;çitane;çirotɛrkera;taiçom
+ɟ	ɟ	C	18	4	ɟulu;iɟi;ɟillɔrɔ;ɟubu;ɟubu
+cc	cː	C	4	4	ʈiiccɔwla;mixuccol;uccire;fooccow
+e	e	E	159	62	ercek;ercek;cae;teɽtija;ʈhɛrphet
+ɛ	ɛ	E	41	21	ɛrbala;ɛrbala;ʈhɛrphet;ɛtei;ɛborake
+ee	eː	E	2	2	ʈowterbeec;totbeec
+ɛɛ	ɛː	E	2	2	ɛlɛɛwfe;ɛlɛɛwfe
+x	x	G	6	5	mixuccol;xottaajmunijo;muxuje;muxuje;muxuje
+^h	h	H	1	1	hamɛ
+i	i	I	145	96	biʈh;teɽtija;mixuccol;ebio;ieleŋ
+ii	iː	I	2	2	ʈiiccɔwla;biip
+j	j	J	15	14	teɽtija;ecaj;thikjoŋ;xottaajmunijo;xottaajmunijo
+k	k	K	72	41	ercek;kotra;phɔrɔk;ɛborake;ekokhela
+kh	kh/kʰ	K	16	16	utkhum;ekokhela;ebiʈkhe;thambikhir;tɛrlɔkho
+kk	kk/kː	K	3	3	ekkaaka;elɛcokke;ekkaaɖum
+^kh	kʰ	K	6	6	khidi;khir;khole;kheb;khirme
+l	l	L	79	56	laʈbo;tarasulu;ʈiiccɔwla;ɖowlu;ɛrbala
+ll	ll/lː	L	2	2	ɟillɔrɔ;uʈboiʈɖello
+m	m	M	106	78	utkhum;tumbol;mixuccol;iɖirim;ermetɛi
+n	n	N	25	19	nɔl;ino;elonetercek;ninoi;ninoi
+ŋ	ŋ	N	27	12	soŋo;ieleŋ;ɛrʈaaŋo;ŋeʈ;ŋol
+ɲ	ɲ	N	5	2	ɛtkaɲ;ɲɔrtɔ;çuɲebe;ɛkʈɛɲe;kaɲ
+nn	nn/nː	N	2	2	conne;oʈɔnno
+b	b	P	57	39	laʈbo;ɛrbala;ɛrbala;biʈh;tumbol
+p	p	P	7	2	ercop;biip;ontoplo;iɖop;puŋcare
+ph	ph/pʰ	P	14	14	ʈhɛrphet;emphil;epherɔpho;epherɔpho;karacpho
+^ph	pʰ	P	4	4	phɔrɔk;phuŋ;phinil;phile
+r	r	R	95	81	tarasulu;ra;ercek;ɛrbala;ɛrbala
+ɽ	ɽ	R	1	1	teɽtija
+s	s	S	13	9	soŋo;tarasulu;tarasulu;suke;soŋo
+d	d	T	4	3	dem;khidi;irkhudoe;cajkhudi
+t	t	T	80	49	tarasulu;utkhum;teɽtija;teɽtija;ʈhɛrphet
+ɖ	ɖ	T	19	11	ɖowlu;iɖirim;iɖirim;uʈboiʈɖello;iʈhuɖe
+ʈ	ʈ	T	40	30	laʈbo;ʈiiccɔwla;ecoʈɔe;ʈoʈa;ʈoʈa
+th	th/tʰ	T	12	10	arathomo;thambikhir;ethomo;thikjoŋ;erthiu
+tt	tt/tː	T	3	3	kottaral;xottaajmunijo;ettɛŋ
+ʈh	ʈh/ʈʰ	T	13	12	biʈh;caeʈhile;iʈhuɖe;erkɔʈho;buʈho
+ʈʈ	ʈʈ/ʈː	T	1	1	oʈʈɔek
+^ʈh	ʈʰ	T	6	6	ʈhɛrphet;ʈhitɔbec;ʈhoekterphol;ʈhu;ʈhirbɛt
+o	o	U	152	84	soŋo;soŋo;laʈbo;ɖowlu;kotra
+ɔ	ɔ	U	62	52	ʈiiccɔwla;nɔl;phɔrɔk;phɔrɔk;ecoʈɔe
+oo	oː	U	2	2	kootbe;fooccow
+ɔɔ	ɔː	U	1	1	forɔɔc
+w	w	W	8	7	ʈiiccɔwla;ɖowlu;ʈowterbeec;uwu;ɛlɛɛwfe
+u	u	Y	117	87	tarasulu;tarasulu;ɖowlu;utkhum;utkhum
+uu	uː	Y	1	1	ɖuukhe
+^_	+	_	2	2	_ɔʈhotoaʈhuekaʈa;_ɔʈhotoaʈhuekaʈa

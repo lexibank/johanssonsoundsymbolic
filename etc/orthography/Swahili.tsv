@@ -1,84 +1,45 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	1
-^a	a	A	4
-^ch	ch/tʃ	T	13
-^f	f	B	6
-^h	h	H	4
-^i	i	I	4
-^j	j	J	5
-^k	k	K	37
-^kw	kw/k w	K W	2
-^l	l	L	8
-^m	m	M	78
-^mw	m w	M W	10
-^n	n	N	21
-^p	p	P	9
-^r	r	R	2
-^s	s	S	15
-^t	t	T	11
-^tw	t w	T W	1
-^u	u	Y	14
-^v	v	B	3
-^w	w	W	7
-^z	z	S	3
-^ð	ð	D	1
-^ŋ	ŋ	N	2
-^ɓ	ɓ	P	25
-^ɔ	ɔ	U	5
-^ɗ	ɗ	T	2
-^ɛ	ɛ	E	8
-^ɠ	ɠ	K	6
-^ɲ	ɲ	N	7
-^ɲw	ɲ w	N W	2
-^ʃ	ʃ	S	6
-^ʄ	ʄ	C	17
-_	+	_	18
-a	a	A	126
-a$	a	A	147
-aa	aː	A	2
-aa$	aː	A	4
-b	b	P	1
-ch	ch/tʃ	T	11
-chw	ch/cʰ w	C W	1
-d	d	T	1
-f	f	B	9
-h	h	H	7
-i	i	I	90
-i$	i	I	59
-ii$	iː	I	1
-j	j	J	12
-k	k	K	39
-kk	kk/kː	K	1
-l	l	L	26
-m	m	M	58
-mw	m w	M W	1
-n	n	N	50
-o	o	U	2
-p	p	P	17
-pw	p w	P W	16
-r	r	R	13
-s	s	S	12
-t	t	T	25
-u	u	Y	80
-u$	u	Y	46
-uu$	uː	Y	13
-v	v	B	12
-w	w	W	8
-z	z	S	18
-ŋ	ŋ	N	22
-ɓ	ɓ	P	40
-ɓw	ɓ w	P W	3
-ɔ	ɔ	U	40
-ɔ$	ɔ	U	34
-ɔɔ	ɔː	U	1
-ɔɔ$	ɔː	U	2
-ɗ	ɗ	T	20
-ɗʒ	ɗ ʒ	T S	3
-ɛ	ɛ	E	28
-ɛ$	ɛ	E	27
-ɛɛ$	ɛː	E	4
-ɠ	ɠ	K	43
-ɲ	ɲ	N	4
-ɲw	ɲ w	N W	1
-ʃ	ʃ	S	4
-ʄ	ʄ	C	21
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		335	NULL	ʄuu;wɔɠa;ɓaaɗa;ɔtɛ;kasirika
+$	NULL		319	NULL	wɔɠa;ɓaaɗa;ɔtɛ;kasirika;mɲama
+_$	NULL		1	1	upɛsi_
+a	a	A	277	126	wɔɠa;ɓaaɗa;kasirika;kasirika;mɲama
+aa	aː	A	6	2	ɓaaɗa;ʄaa;kaa;maʄi_maaŋɠa;kaa
+f	f	B	15	9	mfupa;safi;fa;chafu;faɲa
+v	v	B	15	12	ʄivu;ɔvu;vuma;kavu;vumɓi
+ʄ	ʄ	C	38	21	ʄuu;ʄivu;ʄa;kumi_na_mɔʄa;ʄichɔ
+^ð	ð	D	1	1	ðaifu
+ɛ	ɛ	E	63	28	ɔtɛ;ɠɔmɛ;nɗɛɠɛ;nɗɛɠɛ;ɛusi
+ɛɛ$	ɛː	E	4	4	mzɛɛ;mzɛɛ;mzɛɛ;mzɛɛ
+h	h	H	11	7	sahihi;sahihi;kɔhɔa;furahi;hapa
+i	i	I	153	90	kasirika;kasirika;ʄivu;zuri;chini
+ii$	iː	I	1	1	ʄamii
+j	j	J	17	12	kati_ja;jai;uɲɔja;jɛjɛ;jɛjɛ
+k	k	K	76	39	kasirika;kasirika;mkɔnɔ;mkɔnɔ;kaɓla
+ɠ	ɠ	K	49	43	wɔɠa;chuŋɠu;mɠɔŋɠɔ;mɠɔŋɠɔ;ɠɔmɛ
+kk	kk/kː	K	1	1	takkaja
+l	l	L	34	26	kaɓla;mwili;lia;la;mɓali
+m	m	M	147	58	mɲama;mɲama;mkɔnɔ;mkɔnɔ;mɠɔŋɠɔ
+n	n	N	71	50	mkɔnɔ;mkɔnɔ;chini;kanɗɔ;nɗɛɠɛ
+ŋ	ŋ	N	24	22	chuŋɠu;mɠɔŋɠɔ;chuŋɠu;uɓɔŋɠɔ;uŋɠua
+ɲ	ɲ	N	14	4	mɲama;ɲuma;ɲa;faɲa;ɲwa
+b	b	P	1	1	labda
+p	p	P	42	17	mfupa;pumua;pinɗika;tupu;upɛsi_
+ɓ	ɓ	P	68	40	ɓaaɗa;saɓaɓu;saɓaɓu;kaɓla;tumɓɔ
+r	r	R	15	13	kasirika;zuri;ɓariɗi;ruka;furahi
+s	s	S	27	12	kasirika;saɓaɓu;ɛusi;safi;sahihi
+z	z	S	21	18	zuri;ziwa;ɠiza;nzi;zitɔ
+ʃ	ʃ	S	10	4	ʃuta;kuʃɔtɔ;ʃiŋɠɔ;mɔʃi;ʄaʃɔ
+d	d	T	1	1	labda
+t	t	T	37	25	ɔtɛ;tumɓɔ;kati_ja;ɓutu;mtɔtɔ
+ɗ	ɗ	T	22	20	ɓaaɗa;kanɗɔ;nɗɛɠɛ;ɗamu;ɓariɗi
+ch	ch/tʃ	T	24	11	chuŋɠu;chini;chuŋɠu;mchana;chafu
+o	o	U	2	2	kukoʄoa;kukoʄoa
+ɔ	ɔ	U	79	40	wɔɠa;ɔtɛ;mkɔnɔ;mkɔnɔ;mkɔnɔ
+ɔɔ	ɔː	U	3	1	mɓɔɔ;ɲɔɔka;kɔɔ
+w	w	W	49	8	wɔɠa;kuɓwa;mwili;ziwa;wiŋɠu
+u	u	Y	140	80	chuŋɠu;chuŋɠu;ʄivu;ɔvu;zuri
+uu$	uː	Y	13	13	ʄuu;mɠuu;ʄuu;mɠuu;kiɗɔlɛ_cha_mɠuu
+_	+	_	18	18	kati_ja;kumi_na_mɔʄa;kumi_na_mɔʄa;kiɗɔlɛ_cha_mkɔnɔ;kiɗɔlɛ_cha_mkɔnɔ
+chw	ch/cʰ w	C W	1	1	kichwa
+^kw	kw/k w	K W	2	2	kwaruza;kwa_nini
+ɗʒ	ɗ ʒ	T S	3	3	nɗʒɛ;nɗʒia;manɗʒanɔ

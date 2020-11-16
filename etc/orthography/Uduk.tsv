@@ -1,128 +1,59 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	53
-^aa	aː	A	1
-^b	b	P	10
-^bw	b w	P W	3
-^d	d	T	8
-^dʒ	dʒ	T	4
-^d̪	d̪	T	13
-^e	e	E	1
-^e$	e	E	1
-^g	g	K	3
-^gw	gw/g w	K W	2
-^h	h	H	1
-^i	i	I	6
-^ii	iː	I	4
-^j	j	J	5
-^k	k	K	21
-^kh	kʰ	K	5
-^khw	khw/kʰ w	K W	2
-^kw	kw/k w	K W	2
-^kʼ	kʼ	K	3
-^kʼw	kʼ w	K W	3
-^l	l	L	1
-^m	m	M	16
-^n	n	N	1
-^nn	nː	N	1
-^o	o	U	4
-^p	p	P	4
-^ph	pʰ	P	7
-^s	s	S	6
-^t	t	T	8
-^th	th/tʰ	T	2
-^tw	t w	T W	3
-^tʃ	tʃ	T	3
-^tʃh	tʃʰ	T	5
-^t̪	t̪	T	5
-^u	u	Y	12
-^w	w	W	9
-^ŋ	ŋ	N	3
-^ɓw	ɓ w	P W	3
-^ɗ	ɗ	T	1
-^ɲ	ɲ	N	2
-^ʃ	ʃ	S	5
-^ʃw	ʃ w	S W	2
-_	+	_	67
-a	a	A	136
-a$	a	A	34
-aa	aː	A	6
-b	b	P	9
-bw	b w	P W	4
-d	d	T	9
-dʒ	dʒ	T	3
-dʒw	dʒ w	T W	1
-d̪	d̪	T	5
-e	e	E	51
-e$	e	E	11
-ee	eː	E	1
-ee$	eː	E	2
-g	g	K	8
-gw	gw/g w	K W	4
-h	h	H	9
-h$	h	H	1
-i	i	I	67
-i$	i	I	29
-ii	iː	I	5
-ii$	iː	I	2
-j	j	J	13
-j$	j	J	1
-k	k	K	31
-kh	kh/kʰ	K	5
-kh$	kh/kʰ	K	6
-kʼ	kʼ	K	1
-kʼ$	kʼ	K	3
-l	l	L	13
-l$	l	L	7
-m	m	M	28
-m$	m	M	32
-mm	mm/mː	M	1
-mw	m w	M W	4
-n	n	N	17
-n$	n	N	19
-ns	n s	N S	1
-o	o	U	56
-o$	o	U	13
-oo	oː	U	1
-p	p	P	14
-p$	p	P	4
-ph	ph/pʰ	P	8
-ph$	ph/pʰ	P	2
-phph	phph/pʰː	P	1
-pp	pp/pː	P	1
-pʼ	pʼ	P	2
-r	r	R	26
-r$	r	R	11
-s	s	S	17
-s$	s	S	13
-t	t	T	13
-th	th/tʰ	T	6
-th$	th/tʰ	T	1
-thth	tʰː	T	2
-tʃ	tʃ	T	5
-tʃh	tʃh/tʃʰ	T	10
-tʃh$	tʃh/tʃʰ	T	1
-tʃʼ	tʃʼ	T	4
-tʃʼ$	tʃʼ	T	2
-tʼw	tʼ w	T W	1
-t̪	t̪	T	3
-t̪h	t̪h/t̪ʰ	T	1
-t̪h$	t̪h/t̪ʰ	T	1
-t̪ʼ	t̪ʼ	T	3
-t̪ʼ$	t̪ʼ	T	5
-u	u	Y	58
-u$	u	Y	6
-uu	uː	Y	1
-w	w	W	4
-w$	w	W	1
-ŋ	ŋ	N	7
-ŋ$	ŋ	N	7
-ɓ	ɓ	P	7
-ɓ$	ɓ	P	2
-ɗ	ɗ	T	15
-ɗ$	ɗ	T	14
-ɲ	ɲ	N	4
-ɲ$	ɲ	N	3
-ʃ	ʃ	S	18
-ʃ$	ʃ	S	13
-ʔ	ʔ	H	6
-ʔ$	ʔ	H	7
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		232	NULL	mis;war;tombwaaʃo;piɲ;apho
+$	NULL		254	NULL	mis;kho;war;tombwaaʃo;piɲ
+a	a	A	223	136	war;apho;ajiʔo;ka_guʃ;ijanguɓ
+aa	aː	A	7	6	tombwaaʃo;tʃaatʃa;kaaka;haɓaahaɓu;tʃhiththaan
+e	e	E	64	51	tetʼwa;pen;tʃet̪hi_pʼen;tʃet̪hi_pʼen;khure
+ee	eː	E	3	1	gus_mo_ee_mis;appee;aphphor_dʒee
+h	h	H	11	9	kah;mahan;aha;kupha_duhal;haɓaahaɓu
+ʔ	ʔ	H	13	6	ajiʔo;kʼumeɗ_i_pe_ɗeʔ;ɗeʔ;meʔ_da_bim_poros;muteɗ_pe_suʔ
+i	i	I	102	67	mis;piɲ;ajiʔo;ki_guph;ijanguɓ
+ii	iː	I	11	5	ʃiin;mii;nnii;aiijam_pem;aiijam_pem
+j	j	J	19	13	ajiʔo;ijanguɓ;ajoro;jer;bwaj
+g	g	K	11	8	ka_guʃ;ki_guph;ijanguɓ;gus_mo_ee_mis;guɓ
+k	k	K	52	31	ka_guʃ;ki_guph;kah;kuth;kol
+kh	kh/kʰ	K	11	5	arakh;tukh;tikh;wakhki;ka_khut̪ʼ_is
+kʼ	kʼ	K	10	1	kʼumeɗ_i_pe_ɗeʔ;ʃokʼ;ki_tʃʼekʼ;kʼumeɗ;aʃokʼ_doroɗ
+^kh	kʰ	K	5	5	kho;khure;khut̪ʼ;khas;khal
+l	l	L	21	13	ŋal;kol;tekelatekel;tekelatekel;adulaŋ
+m	m	M	80	28	mis;tombwaaʃo;asima;mu;d̪urumiɗ
+mm	mm/mː	M	1	1	jiɗeŋ_kumma
+n	n	N	38	17	ijanguɓ;ʃiin;pen;tʃet̪hi_pʼen;ʃuman
+ŋ	ŋ	N	17	7	atʃʼiŋgwat̪h;ŋal;adulaŋ;doŋon;ŋalkum
+ɲ	ɲ	N	9	4	piɲ;piɲa_e;khwalaɲ;khwasiɲoama;ɲut̪aɲut̪ʼ
+^nn	nː	N	1	1	nnii
+b	b	P	26	9	tombwaaʃo;buʃ;abas;di_bwa_t̪ʼ;boraɓor
+p	p	P	22	14	piɲ;pen;mumeɗ_pe_su;kʼumeɗ_i_pe_ɗeʔ;piɲa_e
+ɓ	ɓ	P	12	7	ijanguɓ;atʃʼinɓomi;boraɓor;biriʃaɓiriʃ;guɓ
+ph	ph/pʰ	P	10	8	apho;ki_guph;t̪uphat̪ʼuph;t̪uphat̪ʼuph;agwaphi
+pp	pp/pː	P	1	1	appee
+pʼ	pʼ	P	2	2	tʃet̪hi_pʼen;ko_pʼen
+^ph	pʰ	P	7	7	phi;phi;phara_pho;phe;phet̪ʼ
+phph	phph/pʰː	P	1	1	aphphor_dʒee
+r	r	R	37	26	war;arakh;khure;d̪urumiɗ;d̪orot̪ad̪orot̪ʼ
+s	s	S	37	17	mis;t̪us;d̪isd̪is;d̪isd̪is;abas
+ʃ	ʃ	S	38	18	tombwaaʃo;ka_guʃ;buʃ;ʃiin;ʃwa
+d	d	T	17	9	di_bwa_t̪ʼ;adulaŋ;doŋon;kupha_duhal;diki_e
+t	t	T	24	13	tombwaaʃo;tetʼwa;tukh;tekelatekel;tekelatekel
+ɗ	ɗ	T	30	15	d̪urumiɗ;mumeɗ_pe_su;kʼumeɗ_i_pe_ɗeʔ;kʼumeɗ_i_pe_ɗeʔ;meɗ
+dʒ	dʒ	T	8	3	dʒeʃe;koʃ_dʒwa_mo;aphphor_dʒee;dʒithi;dʒantan
+d̪	d̪	T	18	5	d̪isd̪is;d̪isd̪is;d̪urumiɗ;d̪orot̪ad̪orot̪ʼ;d̪orot̪ad̪orot̪ʼ
+th	th/tʰ	T	9	6	kuth;dʒithi;thapurathapur;thapurathapur;thukʼ
+tʃ	tʃ	T	8	5	tʃaatʃa;tʃaatʃa;tʃet̪hi_pʼen;tʃam;d̪an_tʃom
+t̪	t̪	T	8	3	t̪us;t̪i;t̪uphat̪ʼuph;d̪orot̪ad̪orot̪ʼ;wat̪i
+tʃh	tʃh/tʃʰ	T	11	10	tʃhawtʃhaw;seretʃh;kutʃhur;utʃhi;utʃhi
+tʃʼ	tʃʼ	T	6	4	wotʃʼ;atʃʼiŋgwat̪h;ki_tʃʼekʼ;atʃʼinɓomi;kowa_tʃʼisaŋ
+t̪h	t̪h/t̪ʰ	T	2	1	atʃʼiŋgwat̪h;tʃet̪hi_pʼen
+t̪ʼ	t̪ʼ	T	8	3	t̪uphat̪ʼuph;d̪orot̪ad̪orot̪ʼ;khut̪ʼ;di_bwa_t̪ʼ;phet̪ʼ
+^tʃh	tʃʰ	T	5	5	tʃhawtʃhaw;tʃhe;tʃhiththaan;tʃhiththaan;tʃhaɓki_goɗgoɗ
+thth	tʰː	T	2	2	tʃhiththaan;tʃhiththaan
+o	o	U	73	56	kho;tombwaaʃo;tombwaaʃo;apho;ajiʔo
+oo	oː	U	1	1	kulum_gwoo_bwa
+w	w	W	37	4	war;tombwaaʃo;wotʃʼ;ʃwa;tʃhawtʃhaw
+u	u	Y	76	58	t̪us;ka_guʃ;ki_guph;buʃ;ijanguɓ
+uu	uː	Y	1	1	ouuwa
+_	+	_	67	67	ka_guʃ;ki_guph;tʃet̪hi_pʼen;mumeɗ_pe_su;mumeɗ_pe_su
+gw	gw/g w	K W	6	4	atʃʼiŋgwat̪h;agwaphi;gwaɗagwaɗ;gwaɗagwaɗ;kulum_gwoo_bwa
+^kw	kw/k w	K W	2	2	kwara;kwaskam
+^khw	khw/kʰ w	K W	2	2	khwalaɲ;khwasiɲoama
+tʼw	tʼ w	T W	1	1	tetʼwa

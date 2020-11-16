@@ -1,68 +1,31 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	6
-^b	b	P	22
-^d	d	T	12
-^g	g	K	7
-^i	i	I	8
-^j	j	J	9
-^k	k	K	41
-^m	m	M	23
-^n	n	N	30
-^o	o	U	20
-^s	s	S	22
-^t	t	T	16
-^tʃ	tʃ	T	2
-^u	u	Y	10
-^w	w	W	16
-^ŋ	ŋ	N	10
-^ɣ	ɣ	G	7
-^ɲ	ɲ	N	15
-^ɸ	ɸ	B	10
-^ɾ	ɾ	R	6
-^ʔ	ʔ	H	12
-^β	β	B	1
-_	+	_	74
-a	a	A	117
-b	b	P	38
-b$	b	P	19
-d	d	T	17
-d$	d	T	12
-e	e	E	61
-e$	e	E	49
-g	g	K	39
-g$	g	K	11
-gg$	gː	K	2
-i	i	I	105
-i$	i	I	81
-j	j	J	18
-k	k	K	15
-m	m	M	73
-m$	m	M	23
-n	n	N	67
-n$	n	N	3
-o	o	U	59
-o$	o	U	32
-r	r	R	1
-s	s	S	16
-s$	s	S	3
-t	t	T	16
-t$	t	T	4
-tʃ	tʃ	T	1
-u	u	Y	99
-u$	u	Y	33
-w	w	W	35
-w$	w	W	5
-z	z	S	11
-z$	z	S	2
-ŋ	ŋ	N	20
-ɣ	ɣ	G	8
-ɨ	ɨ	I	1
-ɲ	ɲ	N	14
-ɲ$	ɲ	N	5
-ɸ	ɸ	B	11
-ɸ$	ɸ	B	3
-ɾ	ɾ	R	60
-ɾ$	ɾ	R	9
-ʔ	ʔ	H	28
-ʔ$	ʔ	H	9
-β	β	B	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		305	NULL	naŋge;wune_namb;buagi;umbo_keɾ_nawo;ʔuaji
+$	NULL		303	NULL	naŋge;wune_namb;buagi;umbo_keɾ_nawo;ʔuaji
+a	a	A	123	117	naŋge;wune_namb;buagi;umbo_keɾ_nawo;ʔuaji
+ɸ	ɸ	B	24	11	iɲaɸ;waɸi;ŋgaɸe;ɸuʔi_nindiʔ;ɸuʔum_namb
+β	β	B	5	4	jaβi;ɣaβe;jiβandz;βig_namb;iβeɾ
+e	e	E	110	61	naŋge;wune_namb;umbo_keɾ_nawo;bɾeʔu;saɾe_gagɾiwo
+ɣ	ɣ	G	15	8	ɣaβe;ɣimbi;ɣaɾi;ɣat;ɣeɾim
+ʔ	ʔ	H	49	28	ʔuaji;suʔuaɾi;bɾeʔu;ʔuaɾi;ʔuaji
+i	i	I	194	105	buagi;ʔuaji;suʔuaɾi;si;si
+ɨ	ɨ	I	1	1	si_ɨre
+j	j	J	27	18	ʔuaji;jumbui;jeŋg_nand;jaβi;ʔuaji
+g	g	K	57	39	naŋge;buagi;saɾe_gagɾiwo;saɾe_gagɾiwo;saŋge
+k	k	K	56	15	umbo_keɾ_nawo;kimbi;imbiski;miɾ_kuɲuɸ;kime
+gg$	gː	K	2	2	niŋgg;ɸuɣe_niŋgg
+m	m	M	119	73	wune_namb;umbo_keɾ_nawo;umbo;sumaɲi;jumbui
+n	n	N	100	67	naŋge;wune_namb;wune_namb;umbo_keɾ_nawo;nat
+ŋ	ŋ	N	30	20	naŋge;saŋge;jeŋg_nand;ŋgaɸe;ŋgiɲ_tu
+ɲ	ɲ	N	34	14	iɲaɸ;sumaɲi;miɲ;ŋgiɲ_tu;ŋgiɲ
+b	b	P	79	38	wune_namb;buagi;umbo_keɾ_nawo;dob;bɾeʔu
+r	r	R	1	1	si_ɨre
+ɾ	ɾ	R	75	60	umbo_keɾ_nawo;suʔuaɾi;bɾeʔu;saɾe_gagɾiwo;saɾe_gagɾiwo
+s	s	S	41	16	suʔuaɾi;si;si;saɾe_gagɾiwo;asi
+z	z	S	13	11	wondzi;jiβandz;ɲiŋge_dzag;dzu;bidzeji_nase
+d	d	T	41	17	dob;dobu;jeŋg_nand;ɾomu_nand;nandi
+t	t	T	36	16	nat;ituwaɾ;ŋgiɲ_tu;nati;tumo_wo
+tʃ	tʃ	T	3	1	umbo_tʃe;tʃuw_gib_namb;tʃoŋgo
+o	o	U	111	59	umbo_keɾ_nawo;umbo_keɾ_nawo;dob;saɾe_gagɾiwo;dobu
+w	w	W	56	35	wune_namb;umbo_keɾ_nawo;saɾe_gagɾiwo;waɸi;ituwaɾ
+u	u	Y	142	99	wune_namb;buagi;umbo_keɾ_nawo;ʔuaji;suʔuaɾi
+_	+	_	74	74	wune_namb;umbo_keɾ_nawo;umbo_keɾ_nawo;saɾe_gagɾiwo;jeŋg_nand

@@ -1,76 +1,30 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	32
-^a$	a	A	1
-^b	b	P	19
-^bw	b w	P W	4
-^d	d	T	7
-^dw	d w	T W	3
-^dʒ	dʒ	T	12
-^e	e	E	4
-^f	f	B	13
-^fw	f w	B W	3
-^g	g	K	9
-^gw	gw/g w	K W	10
-^h	h	H	1
-^i	i	I	21
-^i$	i	I	1
-^j	j	J	1
-^k	k	K	9
-^m	m	M	11
-^n	n	N	29
-^o	o	U	9
-^o$	o	U	1
-^p$	p	P	1
-^s	s	S	22
-^t	t	T	63
-^u	u	Y	10
-^w	w	W	10
-^æ	æ	E	7
-_	+	_	48
-a	a	A	215
-a$	a	A	117
-b	b	P	24
-bw	b w	P W	19
-d	d	T	6
-dʒ	dʒ	T	3
-e	e	E	98
-e$	e	E	48
-f	f	B	47
-f$	f	B	3
-fw	f w	B W	6
-g	g	K	17
-gw	gw/g w	K W	4
-h	h	H	1
-i	i	I	97
-i$	i	I	53
-j	j	J	21
-k	k	K	22
-k$	k	K	1
-ks	k s	K S	1
-kw	kw/k w	K W	1
-l	l	L	36
-l$	l	L	7
-m	m	M	28
-m$	m	M	9
-ms	m s	M S	1
-mw	m w	M W	3
-n	n	N	142
-n$	n	N	18
-nn	nn/nː	N	2
-ns	n s	N S	2
-o	o	U	58
-o$	o	U	11
-p	p	P	4
-p$	p	P	6
-r	r	R	69
-r$	r	R	23
-rs	r s	R S	3
-s	s	S	36
-s$	s	S	8
-t	t	T	46
-u	u	Y	62
-u$	u	Y	4
-w	w	W	24
-æ	æ	E	15
-æ$	æ	E	1
-ŋ	ŋ	N	13
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		313	NULL	tagarap;erne;mæ;kakarsona;giri
+$	NULL		313	NULL	tagarap;erne;mæ;kakarsona;giri
+a	a	A	365	215	tagarap;tagarap;tagarap;kakarsona;kakarsona
+f	f	B	72	47	tafa;tafa;ti_tifin;witifin;tifini_tabter
+e	e	E	150	98	erne;erne;duruwer;wækena;durawer
+æ	æ	E	23	15	mæ;wækena;æwis;ælna;wækena
+h	h	H	2	1	hæpta;tahun
+i	i	I	172	97	giri;giri;dʒili;dʒili;ti_tifin
+j	j	J	22	21	seseje;ejemani;jafintowai;terjen;girijen
+g	g	K	26	17	tagarap;giri;gitowai;giri;taf_a_nau_sama_guri_tufa_dænfena
+k	k	K	33	22	kakarsona;kakarsona;kapka;kapka;wækena
+l	l	L	43	36	dʒili;tumpul;ælna;dʒila;gwala
+m	m	M	52	28	mæ;binisamer;ibamibama;ibamibama;tumpul
+n	n	N	191	142	erne;kakarsona;son;ti_tifin;wækena
+ŋ	ŋ	N	13	13	uŋgwandusa;tiŋna;tafa_afwer_nauniŋna;daŋgonawer;aŋgwa
+nn	nn/nː	N	2	2	gwaranna;tanna
+b	b	P	66	24	binisamer;dʒerbini;bwanai_ne_gwebana;bwanai_ne_gwebana;ibamibama
+p	p	P	11	4	tagarap;kapka;gwonap;nenenap;tumpul
+r	r	R	95	69	tagarap;erne;kakarsona;giri;duruwer
+s	s	S	73	36	kakarsona;son;binisamer;uŋgwandusa;sira
+d	d	T	16	6	duruwer;durawer;uŋgwandusa;dwak_sum;taf_a_nau_sama_guri_tufa_dænfena
+t	t	T	109	46	tagarap;tafa;tafa;ti_tifin;ti_tifin
+dʒ	dʒ	T	15	3	dʒili;dʒu;dʒerbini;dʒila;dʒubitena
+o	o	U	79	58	kakarsona;son;gwonap;gitowai;mom
+w	w	W	72	24	duruwer;wækena;durawer;witifin;æwis
+u	u	Y	76	62	duruwer;duruwer;durawer;uŋgwandusa;uŋgwandusa
+_	+	_	48	48	ti_tifin;bwanai_ne_gwebana;bwanai_ne_gwebana;tifini_tabter;dwak_sum
+gw	gw/g w	K W	14	4	gwonap;uŋgwandusa;bwanai_ne_gwebana;gwaranna;gwin
+kw	kw/k w	K W	1	1	tokwa

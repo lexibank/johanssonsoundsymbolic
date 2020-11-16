@@ -1,62 +1,35 @@
-Grapheme	IPA	SCA	Frequency
-U	u/u	Y	1
-^a	a	A	1
-^dʒ	dʒ	T	12
-^dʒH	dʒʰ	T	1
-^j	j	J	11
-^k	k	K	53
-^l	l	L	2
-^m	m	M	15
-^n	n	N	11
-^n$	n	N	1
-^p	p	P	22
-^t	t	T	8
-^t̪	t̪	T	7
-^w	w	W	11
-^ŋ	ŋ	N	33
-^ɾ	ɾ	R	4
-_	+	_	1
-a	a	A	194
-a$	a	A	21
-c	c	C	1
-d$	d	T	1
-dʒ	dʒ	T	17
-dʒ$	dʒ	T	5
-ff	fː	B	1
-g	g	K	1
-i	i	I	55
-i$	i	I	50
-j	j	J	59
-j$	j	J	14
-k	k	K	49
-k$	k	K	6
-l	l	L	35
-l$	l	L	7
-m	m	M	20
-m$	m	M	30
-n	n	N	43
-n$	n	N	12
-o	o	U	1
-oo	oː	U	1
-p	p	P	29
-r	r	R	25
-r$	r	R	3
-t	t	T	6
-t$	t	T	2
-t̪	t̪	T	1
-u	u	Y	100
-u$	u	Y	23
-v$	v	B	1
-w	w	W	27
-ŋ	ŋ	N	39
-ŋ$	ŋ	N	1
-ɑ	ɑ	A	7
-ə	ə	E	40
-ə$	ə	E	12
-ɭ	ɭ	L	16
-ɭ$	ɭ	L	1
-ɳ	ɳ	N	5
-ɾ	ɾ	R	24
-ʈ	ʈ	T	2
-ʈ$	ʈ	T	2
-ʎ	ʎ	L	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		191	NULL	lɑɳə;taŋəmpi;məlakawuja;jilkuwuru;ŋanuŋkum
+$	NULL		190	NULL	lɑɳə;taŋəmpi;məlakawuja;jilkuwuru;ŋanuŋkum
+a	a	A	216	194	taŋəmpi;məlakawuja;məlakawuja;məlakawuja;ŋanuŋkum
+ɑ	ɑ	A	7	7	lɑɳə;dʒɑm;məɾɑŋari;kəlɑki;kəlɑki
+ff	fː	B	1	1	kUffŋam
+v$	v	B	1	1	tinjdʒiɾucav
+c	c	C	1	1	tinjdʒiɾucav
+ə	ə	E	52	40	lɑɳə;taŋəmpi;məlakawuja;kawumpə;wəʈ
+i	i	I	105	55	taŋəmpi;jilkuwuru;jilak;wanjakinj;papidʒ
+j	j	J	84	59	məlakawuja;jilkuwuru;jakawaɭa;jilak;wanjakinj
+g	g	K	1	1	mənkawugood
+k	k	K	108	49	məlakawuja;jilkuwuru;ŋanuŋkum;ŋanuŋkum;kawumpə
+l	l	L	44	35	lɑɳə;məlakawuja;jilkuwuru;dʒaluŋuru;jilak
+ɭ	ɭ	L	17	16	jakawaɭa;ŋuɭukpu;muɭum;pataɭ;maɭam
+ʎ	ʎ	L	2	2	kiʎiŋəm;ŋəʎak
+m	m	M	65	20	taŋəmpi;məlakawuja;ŋanuŋkum;ŋanuŋkum;kawumpə
+n	n	N	67	43	ŋanuŋkum;ŋanuŋkum;paʈun;nawara;wanjakinj
+ŋ	ŋ	N	73	39	taŋəmpi;ŋanuŋkum;ŋanuŋkum;ŋanuŋkum;ŋanuŋkum
+ɳ	ɳ	N	5	5	lɑɳə;kəɳkak;kaɳkinj;kəɳka;mərkəɳpə
+p	p	P	51	29	taŋəmpi;kawumpə;paʈun;kaɾadʒpə;papidʒ
+r	r	R	28	25	jilkuwuru;dʒaluŋuru;nawara;kunt̪ur;pərdʒikə
+ɾ	ɾ	R	28	24	kaɾadʒpə;pijanj_wuɾadʒ;ŋaɾak;kəɾəwul;ɾuram
+t	t	T	16	6	taŋəmpi;wantadʒ;pataɭ;jantər;tanjdʒa
+ʈ	ʈ	T	4	2	paʈun;wəʈ;jaʈəm;ɾuʈ
+d$	d	T	1	1	mənkawugood
+dʒ	dʒ	T	34	17	dʒaluŋuru;dʒɑm;kaɾadʒpə;papidʒ;wantadʒ
+t̪	t̪	T	8	1	kunt̪ur;t̪ət;t̪ət;t̪ulŋunj;t̪amanj
+^dʒH	dʒʰ	T	1	1	dʒHam
+o	o	U	1	1	dʒarokpə
+oo	oː	U	1	1	mənkawugood
+w	w	W	38	27	məlakawuja;jilkuwuru;kawumpə;jakawaɭa;nawara
+U	u/u	Y	1	1	kUffŋam
+u	u	Y	123	100	məlakawuja;jilkuwuru;jilkuwuru;jilkuwuru;ŋanuŋkum
+_	+	_	1	1	pijanj_wuɾadʒ

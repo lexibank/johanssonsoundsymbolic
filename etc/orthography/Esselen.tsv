@@ -1,80 +1,40 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	21
-^c	c	C	6
-^ch	ch/tʃ	T	1
-^e	e	E	4
-^g	g	K	2
-^h	h	H	6
-^i	i	I	9
-^j	j	J	1
-^k	k	K	7
-^l	l	L	9
-^m	m	M	20
-^m$	m	M	1
-^n	n	N	2
-^o	o	U	1
-^p	p	P	9
-^q	q	K	3
-^s	s	S	6
-^sh	sh/sʰ	S	1
-^t	t	T	7
-^ts	ts	C	8
-^u	u	Y	5
-^v	v	B	1
-^x	x	G	2
-^ʃ	ʃ	S	1
-a	a	A	72
-a$	a	A	35
-c	c	C	2
-c$	c	C	6
-ch$	ch/cʰ	C	1
-cs	c s	C S	1
-e	e	E	44
-e$	e	E	8
-f	f	B	1
-f$	f	B	1
-fw	f w	B W	1
-g	g	K	4
-h	h	H	8
-i	i	I	47
-i$	i	I	26
-j	j	J	9
-k	k	K	9
-k$	k	K	1
-kw	kw/k w	K W	1
-l	l	L	36
-l$	l	L	3
-ll	ll/lː	L	1
-ls	l s	L S	1
-m	m	M	16
-m$	m	M	3
-mm	mm/mː	M	1
-n	n	N	15
-n$	n	N	4
-nn	nn/nː	N	3
-nʃ	n ʃ	N S	1
-o	o	U	20
-o$	o	U	3
-p	p	P	8
-p$	p	P	2
-pʃ	p ʃ	P S	1
-q	q	K	3
-r$	r	R	1
-s	s	S	18
-s$	s	S	8
-ss$	ss/sː	S	1
-t	t	T	2
-t$	t	T	1
-ths$	ths/tsʰ	C	1
-ts	ts	C	7
-tt	tt/tː	T	1
-tʃ	tʃ	T	12
-u	u	Y	28
-u$	u	Y	10
-w	w	W	6
-x	x	G	15
-x$	x	G	12
-xw	xw/xʷ	G	1
-ʃ	ʃ	S	4
-ʃ$	ʃ	S	2
-ʈ$	ʈ	T	3
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		130	NULL	hasic;comminam;xilaxila;ottosoipʃa;lulusx
+$	NULL		126	NULL	hasic;comminam;xilaxila;ottosoipʃa;lulusx
+a	a	A	128	72	hasic;comminam;xilaxila;xilaxila;ottosoipʃa
+f	f	B	3	1	kxulefwalanai;shiefe;julef
+^v	v	B	1	1	villel
+c	c	C	15	2	hasic;comminam;cahquic;cahquic;coli
+ts	ts	C	15	7	asatsa;matsa;itsu;atsinisi;quetscaia
+ch$	ch/cʰ	C	1	1	pach
+ths$	ths/tsʰ	C	1	1	ejenouths
+e	e	E	56	44	mepgel;mepgel;exepanasis;exepanasis;else
+x	x	G	29	15	xilaxila;xilaxila;lulusx;lulusx;exepanasis
+xw	xw/xʷ	G	1	1	kxamaxwalanai
+h	h	H	14	8	hasic;cahquic;sigiha;halass;hji
+i	i	I	82	47	hasic;comminam;xilaxila;xilaxila;ottosoipʃa
+j	j	J	10	9	tojogul;ija;hji;iju;ejenouths
+g	g	K	6	4	tojogul;sigiha;mepgel;gilagila;gilagila
+k	k	K	17	9	kolxala;kxulefwalanai;ikxpa;pemakxala;keli
+q	q	K	6	3	cahquic;anniqui;quetscaia;quehaen;quiniac
+l	l	L	49	36	xilaxila;xilaxila;lulusx;lulusx;lulusx
+ll	ll/lː	L	1	1	villel
+m	m	M	40	16	comminam;mepgel;matsa;ama;pemakxala
+mm	mm/mː	M	1	1	comminam
+n	n	N	22	15	comminam;exepanasis;chunai;kxulefwalanai;cueino
+nn	nn/nː	N	3	3	anniqui;panna;panna
+p	p	P	20	8	ottosoipʃa;pach;mepgel;exepanasis;sasipa
+r$	r	R	1	1	awur
+s	s	S	34	18	hasic;ottosoipʃa;lulusx;lulusx;sigiha
+ʃ	ʃ	S	9	4	ottosoipʃa;iʃe;iʃi;xoʃi;ʃanʃa
+^sh	sh/sʰ	S	1	1	shiefe
+ss$	ss/sː	S	1	1	halass
+t	t	T	10	2	tojogul;tususp;soleta;toxesa;polet
+tt	tt/tː	T	1	1	ottosoipʃa
+tʃ	tʃ	T	12	12	metʃi;metʃi;metʃi;metʃi;metʃix
+ʈ$	ʈ	T	3	3	leʈ;leʈ;nomeʈ
+^ch	ch/tʃ	T	1	1	chunai
+o	o	U	24	20	comminam;ottosoipʃa;ottosoipʃa;ottosoipʃa;tojogul
+w	w	W	7	6	siawa;kxulefwalanai;iwa;kxulawalanai;pawis
+u	u	Y	43	28	lulusx;lulusx;lulusx;lulusx;cahquic
+kw	kw/k w	K W	1	1	pekwalanai

@@ -1,81 +1,34 @@
-Grapheme	IPA	SCA	Frequency
-^aa	aː	A	2
-^b	b	P	25
-^d	d	T	6
-^g	g	K	10
-^h	h	H	11
-^i	i	I	11
-^ii	iː	I	1
-^j	j	J	18
-^k	k	K	13
-^l	l	L	4
-^m	m	M	23
-^n	n	N	10
-^p	p	P	10
-^q	q	K	14
-^r	r	R	1
-^s	s	S	5
-^t	t	T	17
-^u	u	Y	10
-^w	w	W	10
-^ħ	ħ	H	9
-^ɑ	ɑ	A	58
-^ɑ$	ɑ	A	2
-^ɔ	ɔ	U	12
-^ɔɔ	ɔː	U	2
-^ɛ	ɛ	E	6
-^ɸ	ɸ	B	6
-^ʔ	ʔ	H	1
-_	+	_	52
-aa	aː	A	19
-aa$	aː	A	1
-b	b	P	4
-b$	b	P	1
-d	d	T	5
-d$	d	T	4
-g	g	K	15
-g$	g	K	12
-h	h	H	3
-i	i	I	44
-i$	i	I	37
-ii	iː	I	6
-ii$	iː	I	1
-j	j	J	5
-j$	j	J	1
-k	k	K	5
-k$	k	K	10
-l	l	L	27
-l$	l	L	9
-m	m	M	27
-m$	m	M	14
-n	n	N	23
-n$	n	N	43
-p	p	P	2
-q	q	K	20
-q$	q	K	18
-r	r	R	51
-r$	r	R	47
-s	s	S	23
-s$	s	S	7
-t	t	T	25
-t$	t	T	20
-u	u	Y	56
-u$	u	Y	15
-uu	uː	Y	4
-v	v	B	4
-w	w	W	14
-ħ	ħ	H	20
-ħ$	ħ	H	4
-ŋ	ŋ	N	2
-ŋ$	ŋ	N	3
-ɑ	ɑ	A	252
-ɑ$	ɑ	A	10
-ɔ	ɔ	U	26
-ɔ$	ɔ	U	3
-ɔɔ	ɔː	U	1
-ɛ	ɛ	E	42
-ɛɛ	ɛː	E	2
-ɸ	ɸ	B	9
-ɸ$	ɸ	B	5
-ʔ	ʔ	H	39
-ʔ$	ʔ	H	30
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		297	NULL	luħun;ɑrɑr;jir;ɑgɑʔ;kɑrɑn
+$	NULL		297	NULL	luħun;ɑrɑr;jir;ɑgɑʔ;kɑrɑn
+ɑ	ɑ	A	322	252	ɑrɑr;ɑrɑr;ɑgɑʔ;ɑgɑʔ;kɑrɑn
+aa	aː	A	22	19	uwaad;uaa;braam;qaar_nuk_rug_nuk;qaau
+v	v	B	4	4	jivɑr;ɛqɑr_hɑvɑr;ɑvinbui;ɑlivi
+ɸ	ɸ	B	20	9	ɑɸɑt;ɑɸɑt;mus_ɑɸur;gɑsiiɸ;mɑnɑɸ
+ɛ	ɛ	E	48	42	kɑrɛnɑ;dɛʔ;tɛjɑn;ɛr;jɛs_nɛrig
+ɛɛ	ɛː	E	2	2	wɛɛk;wɛɛg
+h	h	H	14	3	hɑqɑħ;huɸɑʔ;hɑsɑk;ɛqɑr_hɑvɑr;hɑtɑʔ
+ħ	ħ	H	33	20	luħun;mɑħɑʔ;ħɑm;hɑqɑħ;mɔħɔʔ
+ʔ	ʔ	H	70	39	ɑgɑʔ;ɑtɔʔ;mɑħɑʔ;qɑʔɑn;dɛʔ
+i	i	I	92	44	jir;tɑi_kuwɑi;tɑi_kuwɑi;jɑqɑi;dɑi
+ii	iː	I	8	6	gɑsiiɸ;sii;kiid;siis;biir
+j	j	J	24	5	jir;jɑs;jɑqɑi;tɛjɑn;qijɔʔɑu
+g	g	K	37	15	ɑgɑʔ;gɑsiiɸ;guɑr;gɑtɔɸ;jɛs_nɛrig
+k	k	K	28	5	kɑrɑn;tɑi_kuwɑi;kɑrɛnɑ;wɛɛk;kir
+q	q	K	52	20	jɑqɑi;qɑʔɑn;bɑq;hɑqɑħ;qijɔʔɑu
+l	l	L	40	27	luħun;mɑlɑs;pulu;kul;klitɑʔ
+m	m	M	64	27	mus_ɑɸur;mɑlɑs;mɑħɑʔ;ħɑm;mɑsuɑi
+n	n	N	76	23	luħun;kɑrɑn;kɑrɛnɑ;qɑʔɑn;tɛjɑn
+ŋ	ŋ	N	5	2	dɑgiŋ;nɑŋ;bɑŋɑn;mudiŋ;nɔm_gɑrɛŋɑn
+b	b	P	30	4	biru;bɑq;braam;bɑʔ;biir
+p	p	P	12	2	pui;pulu;pɛq;pɛʔɛn;pug
+r	r	R	99	51	ɑrɑr;ɑrɑr;jir;kɑrɑn;mus_ɑɸur
+s	s	S	35	23	mus_ɑɸur;gɑsiiɸ;jɑs;mɑlɑs;sii
+d	d	T	15	5	uwaad;dɑi;dɛʔ;kiid;dɑgiŋ
+t	t	T	62	25	ɑɸɑt;ɑɸɑt;tɑi_kuwɑi;ɑtɔʔ;tɛjɑn
+ɔ	ɔ	U	41	26	ɑtɔʔ;qijɔʔɑu;mɔħɔʔ;mɔħɔʔ;gɑtɔɸ
+ɔɔ	ɔː	U	3	1	ɔɔr;ɔɔr;bɔɔg
+w	w	W	24	14	tɑi_kuwɑi;wɛɛk;uwaad;wɑi;wɑl
+u	u	Y	81	56	luħun;luħun;mus_ɑɸur;mus_ɑɸur;tɑi_kuwɑi
+uu	uː	Y	4	4	quun;muun;buun;quun
+_	+	_	52	52	mus_ɑɸur;tɑi_kuwɑi;jɛs_nɛrig;qaar_nuk_rug_nuk;qaar_nuk_rug_nuk

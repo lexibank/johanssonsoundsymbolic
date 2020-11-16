@@ -1,60 +1,26 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	16
-^b	b	P	10
-^d	d	T	6
-^f	f	B	2
-^g	g	K	7
-^i	i	I	30
-^i$	i	I	1
-^k	k	K	40
-^l	l	L	13
-^m	m	M	32
-^n	n	N	22
-^n$	n	N	1
-^o	o	U	4
-^o$	o	U	1
-^p	p	P	35
-^r	r	R	1
-^s	s	S	5
-^t	t	T	20
-^u	u	Y	4
-^u$	u	Y	4
-^y	y/j	J	1
-_	+	_	6
-a	a	A	171
-a$	a	A	73
-b	b	P	37
-d	d	T	6
-e	e	E	22
-e$	e	E	8
-f	f	B	2
-f$	f	B	1
-g	g	K	5
-i	i	I	77
-i$	i	I	23
-k	k	K	20
-k$	k	K	13
-kk	kk/kː	K	12
-l	l	L	29
-l$	l	L	1
-m	m	M	40
-m$	m	M	29
-n	n	N	44
-n$	n	N	19
-o	o	U	38
-o$	o	U	9
-p	p	P	13
-p$	p	P	8
-pp	pp/pː	P	13
-pp$	pp/pː	P	1
-r	r	R	40
-r$	r	R	15
-s	s	S	6
-s$	s	S	6
-t	t	T	10
-t$	t	T	14
-u	u	Y	71
-u$	u	Y	13
-ŋ$	ŋ	N	7
-ə	ə	E	60
-ə$	ə	E	8
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		254	NULL	narien;rau;mitier;kukku;kilan
+$	NULL		248	NULL	narien;rau;mitier;kukku;kilan
+a	a	A	260	171	narien;rau;kilan;kilan;ləta
+f	f	B	5	2	fu;afərət;fok;ifif;ifif
+e	e	E	30	22	narien;mitier;me;kobeŋ;menəburuan_ga_namurit
+ə	ə	E	68	60	utərə;utərə;ibunəm;kirə;pəppək
+i	i	I	131	77	narien;mitier;mitier;kilan;kilan
+^y	y/j	J	1	1	yam
+g	g	K	12	5	səgər;menəburuan_ga_namurit;guruma;giginanim;giginanim
+k	k	K	73	20	kukku;kilan;kilan;kirə;pəppək
+kk	kk/kː	K	12	12	kukku;kakkaliat;lekke;bakkarep;kəkkoŋ
+l	l	L	43	29	kilan;kilan;ləta;məlonim;puppul
+m	m	M	101	40	mitier;ibunəm;me;məlonim;məlonim
+n	n	N	86	44	narien;narien;kilan;kilan;ibunəm
+ŋ$	ŋ	N	7	7	todəŋ;kobeŋ;diŋ;uləŋ;kəkkoŋ
+b	b	P	47	37	ibunəm;arabura;kobeŋ;oləbuan;alibə
+p	p	P	56	13	pəppək;puppul;upau;para;kapuna
+pp	pp/pː	P	14	13	pəppək;puppul;puppunes;pəppamn;pəppot
+r	r	R	56	40	narien;rau;mitier;utərə;kirə
+s	s	S	17	6	sisima;sisima;suam;səgər;puppunes
+d	d	T	12	6	todəŋ;kuada;madin;diŋ;dak
+t	t	T	44	10	mitier;utərə;ləta;todəŋ;karət
+o	o	U	52	38	məlonim;todəŋ;kobeŋ;oləbuan;kulot
+u	u	Y	92	71	rau;kukku;kukku;utərə;ibunəm
+_	+	_	6	6	menəburuan_ga_namurit;menəburuan_ga_namurit;are_mani;menəburuan_ga_narain;menəburuan_ga_narain

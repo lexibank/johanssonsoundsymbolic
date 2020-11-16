@@ -1,65 +1,33 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	1
-^b	b	P	8
-^d	d	T	7
-^k	k	K	32
-^l	l	L	3
-^m	m	M	35
-^n	n	N	10
-^n̪	n̪	N	2
-^p	p	P	28
-^t	t	T	4
-^t̪	t̪	T	27
-^w	w	W	14
-^y	y/j	J	14
-^ŋ	ŋ	N	25
-^ɖ	ɖ	T	2
-^ɣ	ɣ	G	1
-_	+	_	5
-a	a	A	151
-a$	a	A	32
-b	b	P	4
-d	d	T	2
-g	g	K	1
-i	i	I	80
-i$	i	I	23
-k	k	K	41
-k$	k	K	19
-kk	kk/kː	K	1
-l	l	L	35
-l$	l	L	6
-m	m	M	38
-m$	m	M	11
-n	n	N	25
-n$	n	N	12
-n̪	n̪	N	5
-n̪$	n̪	N	8
-p	p	P	33
-p$	p	P	3
-r	r	R	34
-r$	r	R	9
-rw	r w	R W	1
-t	t	T	16
-t$	t	T	6
-tt̪	tt̪/t̪ː	T	2
-t̪	t̪	T	24
-t̪$	t̪	T	4
-u	u	Y	94
-u$	u	Y	18
-uu	uː	Y	1
-w	w	W	9
-y	y	Y	7
-y$	y	Y	8
-ŋ	ŋ	N	31
-ŋ$	ŋ	N	4
-ɖ	ɖ	T	6
-ə	ə	E	43
-ə$	ə	E	30
-ɣ	ɣ	G	3
-ɭ	ɭ	L	6
-ɭ$	ɭ	L	7
-ɳ	ɳ	N	14
-ɳ$	ɳ	N	8
-ɻ	ɻ	R	5
-ʈ	ʈ	T	2
-ʈ$	ʈ	T	5
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		199	NULL	kaŋkaɭ;waɖa_ŋat̪a;maɖaɭaʈ;nit̪i;nit̪i
+$	NULL		213	NULL	kaŋkaɭ;waɖa_ŋat̪a;maɖaɭaʈ;nit̪i;nit̪i
+a	a	A	184	151	kaŋkaɭ;kaŋkaɭ;waɖa_ŋat̪a;waɖa_ŋat̪a;waɖa_ŋat̪a
+ə	ə	E	73	43	wiyə;pəpə;pəpə;murirbə;lələ
+ɣ	ɣ	G	4	3	kiɣay;ɣuɖuk;maɣulkul;nuɣaɳ
+i	i	I	103	80	nit̪i;nit̪i;nit̪i;nit̪i;yuliɳ
+^y	y/j	J	14	14	yuliɳ;yilə;yuliɳ;yəpup;yitt̪it
+g	g	K	1	1	pərkəŋgunəmə
+k	k	K	92	41	kaŋkaɭ;kaŋkaɭ;paŋkin;muruwuɭŋka;tiduk
+kk	kk/kː	K	1	1	kalakkalak
+l	l	L	44	35	yuliɳ;ŋala;lələ;lələ;kumuluŋ
+ɭ	ɭ	L	13	6	kaŋkaɭ;maɖaɭaʈ;muruwuɭŋka;ŋapuɭu;kamaɭ
+m	m	M	84	38	maɖaɭaʈ;muruwuɭŋka;murirbə;t̪it̪imaɳti;t̪ipmam
+n	n	N	47	25	nit̪i;nit̪i;paŋkin;ŋinipun̪;win̪iŋurunt̪at
+ŋ	ŋ	N	60	31	kaŋkaɭ;waɖa_ŋat̪a;paŋkin;muruwuɭŋka;ŋala
+ɳ	ɳ	N	22	14	yuliɳ;kuɳt̪ik;t̪it̪imaɳti;muɳu;dutmaɳari
+n̪	n̪	N	15	5	ŋinipun̪;win̪iŋurunt̪at;maɖin̪puy;n̪umpaɻka;kan̪i
+b	b	P	12	4	murirbə;burbur;burbur;bat;bat
+p	p	P	64	33	paŋkin;daripi;pəpə;pəpə;t̪ipmam
+r	r	R	44	34	daripi;muruwuɭŋka;murirbə;murirbə;win̪iŋurunt̪at
+ɻ	ɻ	R	5	5	wəɻə;ŋaməɻə;n̪umpaɻka;təɻəʈ;n̪iniɻə
+d	d	T	9	2	daripi;tiduk;dutmaɳari;dəndur;dəndur
+t	t	T	26	16	tiduk;t̪it̪imaɳti;t̪utt̪utka;win̪iŋurunt̪at;dutmaɳari
+ɖ	ɖ	T	8	6	waɖa_ŋat̪a;maɖaɭaʈ;ɣuɖuk;maɖin̪puy;ɖarit̪uk
+ʈ	ʈ	T	7	2	maɖaɭaʈ;ŋuwuʈ;paɳtuʈpaɳ;paɳtuʈpaɳ;təɻəʈ
+t̪	t̪	T	55	24	waɖa_ŋat̪a;nit̪i;nit̪i;kuɳt̪ik;t̪it̪imaɳti
+tt̪	tt̪/t̪ː	T	2	2	t̪utt̪utka;yitt̪it
+w	w	W	24	9	waɖa_ŋat̪a;wiyə;muruwuɭŋka;win̪iŋurunt̪at;wat̪a
+u	u	Y	112	94	yuliɳ;muruwuɭŋka;muruwuɭŋka;muruwuɭŋka;tiduk
+y	y	Y	15	7	wiyə;kiɣay;maɖin̪puy;waɳkay;ŋay
+uu	uː	Y	1	1	buukmant̪ar
+_	+	_	5	5	waɖa_ŋat̪a;mŋaə_t̪iŋin;maŋə_numi;maŋə_pərkənku;t̪amaɭ_tuŋtuŋ

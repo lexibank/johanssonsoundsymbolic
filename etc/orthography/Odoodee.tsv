@@ -1,46 +1,24 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	6
-^d	d	T	18
-^g	g	K	12
-^h	h	H	23
-^i	i	I	2
-^j	j	J	4
-^k	k	K	14
-^m	m	M	8
-^n	n	N	6
-^s	s	S	12
-^t	t	T	15
-^w	w	W	11
-^ɑ	ɑ	A	6
-^ɑ$	ɑ	A	2
-^ɔ	ɔ	U	6
-^ɛ	ɛ	E	8
-^ɸ	ɸ	B	7
-_	+	_	5
-b	b	P	20
-d	d	T	19
-e	e	E	7
-e$	e	E	14
-g	g	K	26
-h	h	H	2
-i	i	I	30
-i$	i	I	19
-j	j	J	4
-k	k	K	11
-l	l	L	27
-m	m	M	22
-n	n	N	5
-o	o	U	11
-o$	o	U	11
-s	s	S	19
-t	t	T	2
-u	u	Y	21
-u$	u	Y	11
-w	w	W	12
-ɑ	ɑ	A	30
-ɑ$	ɑ	A	31
-ɔ	ɔ	U	54
-ɔ$	ɔ	U	51
-ɛ	ɛ	E	29
-ɛ$	ɛ	E	21
-ɸ	ɸ	B	9
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		160	NULL	tɔbudo;ɔbu;ɔsɔlɔsɔ;susugɑ;gɑlɑ
+$	NULL		160	NULL	tɔbudo;ɔbu;ɔsɔlɔsɔ;susugɑ;gɑlɑ
+ɑ	ɑ	A	69	30	susugɑ;gɑlɑ;gɑlɑ;dɑgɑ;dɑgɑ
+ɸ	ɸ	B	16	9	tɛkɛɸɔ;ɸɛ;ɸusɔ;ɸidi;ɸidi
+e	e	E	21	7	tɔkɛne;beɑmɛ;de_tɔ;bɔdiɔne;ɛmedi
+ɛ	ɛ	E	58	29	tɔkɛne;tɛkɛɸɔ;tɛkɛɸɔ;bɛi;gɛmɛdɛi
+h	h	H	25	2	hɛmidu;gisɔhɔlɔ;hɔ;hɔmɔdɔbiɑsɔ;hogo
+i	i	I	51	30	bɛi;gɛmɛdɛi;hɛmidu;gisɔhɔlɔ;simi
+j	j	J	8	4	jɔgu;jɔ;jumɔlɔ;dɛijɛɸɔ;jɔ
+g	g	K	38	26	susugɑ;gɑlɑ;dɑgɑ;gɛmɛdɛi;dɑsɛgɛ
+k	k	K	25	11	tɔkɛne;tɛkɛɸɔ;dɔkɔlɔ;kɑdɑ;tɛkɛɸɔ
+l	l	L	27	27	ɔsɔlɔsɔ;gɑlɑ;dɔkɔlɔ;gisɔhɔlɔ;wɔlugu
+m	m	M	30	22	gɛmɛdɛi;hɛmidu;simi;beɑmɛ;modo
+n	n	N	11	5	tɔkɛne;nɑ;nɑ;bɔdiɔne;tɛnɛ
+b	b	P	26	20	tɔbudo;ɔbu;bɛi;beɑmɛ;hɔmɔdɔbiɑsɔ
+s	s	S	31	19	ɔsɔlɔsɔ;ɔsɔlɔsɔ;susugɑ;susugɑ;sɔ
+d	d	T	37	19	tɔbudo;dɑgɑ;gɛmɛdɛi;hɛmidu;dɔkɔlɔ
+t	t	T	17	2	tɔbudo;tɔkɛne;tɛkɛɸɔ;towɑ;tɑsɔ
+o	o	U	22	11	tɔbudo;towɑ;sowɑ;modo;modo
+ɔ	ɔ	U	111	54	tɔbudo;ɔbu;ɔsɔlɔsɔ;ɔsɔlɔsɔ;ɔsɔlɔsɔ
+w	w	W	23	12	towɑ;sɑwɔ;sowɑ;howɛi;wɔlugu
+u	u	Y	32	21	tɔbudo;ɔbu;susugɑ;susugɑ;hɛmidu
+_	+	_	5	5	de_tɔ;sɔbɔ_ɔdogɑ;de_bɔ;dɛbɛgɛ_kɑle;kɑse_mɑgɑjɔ

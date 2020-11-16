@@ -1,80 +1,42 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	13
-^b	b	P	12
-^d	d	T	8
-^e	e	E	25
-^g	g	K	1
-^h	h	H	14
-^i	i	I	5
-^j	j	J	1
-^k	k	K	16
-^l̪	l̪	L	6
-^m	m	M	28
-^n	n	N	20
-^nn	nː	N	2
-^o̞	o̞	U	6
-^p	p	P	10
-^s	s	S	1
-^s̪	s̪	S	18
-^t̪	t̪	T	18
-^u	u	Y	1
-^w	w	W	5
-^æ	æ	E	3
-^ɒ	ɒ	O	5
-^β	β	B	7
-_	+	_	8
-a	a	A	115
-a$	a	A	27
-b	b	P	24
-b$	b	P	2
-bs̪	b s̪	P S	1
-d̪	d̪	T	23
-d̪$	d̪	T	4
-d̪h	d̪h/d̪ʰ	T	1
-d̪w	d̪ w	T W	1
-e	e	E	44
-e$	e	E	6
-g	g	K	16
-g$	g	K	4
-h	h	H	13
-i	i	I	64
-i$	i	I	14
-k	k	K	21
-k$	k	K	1
-l	l	L	2
-l̪	l̪	L	47
-l̪$	l̪	L	74
-l̪h	l̪ʰ	L	1
-l̪l̪	l̪l̪/l̪ː	L	2
-m	m	M	35
-m$	m	M	11
-n	n	N	29
-n$	n	N	4
-nn	nn/nː	N	1
-n̪	n̪	N	29
-o̞	o̞	U	61
-o̞$	o̞	U	13
-p	p	P	6
-p$	p	P	1
-ps̪	p s̪	P S	1
-r̪	r̪	R	15
-s	s	S	1
-s̪	s̪	S	33
-s̪$	s̪	S	8
-s̪h	s̪ʰ	S	1
-s̪h$	s̪h/s̪ʰ	S	1
-s̪s̪	s̪s̪/s̪ː	S	1
-t̪	t̪	T	14
-t̪$	t̪	T	2
-t̪h	t̪h/t̪ʰ	T	3
-u	u	Y	47
-u$	u	Y	2
-w	w	W	11
-æ	æ	E	1
-ŋ	ŋ	N	18
-ɒ	ɒ	O	25
-ɒ$	ɒ	O	8
-ə	ə	E	15
-β	β	B	19
-β$	β	B	43
-βh	βh/βʰ	B	4
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		214	NULL	s̪ena;pem;s̪is̪;mus̪k;eŋgl̪a
+$	NULL		224	NULL	s̪ena;pem;s̪is̪;mus̪k;eŋgl̪a
+a	a	A	155	115	s̪ena;eŋgl̪a;eŋgl̪a;s̪aho̞kl̪al̪;s̪aho̞kl̪al̪
+β	β	B	69	19	s̪mɒβ;t̪it̪ɒβ;həl̪βaβ;həl̪βaβ;t̪ɒβɒl̪
+βh	βh/βʰ	B	4	4	kaβhɒ;aβho̞aβ;har̪aβho̞aβ;peβhɒ
+e	e	E	75	44	s̪ena;pem;eŋgl̪a;eŋgl̪a;s̪eil̪m
+æ	æ	E	4	1	næmbul̪;æmbul̪;æmbul̪;ænis̪o̞ŋgo̞l̪
+ə	ə	E	15	15	həl̪βaβ;kəl̪;t̪ət̪;t̪at̪ai_βr̪əβ;l̪əl̪nam
+h	h	H	27	13	s̪aho̞kl̪al̪;eho̞nal̪;həl̪βaβ;s̪uwihal̪;hβeβ
+i	i	I	83	64	s̪is̪;t̪it̪ɒβ;no̞in̪d̪a;s̪eil̪m;meis̪hanam
+^j	j	J	1	1	je
+g	g	K	21	16	eŋgl̪a;eŋgl̪a;s̪eŋgai;guaβ;nel̪po̞ŋg
+k	k	K	38	21	mus̪k;s̪aho̞kl̪al̪;men̪d̪ekl̪i;kəl̪;t̪ekɒ
+l	l	L	2	2	samblasamblamo̞go̞;samblasamblamo̞go̞
+l̪	l̪	L	127	47	eŋgl̪a;eŋgl̪a;s̪aho̞kl̪al̪;s̪aho̞kl̪al̪;s̪eil̪m
+l̪h	l̪ʰ	L	1	1	hənal̪hr̪a
+l̪l̪	l̪l̪/l̪ː	L	2	2	ehal̪l̪a;həl̪l̪aβ
+m	m	M	74	35	pem;mus̪k;s̪mɒβ;s̪eil̪m;meis̪hanam
+n	n	N	53	29	s̪ena;no̞in̪d̪a;meis̪hanam;eho̞nal̪;t̪uen̪d̪is̪r̪ini
+ŋ	ŋ	N	18	18	eŋgl̪a;eŋgl̪a;s̪eŋgai;nel̪po̞ŋg;wineŋg
+nn	nn/nː	N	1	1	innemo̞l̪
+n̪	n̪	N	29	29	no̞in̪d̪a;men̪d̪ekl̪i;t̪uen̪d̪is̪r̪ini;en̪d̪amɒ;ɒn̪d̪o̞_ɒβ
+^nn	nː	N	2	2	nnɒl̪;nnɒl̪
+ɒ	ɒ	O	38	25	s̪mɒβ;t̪it̪ɒβ;t̪ɒβɒl̪;t̪ɒβɒl̪;en̪d̪amɒ
+b	b	P	39	24	s̪embo̞l̪;t̪ambkɒ;samblasamblamo̞go̞;samblasamblamo̞go̞;βaβakambal̪
+p	p	P	18	6	pem;nel̪po̞ŋg;pr̪ɒβ;ups̪il̪;eŋgl̪apun̪d̪
+r̪	r̪	R	15	15	t̪uen̪d̪is̪r̪ini;pr̪ɒβ;t̪at̪ai_βr̪əβ;mut̪un̪d̪is̪r̪ini;ɒl̪ar̪o̞hβ
+s	s	S	2	1	samblasamblamo̞go̞;samblasamblamo̞go̞
+s̪	s̪	S	61	33	s̪ena;s̪is̪;s̪is̪;mus̪k;s̪mɒβ
+s̪h	s̪ʰ	S	1	1	meis̪hanam
+s̪h$	s̪h/s̪ʰ	S	1	1	mɒs̪h
+s̪s̪	s̪s̪/s̪ː	S	1	1	t̪is̪s̪a
+^d	d	T	8	8	dal̪β;dal̪β;deuβ;dihi;daipo̞t̪a
+d̪	d̪	T	28	23	no̞in̪d̪a;men̪d̪ekl̪i;t̪uen̪d̪is̪r̪ini;en̪d̪amɒ;ɒn̪d̪o̞_ɒβ
+t̪	t̪	T	34	14	t̪it̪ɒβ;t̪it̪ɒβ;t̪uawa;t̪ɒβɒl̪;t̪uen̪d̪is̪r̪ini
+d̪h	d̪h/d̪ʰ	T	1	1	in̪d̪hana
+t̪h	t̪h/t̪ʰ	T	3	3	kit̪haβ;l̪it̪haβ;mo̞kal̪t̪haβ
+o̞	o̞	U	80	61	s̪aho̞kl̪al̪;no̞in̪d̪a;eho̞nal̪;s̪embo̞l̪;no̞wo̞l̪
+w	w	W	17	11	t̪uawa;s̪uwihal̪;no̞wo̞l̪;wineŋg;win̪d̪e
+u	u	Y	50	47	mus̪k;t̪uawa;s̪uwihal̪;t̪uen̪d̪is̪r̪ini;guaβ
+_	+	_	8	8	t̪at̪ai_βr̪əβ;ɒn̪d̪o̞_ɒβ;nɒno̞r̪a_l̪o̞hβ;l̪ɒs̪_ɒmnaβ;buin_βeβ

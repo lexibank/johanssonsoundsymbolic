@@ -1,68 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	17
-^a$	a	A	2
-^e	e	E	21
-^e$	e	E	1
-^j	j	J	19
-^js	j s	J S	8
-^js$	j s	J S	2
-^k	k	K	51
-^l	l	L	18
-^ll	lː	L	1
-^m	m	M	19
-^n	n	N	9
-^o	o	U	5
-^p	p	P	13
-^s	s	S	7
-^t	t	T	27
-^u	u	Y	23
-^u$	u	Y	1
-^w	w	W	7
-^x	x	G	1
-^z	z	S	7
-_	+	_	32
-a	a	A	103
-a$	a	A	20
-aa	aː	A	2
-aa$	aː	A	1
-e	e	E	109
-e$	e	E	34
-i	i	I	60
-j	j	J	25
-j$	j	J	9
-js	j s	J S	1
-js$	j s	J S	1
-k	k	K	61
-k$	k	K	2
-kk	kk/kː	K	3
-ks	k s	K S	4
-ks$	k s	K S	1
-l	l	L	67
-l$	l	L	2
-ll	ll/lː	L	1
-m	m	M	47
-m$	m	M	2
-n	n	N	25
-o	o	U	63
-o$	o	U	13
-oo	oː	U	1
-oo$	oː	U	1
-p	p	P	33
-p$	p	P	87
-ps	p s	P S	3
-s	s	S	34
-s$	s	S	11
-t	t	T	28
-t$	t	T	3
-ts	ts	C	9
-ts$	ts	C	51
-tss	t ss/sː	T S	1
-tt	tt/tː	T	4
-u	u	Y	105
-u$	u	Y	12
-uu	uː	Y	1
-uu$	uː	Y	1
-w	w	W	12
-x	x	G	21
-xs$	x s	G S	2
-z	z	S	2
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		258	NULL	toipma;epile;jauonp;uaxa;koma
+$	NULL		259	NULL	toipma;epile;jauonp;uaxa;koma
+a	a	A	142	103	toipma;jauonp;uaxa;uaxa;koma
+aa	aː	A	3	2	uxaap;uaap;auxaa
+ts	ts	C	60	9	tapts;puts;alets;nets;oxots
+e	e	E	165	109	epile;epile;jnxe;jnxe;oseju
+x	x	G	24	21	uaxa;jnxe;jnxe;uxaap;oxots
+i	i	I	60	60	toipma;epile;kilatssp;jasijato;zakuekip
+j	j	J	65	25	jauonp;jnxe;jnxe;oseju;jasijato
+k	k	K	119	61	koma;kilatssp;naksp;pele_kele;zakuekip
+kk	kk/kː	K	3	3	nakstikkits;akkiks;akkisats
+l	l	L	87	67	epile;kilatssp;pejuelet;pele_kele;pele_kele
+ll	ll/lː	L	1	1	ellu
+^ll	lː	L	1	1	llu
+m	m	M	68	47	toipma;koma;timp;namts;lokuep_moitle_lokuep
+n	n	N	34	25	jauonp;jnxe;jnxe;naksp;nets
+p	p	P	136	33	toipma;epile;jauonp;azupu;kilatssp
+s	s	S	74	34	oseju;naksp;jasijato;soto;asp
+z	z	S	9	2	azupu;zakuekip;zu;mezup;zap
+t	t	T	58	28	toipma;jasijato;pejuelet;soto;tapts
+tt	tt/tː	T	4	4	attoxo;nisakatts;ettuxu;losiepijtts
+o	o	U	81	63	toipma;jauonp;koma;oseju;jasijato
+oo	oː	U	2	1	poop;uoo
+w	w	W	19	12	jsjawomp_moitle_alapea;wits;watasp;jsjawomp;jsjawomp_moitle_tamop
+u	u	Y	141	105	jauonp;uaxa;azupu;azupu;oseju
+uu	uː	Y	2	1	suup;wo_puu
+_	+	_	32	32	pele_kele;le_ajep;kule_lukuep;kus_ankp;lokuep_moitle_lokuep
+tss	t ss/sː	T S	1	1	kilatssp

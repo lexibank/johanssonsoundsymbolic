@@ -1,103 +1,67 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	44
-^aa$	aː	A	1
-^b	b	P	10
-^d	d	T	2
-^dʒ	dʒ	T	3
-^d̪	d̪	T	1
-^e	e	E	3
-^f	f	B	3
-^g	g	K	3
-^gw	gw/g w	K W	1
-^h	h	H	16
-^i	i	I	6
-^k	k	K	22
-^kh	kʰ	K	1
-^khw	khw/kʰ w	K W	1
-^kw	kw/k w	K W	1
-^kʼw	kʼ w	K W	1
-^l	l	L	1
-^m	m	M	6
-^n	n	N	1
-^n̪	n̪	N	7
-^o	o	U	2
-^o̞	o̞	U	1
-^p	p	P	11
-^s	s	S	3
-^t	t	T	6
-^ts	ts	C	7
-^tʃ	tʃ	T	6
-^tʼsʼ	tsʼ	T	6
-^t̪	t̪	T	7
-^t̪h	t̪ʰ	T	2
-^u	u	Y	6
-^w	w	W	3
-^ŋw	ŋw/ŋʷ	N	1
-^ǀ	ǀ	!	13
-^ǁ	ǁ	!	10
-^ǁh	ǁʰ	!	1
-^ɦ	ɦ	H	1
-^ʔ	ʔ	H	9
-^ᵑ!	ⁿǃ	!	3
-^ᵑǀ	ⁿǀ	!	3
-^ᵑǁ	ⁿǁ	!	4
-a	a	A	107
-a$	a	A	73
-aa	aː	A	1
-aa$	aː	A	3
-aᵑǀ	a ⁿǀ	A !	1
-b	b	P	15
-dʒ	dʒ	T	6
-d̪	d̪	T	3
-e	e	E	24
-e$	e	E	43
-e̞	e̞	E	6
-e̞$	e̞	E	8
-f	f	B	2
-g	g	K	4
-h	h	H	8
-i	i	I	61
-i$	i	I	36
-ii	iː	I	4
-j	j	J	14
-k	k	K	54
-kh	kh/kʰ	K	4
-khw	khw/kʰ w	K W	1
-kw	kw/k w	K W	32
-kʼ	kʼ	K	2
-l	l	L	10
-ll	ll/lː	L	1
-m	m	M	24
-n	n	N	1
-n̪	n̪	N	36
-n̪!	n̪ ǃ	N !	1
-o	o	U	34
-o$	o	U	41
-o̞	o̞	U	7
-o̞$	o̞	U	4
-p	p	P	13
-ph	ph/pʰ	P	1
-r	r	R	5
-s	s	S	18
-t	t	T	6
-th	th/tʰ	T	1
-ts	ts	C	3
-tʃ	tʃ	T	8
-tʃʼ	tʃʼ	T	1
-tʼ	tʼ	T	1
-tʼsʼ	tsʼ	T	5
-t̪	t̪	T	20
-t̪h	t̪h/t̪ʰ	T	2
-u	u	Y	30
-u$	u	Y	29
-v	v	B	1
-w	w	W	6
-z	z	S	2
-ŋ	ŋ	N	2
-ǀ	ǀ	!	2
-ǁ	ǁ	!	2
-ɬ	ɬ	L	10
-ɬʼ	ɬʼ	L	1
-ʃ	ʃ	S	4
-ʔ	ʔ	H	26
-ʔ$	ʔ	H	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		215	NULL	pu;wain̪a;huǀʔuǀʔume̞ko̞;ukwa;ukwa
+$	NULL		239	NULL	pu;wain̪a;khalimo;huǀʔuǀʔume̞ko̞;ukwa
+ǀ	ǀ	!	15	2	huǀʔuǀʔume̞ko̞;huǀʔuǀʔume̞ko̞;ǀʔakwa;ǀʔube̞;ǀo
+ǁ	ǁ	!	12	2	ǁʔape;ǁa;ǁn̪ae;ǁkupi;ǁulledʒabe
+^ǁh	ǁʰ	!	1	1	ǁhaʔan̪o̞
+^ᵑ!	ⁿǃ	!	3	3	ᵑ!ʔoŋgojo;ᵑ!omoja;ᵑ!ʔuʃuwakho
+^ᵑǀ	ⁿǀ	!	3	3	ᵑǀuʔan̪i;ᵑǀʔame̞;ᵑǀuʔan̪i
+^ᵑǁ	ⁿǁ	!	4	4	ᵑǁatɬan̪eja;ᵑǁʔejakho;ᵑǁo;ᵑǁuʔu
+a	a	A	224	107	wain̪a;wain̪a;khalimo;ukwa;ukwa
+aa	aː	A	5	1	paa;paan̪a;paa;paa;aa
+f	f	B	5	2	fua;fukwa;ufukwan̪i;fukwa;tsifu
+v	v	B	1	1	akasevit̪a
+ts	ts	C	10	3	tsambi;itsabe;tsa;hatsape;tsifu
+e	e	E	70	24	eke̞dʒa;gwape;tle̞hen̪a;buit̪e;tikitʃe
+e̞	e̞	E	14	6	huǀʔuǀʔume̞ko̞;eke̞dʒa;tle̞hen̪a;ǀʔube̞;ᵑǀʔame̞
+h	h	H	24	8	huǀʔuǀʔume̞ko̞;tle̞hen̪a;hai;hatɬe;hakʼaʔa
+ʔ	ʔ	H	36	26	huǀʔuǀʔume̞ko̞;huǀʔuǀʔume̞ko̞;ʔat̪o;ǀʔakwa;ᵑǀuʔan̪i
+^ɦ	ɦ	H	1	1	ɦe
+i	i	I	103	61	wain̪a;khalimo;t̪hit̪hi;t̪hit̪hi;ᵑǀuʔan̪i
+ii	iː	I	4	4	n̪iije̞;n̪iije̞;n̪iije̞;n̪iije̞
+j	j	J	14	14	ᵑ!ʔoŋgojo;ᵑǁatɬan̪eja;ᵑ!omoja;ᵑǁʔejakho;t̪aᵑǀʔeja
+g	g	K	7	4	ᵑ!ʔoŋgojo;guruŋguri;guruŋguri;n̪d̪ago;goku
+k	k	K	76	54	huǀʔuǀʔume̞ko̞;tʼsʼo̞ko;eke̞dʒa;tikitʃe;akasevit̪a
+kh	kh/kʰ	K	4	4	akha;ʔetʼsʼakho;ᵑǁʔejakho;ᵑ!ʔuʃuwakho
+kʼ	kʼ	K	3	2	hakʼaʔa;kʼwase;tʼsʼikʼo
+^kh	kʰ	K	1	1	khalimo
+l	l	L	11	10	khalimo;tle̞hen̪a;muli;maluntepe;tɬala
+ɬ	ɬ	L	10	10	ᵑǁatɬan̪eja;tɬala;uɬe;baɬu;tɬakwe
+ll	ll/lː	L	1	1	ǁulledʒabe
+ɬʼ	ɬʼ	L	1	1	mitʼɬʼa
+m	m	M	30	24	khalimo;huǀʔuǀʔume̞ko̞;at̪ama;man̪a;mitʼɬʼa
+n	n	N	2	1	maluntepe;ntsa
+ŋ	ŋ	N	2	2	ᵑ!ʔoŋgojo;guruŋguri
+n̪	n̪	N	43	36	wain̪a;tle̞hen̪a;ᵑǀuʔan̪i;man̪a;paan̪a
+^ŋw	ŋw/ŋʷ	N	1	1	ŋwaka
+b	b	P	25	15	buit̪e;ǀʔube̞;ʔiriba;tsambi;baɬu
+p	p	P	24	13	pu;gwape;paa;paan̪a;maluntepe
+ph	ph/pʰ	P	1	1	homphaiko̞
+r	r	R	5	5	ʔiriba;ǀn̪apare;guruŋguri;guruŋguri;guru
+s	s	S	21	18	akasevit̪a;misi;sama;aso;aso
+z	z	S	2	2	dzukwa;dzan̪a
+ʃ	ʃ	S	4	4	ᵑ!ʔuʃuwakho;tɬuʃu;iʃo;baʃoko
+t	t	T	12	6	tle̞hen̪a;tikitʃe;maluntepe;ᵑǁatɬan̪eja;tɬala
+^d	d	T	2	2	dzukwa;dzan̪a
+dʒ	dʒ	T	6	6	eke̞dʒa;ǁulledʒabe;aidʒa;aidʒa;aidʒa
+d̪	d̪	T	3	3	n̪d̪ago;n̪d̪awe;id̪iga
+th	th/tʰ	T	1	1	ithibiʔ
+tʃ	tʃ	T	14	8	tʃa;d̪itʃi;tikitʃe;tʃapitʃi;tʃapitʃi
+tʼ	tʼ	T	1	1	mitʼɬʼa
+t̪	t̪	T	27	20	ʔat̪o;at̪ama;buit̪e;akasevit̪a;t̪ikitʃe
+^dʒ	dʒ	T	3	3	dʒamoa;dʒeki;dʒili
+^d̪	d̪	T	1	1	d̪itʃi
+tʃʼ	tʃʼ	T	1	1	itʃʼa
+t̪h	t̪h/t̪ʰ	T	2	2	t̪hit̪hi;et̪hebe
+^t̪h	t̪ʰ	T	2	2	t̪hit̪hi;t̪he
+tʼsʼ	tsʼ	T	11	5	tʼsʼo̞ko;tʼsʼuʔa;tʼsʼo̞ko;tʼsʼiʔeʔen̪a;ʔetʼsʼakho
+o	o	U	77	34	khalimo;tʼsʼo̞ko;ʔat̪o;ǀo;ᵑ!ʔoŋgojo
+o̞	o̞	U	12	7	huǀʔuǀʔume̞ko̞;tʼsʼo̞ko;ǁhaʔan̪o̞;tʼsʼo̞ko;kɬo̞ma
+w	w	W	10	6	wain̪a;kʼwase;hlo̞wa;awan̪ikaku;ᵑ!ʔuʃuwakho
+u	u	Y	65	30	pu;huǀʔuǀʔume̞ko̞;huǀʔuǀʔume̞ko̞;huǀʔuǀʔume̞ko̞;ukwa
+aᵑǀ	a ⁿǀ	A !	1	1	t̪aᵑǀʔeja
+kw	kw/k w	K W	33	32	ukwa;ukwa;ǀʔakwa;dzukwa;akwako
+^gw	gw/g w	K W	1	1	gwape
+khw	khw/kʰ w	K W	1	1	ʔakhwiti
+^khw	khw/kʰ w	K W	1	1	khwaǁaʔa
+n̪!	n̪ ǃ	N !	1	1	han̪!a

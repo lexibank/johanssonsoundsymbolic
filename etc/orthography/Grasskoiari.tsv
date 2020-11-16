@@ -1,47 +1,25 @@
-Grapheme	IPA	SCA	Frequency
-^a	a	A	30
-^a$	a	A	1
-^b	b	P	24
-^d	d	T	33
-^e	e	E	21
-^g	g	K	6
-^h	h	H	13
-^i	i	I	23
-^i$	i	I	2
-^j	j	J	10
-^k	k	K	18
-^l	l	L	1
-^m	m	M	31
-^n	n	N	27
-^o	o	U	6
-^r	r	R	7
-^s	s	S	3
-^t	t	T	10
-^u	u	Y	14
-^β	β	B	40
-_	+	_	34
-a	a	A	175
-a$	a	A	145
-aa	aː	A	1
-b	b	P	43
-d	d	T	25
-e	e	E	56
-e$	e	E	54
-g	g	K	25
-h	h	H	75
-hh	hː	H	1
-i	i	I	123
-i$	i	I	41
-j	j	J	7
-k	k	K	85
-m	m	M	45
-n	n	N	53
-o	o	U	62
-o$	o	U	29
-p$	p	P	1
-r	r	R	44
-s	s	S	3
-t	t	T	61
-u	u	Y	69
-u$	u	Y	47
-β	β	B	47
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		319	NULL	da;hiβi;ietaha;tahae;βaβa_kiriki
+$	NULL		319	NULL	da;hiβi;ietaha;tahae;βaβa_kiriki
+a	a	A	351	175	da;ietaha;ietaha;tahae;tahae
+aa	aː	A	1	1	egeraaβime_oti
+β	β	B	87	47	hiβi;βaβa_kiriki;βaβa_kiriki;utuβa;gadiβa
+e	e	E	131	56	ietaha;tahae;βate;eβaβa_naβate;eβaβa_naβate
+h	h	H	88	75	hiβi;ietaha;tahae;umukaβahe;bokitahaβa
+hh	hː	H	1	1	mahhurei
+i	i	I	189	123	hiβi;hiβi;ietaha;βaβa_kiriki;βaβa_kiriki
+j	j	J	17	7	kaje;jaguru;tobokaβoijaβehite;jaga;ja
+g	g	K	31	25	gadiβa;ugu;jaguru;gorogoro;gorogoro
+k	k	K	103	85	βaβa_kiriki;βaβa_kiriki;kadi;komara;umukaβahe
+^l	l	L	1	1	laβani
+m	m	M	76	45	mi;komara;umukaβahe;memehe;memehe
+n	n	N	80	53	eβaβa_naβate;behubehuna;niumuka;banutaka;kina
+b	b	P	67	43	subuta;bokitahaβa;behubehuna;behubehuna;dubu
+p$	p	P	1	1	hap
+r	r	R	51	44	βaβa_kiriki;komara;ruru;ruru;mahhurei
+s	s	S	6	3	subuta;sorekataha;isasa;isasa;akise
+d	d	T	58	25	da;kadi;ada;ada;gadiβa
+t	t	T	71	61	ietaha;tahae;utuβa;βate;eβaβa_naβate
+o	o	U	97	62	komara;bokitahaβa;taβo;oroβo;oroβo
+u	u	Y	130	69	utuβa;utuβa;umukaβahe;umukaβahe;subuta
+_	+	_	34	34	βaβa_kiriki;eβaβa_naβate;eno_toto;ada_abuti_igau;ada_abuti_igau

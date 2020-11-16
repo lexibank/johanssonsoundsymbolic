@@ -1,54 +1,29 @@
-Grapheme	IPA	SCA	Frequency
-^b	b	P	21
-^d	d	T	6
-^g	g	K	39
-^j	j	J	15
-^k	k	K	1
-^l	l	L	4
-^m	m	M	23
-^n	n	N	5
-^t̪	t̪	T	11
-^w	w	W	13
-^ŋ	ŋ	N	45
-^ɟ	ɟ	C	20
-^ɲ	ɲ	N	9
-^ɻ	ɻ	R	1
-a	a	A	171
-a$	a	A	57
-b	b	P	23
-b$	b	P	2
-d	d	T	35
-g	g	K	26
-g$	g	K	5
-i	i	I	92
-i$	i	I	94
-j	j	J	11
-j$	j	J	1
-l	l	L	35
-l$	l	L	2
-m	m	M	18
-n	n	N	13
-n̪	n̪	N	2
-o	o	U	1
-u	u	Y	3
-w	w	W	27
-w$	w	W	1
-ŋ	ŋ	N	17
-ŋ$	ŋ	N	4
-ɑ	ɑ	A	14
-ɑ$	ɑ	A	1
-ɖ	ɖ	T	5
-ɖ$	ɖ	T	6
-ɟ	ɟ	C	17
-ɟ$	ɟ	C	2
-ɭ	ɭ	L	15
-ɯ	ɯ	I	55
-ɯ$	ɯ	I	36
-ɲ	ɲ	N	33
-ɲ$	ɲ	N	1
-ɳ	ɳ	N	26
-ɻ	ɻ	R	14
-ɻ$	ɻ	R	1
-ɾ	ɾ	R	32
-ɾw	ɾ w	R W	1
-ʎ	ʎ	L	7
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		201	NULL	lɑndi;jɯwa;migi;baɳdi;baɳdi
+$	NULL		213	NULL	lɑndi;jɯwa;t̪iɾi;migi;baɳdi
+a	a	A	228	171	jɯwa;baɳdi;baɳdi;gawɯndɯ;wiɭa
+ɑ	ɑ	A	15	14	lɑndi;bɑbiɾi;mɑ;ɟɑliɲi;ɟɑbi
+ɟ	ɟ	C	39	17	jiɟgawɯ;ɟɯɭɯ;ɟiɻigi;gaɻaɟbi;gɯɟi
+i	i	I	186	92	lɑndi;t̪iɾi;t̪iɾi;migi;migi
+ɯ	ɯ	I	91	55	jɯwa;gawɯndɯ;gawɯndɯ;jiɟgawɯ;ŋamɯ
+j	j	J	27	11	jɯwa;jiɟgawɯ;gambaji;gɯɖaj;wajandi
+g	g	K	70	26	migi;gawɯndɯ;jiɟgawɯ;ɟiɻigi;gɯɻɯgɯɻɯ
+^k	k	K	1	1	kuluŋ
+l	l	L	41	35	lɑndi;galiɲ;bɯladi;galinda;giliɳi
+ɭ	ɭ	L	15	15	wiɭa;biɭŋa;ɟɯɭɯ;muŋgɯwaɭa;ŋɯɭɯg
+ʎ	ʎ	L	7	7	baʎɯwa;miʎiʎi;miʎiʎi;baʎadi;waʎaɾa
+m	m	M	41	18	migi;ŋamɯ;ɲamani;damaɖa;gambaji
+n	n	N	18	13	lɑndi;gawɯndɯ;ɲamani;naɳba;naɖa
+ŋ	ŋ	N	66	17	biɭŋa;ŋamɯ;ŋab;ŋɯmɯɾɯ;muŋgɯwaɭa
+ɲ	ɲ	N	43	33	ɲamani;galiɲ;ɲaɳa;gambiɲi;ɟɯɳaɲgaɾa
+ɳ	ɳ	N	26	26	baɳdi;baɳdi;naɳba;ɲaɳa;maɳaŋɯɾɯ
+n̪	n̪	N	2	2	ŋamɯn̪iŋi;ŋamɯn̪iŋi
+b	b	P	46	23	baɳdi;baɳdi;biɭŋa;baʎɯwa;bɑbiɾi
+ɻ	ɻ	R	16	14	ɟiɻigi;gɯɻɯgɯɻɯ;gɯɻɯgɯɻɯ;gaɻaɟbi;ŋaɻag
+ɾ	ɾ	R	33	32	t̪iɾi;bɑbiɾi;waɾi;ŋɯmɯɾɯ;t̪iɾaɟ
+d	d	T	41	35	lɑndi;baɳdi;baɳdi;gawɯndɯ;damaɖa
+ɖ	ɖ	T	11	5	wiɖ;damaɖa;gɯɖaj;naɖa;gaɖ
+^t̪	t̪	T	11	11	t̪iɾi;t̪iɾaɟ;t̪aɾa;t̪iŋa;t̪aɻidi
+o	o	U	1	1	ɻamboɾa
+w	w	W	42	27	jɯwa;gawɯndɯ;wiɭa;jiɟgawɯ;baʎɯwa
+u	u	Y	3	3	muŋgɯwaɭa;kuluŋ;kuluŋ

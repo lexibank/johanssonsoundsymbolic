@@ -1,129 +1,87 @@
-Grapheme	IPA	SCA	Frequency
-$	NULL	NULL	1
-!kʼxʼ	!kxʼ	!	1
-^!a	ǃ a	! A	5
-^!h	ǃʰ	!	4
-^!kʼxʼ	ǃxʼ	!	2
-^!o	ǃ o	! U	3
-^!o$	ǃ o	! U	2
-^!u	ǃ u	! Y	6
-^!u$	ǃ u	! Y	1
-^!uᵑ!	ǃ u ⁿǃ	! Y !	4
-^!x	ǃx	!	2
-^!ʔ	ǃʔ	!	4
-^!ʔh	ǃʔʰ	!	5
-^a	a	A	2
-^a$	a	A	1
-^b	b	P	3
-^d	d	T	5
-^dh	dʰ	T	1
-^dsh	d sʰ	T S	2
-^dʃ	d ʃ	T S	2
-^dʃh	d ʃʰ	T S	2
-^dʒ	dʒ	T	2
-^e$	e	E	1
-^g	g	K	7
-^h	h	H	8
-^i$	i	I	1
-^k	k	K	13
-^kh	kʰ	K	6
-^kʼ	kʼ	K	6
-^l	l	L	3
-^lh	l̥	L	1
-^ll	lː	L	1
-^m	m	M	3
-^m$	m	M	1
-^n	n	N	1
-^o	o	U	1
-^s	s	S	6
-^t	t	T	31
-^th	th/tʰ	T	2
-^ts	ts	C	26
-^tʃ	tʃ	T	3
-^tʃh	tʃʰ	T	3
-^tʒ	t ʒ	T S	2
-^u$	u	Y	1
-^w	w	W	1
-^z	z	S	2
-^ǀ	ǀ	!	17
-^ǀh	ǀʰ	!	1
-^ǁ	ǁ	!	7
-^ǂ	ǂ	!	13
-^ǂh	ǂʰ	!	1
-^ʃ	ʃ	S	7
-^ʒ	ʒ	S	6
-^ʔ	ʔ	H	1
-^ᵑ!	ⁿǃ	!	21
-^ᵑǀ	ⁿǀ	!	11
-^ᵑǀh	ⁿǀʰ	!	1
-^ᵑǀoʕnᵑǀoʕni$	ⁿǀ o ʕ n ⁿǀ o ʕ n i	! U	1
-^ᵑǁ	ⁿǁ	!	2
-^ᵑǁh	ⁿǁʰ	!	1
-^ᵑǂ	ⁿǂ	!	4
-^ᵑǂh	ⁿǂh	!	3
-^ᶢ!	gǃ	!	20
-^ᶢ!a!kʼxʼui	gǃ a ǃkxʼ ui	! A ! Y	1
-^ᶢǀ	gǀ	!	6
-^ᶢǁ	gǁ	!	17
-^ᶢǂ	gǂ	!	3
-^ᶢǂh	gǂʰ	!	2
-_	+	_	22
-_!	+ ǃ	_ !	2
-_ᵑ!	+ ⁿǃ	_ !	5
-_ᶢ!	+ gǃ	_ !	1
-_ᶢǁ	+ gǁ	_ !	1
-a	a	A	205
-a$	a	A	72
-aa	aː	A	2
-aaᵑ!	aː ⁿǃ	A !	1
-aᵑ!	a ⁿǃ	A !	2
-b	b	P	11
-d	d	T	2
-e	e	E	7
-e$	e	E	19
-g	g	K	1
-g$	g	K	10
-h	h	H	7
-h$	h	H	11
-i	i	I	29
-i!	i ǃ	I !	1
-i$	i	I	58
-ii	iː	I	1
-k	k	K	14
-kh	kh/kʰ	K	1
-kʼ	kʼ	K	10
-l	l	L	2
-m	m	M	45
-m!	m ǃ	M !	1
-m$	m	M	21
-mh$	mh/m̥	M	1
-mm$	mm/mː	M	1
-n	n	N	44
-n$	n	N	60
-ns	n s	N S	2
-nᵑ!	n ⁿǃ	N !	1
-o	o	U	56
-o$	o	U	21
-oᵑ!	o ⁿǃ	U !	1
-r	r	R	15
-s	s	S	1
-t	t	T	2
-ts	ts	C	5
-tz	tz/ts	C	1
-tʃ	tʃ	T	2
-u	u	Y	60
-u!	u ǃ	Y !	2
-u$	u	Y	38
-uu	uː	Y	1
-x	x	G	17
-xʼ	xʼ	G	16
-z	z	S	9
-ǀ	ǀ	!	3
-ǂ	ǂ	!	2
-ʃ	ʃ	S	1
-ʒ	ʒ	S	2
-ʔ	ʔ	H	69
-ʔh	ʔh/ʔʰ	H	6
-ʕ	ʕ	H	27
-ʕ$	ʕ	H	12
-ᶢ!	gǃ	!	1
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		193	NULL	koa_!ʔan_ke;koaʕ;dinᵑ!ang;taun;ǂʔhan
+$	NULL		330	1	koa_!ʔan_ke;koaʕ;dinᵑ!ang;ᵑǀaʔan;waʕnsi
+^ᵑǀoʕnᵑǀoʕni$	ⁿǀ o ʕ n ⁿǀ o ʕ n i	! U H N ! U H N I	1	1	ᵑǀoʕnᵑǀoʕni
+ǀ	ǀ	!	19	3	ǀkʼxʼau;ǀʔhom;ǀʔang;ǀauhn;ǀam
+ǂ	ǂ	!	15	2	ǂʔhan;ǂʔhan;ǂabataᵑ!ang;ǂaʔu;ǂxan
+^ǁ	ǁ	!	7	7	ǁʔami;ǁae;ǁʔhai;ǁʔau;ǁʔaisi
+ᶢ!	gǃ	!	22	1	ᶢ!u;ᶢ!aʔan;ᶢ!oʔo;ᶢ!amm;ᶢ!oh
+^!h	ǃʰ	!	4	4	!hama;!ha;!hu;!hun
+^!x	ǃx	!	2	2	!xom;!xui
+^!ʔ	ǃʔ	!	4	4	!ʔoᵑ!ang;!ʔu;!ʔam;!ʔoan
+^ǀh	ǀʰ	!	1	1	ǀhai
+^ǂh	ǂʰ	!	1	1	ǂhai
+^ᵑ!	ⁿǃ	!	21	21	ᵑ!aʔan;ᵑ!ai;ᵑ!u;ᵑ!oʔo;ᵑ!om
+^ᵑǀ	ⁿǀ	!	10	11	ᵑǀaʔan;ᵑǀaʕni;ᵑǀai;ᵑǀai;ᵑǀeʔe
+^ᵑǁ	ⁿǁ	!	2	2	ᵑǁoʕʔoro;ᵑǁah
+^ᵑǂ	ⁿǂ	!	4	4	ᵑǂu;ᵑǂaʕʔan;ᵑǂaʔm;ᵑǂaʕ
+^ᶢǀ	gǀ	!	6	6	ᶢǀaʔaaᵑ!ang;ᶢǀari;ᶢǀaʔa;ᶢǀaoh;ᶢǀu
+^ᶢǁ	gǁ	!	17	17	ᶢǁaʔama;ᶢǁaʕ;ᶢǁaʕ;ᶢǁaʕ;ᶢǁaʕ
+^ᶢǂ	gǂ	!	3	3	ᶢǂaʔin;ᶢǂaʔin;ᶢǂaʔin
+^!ʔh	ǃʔʰ	!	5	5	!ʔhan;!ʔhoan;!ʔhaeh;!ʔhan;!ʔhan
+^ᵑǀh	ⁿǀʰ	!	1	1	ᵑǀhuin
+^ᵑǁh	ⁿǁʰ	!	1	1	ᵑǁhan
+^ᵑǂh	ⁿǂh	!	3	3	ᵑǂhao;ᵑǂhaih;ᵑǂhoʕi
+^ᶢǂh	gǂʰ	!	2	2	ᶢǂhuin;ᶢǂhai
+!kʼxʼ	ǃkx’	!	1	1	tzama!kʼxʼui
+^!kʼxʼ	ǃxʼ	!	2	2	!kʼxʼui;!kʼxʼa
+a	a	A	280	205	koa_!ʔan_ke;koa_!ʔan_ke;koaʕ;dinᵑ!ang;ᵑǀaʔan
+aa	aː	A	2	2	ᶢ!aan;tsaahn
+ts	ts	C	31	5	tsi;tsan_ku_tsan_ku_tsan_ku_tsan;tsan_ku_tsan_ku_tsan_ku_tsan;tsan_ku_tsan_ku_tsan_ku_tsan;tsan_ku_tsan_ku_tsan_ku_tsan
+tz	tz/ts	C	10	1	tzama;tzama!kʼxʼui;tzao;kutzi;tzun
+e	e	E	27	7	koa_!ʔan_ke;ǁae;he;khoeʃa;ᵑǀeʔe
+x	x	G	17	17	ǂxan;ᶢ!xoa;ǀxoa;ǂxam;ᶢ!xuni
+xʼ	xʼ	G	16	16	ǀkʼxʼau;kʼxʼaro;ǀkʼxʼuri;kʼxʼa;ǀkʼxʼoromh
+h	h	H	26	7	ǀauhn;ᶢ!oh;ǀauhn;ᶢ!ohm;ᶢǀaoh
+ʔ	ʔ	H	70	69	koa_!ʔan_ke;ᵑǀaʔan;lʔo;ᵑǁoʕʔoro;ᶢǀaʔaaᵑ!ang
+ʕ	ʕ	H	37	27	koaʕ;waʕnsi;toʕ;ᵑǁoʕʔoro;ᵑǀaʕni
+ʔh	ʔh/ʔʰ	H	6	6	ǂʔhan;ǂʔhan;ǀʔhom;ǁʔhai;ǀʔhui
+i	i	I	87	29	dinᵑ!ang;waʕnsi;ǁʔami;ᵑ!ai;ᵑǀaʕni
+ii	iː	I	1	1	ᶢ!adiih
+g	g	K	18	1	dinᵑ!ang;ᶢǀaʔaaᵑ!ang;!ʔoᵑ!ang;ǂabataᵑ!ang;ǀʔang
+k	k	K	27	14	koa_!ʔan_ke;koa_!ʔan_ke;koaʕ;ku;kuʔu
+kh	kh/kʰ	K	1	1	khuian_khoe
+kʼ	kʼ	K	16	10	ǀkʼxʼau;kʼxʼaro;ǀkʼxʼuri;kʼxʼa;ǀkʼxʼoromh
+^kh	kʰ	K	6	6	khama;khui;khoeʃa;khoema;khuian_khoe
+l	l	L	5	2	lʔo;lai;lʔan;tʃinilui;gloʔm
+^lh	l̥	L	1	1	lhari
+^ll	lː	L	1	1	llari
+m	m	M	70	45	!hama;ǀʔhom;khama;ǁʔami;tzama
+mh$	mh/m̥	M	1	1	ǀkʼxʼoromh
+mm$	mm/mː	M	1	1	ᶢ!amm
+n	n	N	106	44	koa_!ʔan_ke;dinᵑ!ang;ᵑǀaʔan;waʕnsi;taun
+b	b	P	14	11	ǂabataᵑ!ang;ʃaba;ǂaʔabaǂaʔaba;ǂaʔabaǂaʔaba;ᵑ!uʔubu
+r	r	R	15	15	ᵑǁoʕʔoro;kʼxʼaro;ᶢǀari;ǀkʼxʼuri;ǀkʼxʼoromh
+s	s	S	9	1	waʕnsi;dinsi;ǁʔaisi;si;si
+z	z	S	2	9	zaʕi;zani
+ʃ	ʃ	S	10	1	dʃo;ʃaba;ʃu;ʃui;khoeʃa
+ʒ	ʒ	S	10	2	ʒan;tʒin;ʒo;ʒan;tʒu
+d	d	T	9	2	dinᵑ!ang;dʃo;dinsi;du;daʔa
+t	t	T	26	2	taun;toʕ;ǂabataᵑ!ang;tʒin;tih
+tʃ	tʃ	T	5	2	tʃoʕʔo;tʃinilui;tʃoh;hatʃe;hatʃe_re
+^dh	dʰ	T	1	1	dhari
+^dʒ	dʒ	T	2	2	dʒxa;dʒxara
+^th	th/tʰ	T	2	2	tha;thae
+^tʃh	tʃʰ	T	3	3	tʃhi;tʃhi;tʃhin
+o	o	U	76	56	koa_!ʔan_ke;koaʕ;toʕ;lʔo;ᵑǁoʕʔoro
+^w	w	W	1	1	waʕnsi
+u	u	Y	99	60	taun;ǀkʼxʼau;ᶢ!u;ᵑǂu;ǀauhn
+uu	uː	Y	1	1	dʃhuun
+_	+	_	23	22	koa_!ʔan_ke;tsan_ku_tsan_ku_tsan_ku_tsan;tsan_ku_tsan_ku_tsan_ku_tsan;tsan_ku_tsan_ku_tsan_ku_tsan;tsan_ku_tsan_ku_tsan_ku_tsan
+^!a	ǃ a	! A	5	5	!an;!ain;!aah;!aihn;!aʔu
+^!o	ǃ o	! U	5	3	!om;!oma;!oma;!o;!o
+^!u	ǃ u	! Y	7	6	!u;!ui;!ui;!uma;!uma
+aᵑ!	a ⁿǃ	A !	2	2	ǂabataᵑ!ang;ᶢ!oʔaᵑ!ang
+aaᵑ!	aː ⁿǃ	A !	1	1	ᶢǀaʔaaᵑ!ang
+i!	i ǃ	I !	1	1	ǀkʼxʼai!aʕʔami
+m!	m ǃ	M !	1	1	ʃom!o
+nᵑ!	n ⁿǃ	N !	1	1	dinᵑ!ang
+^dsh	d sʰ	T S	2	2	dshauma;dshau
+^dʃh	d ʃʰ	T S	2	2	dʃhuun;dʃhin
+oᵑ!	o ⁿǃ	U !	1	1	!ʔoᵑ!ang
+u!	u ǃ	Y !	2	2	ᶢ!au!aʕʔami;ᶢ!au!uʔuru
+_!	+ ǃ	_ !	2	2	koa_!ʔan_ke;ʒu_!kʼxʼa_taʔm_ǀkʼxʼau
+_ᵑ!	+ ⁿǃ	_ !	5	5	tsan_ku_ᵑ!ani;ᵑ!ani_ku_ᵑ!ani_ku_ᵑ!ani;ᵑ!ani_ku_ᵑ!ani_ku_ᵑ!ani;tsan_ku_tsan_ku_ᵑ!ani;ᵑ!ani_ku_ᵑ!ani
+_ᶢǁ	+ gǁ	_ !	1	1	o_ᶢǁoʕniᶢ!u
+^!uᵑ!	ǃ u ⁿǃ	! Y !	4	4	!uᵑ!aʔan;!uᵑ!aʔan;!uᵑ!aʔan;!uᵑ!aʔan
+^ᶢ!a!kʼxʼui	gǃ a ǃkx’ ui	! A ! Y	1	1	ᶢ!a!kʼxʼui

@@ -1,85 +1,44 @@
-Grapheme	IPA	SCA	Frequency
-_$	NULL	NULL	1
-^a	a	A	11
-^b	b	P	1
-^e	e	E	6
-^g	g	K	2
-^h	h	H	25
-^i	i	I	25
-^i$	i	I	1
-^j	j	J	9
-^k	k	K	16
-^kh	kʰ	K	2
-^kʼ	kʼ	K	2
-^l	l	L	10
-^m	m	M	13
-^n	n	N	15
-^o	o	U	11
-^oo	oː	U	1
-^p	p	P	12
-^ph	pʰ	P	1
-^pʃ	p ʃ	P S	1
-^s̪	s̪	S	14
-^tʃ	tʃ	T	3
-^tʃh	tʃʰ	T	26
-^t̪	t̪	T	53
-^t̪h	t̪ʰ	T	5
-^t̪ʼ	t̪ʼ	T	2
-^w	w	W	28
-^x	x	G	7
-^xʼ	xʼ	G	1
-^z̪	z̪	S	4
-^ã	ã	A	3
-^ĩ	ĩ	I	2
-^ũ	ũ	Y	12
-^ɣ	ɣ	G	1
-^ʃ	ʃ	S	16
-_	+	_	8
-a	a	A	121
-a$	a	A	115
-b	b	P	3
-b$	b	P	5
-e	e	E	61
-e$	e	E	43
-g	g	K	5
-h	h	H	18
-i	i	I	59
-i$	i	I	50
-j	j	J	51
-k	k	K	90
-kh	kh/kʰ	K	5
-kʃ	k ʃ	K S	10
-kʼ	kʼ	K	2
-l	l	L	43
-l$	l	L	9
-m	m	M	18
-n	n	N	32
-o	o	U	54
-o$	o	U	6
-p	p	P	43
-ps̪	p s̪	P S	1
-pʼ	pʼ	P	1
-s̪	s̪	S	14
-tʃ	tʃ	T	26
-tʃh	tʃh/tʃʰ	T	12
-t̪	t̪	T	54
-t̪ʼ	t̪ʼ	T	1
-u	u	Y	28
-u$	u	Y	17
-w	w	W	16
-x	x	G	85
-x$	x	G	1
-xʼ	xʼ	G	1
-z̪	z̪	S	11
-ã	ã	A	39
-ã$	ã	A	72
-ĩ	ĩ	I	11
-ĩ$	ĩ	I	11
-ŋ$	ŋ	N	3
-ũ	ũ	Y	26
-ũ$	ũ	Y	5
-ɣ	ɣ	G	10
-ʃ	ʃ	S	27
-ʃ$	ʃ	S	2
-ʃʼ	ʃʼ	S	2
-ʒ	ʒ	S	28
+Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
+^	NULL		306	NULL	wãkab;kxokipxã;ohakab;ãpt̪xanija_;ijuha
+$	NULL		337	NULL	wãkab;kxokipxã;ohakab;ijuha;tʃxãz̪e
+_$	NULL		1	1	ãpt̪xanija_
+a	a	A	247	121	wãkab;ohakab;ohakab;ãpt̪xanija_;ãpt̪xanija_
+ã	ã	A	114	39	wãkab;kxokipxã;ãpt̪xanija_;tʃxãz̪e;wamakxaʃkã
+e	e	E	110	61	tʃxãz̪e;waʃt̪e;t̪hez̪i;we;ile
+x	x	G	93	85	kxokipxã;kxokipxã;ãpt̪xanija_;tʃxãz̪e;wamakxaʃkã
+ɣ	ɣ	G	11	10	poɣã;nũɣe;ʃagloɣã;hoɣã;t̪hixmũɣa
+xʼ	xʼ	G	2	1	naxʼũ;xʼãhi
+h	h	H	43	18	ohakab;ijuha;tʃhãha;ʃni_hãni;ihakab
+i	i	I	135	59	kxokipxã;ãpt̪xanija_;ijuha;is̪t̪o;is̪t̪o
+ĩ	ĩ	I	24	11	itʃhĩ;z̪ĩt̪kala;kʼĩ;hĩxpajã;kĩjãŋ
+j	j	J	60	51	ãpt̪xanija_;ijuha;ijoko;jaxt̪akã;nija
+g	g	K	7	5	ʃagloɣã;wigli;ũgnaʃ;gmigmela;gmigmela
+k	k	K	116	90	wãkab;kxokipxã;kxokipxã;ohakab;wamakxaʃkã
+kh	kh/kʰ	K	5	5	is̪akhib;okhis̪e;t̪okhel;hukhutʃijela;akhiletʃhetʃa
+kʼ	kʼ	K	4	2	kʼĩ;kʼu;otʃikʼajela;tʃikʼala
+^kh	kʰ	K	2	2	khut̪a;khijela
+l	l	L	62	43	z̪ĩt̪kala;hokʃila;nas̪ula;ile;tʃhes̪li
+m	m	M	31	18	wamakxaʃkã;mama;mama;maxpija;xmi
+n	n	N	47	32	ãpt̪xanija_;ʃni_hãni;ʃni_hãni;nas̪ula;nija
+ŋ$	ŋ	N	3	3	jat̪kãŋ;kĩjãŋ;nũwãŋ
+b	b	P	9	3	wãkab;ohakab;ihakab;is̪akhib;makxablu
+p	p	P	57	43	kxokipxã;ãpt̪xanija_;pxa;s̪apã;poɣã
+pʼ	pʼ	P	1	1	kapʼoʒela
+^ph	pʰ	P	1	1	phi
+ʃ	ʃ	S	56	27	wamakxaʃkã;t̪xaʒuʃka;ʃitʃã;waʃt̪e;ʃni_hãni
+ʒ	ʒ	S	28	28	t̪xaʒuʃka;akewãʒi;oʒula;pxeʒi;kapʼoʒela
+s̪	s̪	S	29	14	is̪t̪o;is̪t̪o;is̪akhib;s̪apã;nas̪ula
+z̪	z̪	S	15	11	tʃxãz̪e;t̪hez̪i;z̪ĩt̪kala;t̪ʼoz̪ã;ũz̪e
+ʃʼ	ʃʼ	S	2	2	waʃʼakã;waʃʼake_ʃni
+tʃ	tʃ	T	29	26	tʃxãz̪e;ʃitʃã;haetʃe;ũktʃe;tʃonala
+t̪	t̪	T	107	54	ãpt̪xanija_;t̪xaʒuʃka;is̪t̪o;is̪t̪o;tʃhaxot̪a
+tʃh	tʃh/tʃʰ	T	12	12	itʃhĩ;t̪xãtʃhã;etʃhũ;witʃhĩtʃala;itʃhaɣã
+t̪ʼ	t̪ʼ	T	3	1	t̪ʼoz̪ã;t̪ʼã;t̪hemnit̪ʼã
+^tʃh	tʃʰ	T	26	26	tʃhaxot̪a;tʃhuwi;tʃhãha;tʃhejã;tʃhes̪li
+^t̪h	t̪ʰ	T	5	5	t̪hez̪i;t̪hixmũɣa;t̪hipi;t̪hemnit̪ʼã;t̪hiblo
+o	o	U	71	54	kxokipxã;ohakab;is̪t̪o;is̪t̪o;tʃhaxot̪a
+^oo	oː	U	1	1	oowãjãg_ʃitʃã
+w	w	W	44	16	wãkab;wamakxaʃkã;tʃhuwi;waʃt̪e;we
+u	u	Y	45	28	ijuha;t̪xaʒuʃka;tʃhuwi;khut̪a;hohu
+ũ	ũ	Y	43	26	ũz̪e;etʃhũ;ʃũka;nũɣe;ũktʃe
+_	+	_	8	8	ʃni_hãni;ʃape_ʃni;kitʃhi_etʃhũ;t̪akuni_ʃni;ʃpã_ʃni
