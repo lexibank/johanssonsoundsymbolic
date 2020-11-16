@@ -12,13 +12,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from the Johansson et al.'s \"The typology of sound symbolism\" from 2020 ",
-    "dcat:accessURL": "git@github.com:lexibank/johanssonsoundsymbolic",
+    "dcat:accessURL": "https://github.com/lexibank/johanssonsoundsymbolic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/johanssonsoundsymbolic",
-            "dc:created": "44a29ee"
+            "rdf:about": "https://github.com/lexibank/johanssonsoundsymbolic",
+            "dc:created": "8271e14"
         },
         {
             "rdf:type": "prov:Entity",
