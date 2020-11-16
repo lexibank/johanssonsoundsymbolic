@@ -1,58 +1,117 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		278	NULL	saxaɬi;qʼass;konawe;naxaxax;tʃoiɬaɬa
-$	NULL		274	NULL	saxaɬi;konawe;naxaxax;tʃoiɬaɬa;epepoteptk
-a	a	A	291	209	saxaɬi;saxaɬi;qʼass;konawe;naxaxax
-^aa	aː	A	1	1	aapitɬait
-aa$	aː	A	2	2	ɬkanaa;ɬkanaa
-ts	ts	C	13	7	epeotsox;tses;opeutsax;ooɬpitski;ptsex
-tsh	tsh/tsʰ	C	5	1	tsheɬux;ephatsh;sitshum;tɬpeatsh;apaktsh
-e	e	E	106	70	konawe;epepoteptk;epepoteptk;epepoteptk;epepoteptk
-ee$	eː	E	1	1	tsee
-x	x	G	57	29	saxaɬi;naxaxax;naxaxax;naxaxax;tɬenawux
-xh	xh/xʰ	G	3	3	jaxhaɬ;puxhuneka;haxha
-χ$	χ	G	1	1	kuχ
-h	h	H	8	5	hunɬkex;etɬupahais;oehut;jahkisith;haxha
-hw	hw/hʷ	H	1	1	pihwatti
-i	i	I	103	82	saxaɬi;tʃoiɬaɬa;masatʃhi;jaqʼatin;kikhwiɬɬi
-ii	iː	I	3	3	xɬwhaiit;withɬepaiit;withɬepaiit
-j	j	J	19	8	jaqʼatin;qajaqt;kaijaqʼs;ntiaija;ejoka
-k	k	K	160	108	konawe;epepoteptk;epepoteptk;kemom;kutʼsʼ
-q	q	K	10	3	qajaqt;qajaqt;tɬqulaula;ʃpeq;qatʃau
-g$	g	K	1	1	ʃg
-kh	kh/kʰ	K	7	7	akhunna;jakha;okhawe;ipakhaɬ;tiɬɬikhum
-kk	kk/kː	K	8	8	ekkek;ekkek;tɬkukkeke;tɬkukkeke;tɬkukkaɬa
-kʼ	kʼ	K	15	12	tɬukʼupst;ikʼewax;ɬekʼups;kʼuɬkʼuɬ;kʼuɬkʼuɬ
-qʼ	qʼ	K	32	7	qʼass;jaqʼatin;kaijaqʼs;qʼeʃqʼeʃ;qʼeʃqʼeʃ
-l	l	L	9	5	tke_ltkel;tke_ltkel;tɬqulaula;tɬqulaula;lqie_latsʼita
-ɬ	ɬ	L	156	110	saxaɬi;tʃoiɬaɬa;tʃoiɬaɬa;okotaɬ;tɬenawux
-ɬh	ɬh/ɬ̥	L	6	5	tɬokwunɬh;apatxɬhaɬapa;opeɬhost;ɬkeɬhotetuk;aɬhupso
-ɬɬ	ɬɬ/ɬː	L	5	5	kikhwiɬɬi;kaɬɬaknɬa;kipaɬɬawuɬ;shuɬɬojapa;tiɬɬikhum
-ɬʼ	ɬʼ	L	2	1	tɬʼmen;metɬʼ
-m	m	M	37	20	kemom;kemom;masatʃhi;temen;noponum
-n	n	N	53	29	konawe;naxaxax;tɬenawux;kanpatuk;jaqʼatin
-nn	nn/nː	N	2	2	akhunna;epeminqʼinnepat
-p	p	P	65	49	epepoteptk;epepoteptk;epepoteptk;epepoteptk;epepoteptk
-ph	ph/pʰ	P	3	3	ephatsh;kapho;kapho
-s	s	S	52	14	saxaɬi;masatʃhi;kaijaqʼs;spook;spook
-ʃ	ʃ	S	12	2	qʼeʃqʼeʃ;qʼeʃqʼeʃ;oiʃ;ʃpeq;qʃo
-sh	sh/sʰ	S	7	6	shuɬɬojapa;tɬkushkashka;tɬkushkashka;tɬkushkashka;tɬkushkashka
-ss$	ss/sː	S	2	2	qʼass;tɬonass
-t	t	T	186	78	epepoteptk;epepoteptk;epepoteptk;epepoteptk;okotaɬ
-th	th/tʰ	T	6	4	okwuɬtha;qʼuɬth;withɬepaiit;withɬepaiit;jahkisith
-tt	tt/tː	T	3	3	jakanatti;jutskutta;pihwatti
-tʃ	tʃ	T	5	2	tʃoiɬaɬa;otxuit_tʃu;qatʃau;tʃam;tʃekut
-^tt	tː	T	1	1	ttɬuksta
-^tʼ	tʼ	T	1	1	tʼake
-tsʼ	tsʼ	T	2	2	lqie_latsʼita;kutsʼa
-twh	twh/tʷʰ	T	3	2	estwhuɬ;twhut;aputwhe
-tʃh	tʃh/tʃʰ	T	1	1	masatʃhi
-tʼsʼ	tsʼ	T	3	1	kutʼsʼ;wetʼsʼa;itʼsʼ
-o	o	U	73	49	konawe;tʃoiɬaɬa;epepoteptk;epepoteptk;kemom
-oo	oː	U	5	2	spook;spook;ooɬpitski;oot;ootɬax
-w	w	W	39	31	konawe;tɬenawux;tɬawɬkt;kawaxe;wetʼsʼa
-wh	wh/w̥	W	2	1	xɬwhaiit;tɬiminawhut
-u	u	Y	112	105	kutʼsʼ;tɬenawux;kanpatuk;tɬokwunɬh;okwuɬtha
-uu	uː	Y	1	1	ejuxeɬauun
-_	+	_	10	10	tke_ltkel;tatɬeɬum_ikom_ixt;tatɬeɬum_ikom_ixt;otxuit_tʃu;ku_tkut
-kw	kw/k w	K W	3	3	tɬokwunɬh;okwuɬtha;tɬakwuɬk
-khw	khw/kʰ w	K W	1	1	kikhwiɬɬi
+Grapheme	IPA	SCA	Frequency
+^a	a	A	18
+^aa	aː	A	1
+^e	e	E	20
+^h	h	H	3
+^i	i	I	8
+^j	j	J	11
+^k	k	K	22
+^kʼ	kʼ	K	1
+^l	l	L	2
+^m	m	M	9
+^n	n	N	9
+^o	o	U	16
+^oo	oː	U	3
+^p	p	P	10
+^q	q	K	4
+^qʃ	q ʃ	K S	1
+^qʼ	qʼ	K	24
+^s	s	S	10
+^sh	sh/sʰ	S	1
+^t	t	T	73
+^ts	ts	C	3
+^tsh	tsh/tsʰ	C	1
+^tt	tː	T	1
+^twh	twh/tʷʰ	T	1
+^tʃ	tʃ	T	3
+^tʼ	tʼ	T	1
+^u	u	Y	1
+^w	w	W	7
+^x	x	G	2
+^ɬ	ɬ	L	11
+^ɬs	ɬ s	L S	1
+^ʃ	ʃ	S	3
+_	+	_	10
+a	a	A	209
+a$	a	A	64
+aa$	aː	A	2
+e	e	E	70
+e$	e	E	16
+ee$	eː	E	1
+g$	g	K	1
+h	h	H	5
+hw	hw/hʷ	H	1
+i	i	I	82
+i$	i	I	13
+ii	iː	I	3
+j	j	J	8
+k	k	K	108
+k$	k	K	15
+kh	kh/kʰ	K	7
+khw	khw/kʰ w	K W	1
+kk	kk/kː	K	8
+ks	k s	K S	11
+ks$	k s	K S	2
+kw	kw/k w	K W	3
+kʃ	k ʃ	K S	1
+kʃ$	k ʃ	K S	1
+kʼ	kʼ	K	12
+kʼ$	kʼ	K	2
+l	l	L	5
+l$	l	L	2
+m	m	M	20
+m$	m	M	8
+n	n	N	29
+n$	n	N	15
+nn	nn/nː	N	2
+o	o	U	49
+o$	o	U	8
+oo	oː	U	2
+p	p	P	49
+p$	p	P	1
+ph	ph/pʰ	P	3
+ps	p s	P S	4
+ps$	p s	P S	1
+q	q	K	3
+q$	q	K	2
+qʼ	qʼ	K	7
+qʼs$	qʼ s	K S	1
+s	s	S	14
+s$	s	S	8
+sh	sh/sʰ	S	6
+ss$	ss/sː	S	2
+t	t	T	78
+t$	t	T	35
+th	th/tʰ	T	4
+th$	th/tʰ	T	2
+ts	ts	C	7
+ts$	ts	C	3
+tsh	tsh/tsʰ	C	1
+tsh$	tsh/tsʰ	C	3
+tsʼ	tsʼ	T	2
+tt	tt/tː	T	3
+twh	twh/tʷʰ	T	2
+tʃ	tʃ	T	2
+tʃh	tʃh/tʃʰ	T	1
+tʼsʼ	tsʼ	T	1
+tʼsʼ$	tsʼ	T	2
+u	u	Y	105
+u$	u	Y	6
+uu	uː	Y	1
+w	w	W	31
+wh	wh/w̥	W	1
+x	x	G	29
+x$	x	G	26
+xh	xh/xʰ	G	3
+ɬ	ɬ	L	110
+ɬ$	ɬ	L	32
+ɬh	ɬh/ɬ̥	L	5
+ɬh$	ɬh/ɬ̥	L	1
+ɬw	ɬ w	L W	1
+ɬwh	ɬ wh/w̥	L W	1
+ɬɬ	ɬɬ/ɬː	L	5
+ɬʼ	ɬʼ	L	1
+ɬʼ$	ɬʼ	L	1
+ʃ	ʃ	S	2
+ʃ$	ʃ	S	4
+χ$	χ	G	1

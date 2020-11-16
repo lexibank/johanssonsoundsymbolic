@@ -1,39 +1,91 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		314	NULL	we;ɗu;kɨikɨihɨ̃;au;ʃoɾo
-$	NULL		315	NULL	we;ɗu;kɨikɨihɨ̃;au;ʃoɾo
-a	a	A	184	118	au;ɗotahɨ̃;wai;kaɾwɛ;mjãka
-ã	ã	A	56	35	hinnã;mjãka;jã;jananãi;emã
-c	c	C	23	10	cẽɾẽ;ecũiɾi;ecũi;ʃɨico;cwa
-ç	ç	C	14	14	cçuhũi;wacçiwacçiʔɨ̃koɾo;wacçiwacçiʔɨ̃koɾo;hã_cçimũtɛ;acçũ
-ts	ts	C	28	12	tsu;tsumɛ̃;tsuɗɨte;tsɨwɨɗɨte;atsile
-e	e	E	123	57	we;ɗehe;ɗehe;ɓeʔɨ̃;ehu
-ɛ	ɛ	E	23	3	kaɾwɛ;ɾjatɛ;hɛɗɛ;hɛɗɛ;wɛ
-ẽ	ẽ	E	7	5	cẽɾẽ;cẽɾẽ;tẽjãwã;cẽɾẽmũ;cẽɾẽmũ
-ɛ̃	ɛ̃	E	10	3	tsumɛ̃;lowɛ̃;tuituiɲɛ̃;kɛ̃imu;mɛ̃ɾũiʔɨ̃
-h	h	H	80	33	kɨikɨihɨ̃;hinnã;ɗotahɨ̃;haɗai;ɗehe
-ʔ	ʔ	H	17	17	ɓeʔɨ̃;hanũʔɨ̃;ɗaiʔoja;hanũʔɨ̃;mɛ̃ɾũiʔɨ̃
-i	i	I	127	59	kɨikɨihɨ̃;kɨikɨihɨ̃;hinnã;siki;siki
-ĩ	ĩ	I	10	1	nĩ;swãsĩ;ĩ;sĩ;ĩ
-ɨ	ɨ	I	69	37	kɨikɨihɨ̃;kɨikɨihɨ̃;ɓɨɾuhe;awɨ;wɨɾu
-ɨ̃	ɨ̃	I	46	11	kɨikɨihɨ̃;ɗotahɨ̃;nɨ̃;ɓeʔɨ̃;hanũʔɨ̃
-j	j	J	50	39	mjãka;ɾjatɛ;jã;jananãi;tẽjãwã
-k	k	K	98	55	kɨikɨihɨ̃;kɨikɨihɨ̃;koɾo;koɾo;siki
-l	l	L	27	23	lowɛ̃;akɨhɨ̃_elele;akɨhɨ̃_elele;elele;elele
-m	m	M	31	14	mjãka;tsumɛ̃;emã;jaɗamɨ̃;manini
-n	n	N	34	29	nɨ̃;hanũʔɨ̃;eʃonahɨ̃;ɗanɨ̃;awenũ
-ɲ	ɲ	N	7	5	ɲãsi;tuituiɲɛ̃;ɓusiɲwã;coɲũʔɨ̃;siɲũ
-nn	nn/nː	N	1	1	hinnã
-ɓ	ɓ	P	16	1	ɓeʔɨ̃;ɓɨɾuhe;akɨkoje_ɓwakoje_teihɨ̃_ɗaijeki;teihɨ̃koje_ɓwa;ɓoɓoʃo
-^p	p	P	1	1	poɾoɾõtɛ
-ɾ	ɾ	R	87	82	ʃoɾo;koɾo;koɾo;kaɾwɛ;ɾjatɛ
-s	s	S	18	11	siki;ɲãsi;swãsĩ;swãsĩ;jãsi
-ʃ	ʃ	S	22	10	ʃoɾo;eʃonahɨ̃;jeɾeʃwa;ʃɨico;eʃɨi
-t	t	T	75	52	tu;ɗotahɨ̃;ɾjatɛ;outo;tẽjãwã
-ɗ	ɗ	T	40	25	ɗu;ɗotahɨ̃;haɗai;ɗehe;ɗanɨ̃
-o	o	U	85	65	ʃoɾo;ʃoɾo;koɾo;koɾo;koɾo
-õ	õ	U	7	5	poɾoɾõtɛ;mõ;ɛsalõi;kõɾõɾõ;kõɾõɾõ
-w	w	W	46	19	we;wai;kaɾwɛ;wɛ;waiɾiɨ̃
-u	u	Y	65	41	ɗu;au;tu;outo;ehu
-ũ	ũ	Y	31	15	hanũʔɨ̃;ecũiɾi;awenũ;nũ;ecũi
-_	+	_	12	12	akɨhɨ̃_elele;akɨkoje_ɓwakoje_teihɨ̃_ɗaijeki;akɨkoje_ɓwakoje_teihɨ̃_ɗaijeki;akɨkoje_ɓwakoje_teihɨ̃_ɗaijeki;teihɨ̃koje_ɓwa
-kw	kw/k w	K W	1	1	akwɛ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	27
+^a$	a	A	1
+^c	c	C	12
+^cw	c w	C W	1
+^e	e	E	26
+^h	h	H	47
+^i	i	I	6
+^j	j	J	11
+^k	k	K	43
+^l	l	L	4
+^m	m	M	17
+^n	n	N	4
+^o	o	U	3
+^p	p	P	1
+^s	s	S	6
+^sw	s w	S W	1
+^t	t	T	23
+^ts	ts	C	16
+^u	u	Y	2
+^w	w	W	11
+^ã	ã	A	3
+^ĩ$	ĩ	I	3
+^ũ$	ũ	Y	1
+^ɓ	ɓ	P	10
+^ɓw	ɓ w	P W	2
+^ɗ	ɗ	T	13
+^ɗw	ɗ w	T W	1
+^ɛ	ɛ	E	1
+^ɛ$	ɛ	E	1
+^ɛ̃	ɛ̃	E	1
+^ɨ	ɨ	I	1
+^ɨ̃	ɨ̃	I	3
+^ɲ	ɲ	N	1
+^ɾ	ɾ	R	3
+^ʃ	ʃ	S	9
+_	+	_	12
+a	a	A	118
+a$	a	A	38
+c	c	C	10
+e	e	E	57
+e$	e	E	40
+h	h	H	33
+i	i	I	59
+i$	i	I	62
+j	j	J	39
+k	k	K	55
+kw	kw/k w	K W	1
+l	l	L	23
+m	m	M	14
+n	n	N	29
+nn	nn/nː	N	1
+nw	n w	N W	1
+o	o	U	65
+o$	o	U	17
+s	s	S	11
+t	t	T	52
+ts	ts	C	12
+u	u	Y	41
+u$	u	Y	22
+w	w	W	19
+ã	ã	A	35
+ã$	ã	A	18
+ç	ç	C	14
+õ	õ	U	5
+õ$	õ	U	2
+ĩ	ĩ	I	1
+ĩ$	ĩ	I	6
+ũ	ũ	Y	15
+ũ$	ũ	Y	15
+ɓ	ɓ	P	1
+ɓw	ɓ w	P W	3
+ɗ	ɗ	T	25
+ɗw	ɗ w	T W	1
+ɛ	ɛ	E	3
+ɛ$	ɛ	E	18
+ɛ̃	ɛ̃	E	3
+ɛ̃$	ɛ̃	E	6
+ɨ	ɨ	I	37
+ɨ$	ɨ	I	31
+ɨ̃	ɨ̃	I	11
+ɨ̃$	ɨ̃	I	32
+ɲ	ɲ	N	5
+ɲw	ɲ w	N W	1
+ɾ	ɾ	R	82
+ɾw	ɾ w	R W	2
+ʃ	ʃ	S	10
+ʃw	ʃ w	S W	3
+ʔ	ʔ	H	17
+ẽ	ẽ	E	5
+ẽ$	ẽ	E	2

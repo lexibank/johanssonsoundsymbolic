@@ -1,43 +1,68 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		333	NULL	abahli;nokɬikiitʃa;koɬaama;hifoosilka;ojha
-$	NULL		344	NULL	abahli;nokɬikiitʃa;koɬaama;hifoosilka;ojha
-a	a	A	359	197	abahli;abahli;nokɬikiitʃa;koɬaama;hifoosilka
-aa	aː	A	88	76	koɬaama;naasi_ijji_ostaaka;naasi_ijji_ostaaka;koɬaaka;obaali
-f	f	B	23	20	hifoosilka;ikfi;foosi;pofka;tʃofkoni
-ff	fː	B	5	5	ittaffaktʃi;pokkoolawahtʃaffaaka;tʃaffaaka;tʃaffaakaja;affaktʃi
-h	h	H	83	48	abahli;hifoosilka;histo;homi;aapihtʃi
-i	i	I	334	100	abahli;nokɬikiitʃa;hifoosilka;hifoosilka;naasi_ijji_ostaaka
-^ĩ	ĩ	I	11	11	ĩsokpa;ĩɬakfi;ĩɬakfi;ĩsabajjanaani;ĩsabajjanaani
-ii	iː	I	17	17	nokɬikiitʃa;noksiipa;imiisi;ontottʃiina;hokkiita
-j	j	J	22	20	iskannijoosa;ittafajka;wakajka;ajokpa;bajba
-jh	jh/j̊	J	2	2	ojha;ajhilaaha
-jj	jː	J	25	25	naasi_ijji_ostaaka;ijji;tajjosi;oktʃaliijja;ijjiswaatali
-k	k	K	152	128	nokɬikiitʃa;nokɬikiitʃa;koɬaama;hifoosilka;noksiipa
-kh	kh/kʰ	K	7	7	wakha;ɬakhani;aalokha;istokhatka;istokhatka
-kk	kk/kː	K	19	19	oktʃakko;_akkahmi;pokkoolawahtʃaffaaka;nampotikkoosi;oktʃakko
-l	l	L	91	82	abahli;hifoosilka;obaali;abitlitʃi;ittaltaala
-ɬ	ɬ	L	20	14	nokɬikiitʃa;koɬaama;koɬaaka;ɬakhani;ittiɬi
-lh	lh/l̥	L	4	4	ilhitʃa_kano;istimilhaalo;istilhaalo;istilhitʃa
-ll	ll/lː	L	6	6	illonka;illapihtʃi;illopi;walliika;ilakallo
-ɬɬ	ɬɬ/ɬː	L	4	4	katʃaɬɬi;toɬɬoilka;taɬɬaapi;alfabitaɬɬa
-m	m	M	41	24	koɬaama;homi;imiisi;minti;intalaami
-mm	mm/mː	M	4	4	immooli;tammi;homma;immookoomobi
-n	n	N	95	78	nokɬikiitʃa;noksiipa;naasi_ijji_ostaaka;kanko;ilhitʃa_kano
-nh	nh/n̥	N	3	3	pinha;wanha;hoponhikko
-nn	nn/nː	N	5	5	iskannijoosa;ihanni;hannaali;innotʃi;balinna
-b	b	P	69	57	abahli;sakba;sakba;obaali;abitlitʃi
-p	p	P	67	48	noksiipa;apootka;pofka;aapihtʃi;pisi
-pp	pp/pː	P	1	1	hoppola
-s	s	S	116	89	hifoosilka;noksiipa;naasi_ijji_ostaaka;naasi_ijji_ostaaka;iskannijoosa
-ʃ	ʃ	S	2	2	ontottʃiina;tottʃiina
-ss	ss/sː	S	7	7	takassa;hassi;hissi;ittohissi;assiktʃi
-t	t	T	100	76	naasi_ijji_ostaaka;histo;taska;abitlitʃi;apootka
-th	th/tʰ	T	1	1	patha
-tt	tt/tː	T	11	11	ittaffaktʃi;ittaltaala;ittafajka;ontottʃiina;ittiɬi
-tʃ	tʃ	T	70	52	nokɬikiitʃa;ittaffaktʃi;ilhitʃa_kano;abitlitʃi;tʃoba
-tʃh	tʃh/tʃʰ	T	1	1	itʃha
-o	o	U	187	119	nokɬikiitʃa;koɬaama;ojha;noksiipa;naasi_ijji_ostaaka
-oo	oː	U	43	41	hifoosilka;iskannijoosa;apootka;foosi;oowasi
-w	w	W	19	11	wakha;tawakna;oowasi;pokkoolawahtʃaffaaka;foosiwoksi
-ww	ww/wː	W	1	1	lawwi
-_	+	_	5	3	naasi_ijji_ostaaka;naasi_ijji_ostaaka;ilhitʃa_kano;_akkahmi;_pas
+Grapheme	IPA	SCA	Frequency
+^_	+	_	2
+^a	a	A	35
+^aa	aː	A	12
+^b	b	P	12
+^f	f	B	3
+^h	h	H	35
+^i	i	I	69
+^j	j	J	2
+^k	k	K	15
+^l	l	L	9
+^m	m	M	17
+^n	n	N	17
+^o	o	U	18
+^oo	oː	U	2
+^p	p	P	19
+^s	s	S	14
+^t	t	T	23
+^tʃ	tʃ	T	18
+^w	w	W	5
+^ĩ	ĩ	I	11
+^ɬ	ɬ	L	6
+_	+	_	3
+a	a	A	197
+a$	a	A	127
+aa	aː	A	76
+b	b	P	57
+f	f	B	20
+ff	fː	B	5
+h	h	H	48
+i	i	I	100
+i$	i	I	165
+ii	iː	I	17
+j	j	J	20
+jh	jh/j̊	J	2
+jj	jː	J	25
+k	k	K	128
+kh	kh/kʰ	K	7
+kk	kk/kː	K	19
+ks	k s	K S	9
+l	l	L	82
+lh	lh/l̥	L	4
+ll	ll/lː	L	6
+m	m	M	24
+mm	mm/mː	M	4
+n	n	N	78
+nh	nh/n̥	N	3
+nn	nn/nː	N	5
+o	o	U	119
+o$	o	U	50
+oo	oː	U	41
+p	p	P	48
+pp	pp/pː	P	1
+s	s	S	89
+s$	s	S	1
+ss	ss/sː	S	7
+sw	s w	S W	3
+t	t	T	76
+t$	t	T	1
+th	th/tʰ	T	1
+tt	tt/tː	T	11
+tʃ	tʃ	T	52
+tʃh	tʃh/tʃʰ	T	1
+w	w	W	11
+ww	ww/wː	W	1
+ɬ	ɬ	L	14
+ɬɬ	ɬɬ/ɬː	L	4
+ʃ	ʃ	S	2

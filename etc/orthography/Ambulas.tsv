@@ -1,29 +1,62 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		295	NULL	awurɨki;wup_ja;akwi;gut_nɑ;bɑlɨ_wɑsa
-$	NULL		295	NULL	awurɨki;wup_ja;akwi;gut_nɑ;bɑlɨ_wɑsa
-a	a	A	224	137	awurɨki;wup_ja;akwi;bɑlɨ_wɑsa;wipapɨ
-ɑ	ɑ	A	138	112	gut_nɑ;bɑlɨ_wɑsa;bɑlɨ_wɑsa;mawu_tɑba;mawu_tɑba
-v	v	B	18	11	vidik_tambɑ_nakuɾuk;wan_vɨti_wan_vɨti;wan_vɨti_wan_vɨti;vɨknwu;vijɑ
-e	e	E	9	5	kapɨredi;bege;bege;mɑwe;wupmale
-i	i	I	71	41	awurɨki;akwi;wipapɨ;kapɨredi;bijɑ_ja
-ɨ	ɨ	I	189	142	awurɨki;bɑlɨ_wɑsa;wipapɨ;kapɨredi;sɨpɨ
-j	j	J	64	36	wup_ja;jɨknwun;bijɑ_ja;bijɑ_ja;ɲɨgi_ja
-g	g	K	36	22	gut_nɑ;bege;sagul;ɲɨgi_ja;gɨlɨ
-k	k	K	135	72	awurɨki;kuksaknwu;kuksaknwu;kuksaknwu;kapɨredi
-l	l	L	48	34	bɑlɨ_wɑsa;sagul;gɨlɨ;sɨlakɨt;gɨlɨ
-m	m	M	67	37	mawu_tɑba;mawu_tɑba;nɨmɑn;mugɨk;muɲɑ
-n	n	N	84	36	gut_nɑ;kuksaknwu;jɨknwun;jɨknwun;nɨmɑn
-ŋ	ŋ	N	7	3	ɲɑŋusɨ;ɲɑŋusɨ;kutdɨŋ;puŋpuŋ;puŋpuŋ
-ɲ	ɲ	N	29	15	dɨkɲɨɲba;dɨkɲɨɲba;ɲɨgi_ja;wɨɲ;ɲɑŋusɨ
-b	b	P	57	44	bɑlɨ_wɑsa;mawu_tɑba;mawu_tɑba;bawu;bege
-p	p	P	46	35	wup_ja;wipapɨ;wipapɨ;kapɨredi;sɨpɨ
-r	r	R	28	20	awurɨki;kapɨredi;gɨrɑ;rɨkɑ;akɨrɨ
-ɾ	ɾ	R	1	1	vidik_tambɑ_nakuɾuk
-s	s	S	49	23	bɑlɨ_wɑsa;kuksaknwu;sɨpɨ;sagul;sɑpas
-d	d	T	29	20	kapɨredi;dɨkɲɨɲba;di_ja;kijɑsada;vidik_tambɑ_nakuɾuk
-t	t	T	72	48	gut_nɑ;mawu_tɑba;mawu_tɑba;tu;pɑtɨ
-w	w	W	83	39	awurɨki;wup_ja;bɑlɨ_wɑsa;wipapɨ;mawu_tɑba
-u	u	Y	110	71	awurɨki;wup_ja;gut_nɑ;mawu_tɑba;mawu_tɑba
-_	+	_	80	80	wup_ja;gut_nɑ;bɑlɨ_wɑsa;mawu_tɑba;mawu_tɑba
-gw	gw/g w	K W	19	5	aɲgwa;gwarɑjɨn;gwalepa;gwalepa;agwadɨkɨ
-kw	kw/k w	K W	16	8	akwi;gukwami;kwajɨsati;abɨ_kwaku;kwati
+Grapheme	IPA	SCA	Frequency
+^a	a	A	19
+^b	b	P	13
+^d	d	T	9
+^g	g	K	14
+^gw	gw/g w	K W	14
+^j	j	J	28
+^k	k	K	34
+^kw	kw/k w	K W	8
+^l	l	L	4
+^m	m	M	30
+^n	n	N	25
+^p	p	P	7
+^r	r	R	8
+^s	s	S	16
+^t	t	T	14
+^v	v	B	7
+^w	w	W	35
+^ɲ	ɲ	N	10
+_	+	_	80
+a	a	A	137
+a$	a	A	68
+b	b	P	44
+d	d	T	20
+e	e	E	5
+e$	e	E	4
+g	g	K	22
+gw	gw/g w	K W	5
+i	i	I	41
+i$	i	I	30
+j	j	J	36
+k	k	K	72
+k$	k	K	28
+ks	k s	K S	1
+kw	kw/k w	K W	8
+l	l	L	34
+l$	l	L	10
+m	m	M	37
+n	n	N	36
+n$	n	N	14
+nw	n w	N W	9
+p	p	P	35
+p$	p	P	3
+ps	p s	P S	1
+r	r	R	20
+s	s	S	23
+s$	s	S	8
+t	t	T	48
+t$	t	T	10
+u	u	Y	71
+u$	u	Y	39
+v	v	B	11
+w	w	W	39
+ŋ	ŋ	N	3
+ŋ$	ŋ	N	4
+ɑ	ɑ	A	112
+ɑ$	ɑ	A	26
+ɨ	ɨ	I	142
+ɨ$	ɨ	I	47
+ɲ	ɲ	N	15
+ɲ$	ɲ	N	4
+ɾ	ɾ	R	1

@@ -1,26 +1,57 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		176	NULL	ŋaɽaha;geɽi;hoho;mapo;ŋai
-$	NULL		176	NULL	ŋaɽaha;geɽi;hoho;mapo;ŋai
-a	a	A	181	127	ŋaɽaha;ŋaɽaha;ŋaɽaha;mapo;ŋai
-β	β	B	28	18	βat̪amo;ahoβo;d̪eβo;med̪eβo;n̪an̪aɽiβ_n̪an̪aɽiβ
-e	e	E	58	33	geɽi;id̪e;heɽis̪i;ŋel̪e;ŋel̪e
-h	h	H	39	20	ŋaɽaha;hoho;hoho;hoɽi;ahoβo
-i	i	I	101	56	geɽi;ŋai;hoɽi;iɽit̪iz̪aɽa;iɽit̪iz̪aɽa
-g	g	K	18	3	geɽi;ga;gagaŋika;gagaŋika;giz̪aɽopo
-k	k	K	14	7	kos̪;kut̪uɽ;haɽekepuho;gagaŋika;kohat̪i
-l̪	l̪	L	16	15	ŋel̪e;hol̪o;pis̪ihol̪o;al̪e;agol̪as̪ika
-m	m	M	15	6	mapo;βat̪amo;ema;ŋome;hamaɽaha
-n	n	N	3	2	nanariβ_nap;nanariβ_nap;nanariβ_nap
-ŋ	ŋ	N	33	17	ŋaɽaha;ŋai;ɽaŋiz̪a;ŋel̪e;iŋi
-n̪	n̪	N	36	20	n̪a;maɽan̪as̪;n̪an̪aɽiβ_n̪an̪aɽiβ;n̪an̪aɽiβ_n̪an̪aɽiβ;n̪an̪aɽiβ_n̪an̪aɽiβ
-b	b	P	3	3	aban̪a;abat̪aβo;abaɽa
-p	p	P	54	43	mapo;haɽekepuho;had̪epu;pis̪ihol̪o;pi
-r	r	R	1	1	nanariβ_nap
-ɽ	ɽ	R	56	43	ŋaɽaha;geɽi;hoɽi;iɽit̪iz̪aɽa;iɽit̪iz̪aɽa
-s̪	s̪	S	13	6	kos̪;heɽis̪i;pis̪ihol̪o;maɽan̪as̪;s̪a
-z̪	z̪	S	26	24	iɽit̪iz̪aɽa;ɽaŋiz̪a;iz̪e;z̪ei;giz̪aɽopo
-d̪	d̪	T	11	8	id̪e;d̪eβo;had̪epu;ŋod̪;it̪iŋad̪e
-t̪	t̪	T	42	25	βat̪amo;iɽit̪iz̪aɽa;hat̪ai;kut̪uɽ;t̪o
-o	o	U	89	51	hoho;hoho;mapo;kos̪;hoɽi
-u	u	Y	64	22	kut̪uɽ;kut̪uɽ;haɽekepuho;had̪epu;uɽa
-_	+	_	11	11	n̪an̪aɽiβ_n̪an̪aɽiβ;nanariβ_nap;n̪aŋaɽiβi_n̪apu;ŋaɽi_iz̪ahol̪o;ŋaɽi_iz̪ahol̪o
+Grapheme	IPA	SCA	Frequency
+^a	a	A	12
+^d̪	d̪	T	2
+^e	e	E	5
+^e$	e	E	1
+^g	g	K	15
+^h	h	H	19
+^i	i	I	17
+^k	k	K	5
+^m	m	M	9
+^n	n	N	1
+^n̪	n̪	N	16
+^o	o	U	5
+^p	p	P	9
+^s̪	s̪	S	5
+^t̪	t̪	T	15
+^u	u	Y	3
+^z̪	z̪	S	2
+^ŋ	ŋ	N	16
+^ɽ	ɽ	R	12
+^β	β	B	7
+_	+	_	11
+a	a	A	127
+a$	a	A	42
+b	b	P	3
+d̪	d̪	T	8
+d̪$	d̪	T	1
+e	e	E	33
+e$	e	E	19
+g	g	K	3
+h	h	H	20
+i	i	I	56
+i$	i	I	28
+k	k	K	7
+k$	k	K	2
+l̪	l̪	L	15
+l̪$	l̪	L	1
+m	m	M	6
+n	n	N	2
+n̪	n̪	N	20
+o	o	U	51
+o$	o	U	33
+p	p	P	43
+p$	p	P	2
+r	r	R	1
+s̪	s̪	S	6
+s̪$	s̪	S	2
+t̪	t̪	T	25
+t̪$	t̪	T	2
+u	u	Y	22
+u$	u	Y	39
+z̪	z̪	S	24
+ŋ	ŋ	N	17
+ɽ	ɽ	R	43
+ɽ$	ɽ	R	1
+β	β	B	18
+β$	β	B	3

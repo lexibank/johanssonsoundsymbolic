@@ -1,26 +1,50 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		298	NULL	alɯ̞mbɯ̞r;jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;jmbarwar;maja
-$	NULL		298	NULL	alɯ̞mbɯ̞r;jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;jmbarwar;maja
-a	a	A	399	259	alɯ̞mbɯ̞r;jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;andabɯ̞rgɪjɯ̞nɯ̞;jmbarwar
-ɟ	ɟ	C	16	16	ŋgɯ̞nɟal;nɟɯ̞ndɯ̞ra;nɟɯ̞rga;nɟɯ̞ba;gɯ̞lgmanɟawanda
-e̞	e̞	E	68	66	jagɯ̞lne̞nɪ;we̞ɳe̞jɯ̞;we̞ɳe̞jɯ̞;ŋɯ̞le̞jɯ̞nɯ̞;jɯ̞le̞gɪ
-ɪ	ɪ	I	226	145	jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;jamɪɳɪ;jamɪɳɪ;jɯ̞le̞gɪ
-ɯ̞	ɯ̞	I	231	183	alɯ̞mbɯ̞r;alɯ̞mbɯ̞r;jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;andabɯ̞rgɪjɯ̞nɯ̞
-j	j	J	154	106	jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;jmbarwar;maja;maja
-g	g	K	144	100	jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;laɭgan;ŋgɯ̞nɟal;jɯ̞le̞gɪ
-gg	gː	K	1	1	majagge̞nɯ̞
-l	l	L	109	89	alɯ̞mbɯ̞r;jagɯ̞lne̞nɪ;laɭgan;mal;ŋɯ̞le̞jɯ̞nɯ̞
-ɭ	ɭ	L	39	38	bɯ̞ɭŋɯ̞;mabaɭa;laɭgan;ŋalalanaɭa;ŋɯ̞mne̞mbe̞ɭɪ
-m	m	M	85	42	alɯ̞mbɯ̞r;jmbarwar;maja;maja;mabaɭa
-n	n	N	192	141	jagɯ̞lne̞nɪ;jagɯ̞lne̞nɪ;andabɯ̞rgɪjɯ̞nɯ̞;andabɯ̞rgɪjɯ̞nɯ̞;laɭgan
-ŋ	ŋ	N	89	51	bɯ̞ɭŋɯ̞;baŋa;ŋɯ̞le̞jɯ̞nɯ̞;ŋgɯ̞nɟal;ŋɯ̞lɪjɪ
-ɳ	ɳ	N	27	27	we̞ɳe̞jɯ̞;jamɪɳɪ;e̞ɭɯ̞ɳɯ̞;gajane̞ɳe̞nɪ;ŋalne̞ɳe̞nɪ
-nh	nh/n̥	N	1	1	mbɪnhɯ̞ɹ
-nn	nn/nː	N	1	1	lɯ̞ɭɪnnaɭa
-ŋw	ŋw/ŋʷ	N	1	1	mɯ̞dɯ̞ŋwar
-b	b	P	113	85	alɯ̞mbɯ̞r;andabɯ̞rgɪjɯ̞nɯ̞;jmbarwar;bɯ̞ɭŋɯ̞;mabaɭa
-r	r	R	80	61	alɯ̞mbɯ̞r;andabɯ̞rgɪjɯ̞nɯ̞;jmbarwar;jmbarwar;nɟɯ̞ndɯ̞ra
-ɹ	ɹ	R	57	51	gɯ̞bɯ̞ɹdmajɪn;nɯ̞ɹdnɯ̞ɹd;nɯ̞ɹdnɯ̞ɹd;galŋɯ̞ɹgŋɯ̞ɹg;galŋɯ̞ɹgŋɯ̞ɹg
-d	d	T	72	60	andabɯ̞rgɪjɯ̞nɯ̞;gɯ̞bɯ̞ɹdmajɪn;gabɯ̞dmajɪn;nɯ̞ɹdnɯ̞ɹd;nɯ̞ɹdnɯ̞ɹd
-w	w	W	40	19	jmbarwar;we̞ɳe̞jɯ̞;galawa;wɪd;gɯ̞waɹda
-_	+	_	4	4	bɯ̞b_bɯ̞bnajɪnɪ;gada_ala;wag_wagne̞nɪ;njɪŋaja_we̞ɳe̞jɯ̞ne̞nɪ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	31
+^b	b	P	26
+^d	d	T	7
+^e̞	e̞	E	2
+^g	g	K	43
+^j	j	J	46
+^l	l	L	8
+^m	m	M	43
+^n	n	N	32
+^w	w	W	18
+^ŋ	ŋ	N	37
+^ɹ	ɹ	R	5
+_	+	_	4
+a	a	A	259
+a$	a	A	109
+b	b	P	85
+b$	b	P	2
+d	d	T	60
+d$	d	T	5
+e̞	e̞	E	66
+g	g	K	100
+g$	g	K	1
+gg	gː	K	1
+j	j	J	106
+j$	j	J	2
+l	l	L	89
+l$	l	L	12
+m	m	M	42
+n	n	N	141
+n$	n	N	19
+nh	nh/n̥	N	1
+nn	nn/nː	N	1
+r	r	R	61
+r$	r	R	16
+rw	r w	R W	3
+w	w	W	19
+ŋ	ŋ	N	51
+ŋ$	ŋ	N	1
+ŋw	ŋw/ŋʷ	N	1
+ɟ	ɟ	C	16
+ɪ	ɪ	I	145
+ɪ$	ɪ	I	81
+ɭ	ɭ	L	38
+ɭ$	ɭ	L	1
+ɯ̞	ɯ̞	I	183
+ɯ̞$	ɯ̞	I	48
+ɳ	ɳ	N	27
+ɹ	ɹ	R	51
+ɹ$	ɹ	R	1

@@ -1,62 +1,124 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		285	NULL	matto;baʃt;tifo;kobu;dippi
-$	NULL		285	NULL	matto;baʃt;tifo;kobu;dippi
-a	a	A	97	92	matto;baʃt;ʔane;ʔane;kʼamub
-aa	aː	A	18	18	kaam;ʔaatim;kʼaamse;kʼaame;zaapʼe
-f	f	B	15	12	tifo;kufo;ʔefti;fist;ʔifi
-ts	ts	C	24	7	nits;ʔats;ʔitsi;zimbits;diitsi
-e	e	E	69	21	ʔane;ʔane;bowdewuto;ʔefti;zeɾ
-ə	ə	E	21	21	təmme_wokkil;tʼʃʼəɾχondub;məki;sʼəɾkʼukʼ;ʔəʁsʼe
-ɛ	ɛ	E	3	2	kɛnɛ;kɛnɛ;pʼɛltʼe
-ee	eː	E	3	3	tʼeesi;ʔeene;beez
-x	x	G	2	2	woxu;laxi
-ɣ	ɣ	G	2	1	gɔɣo;loɣ
-χ	χ	G	14	7	maχs;laχs;ʔoɾχu;tʼʃʼəɾχondub;daχ
-h	h	H	11	8	hiŋi;ʔaho;ʔehe;dahi;dah
-ʔ	ʔ	H	66	1	ʔɨʃin;ʔink;ʔane;ʔane;ʔangaʃka
-i	i	I	154	107	tifo;dippi;dippi;ʔɨʃin;ʔink
-ɨ	ɨ	I	3	3	ʔɨʃin;bɨtʃi;ʔɨdi
-ii	iː	I	10	10	tʼʃʼiitʼʃʼ;diitsi;diibi;ʃiif;kiisʼ
-j	j	J	33	11	tʼʃʼolaj;goj;jizz;jile;sikijo
-jj	jː	J	1	1	ʔjji
-g	g	K	27	7	gomp;ʔangaʃka;gompo;gido;gitʃtʃob
-k	k	K	54	34	kobu;kufo;ʔink;ʔangaʃka;kobtʼu
-kk	kk/kː	K	3	3	təmme_wokkil;wokkil;məkkim
-kʼ	kʼ	K	19	5	kʼamub;ʔankʼumub;kʼuus;mokʼɗu;kʼomu
-kʼkʼ$	k’ː	K	1	1	ləkʼkʼ
-l	l	L	32	16	liliŋub;liliŋub;tʼʃʼolaj;tʼʃʼililub;tʼʃʼililub
-ll	ll/lː	L	1	1	ʔolloχja
-m	m	M	47	17	matto;gomp;kʼamub;gompo;ʔankʼumub
-mm	mm/mː	M	5	5	təmme_wokkil;dʒamme;təmme;təmme_kʼəstin;kamme
-n	n	N	71	38	ʔɨʃin;ʔink;ʔane;ʔane;bindi
-ŋ	ŋ	N	5	4	liliŋub;liŋ;toŋas;hiŋi;toŋas
-nn	nn/nː	N	2	1	ʃinni;wunn
-b	b	P	55	16	baʃt;kobu;bindi;kʼamub;liliŋub
-p	p	P	5	3	gomp;gompo;pasinpastu;pasinpastu;jape
-pp	pp/pː	P	2	2	dippi;guppu
-pʼ	pʼ	P	2	1	zaapʼe;pʼɛltʼe
-ɾ	ɾ	R	13	6	zeɾ;ʔoɾχu;wuduɾ;tʼʃʼəɾχondub;gaɾsi
-ʁ	ʁ	R	5	3	ʔəʁsʼe;ʔəʁsʼi;ʔaʁi;naʁe;naaʁe
-s	s	S	30	11	maχs;pasinpastu;pasinpastu;kʼuus;besin
-z	z	S	14	7	zeɾ;bagzemub;lizin;zimbits;kubzu
-ʃ	ʃ	S	33	17	baʃt;ʔɨʃin;ʔangaʃka;kʼaʃinaʃiʃ;kʼaʃinaʃiʃ
-ss	ss/sː	S	1	1	tussum
-sʼ	sʼ	S	16	4	sʼanub;sisʼi;sʼusʼu;sʼusʼu;gisʼi
-zz$	zz/zː	S	1	1	jizz
-d	d	T	36	12	dippi;bindi;bowdewuto;gido;ʔade
-t	t	T	39	22	baʃt;tifo;bowdewuto;ʔefti;pasinpastu
-ɗ	ɗ	T	2	1	mokʼɗu;ɗuum
-dd	dː	T	1	1	ʔuddu
-tt	tt/tː	T	2	1	matto;bitt
-tʃ	tʃ	T	10	7	wutʃi;wutʃim;wutʃu;koftʃu;bɨtʃi
-tʼ	tʼ	T	12	4	kobtʼu;tʼum;tʼultʼ_abub;tʼultʼ_abub;gofintʼ
-^dʒ	dʒ	T	2	2	dʒiʃi;dʒamme
-tʃtʃ	tʃtʃ/tʃː	T	1	1	gitʃtʃob
-tʼʃʼ	tʃʼ	T	12	3	tʼʃʼolaj;tʼʃʼililub;tʼʃʼiitʼʃʼ;tʼʃʼiitʼʃʼ;tʼʃʼiʃime
-o	o	U	54	40	matto;tifo;kobu;kufo;gomp
-ɔ	ɔ	U	1	1	gɔɣo
-oo	oː	U	7	7	doot;dootu;dootu;dootgaʃ;looχon
-w	w	W	17	3	bowdewuto;bowdewuto;wutʃi;wutʃim;təmme_wokkil
-u	u	Y	84	51	kobu;kufo;kʼamub;liliŋub;bowdewuto
-uu	uː	Y	9	7	kʼuus;buulu;ʃuunu;buud;guufu
-_	+	_	12	12	təmme_wokkil;tʼultʼ_abub;dootko_guʃ;təmme_kʼəstin;jək_nits
+Grapheme	IPA	SCA	Frequency
+^b	b	P	28
+^d	d	T	16
+^dʒ	dʒ	T	2
+^f	f	B	1
+^g	g	K	20
+^h	h	H	1
+^j	j	J	18
+^k	k	K	13
+^kʼ	kʼ	K	13
+^l	l	L	10
+^m	m	M	13
+^n	n	N	11
+^p	p	P	1
+^pʼ	pʼ	P	1
+^s	s	S	9
+^sʼ	sʼ	S	9
+^t	t	T	10
+^tʃ	tʃ	T	1
+^tʼ	tʼ	T	6
+^tʼʃʼ	tʃʼ	T	8
+^w	w	W	14
+^z	z	S	6
+^ɗ	ɗ	T	1
+^ʃ	ʃ	S	10
+^ʔ	ʔ	H	64
+^ʔʃ	ʔ ʃ	H S	1
+_	+	_	12
+a	a	A	92
+a$	a	A	5
+aa	aː	A	18
+b	b	P	16
+b$	b	P	11
+d	d	T	12
+d$	d	T	8
+dd	dː	T	1
+e	e	E	21
+e$	e	E	48
+ee	eː	E	3
+f	f	B	12
+f$	f	B	2
+g	g	K	7
+h	h	H	8
+h$	h	H	2
+i	i	I	107
+i$	i	I	47
+ii	iː	I	10
+j	j	J	11
+j$	j	J	4
+jj	jː	J	1
+k	k	K	34
+k$	k	K	7
+kk	kk/kː	K	3
+kʼ	kʼ	K	5
+kʼ$	kʼ	K	1
+kʼkʼ$	kʼː	K	1
+l	l	L	16
+l$	l	L	6
+ll	ll/lː	L	1
+m	m	M	17
+m$	m	M	16
+mm	mm/mː	M	5
+ms	m s	M S	1
+n	n	N	38
+n$	n	N	21
+nn	nn/nː	N	1
+nn$	nn/nː	N	1
+ns	n s	N S	1
+o	o	U	40
+o$	o	U	14
+oo	oː	U	7
+p	p	P	3
+p$	p	P	1
+pp	pp/pː	P	2
+pʼ	pʼ	P	1
+s	s	S	11
+s$	s	S	4
+ss	ss/sː	S	1
+sʼ	sʼ	S	4
+sʼ$	sʼ	S	1
+t	t	T	22
+t$	t	T	7
+ts	ts	C	7
+ts$	ts	C	17
+tt	tt/tː	T	1
+tt$	tt/tː	T	1
+tʃ	tʃ	T	7
+tʃ$	tʃ	T	2
+tʃtʃ	tʃtʃ/tʃː	T	1
+tʼ	tʼ	T	4
+tʼ$	tʼ	T	2
+tʼʃʼ	tʃʼ	T	3
+tʼʃʼ$	tʃʼ	T	1
+u	u	Y	51
+u$	u	Y	33
+uu	uː	Y	7
+uu$	uː	Y	2
+w	w	W	3
+x	x	G	2
+z	z	S	7
+z$	z	S	1
+zz$	zz/zː	S	1
+ŋ	ŋ	N	4
+ŋ$	ŋ	N	1
+ɔ	ɔ	U	1
+ɗ	ɗ	T	1
+ə	ə	E	21
+ɛ	ɛ	E	2
+ɛ$	ɛ	E	1
+ɣ	ɣ	G	1
+ɣ$	ɣ	G	1
+ɨ	ɨ	I	3
+ɾ	ɾ	R	6
+ɾ$	ɾ	R	6
+ɾs	ɾ s	R S	1
+ʁ	ʁ	R	3
+ʁsʼ	ʁ sʼ	R S	2
+ʃ	ʃ	S	17
+ʃ$	ʃ	S	5
+ʔ	ʔ	H	1
+χ	χ	G	7
+χ$	χ	G	4
+χs	χ s	G S	1
+χs$	χ s	G S	2

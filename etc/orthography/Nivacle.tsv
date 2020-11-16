@@ -1,41 +1,89 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		332	NULL	apeʔ;xowaji;tɒʔjiʔʃeʔ;jaɬ;ɬakomʔa
-$	NULL		323	NULL	apeʔ;xowaji;tɒʔjiʔʃeʔ;jaɬ;ɬakomʔa
-a	a	A	270	203	apeʔ;xowaji;jaɬ;ɬakomʔa;ɬakomʔa
-aa	aː	A	7	7	ɬawaatʃa;jiwaatʃa;ɬawaatʃa;kaswaatʃa;jiwaatʃaeɬ
-f	f	B	38	8	kɒfajaʃ;fuju;waf;kfeʔ;fuut
-v	v	B	1	1	noheʃtʼʃʼe_nava_jifhus
-fh	fh/fʰ	B	1	1	noheʃtʼʃʼe_nava_jifhus
-c	c	C	20	12	cʔajɒʔj;kocxaʔt;pɒcex;fiʔc;kɒxɒkcini
-e	e	E	103	63	apeʔ;tɒʔjiʔʃeʔ;ɒxetʃe;ɒxetʃe;eʔm_ti
-ee	eː	E	2	2	nɒkeeʃ;nokeeʃ
-x	x	G	101	48	xowaji;ʃnomax;ɒxetʃe;xujiʃʔe;ɬawɒxʔe
-xx	xx/xː	G	1	1	naʔpkutaxxi
-h	h	H	1	1	noheʃtʼʃʼe_nava_jifhus
-ʔ	ʔ	H	205	157	apeʔ;tɒʔjiʔʃeʔ;tɒʔjiʔʃeʔ;tɒʔjiʔʃeʔ;ɬakomʔa
-^ʔw	ʔʷ	H	1	1	ʔwan
-i	i	I	112	89	xowaji;tɒʔjiʔʃeʔ;jakkisit;jakkisit;ɒjiʔʃ
-j	j	J	70	40	xowaji;tɒʔjiʔʃeʔ;jaɬ;kɒfajaʃ;jakkisit
-jj	jː	J	1	1	ta_ɬajjaʔʃ
-k	k	K	148	79	ɬakomʔa;kɒfajaʃ;tukus;tuʔk;tuʔk
-kk	kk/kː	K	1	1	jakkisit
-^kk	kː	K	1	1	kkʔapoʔ
-l	l	L	34	34	ɒxɒklɒ;niklasʃi;klaxɒx;tʔaklɒʔk;kaklek
-ɬ	ɬ	L	43	15	jaɬ;ɬakomʔa;ɬasnɒjitʃ;ɬawɒxʔe;aʃiɬɒx
-m	m	M	32	17	ɬakomʔa;ʃnomax;eʔm_ti;ʃitʃam;amkojan
-n	n	N	93	31	ʃnomax;ɬasnɒjitʃ;niklasʃi;sxaʔn;nuʔ
-ɒ	ɒ	O	70	57	tɒʔjiʔʃeʔ;kɒfajaʃ;ɒjiʔʃ;ɒxetʃe;ɬasnɒjitʃ
-p	p	P	43	22	apeʔ;kkʔapoʔ;tʔapɒʔj;xapʔaɬ;pataktʃʔe
-s	s	S	41	13	jakkisit;tukus;sas;sas;ɬasnɒjitʃ
-ʃ	ʃ	S	51	18	tɒʔjiʔʃeʔ;kɒfajaʃ;ʃnomax;xujiʃʔe;tʔɒjiʃʔe
-ʔs$	ʔs/ˀs	S	6	6	jeʔs;kxuʔs;cʔoʔs;wɒʔs;katiʔs
-ʔʃ$	ʔʃ/ˀʃ	S	6	6	ɒjiʔʃ;ɬsaʔʃ;klaʔʃ;naʔʃ;ta_ɬajjaʔʃ
-t	t	T	125	53	tɒʔjiʔʃeʔ;jakkisit;tukus;tuʔk;tuʔk
-tʃ	tʃ	T	64	44	ɒxetʃe;ɬasnɒjitʃ;ʃitʃam;tʃʔitoʔ;tʃaʔx
-^tt	tː	T	1	1	ttʃanu
-tʼʃʼ	tʃʼ	T	2	1	tʼʃʼaʔna;noheʃtʼʃʼe_nava_jifhus
-o	o	U	53	50	xowaji;ɬakomʔa;ʃnomax;kkʔapoʔ;wojej
-w	w	W	41	26	xowaji;ɬawɒxʔe;wojej;wɒseʔ;jiwojeʃtʃʔe
-u	u	Y	69	58	tukus;tukus;tuʔk;tuʔk;xujiʃʔe
-uu	uː	Y	2	2	fuut;kuukten
-_	+	_	11	11	eʔm_ti;pastʃe_ɬapʔoʔt;ta_ɬxunaʃ;ɬkacʔi_towkojca;tʔaʔkʔ_sin
+Grapheme	IPA	SCA	Frequency
+^a	a	A	27
+^c	c	C	7
+^e	e	E	2
+^f	f	B	25
+^i	i	I	5
+^j	j	J	17
+^k	k	K	42
+^kk	kː	K	1
+^m	m	M	4
+^n	n	N	38
+^ns	n s	N S	1
+^o	o	U	2
+^p	p	P	17
+^s	s	S	11
+^t	t	T	55
+^tt	tː	T	1
+^tʃ	tʃ	T	10
+^tʼʃʼ	tʃʼ	T	1
+^u	u	Y	5
+^w	w	W	12
+^x	x	G	12
+^ɒ	ɒ	O	11
+^ɬ	ɬ	L	18
+^ɬs	ɬ s	L S	1
+^ɬʃ	ɬ ʃ	L S	1
+^ʃ	ʃ	S	8
+^ʔw	ʔʷ	H	1
+_	+	_	11
+a	a	A	203
+a$	a	A	40
+aa	aː	A	7
+c	c	C	12
+c$	c	C	1
+e	e	E	63
+e$	e	E	38
+ee	eː	E	2
+f	f	B	8
+f$	f	B	5
+fh	fh/fʰ	B	1
+h	h	H	1
+i	i	I	89
+i$	i	I	18
+j	j	J	40
+j$	j	J	11
+jj	jː	J	1
+jʃ	j ʃ	J S	2
+k	k	K	79
+k$	k	K	22
+kk	kk/kː	K	1
+kʃ	k ʃ	K S	5
+l	l	L	34
+m	m	M	17
+m$	m	M	11
+n	n	N	31
+n$	n	N	22
+nʃ	n ʃ	N S	1
+o	o	U	50
+o$	o	U	1
+p	p	P	22
+p$	p	P	4
+s	s	S	13
+s$	s	S	11
+sw	s w	S W	1
+sʃ	s ʃ	S S	3
+t	t	T	53
+t$	t	T	17
+tʃ	tʃ	T	44
+tʃ$	tʃ	T	10
+tʼʃʼ	tʃʼ	T	1
+u	u	Y	58
+u$	u	Y	6
+uu	uː	Y	2
+v	v	B	1
+w	w	W	26
+x	x	G	48
+x$	x	G	40
+xx	xx/xː	G	1
+xʃ	x ʃ	G S	1
+ɒ	ɒ	O	57
+ɒ$	ɒ	O	2
+ɬ	ɬ	L	15
+ɬ$	ɬ	L	8
+ʃ	ʃ	S	18
+ʃ$	ʃ	S	11
+ʔ	ʔ	H	157
+ʔ$	ʔ	H	45
+ʔs$	ʔs/ˀs	S	6
+ʔʃ$	ʔʃ/ˀʃ	S	6

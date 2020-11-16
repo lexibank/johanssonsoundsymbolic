@@ -1,43 +1,101 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		278	NULL	t̪eer;aix;xain̪ɔ;agaar;ʊʊrt̪hai
-$	NULL		335	NULL	t̪eer;aix;xain̪ɔ;agaar;pugt̪eer
-a	a	A	186	129	aix;xain̪ɔ;agaar;ʊʊrt̪hai;maɮ
-aa	aː	A	14	8	agaar;amjsɢaa_aβax;jaɮaa;xariɮt̪s̪haa;jaatʃ
-v	v	B	1	1	gvixen̪
-β	β	B	34	26	mʊβʊʊn̪;ɵβɵr;amjsɢaa_aβax;t̪s̪ɵβ;arβan̪_n̪eg
-e	e	E	101	80	get̪es;get̪es;t̪erget̪;t̪erget̪;uuɮen̪
-ee	eː	E	8	6	t̪eer;pugt̪eer;in̪eex;gegee;ueex
-x	x	G	163	50	aix;xain̪ɔ;xɔɮt̪hɔs;saixan̪;xɔin̪ɔ
-i	i	I	77	49	aix;xain̪ɔ;ʊʊrt̪hai;saixan̪;ʊtʃhir
-ii	iː	I	7	5	xiix;ʃɔɮn̪ii_t̪hɔs;t̪huuxii;ɵmxii;n̪ariixan̪
-j	j	J	30	17	pijɵ;jasan̪;amjsɢaa_aβax;n̪jat̪s̪h_t̪arax;xjɵrjɵ
-g	g	K	55	33	agaar;pugt̪eer;ʃɔrgɔɮtʃ;get̪es;t̪erget̪
-ɢ	ɢ	K	49	37	ɢar;ɢar;ɢaʃʊʊn̪;amjsɢaa_aβax;xat̪s̪ɢai
-ɮ	ɮ	L	53	34	maɮ;ʃɔrgɔɮtʃ;xɔɮt̪hɔs;saɮxiɮax;saɮxiɮax
-m	m	M	30	15	maɮ;mʊʊ;ɵmn̪ɵ;mʊβʊʊn̪;mɔxɔɔ
-n̪	n̪	N	118	34	xain̪ɔ;un̪s;n̪ʊrʊʊ;saixan̪;ɵmn̪ɵ
-^b	b	P	1	1	baɢa
-^p	p	P	16	16	pugt̪eer;pijɵ;pɔr;pi;paɮ
-r	r	R	82	49	t̪eer;agaar;pugt̪eer;ʊʊrt̪hai;ʃɔrgɔɮtʃ
-s	s	S	46	8	un̪s;xɔɮt̪hɔs;saixan̪;get̪es;t̪s̪hʊsan̪
-ʃ	ʃ	S	17	3	ʃɔrgɔɮtʃ;t̪ɔɔʃ;ɢaʃʊʊn̪;ʃɔɮn̪ii_t̪hɔs;ʊʊʃgi
-tʃ	tʃ	T	5	2	ʃɔrgɔɮtʃ;jaatʃ;n̪amtʃʊʊn̪;pɵɵɮtʃis;tʃiɮ
-t̪	t̪	T	58	22	t̪eer;pugt̪eer;get̪es;t̪ɔɔʃ;t̪erget̪
-tʃh	tʃh/tʃʰ	T	39	27	ʊtʃhir;n̪aβtʃh;juʊ_tʃh_ʊɢʊi;xutʃht̪hei;t̪aɮaβtʃh
-t̪h	t̪h/t̪ʰ	T	28	27	ʊʊrt̪hai;xɔɮt̪hɔs;xʊit̪hen̪;xaβt̪hɢai;ʃɔɮn̪ii_t̪hɔs
-^tʃh	tʃʰ	T	3	3	tʃhixen̪;tʃhan̪ɢa_t̪ʊʊt̪hai;tʃhʊɮʊʊ
-^t̪h	t̪ʰ	T	18	18	t̪harxin̪;t̪hɔɔsɔn̪;t̪hurgen̪;t̪haβ;t̪her
-t̪s̪	ts̪/ts̪	T	5	5	xat̪s̪ɢai;xut̪s̪uu;ut̪s̪uurt̪hei;t̪s̪ʊt̪s̪aan̪;xet̪s̪ee
-^t̪s̪	ts̪	T	15	15	t̪s̪ʊʊx;t̪s̪ɵɵx;t̪s̪ɵβ;t̪s̪aɢas;t̪s̪ɔɮt̪hɔi
-t̪s̪h	t̪s̪h/ts̪ʰ	T	20	19	n̪ɔt̪s̪hɔx;n̪jat̪s̪h_t̪arax;t̪s̪het̪s̪heg;xariɮt̪s̪haa;xʊrt̪s̪h
-^t̪s̪h	ts̪ʰ	T	4	4	t̪s̪hʊsan̪;t̪s̪hɵɵn̪;t̪s̪het̪s̪heg;t̪s̪haɢaan̪
-t̪ht̪h	t̪ht̪h/t̪ʰː	T	1	1	amt̪ht̪hai
-ɔ	ɔ	U	72	58	xain̪ɔ;ʃɔrgɔɮtʃ;ʃɔrgɔɮtʃ;xɔɮt̪hɔs;xɔɮt̪hɔs
-ɵ	ɵ	U	63	39	ɵmn̪ɵ;ɵmn̪ɵ;xɵx;pijɵ;ɵβɵr
-ɔɔ	ɔː	U	10	6	t̪ɔɔʃ;xɔɔrɔn̪t̪;mɔxɔɔ;t̪hɔɔsɔn̪;xɔɔsɔn̪
-ɵɵ	ɵː	U	8	7	t̪s̪ɵɵx;t̪s̪hɵɵn̪;pɵɵs;mɵɵrɵx;ɵɵr
-u	u	Y	27	17	pugt̪eer;un̪s;gun̪;uxex;n̪ut̪
-ʊ	ʊ	Y	40	27	n̪ʊrʊʊ;ʊtʃhir;mʊβʊʊn̪;t̪s̪hʊsan̪;xʊit̪hen̪
-uu	uː	Y	31	9	xuu;uuɮen̪;t̪uuren̪;suu;xut̪s̪uu
-ʊʊ	ʊː	Y	27	15	ʊʊrt̪hai;n̪ʊrʊʊ;mʊʊ;mʊβʊʊn̪;t̪s̪ʊʊx
-_	+	_	59	59	amjsɢaa_aβax;n̪jat̪s̪h_t̪arax;arβan̪_n̪eg;ʃɔɮn̪ii_t̪hɔs;tʃhan̪ɢa_t̪ʊʊt̪hai
+Grapheme	IPA	SCA	Frequency
+^a	a	A	48
+^b	b	P	1
+^e	e	E	19
+^g	g	K	6
+^i	i	I	4
+^j	j	J	9
+^m	m	M	10
+^n̪	n̪	N	26
+^p	p	P	16
+^s	s	S	13
+^tʃ	tʃ	T	1
+^tʃh	tʃʰ	T	3
+^t̪	t̪	T	14
+^t̪h	t̪ʰ	T	18
+^t̪s̪	ts̪	T	15
+^t̪s̪h	ts̪ʰ	T	4
+^u	u	Y	10
+^uu	uː	Y	1
+^x	x	G	50
+^ɔ	ɔ	U	11
+^ɢ	ɢ	K	10
+^ɵ	ɵ	U	19
+^ɵɵ	ɵː	U	1
+^ʃ	ʃ	S	9
+^ʊ	ʊ	Y	13
+^ʊʊ	ʊː	Y	4
+_	+	_	59
+a	a	A	129
+a$	a	A	9
+aa	aː	A	8
+aa$	aː	A	6
+e	e	E	80
+e$	e	E	2
+ee	eː	E	6
+ee$	eː	E	2
+g	g	K	33
+g$	g	K	13
+gʃ	g ʃ	K S	2
+gʃ$	g ʃ	K S	1
+i	i	I	49
+i$	i	I	24
+ii	iː	I	5
+ii$	iː	I	2
+j	j	J	17
+j$	j	J	2
+js	j s	J S	1
+js$	j s	J S	1
+m	m	M	15
+m$	m	M	4
+ms	m s	M S	1
+n̪	n̪	N	34
+n̪$	n̪	N	56
+n̪s	n̪ s	N S	1
+n̪s$	n̪ s	N S	1
+r	r	R	49
+r$	r	R	33
+s	s	S	8
+s$	s	S	13
+tʃ	tʃ	T	2
+tʃ$	tʃ	T	2
+tʃh	tʃh/tʃʰ	T	27
+tʃh$	tʃh/tʃʰ	T	12
+t̪	t̪	T	22
+t̪$	t̪	T	22
+t̪h	t̪h/t̪ʰ	T	27
+t̪h$	t̪h/t̪ʰ	T	1
+t̪ht̪h	t̪ht̪h/t̪ʰː	T	1
+t̪s̪	ts̪/ts̪	T	5
+t̪s̪h	t̪s̪h/ts̪ʰ	T	19
+t̪s̪h$	t̪s̪h/ts̪ʰ	T	1
+u	u	Y	17
+uu	uː	Y	9
+uu$	uː	Y	21
+v	v	B	1
+x	x	G	50
+x$	x	G	63
+ɔ	ɔ	U	58
+ɔ$	ɔ	U	3
+ɔɔ	ɔː	U	6
+ɔɔ$	ɔː	U	4
+ɢ	ɢ	K	37
+ɢ$	ɢ	K	1
+ɢs	ɢ s	K S	1
+ɮ	ɮ	L	34
+ɮ$	ɮ	L	15
+ɮs	ɮ s	L S	3
+ɮs$	ɮ s	L S	1
+ɵ	ɵ	U	39
+ɵ$	ɵ	U	5
+ɵɵ	ɵː	U	7
+ʃ	ʃ	S	3
+ʃ$	ʃ	S	1
+ʊ	ʊ	Y	27
+ʊʊ	ʊː	Y	15
+ʊʊ$	ʊː	Y	8
+β	β	B	26
+β$	β	B	5
+βs	β s	B S	1
+βs$	β s	B S	1
+βʃ	β ʃ	B S	1

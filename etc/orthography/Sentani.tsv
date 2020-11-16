@@ -1,23 +1,49 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		249	NULL	buma;fə;moj;əmə;ikələ
-$	NULL		249	NULL	buma;fə;moj;əmə;ikələ
-a	a	A	151	78	buma;on̪d̪owaj;isan̪kələ;wa;maka_n̪ə
-f	f	B	14	6	fə;foj;faləm;fɛ;fomafoma
-e	e	E	30	14	kele_n̪ə;kele_n̪ə;aje;n̪o_jeko;hele
-ə	ə	E	145	73	fə;əmə;əmə;ikələ;ikələ
-ɛ	ɛ	E	33	22	kɛn̪d̪o;an̪kɛj;məlɛm;bn̪ɛso;mɛn̪kə
-h	h	H	41	19	jahələ;huhu;huhu;hele;hələ
-i	i	I	48	23	ikələ;isan̪kələ;oki;n̪imə;jəlijəli
-j	j	J	53	26	moj;obojoku;on̪d̪owaj;moj;jahələ
-k	k	K	92	66	ikələ;obojoku;mokod̪u;isan̪kələ;maka_n̪ə
-l	l	L	45	45	ikələ;isan̪kələ;jahələ;kele_n̪ə;hele
-m	m	M	79	27	buma;moj;əmə;mə;mə
-n̪	n̪	N	77	53	on̪d̪owaj;isan̪kələ;maka_n̪ə;kele_n̪ə;n̪okomom
-b	b	P	47	29	buma;obojoku;kabam;bo;mə_be_mbai_bələ
-s	s	S	2	2	isan̪kələ;bn̪ɛso
-d̪	d̪	T	47	22	on̪d̪owaj;mokod̪u;kɛn̪d̪o;həd̪ə;d̪o
-o	o	U	80	44	moj;obojoku;obojoku;obojoku;on̪d̪owaj
-w	w	W	38	10	on̪d̪owaj;wa;wawwaw;wawwaw;d̪uw
-ww	ww/wː	W	3	3	wawwaw;bon̪ɛj_əwwa_bon̪ɛj;əwwa
-u	u	Y	42	14	buma;obojoku;mokod̪u;huhu;huhu
-_	+	_	26	26	maka_n̪ə;kele_n̪ə;n̪o_jeko;məhin̪ə_n̪amə;mə_be_mbai_bələ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	27
+^a$	a	A	1
+^b	b	P	18
+^d̪	d̪	T	25
+^f	f	B	8
+^h	h	H	22
+^i	i	I	7
+^i$	i	I	1
+^j	j	J	13
+^k	k	K	26
+^m	m	M	41
+^n̪	n̪	N	24
+^o	o	U	7
+^u	u	Y	5
+^u$	u	Y	3
+^w	w	W	10
+^ə	ə	E	9
+^ə$	ə	E	2
+_	+	_	26
+a	a	A	78
+a$	a	A	45
+b	b	P	29
+d̪	d̪	T	22
+e	e	E	14
+e$	e	E	16
+f	f	B	6
+h	h	H	19
+i	i	I	23
+i$	i	I	17
+j	j	J	26
+j$	j	J	14
+k	k	K	66
+l	l	L	45
+m	m	M	27
+m$	m	M	11
+n̪	n̪	N	53
+o	o	U	44
+o$	o	U	29
+s	s	S	2
+u	u	Y	14
+u$	u	Y	20
+w	w	W	10
+w$	w	W	18
+ww	ww/wː	W	3
+ə	ə	E	73
+ə$	ə	E	61
+ɛ	ɛ	E	22
+ɛ$	ɛ	E	11

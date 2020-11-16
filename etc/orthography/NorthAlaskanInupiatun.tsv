@@ -1,43 +1,70 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		315	NULL	qulaa;iqsi;aquvatiɣun;iluqaan;uumisuk
-$	NULL		315	NULL	qulaa;iqsi;aquvatiɣun;iluqaan;uumisuk
-a	a	A	287	196	aquvatiɣun;aquvatiɣun;taliq;taliq;aʁɹa
-aa	aː	A	60	42	qulaa;iluqaan;ataaniit;saniʁaaniit;suŋauɹaaq
-v	v	B	19	18	aquvatiɣun;sivuani;suvluaq;nuvija;uvluq
-vv	vv/vː	B	3	3	avvaq;uvva;tivvuaq
-ɣ	ɣ	G	20	20	aquvatiɣun;saaɣaq;iɲuɣiakit;iɲuɣauɹaq;iɣniq
-ɣɣ	ɣɣ/ɣː	G	1	1	iɣɣiaq
-I	I/i	I	3	3	qitqaIJniit;tallimat_piIŋasut;alIa
-i	i	I	224	159	iqsi;iqsi;aquvatiɣun;iluqaan;uumisuk
-ii	iː	I	13	11	atakkii;tunuaniit;ataaniit;saniʁaaniit;qitqaIJniit
-j	j	J	25	25	aŋutaijaaq;nuvija;aʁnaijaaq;aŋajuqakʃaq;pujuq
-k	k	K	111	21	uumisuk;piʎuk;kii;auk;ipkiʎaq
-q	q	K	173	36	qulaa;iqsi;aquvatiɣun;iluqaan;taliq
-kk	kk/kː	K	3	3	atakkii;ikkat;ikka
-qq	qq/qː	K	4	4	iqquk;siqquq;utuqqau;utuqqau
-l	l	L	58	57	qulaa;iluqaan;taliq;taliq;suvluaq
-ɬ	ɬ	L	3	3	iɬuaq;qaqɬuuk;akɬunaaq
-ʎ	ʎ	L	12	12	piʎuk;siiʁʎiɲɲaq;ipkiʎaq;iʎu;iʎisima
-ll	ll/lː	L	6	6	tallimat_piIŋasut;tallimat;nallaq;tallimat_malʁuk;kalluk
-ʎʎ	ʎʎ/ʎː	L	1	1	piiʎʎiuq
-m	m	M	41	27	uumisuk;amiʁaq;tiŋmiaq;maŋaq;timi
-mm	mm/mː	M	5	5	qimmiq;uumman;qaummaq;immuk;samman
-n	n	N	72	34	aquvatiɣun;iluqaan;niʁɹun;niʁɹun;sivuani
-ŋ	ŋ	N	34	33	aŋi;tiŋmiaq;maŋaq;suŋauɹaaq;aŋutaijaaq
-ɲ	ɲ	N	13	12	iɲuɣiakit;iɲuɣauɹaq;iɲuu;iɲuɣiak;iɲuk
-nn	nn/nː	N	5	5	mannik;uunnaak;unnuaq;unna;ikpakʃaq_unnuŋman
-ŋŋ	ŋŋ/ŋː	N	4	4	tiŋŋiq;quliŋŋuʁutaiʎaq;maŋŋuq;saŋŋi
-ɲɲ	ɲɲ/ɲː	N	2	2	siiʁʎiɲɲaq;siiʁʎiɲɲaq
-p	p	P	37	20	piʎuk;ipkiʎaq;piʁiŋa;ipqu;paliuma
-pp	pp/pː	P	1	1	alappaaq
-ɹ	ɹ	R	13	13	niʁɹun;aʁɹa;suŋauɹaaq;iɹi;iɲuɣauɹaq
-ʁ	ʁ	R	42	42	niʁɹun;aʁɹa;amiʁaq;aqiaʁuq;saniʁaaniit
-ʁʁ	ʁʁ/ʁː	R	3	3	iʁʁi;maʁʁaɹaaq;taʁʁaq
-s	s	S	56	19	iqsi;uumisuk;sivuani;saniʁaaniit;siiʁʎiɲɲaq
-ʃ	ʃ	S	17	13	nauttʃiaq;aittʃuq;quttʃik;aŋajuqakʃaq;aaquakʃaq
-J	J/dʒ	T	1	1	qitqaIJniit
-t	t	T	113	48	aquvatiɣun;taliq;taliq;atakkii;tunuaniit
-tt	tt/tː	T	13	13	nauttʃiaq;aittʃuq;quttʃik;ittʃakʃat;aattʃauq
-u	u	Y	251	186	qulaa;aquvatiɣun;aquvatiɣun;iluqaan;uumisuk
-uu	uː	Y	8	3	uumisuk;nakuu;uumman;uunnaak;qaqɬuuk
-_	+	_	5	5	tallimat_piIŋasut;qulit_atausiq;tallimat_malʁuk;qulit_malʁuk;ikpakʃaq_unnuŋman
+Grapheme	IPA	SCA	Frequency
+I	I/i	I	3
+J	J/dʒ	T	1
+^a	a	A	57
+^aa	aː	A	15
+^i	i	I	43
+^k	k	K	9
+^l	l	L	1
+^m	m	M	14
+^n	n	N	28
+^p	p	P	17
+^q	q	K	29
+^s	s	S	30
+^t	t	T	34
+^u	u	Y	35
+^uu	uː	Y	3
+_	+	_	5
+a	a	A	196
+a$	a	A	34
+aa	aː	A	42
+aa$	aː	A	3
+i	i	I	159
+i$	i	I	22
+ii	iː	I	11
+ii$	iː	I	2
+j	j	J	25
+k	k	K	21
+k$	k	K	76
+kk	kk/kː	K	3
+ks	k s	K S	1
+kʃ	k ʃ	K S	4
+l	l	L	57
+ll	ll/lː	L	6
+m	m	M	27
+mm	mm/mː	M	5
+n	n	N	34
+n$	n	N	10
+nn	nn/nː	N	5
+p	p	P	20
+pp	pp/pː	P	1
+q	q	K	36
+q$	q	K	103
+qq	qq/qː	K	4
+qs	q s	K S	5
+s	s	S	19
+t	t	T	48
+t$	t	T	31
+tt	tt/tː	T	13
+u	u	Y	186
+u$	u	Y	30
+uu	uː	Y	3
+uu$	uː	Y	2
+v	v	B	18
+vs	v s	B S	1
+vv	vv/vː	B	3
+ŋ	ŋ	N	33
+ŋ$	ŋ	N	1
+ŋŋ	ŋŋ/ŋː	N	4
+ɣ	ɣ	G	20
+ɣɣ	ɣɣ/ɣː	G	1
+ɬ	ɬ	L	3
+ɲ	ɲ	N	12
+ɲ$	ɲ	N	1
+ɲɲ	ɲɲ/ɲː	N	2
+ɹ	ɹ	R	13
+ʁ	ʁ	R	42
+ʁʁ	ʁʁ/ʁː	R	3
+ʃ	ʃ	S	13
+ʎ	ʎ	L	12
+ʎʎ	ʎʎ/ʎː	L	1

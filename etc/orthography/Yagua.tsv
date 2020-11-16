@@ -1,29 +1,50 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		331	NULL	sa_hĩju;suwũjata;ɾiwasi;witawi;tĩtãhũ
-$	NULL		329	NULL	sa_hĩju;suwũjata;ɾiwasi;witawi;tĩtãhũ
-a	a	A	273	210	sa_hĩju;suwũjata;suwũjata;ɾiwasi;witawi
-ã	ã	A	60	47	tĩtãhũ;miɾjãta;hawãta;nutʃã;nikjaɾãj
-c$	c	C	1	1	nãnũhũɲihjatec
-e	e	E	42	19	hase;pute;ne_mõtaɾa;teɾa;nãɾje
-ẽ$	ẽ	E	3	3	tãɾihẽ;tãɾihẽ;tãɾihẽ
-h	h	H	142	35	sa_hĩju;tĩtãhũ;hawãta;hu;hase
-i	i	I	158	87	ɾiwasi;ɾiwasi;witawi;witawi;miɾjãta
-ĩ	ĩ	I	41	23	sa_hĩju;tĩtãhũ;hĩwaj;hĩtjã;kĩnãj
-j	j	J	154	105	sa_hĩju;suwũjata;miɾjãta;nikjaɾãj;nikjaɾãj
-k	k	K	22	14	nikjaɾãj;wataku;kanuwũ;wakamju;kĩnãj
-q	q	K	6	3	qi;niqi;qi;hĩtʃaqo;qimu
-m	m	M	51	32	miɾjãta;sami;wimu;hãmu;ne_mõtaɾa
-n	n	N	124	77	nutʃã;ɾunu;nikjaɾãj;tunu;nuta
-ɲ	ɲ	N	3	3	siɲu;nãnũhũɲihjatec;hiɲĩ
-p	p	P	31	19	pupuhuɾu;pupuhuɾu;pute;sa_pisi;piwaj
-ɾ	ɾ	R	99	76	ɾiwasi;miɾjãta;pupuhuɾu;ɾunu;nikjaɾãj
-s	s	S	66	42	sa_hĩju;suwũjata;ɾiwasi;hase;sami
-t	t	T	201	136	suwũjata;witawi;tĩtãhũ;tĩtãhũ;miɾjãta
-^d	d	T	2	2	djetja;da
-tʃ	tʃ	T	26	25	nutʃã;hũnõɾitʃa;nuwatʃi;mutʃi;taɾaki_wũjahũj_taɾaki_ɾantʃahũ
-o	o	U	21	12	tatahjo;so;sahomutu;tũjuɾo;ɾoɾi
-õ	õ	U	21	11	ne_mõtaɾa;hũnõɾitʃa;kukõ;hũnõ;tiɾjõ
-w	w	W	69	43	suwũjata;ɾiwasi;witawi;witawi;hawãta
-u	u	Y	144	92	sa_hĩju;suwũjata;hu;nutʃã;pupuhuɾu
-ũ	ũ	Y	71	51	suwũjata;tĩtãhũ;taɾjahũ;hũtjahũ;hũtjahũ
-_	+	_	26	26	sa_hĩju;ne_mõtaɾa;sa_pisi;taɾaki_wũjahũj_taɾaki_ɾantʃahũ;taɾaki_wũjahũj_taɾaki_ɾantʃahũ
+Grapheme	IPA	SCA	Frequency
+^d	d	T	2
+^h	h	H	107
+^k	k	K	8
+^m	m	M	19
+^n	n	N	45
+^p	p	P	12
+^q	q	K	3
+^s	s	S	22
+^t	t	T	64
+^t$	t	T	1
+^tʃ	tʃ	T	1
+^w	w	W	26
+^ɾ	ɾ	R	23
+_	+	_	26
+a	a	A	210
+a$	a	A	63
+c$	c	C	1
+e	e	E	19
+e$	e	E	23
+h	h	H	35
+i	i	I	87
+i$	i	I	71
+j	j	J	105
+j$	j	J	49
+k	k	K	14
+m	m	M	32
+n	n	N	77
+ns	n s	N S	2
+o	o	U	12
+o$	o	U	9
+p	p	P	19
+q	q	K	3
+s	s	S	42
+t	t	T	136
+tʃ	tʃ	T	25
+u	u	Y	92
+u$	u	Y	52
+w	w	W	43
+ã	ã	A	47
+ã$	ã	A	13
+õ	õ	U	11
+õ$	õ	U	10
+ĩ	ĩ	I	23
+ĩ$	ĩ	I	18
+ũ	ũ	Y	51
+ũ$	ũ	Y	20
+ɲ	ɲ	N	3
+ɾ	ɾ	R	76
+ẽ$	ẽ	E	3

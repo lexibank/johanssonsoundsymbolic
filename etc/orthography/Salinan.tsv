@@ -1,40 +1,86 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		137	NULL	ʃxalo;ʈkheeseleʔ;elakh;ʈʔophokʔh;ʈʔophokʔh
-$	NULL		167	NULL	ʃxalo;ʈkheeseleʔ;tʃʔheexenʔ;elakh;ʈʔophokʔh
-a	a	A	108	91	ʃxalo;elakh;smath;ʈʔath;ʔakhatha
-aa	aː	A	22	20	khetʃhaaʔ;chaaxwe;axaakʔh;xaatʔha;ʃaʔaanel
-f	f	B	1	1	threthfomʔ
-c	c	C	5	4	khcʔhathel;khcʔhathel;cʔheph;ʈacʔhopʔheʔ;raʔcʔhekʔh
-^ts	ts	C	1	1	tsaakhaj
-^ʈʃ	ʈʃ/ʈʂ	C	1	1	ʈʃaʔ
-e	e	E	87	69	ʈkheeseleʔ;ʈkheeseleʔ;tʃʔheexenʔ;elakh;threthfomʔ
-ee	eː	E	9	7	ʈkheeseleʔ;tʃʔheexenʔ;ʈeexoxoʔ;eeʃax;meen
-x	x	G	29	15	ʃxalo;tʃʔheexenʔ;xomo;xotʔh;axaakʔh
-xw	xw/xʷ	G	1	1	chaaxwe
-h	h	H	8	4	homʈkhawʔ;eleheʔ;hekʔh;sjohol;sjohol
-ʔ	ʔ	H	90	29	ʈkheeseleʔ;tʃʔheexenʔ;ʈʔophokʔh;ʈʔophokʔh;threthfomʔ
-ʔh	ʔh/ʔʰ	H	32	20	tʃʔheexenʔ;ʈʔophokʔh;ʈʔophokʔh;xotʔh;axaakʔh
-j	j	J	26	17	xoj;ja;xejoʔ;ʈʔophoj;phjam
-k	k	K	16	15	ʈʔophokʔh;ʈʔophokʔh;axaakʔh;ʈeskʔham;eʃkʔhol
-kh	kh/kʰ	K	26	16	ʈkheeseleʔ;elakh;ʔakhatha;homʈkhawʔ;tʃhkhakh
-^kh	kʰ	K	17	15	khetʃhaaʔ;khcʔhathel;khcʔhathel;kheʃaʔ;khsa
-l	l	L	43	18	ʃxalo;ʈkheeseleʔ;elakh;khcʔhathel;khcʔhathel
-m	m	M	33	13	threthfomʔ;xomo;smath;homʈkhawʔ;maʔa
-n	n	N	34	23	tʃʔheexenʔ;ʈephen;ʈookhenaʔ;ʃaʔaanel;sokhentho
-p	p	P	1	1	ʈacʔhopʔheʔ
-ph	ph/pʰ	P	17	14	ʈʔophokʔh;ʈʔophokʔh;ʈephen;xaph;cʔheph
-^ph	pʰ	P	6	6	phjam;phajaanel;phaʔ;phaʔ;pheʔ
-r	r	R	8	4	threthfomʔ;re;romʈookhe;kharaʔ;raʔcʔhekʔh
-s	s	S	32	5	ʈkheeseleʔ;smath;ʈeskʔham;sokhentho;esxeʔ
-ʃ	ʃ	S	22	7	ʃxalo;ʃoweth;eʃem;eʃkʔhol;ʃaʔaanel
-t	t	T	11	6	xotʔh;xaatʔha;ʈoʔethaxtʔhol;tʔholkhew;khetʔhol
-ʈ	ʈ	T	40	9	ʈkheeseleʔ;ʈʔophokʔh;ʈʔophokʔh;ʈephen;ʈʔath
-ch	ch/tʃ	T	2	1	chaaxwe;ʈechewʔ
-th	th/tʰ	T	32	17	threthfomʔ;threthfomʔ;smath;ʈʔath;ʃoweth
-^tʃ	tʃ	T	1	1	tʃʔheexenʔ
-tʃh	tʃh/tʃʰ	T	6	4	khetʃhaaʔ;xotʃh;etʃhomnox;ʈetʃhajʔ;ʔomtʃhen
-^tʃh	tʃʰ	T	4	4	tʃhkhakh;tʃhxoʔ;tʃhaxaalthe;tʃhxaʔ
-o	o	U	71	63	ʃxalo;ʈʔophokʔh;ʈʔophokʔh;ʈʔophokʔh;ʈʔophokʔh
-oo	oː	U	8	8	ʈookhenaʔ;romʈookhe;khoolalʔeʔ;ʔookʔheʔ;ʈʔoos
-w	w	W	16	10	ʃoweth;homʈkhawʔ;aʔawʔ;ʃwanʔ;ʔolʈaw
-_	+	_	1	1	el_phaal
+Grapheme	IPA	SCA	Frequency
+^a	a	A	6
+^aa	aː	A	1
+^c	c	C	1
+^ch	ch/tʃ	T	1
+^e	e	E	7
+^ee	eː	E	2
+^h	h	H	4
+^j	j	J	3
+^k	k	K	1
+^kh	kʰ	K	15
+^khs	kʰ s	K S	2
+^l	l	L	5
+^lʃ	l ʃ	L S	1
+^m	m	M	10
+^n	n	N	2
+^o	o	U	2
+^ph	pʰ	P	6
+^r	r	R	4
+^s	s	S	14
+^t	t	T	5
+^th	th/tʰ	T	7
+^ts	ts	C	1
+^tʃ	tʃ	T	1
+^tʃh	tʃʰ	T	4
+^x	x	G	11
+^ʃ	ʃ	S	9
+^ʃw	ʃ w	S W	1
+^ʈ	ʈ	T	28
+^ʈʃ	ʈʃ/ʈʂ	C	1
+^ʔ	ʔ	H	12
+_	+	_	1
+a	a	A	91
+a$	a	A	11
+aa	aː	A	20
+aa$	aː	A	1
+c	c	C	4
+ch	ch/tʃ	T	1
+e	e	E	69
+e$	e	E	11
+ee	eː	E	7
+f	f	B	1
+h	h	H	4
+j	j	J	17
+j$	j	J	6
+k	k	K	15
+kh	kh/kʰ	K	16
+kh$	kh/kʰ	K	9
+khʃ	kh/kʰ ʃ	K S	1
+l	l	L	18
+l$	l	L	17
+lw	l w	L W	2
+m	m	M	13
+m$	m	M	9
+ms	m s	M S	1
+n	n	N	23
+n$	n	N	8
+ns	n s	N S	1
+o	o	U	63
+o$	o	U	6
+oo	oː	U	8
+p	p	P	1
+ph	ph/pʰ	P	14
+ph$	ph/pʰ	P	3
+r	r	R	4
+s	s	S	5
+s$	s	S	7
+t	t	T	6
+th	th/tʰ	T	17
+th$	th/tʰ	T	8
+tʃh	tʃh/tʃʰ	T	4
+tʃh$	tʃh/tʃʰ	T	1
+tʃhw	tʃh/tʃʰ w	T W	1
+w	w	W	10
+w$	w	W	2
+x	x	G	15
+x$	x	G	3
+xw	xw/xʷ	G	1
+ʃ	ʃ	S	7
+ʃ$	ʃ	S	3
+ʈ	ʈ	T	9
+ʈ$	ʈ	T	3
+ʔ	ʔ	H	29
+ʔ$	ʔ	H	47
+ʔh	ʔh/ʔʰ	H	20
+ʔh$	ʔh/ʔʰ	H	12

@@ -1,31 +1,65 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		316	NULL	maʂi;ʂipo;kɨjoska;sinat;joʔina
-$	NULL		313	NULL	maʂi;ʂipo;kɨjoska;sinat;joʔina
-a	a	A	282	151	maʂi;kɨjoska;sinat;joʔina;hima
-ã	ã	A	26	13	põjã;põjã;ponã;joɾã_kãjã;joɾã_kãjã
-aa$	aː	A	1	1	haa
-β	β	B	72	38	βɨβo;βɨβo;honi_βakɨ;iβisaʔi;βaɾi
-e$	e	E	1	1	jame
-h	h	H	36	1	hima;hiwi_ʃaka;hato;himi;honi_βakɨ
-ʔ	ʔ	H	44	43	joʔina;ʂiʔi_mapo;ɾoʔapa;wakaʔoɾi;ʔoɾi
-i	i	I	165	84	maʂi;ʂipo;sinat;joʔina;hima
-ĩ	ĩ	I	28	14	hoĩ;kaĩ;nai_koʔĩ;nɨskaβɨkoĩnõ_nɨskaβɨkoĩnõ;nɨskaβɨkoĩnõ_nɨskaβɨkoĩnõ
-ɨ	ɨ	I	117	75	kɨjoska;pɨmana;βɨβo;ʂɨʃɨ;ʂɨʃɨ
-ii	iː	I	1	1	tii_a
-ɨ̃	ɨ̃	I	8	7	kɨ̃to;mɨ̃tʃis;βɨnɨ̃_aĩ_akaʔi;hɨ̃kɨs_aʃõɾa;nɨ̃a
-j	j	J	21	10	kɨjoska;joʔina;põjã;põjã;joɾã_kãjã
-k	k	K	92	69	kɨjoska;kɨjoska;hiwi_ʃaka;wakaʔoɾi;moka
-m	m	M	62	35	maʂi;hima;ʂiʔi_mapo;pɨmana;moka
-n	n	N	71	43	sinat;joʔina;pɨmana;anipa;natʃa
-p	p	P	58	36	ʂipo;põjã;põjã;ʂiʔi_mapo;pɨmana
-ɾ	ɾ	R	39	30	ɾoʔapa;wakaʔoɾi;ʔoɾi;joɾã_kãjã;mapo_ɾɨso
-s	s	S	31	23	kɨjoska;sinat;mapo_ɾɨso;iβisaʔi;tʃipis
-ʂ	ʂ	S	56	28	maʂi;ʂipo;ʂiʔi_mapo;itʃʂapa;ʂipo
-ʃ	ʃ	S	46	24	hiwi_ʃaka;toʃõ;ʂɨʃɨ;ʃõa;ʃao
-t	t	T	49	29	sinat;toʃõ;hato;kɨ̃to;tii_a
-tʃ	tʃ	T	32	20	itʃʂapa;tʃai;natʃa;ʂitʃo;matʃi
-o	o	U	152	88	ʂipo;kɨjoska;joʔina;ʂiʔi_mapo;ɾoʔapa
-õ	õ	U	18	12	põjã;põjã;toʃõ;ʃõa;ɾõkɨ
-oo$	oː	U	1	1	βoo
-w	w	W	29	20	hiwi_ʃaka;wakaʔoɾi;wai_i;waka_aka;howa
-_	+	_	36	36	ʂiʔi_mapo;hiwi_ʃaka;joɾã_kãjã;honi_βakɨ;mapo_ɾɨso
+Grapheme	IPA	SCA	Frequency
+^a	a	A	6
+^a$	a	A	1
+^h	h	H	35
+^i	i	I	19
+^i$	i	I	1
+^j	j	J	11
+^k	k	K	23
+^m	m	M	27
+^n	n	N	28
+^o	o	U	14
+^p	p	P	22
+^s	s	S	1
+^t	t	T	17
+^tʃ	tʃ	T	7
+^w	w	W	9
+^ĩ	ĩ	I	1
+^ɨ	ɨ	I	14
+^ɾ	ɾ	R	9
+^ʂ	ʂ	S	19
+^ʃ	ʃ	S	17
+^ʔ	ʔ	H	1
+^β	β	B	34
+_	+	_	36
+a	a	A	151
+a$	a	A	124
+aa$	aː	A	1
+e$	e	E	1
+h	h	H	1
+i	i	I	84
+i$	i	I	61
+ii	iː	I	1
+j	j	J	10
+k	k	K	69
+m	m	M	35
+n	n	N	43
+o	o	U	88
+o$	o	U	50
+oo$	oː	U	1
+p	p	P	36
+s	s	S	23
+s$	s	S	7
+t	t	T	29
+t$	t	T	3
+tʃ	tʃ	T	20
+tʃʂ	tʃ ʂ	T S	5
+w	w	W	20
+ã	ã	A	13
+ã$	ã	A	13
+õ	õ	U	12
+õ$	õ	U	6
+ĩ	ĩ	I	14
+ĩ$	ĩ	I	13
+ɨ	ɨ	I	75
+ɨ$	ɨ	I	28
+ɨ̃	ɨ̃	I	7
+ɨ̃$	ɨ̃	I	1
+ɾ	ɾ	R	30
+ʂ	ʂ	S	28
+ʂ$	ʂ	S	2
+ʃ	ʃ	S	24
+ʃ$	ʃ	S	3
+ʃʂ	ʃ ʂ	S S	2
+ʔ	ʔ	H	43
+β	β	B	38

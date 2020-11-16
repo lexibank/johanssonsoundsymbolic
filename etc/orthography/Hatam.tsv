@@ -1,41 +1,85 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		247	NULL	gau;hagɔm;gga;mindhɛ;akɔu
-$	NULL		261	NULL	gau;ttin;hagɔm;gga;mindhɛ
-a	a	A	78	60	gau;hagɔm;gga;akɔu;ndab
-c	c	C	13	4	cut;hacan;mincɛu;muhuindacan;cun
-ɟ	ɟ	C	14	8	nɟum;nɟap;ugɟɛm;dɛiɟ;nɟap
-ɛ	ɛ	E	66	57	mindhɛ;knɛj;kaɾɛna;bɛhɛi;bɛhɛi
-h	h	H	22	12	hagɔm;hɔŋ;bɛhɛi;ha;ham
-^hw	hʷ	H	2	2	hwɔp;hwab
-i	i	I	140	91	ttin;mindhɛ;ŋhim;bɛhɛi;ndig
-j	j	J	17	10	knɛj;dihjɛi;jɛm;jai;hjɛi
-g	g	K	41	16	gau;hagɔm;ŋgɾɛ;ndig;ŋgɾɔm
-k	k	K	25	5	akɔu;knɛj;kaɾɛna;muŋkun;paku
-gg	gː	K	2	1	gga;simnaibɾimiggɔm
-l	l	L	5	4	dlapan;bulat;lɛnɛ;dilɛ;pilɛi
-m	m	M	112	8	hagɔm;mindhɛ;ŋhim;ham;mpɔ
-^mh	mh/m̥	M	1	1	mha
-^mm	mː	M	4	4	mmun;mmɛŋ;mmɔ;mmun
-n	n	N	81	25	ttin;mindhɛ;ndab;ndab;knɛj
-ŋ	ŋ	N	37	4	hɔŋ;ŋgɾɛ;ŋgɾɔm;ŋud;ŋgɛ
-ɲ	ɲ	N	8	2	ɲɛŋ;ɲɛi;biɲɛn;ɲatuŋwagɔm;miɲɛi
-nn	nn/nː	N	1	1	annani
-ŋw	ŋw/ŋʷ	N	4	2	ŋwam;tuŋwatu;ŋwɔi;ɲatuŋwagɔm
-^ŋh	ŋh/ŋ̊	N	2	2	ŋhim;ŋhɔp
-b	b	P	32	6	ndab;ndab;bɛhɛi;bɔn;simnaibɾimiggɔm
-p	p	P	37	4	pɔu;ŋhɔp;mpɔ;pim;nɟap
-ɾ	ɾ	R	21	18	kaɾɛna;ŋgɾɛ;ɾɔm;ŋgɾɔm;simnaibɾimiggɔm
-s	s	S	20	10	minsiɛn;simnaibɾimiggɔm;nsi;sindig;sai
-z	z	S	2	1	pzɛz;pzɛz
-d	d	T	36	17	ndab;ndab;ndig;ŋud;ndig
-t	t	T	39	5	dut;tiŋɔu;cut;bitai;ntab
-dh	dh/dʰ	T	1	1	mindhɛ
-^tt	tː	T	3	3	ttin;tta;ttɛi
-ɔ	ɔ	U	79	75	hagɔm;akɔu;hɔŋ;pɔu;ŋhɔp
-^w	w	W	2	2	waw;wɛɾ
-w$	w	W	2	2	waw;gaw
-u	u	Y	60	41	gau;akɔu;pɔu;ŋud;nɟum
-_	+	_	1	1	ŋɔn_kinɛi
-gw	gw/g w	K W	4	2	nuŋugwa;ŋgwɛn;gwam;gwam
-kw	kw/k w	K W	5	1	kwɛi;mikwau;kwai;kwɔhɔp;kwɔhɔp
-^dw	d w	T W	2	2	dwɛi;dwɛb
+Grapheme	IPA	SCA	Frequency
+^a	a	A	3
+^b	b	P	18
+^c	c	C	9
+^d	d	T	16
+^dw	d w	T W	2
+^g	g	K	4
+^gg	gː	K	1
+^gw	gw/g w	K W	2
+^h	h	H	10
+^hw	hʷ	H	2
+^i	i	I	1
+^j	j	J	5
+^k	k	K	15
+^kw	kw/k w	K W	4
+^l	l	L	1
+^m	m	M	66
+^mh	mh/m̥	M	1
+^mm	mː	M	4
+^n	n	N	22
+^ns	n s	N S	1
+^p	p	P	11
+^s	s	S	7
+^t	t	T	10
+^tt	tː	T	3
+^u	u	Y	2
+^w	w	W	2
+^ŋ	ŋ	N	24
+^ŋh	ŋh/ŋ̊	N	2
+^ŋw	ŋw/ŋʷ	N	2
+^ɛ	ɛ	E	1
+^ɟ	ɟ	C	5
+^ɲ	ɲ	N	6
+^ɾ	ɾ	R	1
+_	+	_	1
+a	a	A	60
+a$	a	A	15
+b	b	P	6
+b$	b	P	8
+c	c	C	4
+d	d	T	17
+d$	d	T	3
+dh	dh/dʰ	T	1
+g	g	K	16
+g$	g	K	21
+gg	gː	K	1
+gw	gw/g w	K W	2
+h	h	H	12
+i	i	I	91
+i$	i	I	48
+j	j	J	10
+j$	j	J	2
+k	k	K	5
+k$	k	K	5
+kw	kw/k w	K W	1
+l	l	L	4
+m	m	M	8
+m$	m	M	38
+n	n	N	25
+n$	n	N	32
+nn	nn/nː	N	1
+ns	n s	N S	1
+p	p	P	4
+p$	p	P	22
+s	s	S	10
+s$	s	S	1
+t	t	T	5
+t$	t	T	24
+u	u	Y	41
+u$	u	Y	17
+w$	w	W	2
+z	z	S	1
+z$	z	S	1
+ŋ	ŋ	N	4
+ŋ$	ŋ	N	9
+ŋw	ŋw/ŋʷ	N	2
+ɔ	ɔ	U	75
+ɔ$	ɔ	U	4
+ɛ	ɛ	E	57
+ɛ$	ɛ	E	8
+ɟ	ɟ	C	8
+ɟ$	ɟ	C	1
+ɲ	ɲ	N	2
+ɾ	ɾ	R	18
+ɾ$	ɾ	R	2

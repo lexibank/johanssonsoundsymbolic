@@ -1,60 +1,105 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		282	NULL	daan;pir̃a;kaw_sã;pãã;maa_bimɛ_ji_wɛ
-$	NULL		262	NULL	daan;pir̃a;maa_bimɛ_ji_wɛ;kɪɛʋɛ;nii
-a	a	A	74	47	pir̃a;kaw_sã;dʒaŋga;dʒaŋga;ʒaɣa
-aa	aː	A	35	21	daan;maa_bimɛ_ji_wɛ;baako;jaa_borombɛ;namaa
-ã$	ã	A	1	1	kaw_sã
-ãã$	ãː	A	1	1	pãã
-e	e	E	90	61	poɔre;dege_n_siɥi;dege_n_siɥi;n_nore;n_nie_hũ
-ɛ	ɛ	E	121	31	maa_bimɛ_ji_wɛ;maa_bimɛ_ji_wɛ;kɪɛʋɛ;kɪɛʋɛ;tiɥɛ
-ee	eː	E	6	5	simee;keere;teendɛ;teendɛ;teendɛ
-ẽ$	ẽ	E	1	1	duga_siẽ
-ɛɛ$	ɛː	E	3	3	dɔrɛɛ;kʊri_kiŋgɛɛ;ʒibɛɛ
-ɛ̃$	ɛ̃	E	4	4	ɲogɔwɛ̃;pweɛ̃;keɛ̃;keɛ̃
-ɣ	ɣ	G	7	7	ʒaɣa;mɔɣɔ;daɣaj;ɲija_daɣamɛ;ɲija_daɣamɛ
-h	h	H	3	1	hiŋga;n_nie_hũ;hoonaa_wi
-i	i	I	96	77	pir̃a;maa_bimɛ_ji_wɛ;maa_bimɛ_ji_wɛ;tiɥɛ;ŋ_kaw_jiro
-ɪ	ɪ	I	13	12	kɪɛʋɛ;korɪɛ;guwɪɛ;siibɪɛ;ŋwɪɛ
-ii	iː	I	23	15	nii;nii;gii;siin;ʒii
-ĩĩ$	ĩː	I	6	6	ʒĩĩ;twĩĩ;ʒĩĩ;tĩĩ;noɔ_n_sĩĩ
-ɪɪ$	ɪː	I	4	4	n_tɪɪ;n_tɪɪ;n_tɪɪ;n_tɪɪ
-ɪ̃ɪ̃$	ɪ̃ː	I	1	1	gɪ̃ɪ̃
-j	j	J	38	26	maa_bimɛ_ji_wɛ;ŋ_kaw_jiro;piju;jaa_borombɛ;kurijeɛ
-ɥ	ɥ	J	10	8	tiɥɛ;dege_n_siɥi;suɥɛ;gɛɥɛrɛ;daan_n_ɥugu
-^y	y/j	J	5	5	yaw;yii_yii;yuri;yeŋgɪɛ;yogo
-g	g	K	60	48	gɪ̃ɪ̃;dʒaŋga;hiŋga;gii;guru
-k	k	K	39	8	kaw_sã;kɪɛʋɛ;baako;ŋ_kaw_jiro;korɪɛ
-m	m	M	45	31	maa_bimɛ_ji_wɛ;maa_bimɛ_ji_wɛ;tumbari;tamb;motu
-mm	mm/mː	M	1	1	bimmɛ
-n	n	N	126	72	daan;nii;nii;siin;nɔgondɛ
-ŋ	ŋ	N	19	17	dʒaŋga;ŋ_kaw_jiro;hiŋga;baŋga;tɔŋɔnɔ
-ɲ	ɲ	N	14	6	ɲijɛrɛ;ɲogɔwɛ̃;nɲɛ;ɲije_bogo;ɲaa_ɲaa
-ŋw	ŋw/ŋʷ	N	2	1	ŋwɪɛ;n_ŋwima
-b	b	P	66	37	maa_bimɛ_ji_wɛ;baako;tumbari;bogo;tamb
-p	p	P	18	4	pir̃a;pãã;poɔre;piju;pooro
-r	r	R	73	73	ŋ_kaw_jiro;korɪɛ;guru;tumbari;dɔrɛɛ
-r̃	r̃	R	1	1	pir̃a
-s	s	S	24	5	kaw_sã;siin;dege_n_siɥi;suɥɛ;siiwa
-z	z	S	2	1	guzɛ_karaa;zaa
-ʒ	ʒ	S	12	1	ʒaɣa;ʒii;ʒimbo;ʒĩĩ;ʒaa
-^ʃ	ʃ	S	3	3	ʃijɔ̃;ʃijendɛ;ʃijendɛ
-d	d	T	65	38	daan;dɔrɛɛ;nɔgondɛ;dege_n_siɥi;dongo
-t	t	T	58	10	tiɥɛ;tumbari;tamb;motu;turu
-dʒ	dʒ	T	2	1	dʒaŋga;mɔndʒi
-o	o	U	78	52	baako;ŋ_kaw_jiro;korɪɛ;bogo;bogo
-ɔ	ɔ	U	50	42	dɔrɛɛ;poɔre;nɔgondɛ;nɔorɛ;tɔŋɔnɔ
-oo	oː	U	4	3	pooro;ŋ_koo;hoonaa_wi;se_na_doo_ɲamaa_nigundu_daw
-ɔɔ$	ɔː	U	1	1	mwɔɔ
-ɔ̃$	ɔ̃	U	4	4	ʃijɔ̃;ʒoɔ̃;gijɔ̃;ʒoɔ̃
-w	w	W	37	18	kaw_sã;maa_bimɛ_ji_wɛ;ŋ_kaw_jiro;yaw;siiwa
-ʋ	ʋ	W	2	2	kɪɛʋɛ;peʋɛrɛ
-w̃	w̃	W	2	1	bweɛ_kɔw̃e;tege_be_gaw̃
-u	u	Y	53	38	guru;guru;tumbari;piju;motu
-y	y	Y	14	13	yii_yii;kiiyɛ;siyen;tiyen;pogoyo_pogoyo
-ʊ	ʊ	Y	3	3	kʊri;kʊri_kiŋgɛɛ;bʊɥɪɛ
-uu	uː	Y	2	1	buruu;puuruni
-ũ$	ũ	Y	1	1	n_nie_hũ
-ũũ$	ũ	Y	2	2	kũũ;dweɛ_m_bũũ
-_	+	_	98	98	kaw_sã;maa_bimɛ_ji_wɛ;maa_bimɛ_ji_wɛ;maa_bimɛ_ji_wɛ;ŋ_kaw_jiro
-kw	kw/k w	K W	4	1	n_nii_kweɛ;kwen;kwa;kwaa_n_gondo
-^gw	gw/g w	K W	1	1	gwɔo
+Grapheme	IPA	SCA	Frequency
+^b	b	P	24
+^bw	b w	P W	4
+^d	d	T	23
+^dw	d w	T W	2
+^dʒ	dʒ	T	1
+^g	g	K	12
+^gw	gw/g w	K W	1
+^h	h	H	2
+^i	i	I	1
+^j	j	J	11
+^k	k	K	31
+^kw	kw/k w	K W	3
+^m	m	M	13
+^mw	m w	M W	1
+^n	n	N	46
+^n$	n	N	1
+^p	p	P	13
+^pw	p w	P W	1
+^s	s	S	19
+^t	t	T	47
+^tw	t w	T W	1
+^w	w	W	1
+^y	y/j	J	5
+^z	z	S	1
+^ŋ	ŋ	N	2
+^ŋw	ŋw/ŋʷ	N	1
+^ɥ	ɥ	J	2
+^ɲ	ɲ	N	8
+^ʃ	ʃ	S	3
+^ʒ	ʒ	S	11
+_	+	_	98
+a	a	A	47
+a$	a	A	27
+aa	aː	A	21
+aa$	aː	A	14
+b	b	P	37
+b$	b	P	1
+d	d	T	38
+d$	d	T	2
+dʒ	dʒ	T	1
+e	e	E	61
+e$	e	E	29
+ee	eː	E	5
+ee$	eː	E	1
+g	g	K	48
+h	h	H	1
+i	i	I	77
+i$	i	I	18
+ii	iː	I	15
+ii$	iː	I	8
+j	j	J	26
+j$	j	J	1
+k	k	K	8
+kw	kw/k w	K W	1
+m	m	M	31
+mm	mm/mː	M	1
+n	n	N	72
+n$	n	N	7
+o	o	U	52
+o$	o	U	26
+oo	oː	U	3
+oo$	oː	U	1
+p	p	P	4
+r	r	R	73
+r̃	r̃	R	1
+s	s	S	5
+t	t	T	10
+u	u	Y	38
+u$	u	Y	15
+uu	uː	Y	1
+uu$	uː	Y	1
+w	w	W	18
+w$	w	W	9
+w̃	w̃	W	1
+w̃$	w̃	W	1
+y	y	Y	13
+y$	y	Y	1
+z	z	S	1
+ã$	ã	A	1
+ãã$	ãː	A	1
+ĩĩ$	ĩː	I	6
+ŋ	ŋ	N	17
+ŋw	ŋw/ŋʷ	N	1
+ũ$	ũ	Y	1
+ũũ$	ũ	Y	2
+ɔ	ɔ	U	42
+ɔ$	ɔ	U	8
+ɔɔ$	ɔː	U	1
+ɔ̃$	ɔ̃	U	4
+ɛ	ɛ	E	31
+ɛ$	ɛ	E	90
+ɛɛ$	ɛː	E	3
+ɛ̃$	ɛ̃	E	4
+ɣ	ɣ	G	7
+ɥ	ɥ	J	8
+ɪ	ɪ	I	12
+ɪ$	ɪ	I	1
+ɪɪ$	ɪː	I	4
+ɪ̃ɪ̃$	ɪ̃ː	I	1
+ɲ	ɲ	N	6
+ʊ	ʊ	Y	3
+ʋ	ʋ	W	2
+ʒ	ʒ	S	1
+ẽ$	ẽ	E	1

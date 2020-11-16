@@ -1,21 +1,54 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		232	NULL	mawn;kntŋaca;tampin;ajkapi;wampuŋkɾa
-$	NULL		232	NULL	mawn;kntŋaca;tampin;ajkapi;wampuŋkɾa
-a	a	A	330	237	mawn;kntŋaca;kntŋaca;tampin;ajkapi
-c	c	C	13	10	kntŋaca;uɾkpwica;kawnŋcmpɾuk;kaʎc;cŋknt
-i	i	I	39	11	tampin;ajkapi;akpi;uɾkpwica;wuntampwi
-ɨ	ɨ	I	13	12	nɨŋaj;tɨ;pikɾɨŋ;waʎɲakɨn;pɨkɾɨŋ
-j	j	J	61	17	ajkapi;ajŋkn;pajpɾa;jaʎ;nɨŋaj
-k	k	K	119	70	kntŋaca;ajkapi;wampuŋkɾa;maɲkaɲkʎ;maɲkaɲkʎ
-ʎ	ʎ	L	25	12	maɲkaɲkʎ;maɲkaɲkʎ;jaʎ;kaʎakn;tmaʎ
-m	m	M	121	72	mawn;tampin;wampuŋkɾa;maɲkaɲkʎ;maɲkaɲkʎ
-n	n	N	88	30	mawn;kntŋaca;tampin;nampan;nampan
-ŋ	ŋ	N	66	33	kntŋaca;wampuŋkɾa;kaŋkɾan;ŋmkŋn;ŋmkŋn
-ɲ	ɲ	N	13	10	maɲkaɲkʎ;maɲkaɲkʎ;maɲkaɲkʎ;maɲkaɲkʎ;wampuɲan
-p	p	P	97	72	tampin;ajkapi;wampuŋkɾa;akpi;nampan
-ɾ	ɾ	R	61	58	wampuŋkɾa;kaŋkɾan;taɾpwa;pajpɾa;uɾkpwica
-t	t	T	68	26	kntŋaca;tampin;taɾpwa;wuntampwi;tanm
-w	w	W	66	29	mawn;wampuŋkɾa;pawmpn;taɾpwa;uɾkpwica
-u	u	Y	52	47	wampuŋkɾa;uɾkpwica;wuntampwi;kawnŋcmpɾuk;kmpunkamanuŋ
-_	+	_	19	19	tam_mawŋkwa_ɾamnawt;tam_mawŋkwa_ɾamnawt;nuŋkaɾawʎ_aɾmtapmpi_pamkn_mpa;nuŋkaɾawʎ_aɾmtapmpi_pamkn_mpa;nuŋkaɾawʎ_aɾmtapmpi_pamkn_mpa
-kw	kw/k w	K W	7	6	tam_mawŋkwa_ɾamnawt;kwantajn;nuŋkwaɾa;tɾukwa;tam_mawŋkwat_ma_ama
+Grapheme	IPA	SCA	Frequency
+^a	a	A	42
+^c	c	C	1
+^i	i	I	8
+^i$	i	I	1
+^j	j	J	12
+^k	k	K	27
+^kw	kw/k w	K W	1
+^m	m	M	30
+^n	n	N	21
+^p	p	P	17
+^t	t	T	30
+^u	u	Y	3
+^w	w	W	23
+^ŋ	ŋ	N	12
+^ɲ	ɲ	N	2
+^ɾ	ɾ	R	2
+_	+	_	19
+a	a	A	237
+a$	a	A	51
+c	c	C	10
+c$	c	C	2
+i	i	I	11
+i$	i	I	19
+j	j	J	17
+j$	j	J	29
+jw	j w	J W	3
+k	k	K	70
+k$	k	K	22
+kw	kw/k w	K W	6
+m	m	M	72
+m$	m	M	19
+n	n	N	30
+n$	n	N	35
+nw	n w	N W	2
+p	p	P	72
+p$	p	P	2
+pw	p w	P W	6
+t	t	T	26
+t$	t	T	12
+u	u	Y	47
+u$	u	Y	2
+w	w	W	29
+w$	w	W	2
+ŋ	ŋ	N	33
+ŋ$	ŋ	N	21
+ɨ	ɨ	I	12
+ɨ$	ɨ	I	1
+ɲ	ɲ	N	10
+ɲ$	ɲ	N	1
+ɾ	ɾ	R	58
+ɾw	ɾ w	R W	1
+ʎ	ʎ	L	12
+ʎ$	ʎ	L	13

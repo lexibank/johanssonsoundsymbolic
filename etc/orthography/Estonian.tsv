@@ -1,44 +1,88 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		334	NULL	kohal;kartus;pærast;ɤhk;igayks
-$	NULL		339	NULL	kohal;kartus;pærast;ɤhk;igayks
-a	a	A	272	177	kohal;kartus;pærast;igayks;ʋiha
-aa	aː	A	2	1	maapind;aasta
-ts	ts	C	9	7	taguots;kitsas;seitse;suits;maitsma
-e	e	E	172	118	sipelgas;selg;sest_et;sest_et;enne
-æ	æ	E	22	22	pærast;kæsiʋars;kæsiʋars;pæeʋ;ʋæhe
-ɤ	ɤ	E	29	27	ɤhk;kɤrʋal;pɤletama;ɤige;kɤʋer
-ee	eː	E	14	11	peeretama;sees;mees;ʋanamees;teerada
-ɤɤ	ɤː	E	1	1	rɤɤmus
-h	h	H	37	26	kohal;ɤhk;ʋiha;tuhk;halb
-i	i	I	112	78	igayks;ʋiha;sipelgas;kæsiʋars;kæsiʋars
-ii	iː	I	6	6	kiire;ʋiis;siin;piim;liiʋ
-j	j	J	22	14	aju;jahʋatama;roojama;jooma;jalg
-^y	y/j	J	6	6	yksteist;yheksa;yks;ymmargune;ykskɤik
-g	g	K	46	26	igayks;sipelgas;selg;taga;magu
-k	k	K	85	11	kohal;kartus;ɤhk;igayks;kæsiʋars
-kk	kk/kː	K	2	1	kukkuma;pikk
-l	l	L	67	35	kohal;loom;sipelgas;selg;halb
-ll	ll/lː	L	10	3	all;lill;hall;ʋɤibolla;millal
-m	m	M	117	79	loom;magu;hammustama;must;puhuma
-mm	mm/mː	M	5	5	hammustama;ymmargune;kymme;hammas;kakskymmend
-n	n	N	88	65	lind;sinine;sinine;nyri;kont
-nn	nn/nː	N	17	17	enne;ʋennatytar;ʋennatytar;ʋennatytar;ʋennatytar
-b	b	P	8	6	halb;kibe;kærbes;ʋɤibolla;naba
-p	p	P	53	16	pærast;sipelgas;puukoor;puhuma;poiss
-pp$	pp/pː	P	1	1	tupp
-r	r	R	70	38	kartus;pærast;kæsiʋars;kæsiʋars;puukoor
-s	s	S	115	29	kartus;pærast;igayks;sipelgas;sipelgas
-ss	ss/sː	S	2	1	poiss;nussima
-d	d	T	37	24	lind;rind;kandma;maapind;lendama
-t	t	T	88	47	kartus;pærast;tuhk;sest_et;sest_et
-tt	tt/tː	T	1	1	mitte_midagi
-o	o	U	41	35	kohal;kont;poiss;taguots;koer
-ø	ø	U	1	1	køhima
-oo	oː	U	13	13	loom;puukoor;roojama;jooma;pool
-øø	øː	U	4	3	søøma;løøma;øø;nøør
-ʋ	ʋ	W	78	16	ʋiha;kæsiʋars;kæsiʋars;kɤrʋal;ʋahele
-u	u	Y	55	43	kartus;tuhk;ilus;magu;hammustama
-y	y	Y	27	27	igayks;nyri;kylm;sygaʋ;tyhi
-uu	uː	Y	14	10	puukoor;suur;juuksed;kuulma;kuum
-yy	yː	Y	2	2	kyys;nyyd
-_	+	_	12	12	sest_et;hingama_hingamine;mitte_midagi;ʋana_naine;ʋanem_ɤde
+Grapheme	IPA	SCA	Frequency
+^a	a	A	5
+^aa	aː	A	1
+^e	e	E	7
+^h	h	H	11
+^i	i	I	8
+^j	j	J	8
+^k	k	K	52
+^l	l	L	18
+^m	m	M	28
+^n	n	N	22
+^o	o	U	6
+^p	p	P	35
+^r	r	R	8
+^s	s	S	37
+^t	t	T	32
+^u	u	Y	2
+^uu	uː	Y	1
+^y	y/j	J	6
+^øø$	øː	U	1
+^ɤ	ɤ	E	2
+^ʋ	ʋ	W	50
+_	+	_	12
+a	a	A	177
+a$	a	A	90
+aa	aː	A	1
+b	b	P	6
+b$	b	P	2
+d	d	T	24
+d$	d	T	13
+e	e	E	118
+e$	e	E	47
+ee	eː	E	11
+ee$	eː	E	3
+g	g	K	26
+g$	g	K	20
+h	h	H	26
+i	i	I	78
+i$	i	I	26
+ii	iː	I	6
+j	j	J	14
+k	k	K	11
+k$	k	K	7
+kk	kk/kː	K	1
+kk$	kk/kː	K	1
+ks	k s	K S	9
+ks$	k s	K S	6
+l	l	L	35
+l$	l	L	14
+ll	ll/lː	L	3
+ll$	ll/lː	L	7
+m	m	M	79
+m$	m	M	10
+mm	mm/mː	M	5
+n	n	N	65
+n$	n	N	1
+nn	nn/nː	N	17
+o	o	U	35
+oo	oː	U	13
+p	p	P	16
+pp$	pp/pː	P	1
+ps$	p s	P S	2
+r	r	R	38
+r$	r	R	21
+rs	r s	R S	1
+rs$	r s	R S	2
+s	s	S	29
+s$	s	S	29
+ss	ss/sː	S	1
+ss$	ss/sː	S	1
+t	t	T	47
+t$	t	T	9
+ts	ts	C	7
+ts$	ts	C	2
+tt	tt/tː	T	1
+u	u	Y	43
+u$	u	Y	10
+uu	uː	Y	10
+uu$	uː	Y	3
+y	y	Y	27
+yy	yː	Y	2
+æ	æ	E	22
+ø	ø	U	1
+øø	øː	U	3
+ɤ	ɤ	E	27
+ɤɤ	ɤː	E	1
+ʋ	ʋ	W	16
+ʋ$	ʋ	W	12

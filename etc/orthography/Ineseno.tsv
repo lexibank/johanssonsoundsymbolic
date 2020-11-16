@@ -1,41 +1,98 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		315	NULL	apay;axunuʃpi;pil;alqapatʃ;ayamama
-$	NULL		326	NULL	apay;axunuʃpi;pil;yilaʔ;yultʼul
-a	a	A	218	155	apay;apay;axunuʃpi;yilaʔ;alqapatʃ
-ts	ts	C	22	17	witsʔ;iqtsʔiʔ;axtsʔatsʔax;axtsʔatsʔax;tsweq
-tsh	tsh/tsʰ	C	1	1	etshu
-e	e	E	80	70	suklep;se;kutet;expew;expew
-x	x	G	57	35	axunuʃpi;axɨmɨkʼ;alixolox;alixolox;noxonox
-xw	xw/xʷ	G	2	2	sixwaʔy;yuxwowon
-h	h	H	13	6	hutʃu;ʃtʃoho_ha_atɨk;ʃtʃoho_ha_atɨk;hap;hakʼu
-ʔ	ʔ	H	161	72	yilaʔ;katʃʔa;mipolkʼoʔy;aqʃʼɨʔw;witsʔ
-i	i	I	121	86	axunuʃpi;pil;yilaʔ;anaqipnas;itwa
-ɨ	ɨ	I	76	63	mɨt;axɨmɨkʼ;axɨmɨkʼ;aqʃʼɨʔw;liyɨk
-^y	y/j	J	10	10	yilaʔ;yultʼul;yolin;yitipakaʔs;yulelew
-k	k	K	65	26	suklep;katʃʔa;liyɨk;axtipak;kutet
-q	q	K	45	21	alqapatʃ;anaqipnas;qʔuluyuq;qʔuluyuq;iqtsʔiʔ
-kh	kh/kʰ	K	1	1	saxtakhɨt
-kʼ	kʼ	K	17	13	axɨmɨkʼ;mipolkʼoʔy;kʼɨmɨn;takʼu;hakʼu
-qh	qh/qʰ	K	1	1	qhapqhap
-qw	qw/qʷ	K	4	4	eqwel;oqwoʔn;oqwoʔn;aqwitsuy
-^kh	kʰ	K	1	1	khuʔm
-^qh	qʰ	K	1	1	qhapqhap
-l	l	L	71	43	pil;yilaʔ;yultʼul;yultʼul;alqapatʃ
-m	m	M	69	38	ayamama;ayamama;mɨt;axɨmɨkʼ;mipolkʼoʔy
-n	n	N	110	45	axunuʃpi;anaqipnas;anaqipnas;noxonox;noxonox
-b	b	P	4	4	abɨʃ;abɨʃ;abɨʃ;abɨʃ
-p	p	P	73	32	apay;axunuʃpi;pil;alqapatʃ;pu
-pʼ	pʼ	P	4	1	pʼowitʃ;ʃupʃupʼ;pʼet;epʼepʃ
-s	s	S	46	16	suklep;anaqipnas;axuʔlis;se;qsi
-ʃ	ʃ	S	55	13	axunuʃpi;aluʃpawat;ʃoyin;kalaʃ;waʃkay
-ʔs$	ʔs/ˀs	S	3	3	pakpakaʔs;yitipakaʔs;pakaʔs
-t	t	T	75	34	aluʃpawat;mɨt;itwa;atatiwil;atatiwil
-tʃ	tʃ	T	21	11	alqapatʃ;katʃʔa;itʃkoʔw;pʼowitʃ;hutʃu
-tʼ	tʼ	T	4	3	yultʼul;skɨnɨtʼ;axtʼɨʔpʃ;axtutʼun
-o	o	U	97	84	mipolkʼoʔy;mipolkʼoʔy;alixolox;alixolox;noxonox
-w	w	W	57	27	aluʃpawat;itwa;aqʃʼɨʔw;atatiwil;witsʔ
-u	u	Y	104	88	axunuʃpi;axunuʃpi;yultʼul;yultʼul;pu
-y	y	Y	43	20	apay;ayamama;mipolkʼoʔy;liyɨk;axpɨy
-_	+	_	5	5	ʃtʃoho_ha_atɨk;ʃtʃoho_ha_atɨk;pa_ka_ʔinu;pa_ka_ʔinu;ka_ʃtapin
-qʃʼ	q ʃʼ	K S	2	2	aqʃʼɨʔw;aqʃʼɨtɨʔ
-^kw	kw/k w	K W	2	2	kwekʼi;kwekʼi
+Grapheme	IPA	SCA	Frequency
+^a	a	A	57
+^e	e	E	9
+^h	h	H	7
+^i	i	I	23
+^k	k	K	29
+^kh	kʰ	K	1
+^kw	kw/k w	K W	2
+^kʼ	kʼ	K	2
+^l	l	L	6
+^m	m	M	19
+^n	n	N	13
+^o	o	U	9
+^p	p	P	20
+^pʼ	pʼ	P	2
+^q	q	K	6
+^qh	qʰ	K	1
+^qs	q s	K S	2
+^s	s	S	15
+^sw	s w	S W	1
+^t	t	T	29
+^ts	ts	C	4
+^tsw	ts w	C W	1
+^tʃ	tʃ	T	4
+^u	u	Y	5
+^w	w	W	11
+^x	x	G	8
+^y	y/j	J	10
+^ɨ	ɨ	I	7
+^ʃ	ʃ	S	11
+^ʃw	ʃ w	S W	2
+^ʔ	ʔ	H	13
+_	+	_	5
+a	a	A	155
+a$	a	A	6
+b	b	P	4
+e	e	E	70
+e$	e	E	1
+h	h	H	6
+i	i	I	86
+i$	i	I	12
+k	k	K	26
+k$	k	K	9
+kh	kh/kʰ	K	1
+kʃ$	k ʃ	K S	1
+kʼ	kʼ	K	13
+kʼ$	kʼ	K	2
+l	l	L	43
+l$	l	L	21
+ls	l s	L S	1
+m	m	M	38
+m$	m	M	12
+n	n	N	45
+n$	n	N	52
+o	o	U	84
+o$	o	U	4
+p	p	P	32
+p$	p	P	13
+pʃ	p ʃ	P S	4
+pʃ$	p ʃ	P S	4
+pʼ	pʼ	P	1
+pʼ$	pʼ	P	1
+q	q	K	21
+q$	q	K	12
+qh	qh/qʰ	K	1
+qs	q s	K S	1
+qw	qw/qʷ	K	4
+qʃ	q ʃ	K S	3
+qʃʼ	q ʃʼ	K S	2
+s	s	S	16
+s$	s	S	10
+t	t	T	34
+t$	t	T	11
+ts	ts	C	17
+tsh	tsh/tsʰ	C	1
+tw	t w	T W	1
+tʃ	tʃ	T	11
+tʃ$	tʃ	T	6
+tʼ	tʼ	T	3
+tʼ$	tʼ	T	1
+u	u	Y	88
+u$	u	Y	11
+w	w	W	27
+w$	w	W	8
+x	x	G	35
+x$	x	G	10
+xw	xw/xʷ	G	2
+xʃ	x ʃ	G S	2
+xʃ$	x ʃ	G S	2
+y	y	Y	20
+y$	y	Y	23
+ɨ	ɨ	I	63
+ɨ$	ɨ	I	6
+ʃ	ʃ	S	13
+ʃ$	ʃ	S	13
+ʔ	ʔ	H	72
+ʔ$	ʔ	H	70
+ʔs$	ʔs/ˀs	S	3

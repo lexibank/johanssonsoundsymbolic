@@ -1,38 +1,83 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		251	NULL	ha_ɨtɨ;intsatskehen;ha_ɸaʃɨʃ;kodetɬ;kuseʔ_kuseʔ
-$	NULL		253	NULL	ha_ɨtɨ;intsatskehen;ha_ɸaʃɨʃ;kodetɬ;kuseʔ_kuseʔ
-a	a	A	281	227	ha_ɨtɨ;intsatskehen;ha_ɸaʃɨʃ;ha_ɸaʃɨʃ;ha_ato
-aa	aː	A	17	17	taak;haatle;haatle;haao;haao
-ɸ	ɸ	B	31	21	ha_ɸaʃɨʃ;ɸaxden_ɸalen;ɸaxden_ɸalen;deiɸta;ha_laɸ
-ts	ts	C	33	18	intsatskehen;intsatskehen;dat̪_tsidat̪;tsiauu;eeʔtsi
-e	e	E	150	100	intsatskehen;intsatskehen;kodetɬ;kuseʔ_kuseʔ;kuseʔ_kuseʔ
-^ee	eː	E	1	1	eeʔtsi
-x	x	G	44	32	ɸaxden_ɸalen;kiknoxo;tsixuʔtsa;tʼsʼax;tenexne
-h	h	H	111	10	ha_ɨtɨ;intsatskehen;ha_ɸaʃɨʃ;ha_ato;ha_ato
-ʔ	ʔ	H	25	24	kuseʔ_kuseʔ;kuseʔ_kuseʔ;uɾaʔi;tʼsʼaʔ_tʼsʼae_tak;eeʔtsi
-i	i	I	101	71	intsatskehen;deiɸta;ha_pitɬ;uɾaʔi;dat̪_tsidat̪
-ɨ	ɨ	I	22	16	ha_ɨtɨ;ha_ɨtɨ;ha_ɸaʃɨʃ;enɨ_enɨ;enɨ_enɨ
-ii	iː	I	2	1	daii;tsiaiixu
-k	k	K	104	65	intsatskehen;kodetɬ;kuseʔ_kuseʔ;kuseʔ_kuseʔ;ha_make
-kʼ	kʼ	K	8	5	huʃt_ahme_kʼad_kel_wakpeʃkun;huʃ_kʼad_kel_wanlekan;pine_pinekt̪_e_len_kʼad_kel_wakpeʃkun;kʼawixu;huʃ_kʼad_kel_wakpeʃkun
-l	l	L	54	45	ɸaxden_ɸalen;ha_laɸ;diolem;ha_an_ɸaɸla;ha_oɸal
-ɬ	ɬ	L	6	2	kodetɬ;ha_pitɬ;petɬ;kodetɬ_ʃap;ha_tɬat
-m	m	M	25	16	somot;ha_make;diolem;ha_ma;huʃt_ahme_kʼad_kel_wakpeʃkun
-n	n	N	77	44	intsatskehen;intsatskehen;natu;ɸaxden_ɸalen;ɸaxden_ɸalen
-p	p	P	36	22	ha_pitɬ;petɬ;ha_ɸaptɨ;huʃt_ahme_kʼad_kel_wakpeʃkun;uapta
-ɾ	ɾ	R	13	13	eɾohen;uɾaʔi;kasoɾo;meɾu;uɾe_uɾe_ue_nauan_ʃɨk
-s	s	S	25	13	kuseʔ_kuseʔ;kuseʔ_kuseʔ;somot;ha_si;kasoɾo
-ʃ	ʃ	S	28	20	ha_ɸaʃɨʃ;ha_ɸaʃɨʃ;daʃ;naʃa;ʃuda
-d	d	T	57	44	kodetɬ;ɸaxden_ɸalen;deiɸta;daii;dat̪_tsidat̪
-t	t	T	99	73	ha_ɨtɨ;kodetɬ;ha_ato;ha_ato;somot
-tʼ	tʼ	T	3	3	hotʼaput;ha_tʼuske;ha_ma_uakpitʼa
-t̪	t̪	T	7	4	dat̪_tsidat̪;dat̪_tsidat̪;tsihu_daʔt̪e;ha_pɨt̪e;pine_pinekt̪_e_len_kʼad_kel_wakpeʃkun
-t̪ʼ	t̪ʼ	T	1	1	at̪ʼe_tak
-tʼsʼ	tsʼ	T	12	5	tʼsʼaʔ_tʼsʼae_tak;tʼsʼaʔ_tʼsʼae_tak;tʼsʼax;pitʼsʼ;tʼsʼa
-o	o	U	63	42	kodetɬ;ha_ato;ha_ato;somot;somot
-^oo	oː	U	1	1	ootle
-w	w	W	11	11	huʃt_ahme_kʼad_kel_wakpeʃkun;huʃ_kʼad_kel_wanlekan;pine_pinekt̪_e_len_kʼad_kel_wakpeʃkun;kʼawixu;huʃ_kʼad_kel_wakpeʃkun
-u	u	Y	78	57	kuseʔ_kuseʔ;kuseʔ_kuseʔ;natu;uɾaʔi;ha_du
-^uu	uː	Y	1	1	uuʃ
-uu$	uː	Y	1	1	tsiauu
-_	+	_	102	102	ha_ɨtɨ;ha_ɸaʃɨʃ;kuseʔ_kuseʔ;ha_ato;ha_ato
+Grapheme	IPA	SCA	Frequency
+^a	a	A	17
+^d	d	T	10
+^e	e	E	3
+^ee	eː	E	1
+^h	h	H	99
+^i	i	I	5
+^i$	i	I	1
+^k	k	K	17
+^kʼ	kʼ	K	3
+^l	l	L	3
+^m	m	M	6
+^n	n	N	6
+^o	o	U	2
+^o$	o	U	1
+^oo	oː	U	1
+^p	p	P	10
+^s	s	S	10
+^t	t	T	11
+^ts	ts	C	14
+^tʼsʼ	tsʼ	T	6
+^u	u	Y	13
+^uu	uː	Y	1
+^x	x	G	5
+^ɨ	ɨ	I	2
+^ɸ	ɸ	B	5
+^ʃ	ʃ	S	2
+_	+	_	102
+a	a	A	227
+a$	a	A	37
+aa	aː	A	17
+d	d	T	44
+d$	d	T	3
+e	e	E	100
+e$	e	E	47
+h	h	H	10
+h$	h	H	2
+i	i	I	71
+i$	i	I	24
+ii	iː	I	1
+ii$	iː	I	1
+k	k	K	65
+k$	k	K	22
+kʼ	kʼ	K	5
+l	l	L	45
+l$	l	L	6
+m	m	M	16
+m$	m	M	3
+n	n	N	44
+n$	n	N	27
+o	o	U	42
+o$	o	U	18
+p	p	P	22
+p$	p	P	4
+s	s	S	13
+s$	s	S	2
+t	t	T	73
+t$	t	T	15
+ts	ts	C	18
+ts$	ts	C	1
+tʼ	tʼ	T	3
+tʼsʼ	tsʼ	T	5
+tʼsʼ$	tsʼ	T	1
+t̪	t̪	T	4
+t̪$	t̪	T	3
+t̪ʼ	t̪ʼ	T	1
+u	u	Y	57
+u$	u	Y	8
+uu$	uː	Y	1
+w	w	W	11
+x	x	G	32
+x$	x	G	7
+ɨ	ɨ	I	16
+ɨ$	ɨ	I	4
+ɬ	ɬ	L	2
+ɬ$	ɬ	L	4
+ɸ	ɸ	B	21
+ɸ$	ɸ	B	5
+ɾ	ɾ	R	13
+ʃ	ʃ	S	20
+ʃ$	ʃ	S	6
+ʔ	ʔ	H	24
+ʔ$	ʔ	H	1

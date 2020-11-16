@@ -1,36 +1,73 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		331	NULL	weetaʃigim;noʔtʃi;maʔle;nonot;ʔoge
-$	NULL		331	NULL	weetaʃigim;noʔtʃi;maʔle;nonot;ʔoge
-a	a	A	353	305	weetaʃigim;maʔle;isekjak;tʃinaq;lqaiʔlaʁat
-aa	aː	A	17	16	jaʔkaaɲi;waaɲi;lpalaaqate;kwaatɾolqaiʔ;noʔqaata
-e	e	E	166	127	maʔle;ʔoge;isekjak;lelaq;leso
-ee	eː	E	42	41	weetaʃigim;weetaɲi;weetaʔgit;loʔweete;koʔteeta
-h	h	H	11	10	ɾsahmata;naloʔohtaʔ;lqahik;ho;joʁohɲi
-ʔ	ʔ	H	145	77	noʔtʃi;maʔle;ʔoge;ɾoʔo;lqaiʔlaʁat
-^ʔw	ʔʷ	H	1	1	ʔwaqapi
-i	i	I	173	123	weetaʃigim;weetaʃigim;noʔtʃi;isekjak;tʃinaq
-ii	iː	I	6	6	koʔtʃiitʃigi;ʃiinkolqaiʔ;nokiiketaʃigim;ɾaʃiiʃita;lopiitʃi
-j	j	J	47	19	isekjak;ajo;jaʔkaaɲi;sqai_jaʁaɾaik;jawigaʁat
-g	g	K	39	39	weetaʃigim;ʔoge;weetaʔgit;jawigaʁat;lijege_laʔat
-k	k	K	93	32	isekjak;isekjak;sqa_ʔmaʁaɾaik;loʔdʒaʁanek;lowik
-q	q	K	87	58	tʃinaq;lqaiʔlaʁat;lqaiʔlaʁat;lelaq;sqa_ʔmaʁaɾaik
-l	l	L	190	57	maʔle;lqaiʔlaʁat;lqaiʔlaʁat;lqaiʔlaʁat;lqaiʔlaʁat
-ʎ	ʎ	L	9	4	naʎin;noktoʔʎiʔ;ɾesaʎi;se_ɾesaʎi;ʎik
-m	m	M	37	26	weetaʃigim;maʔle;sqa_ʔmaʁaɾaik;maʔ;ɾakom
-n	n	N	107	40	noʔtʃi;nonot;nonot;tʃinaq;loʔdʒaʁanek
-ɲ	ɲ	N	27	23	weetaɲi;jaʔkaaɲi;jaʔmaqatʃigiɲi;qojoqotʃiʔɲigi;waaɲi
-p	p	P	29	19	peʔet;lpiʔnek;lapioʔʁo;napioʔo;pioq
-ɾ	ɾ	R	43	25	ɾoʔo;sqa_ʔmaʁaɾaik;ɾeloqotoʔot;ɾakom;sqai_jaʁaɾaik
-ʁ	ʁ	R	57	57	lqaiʔlaʁat;lqaiʔlaʁat;sqa_ʔmaʁaɾaik;loʔdʒaʁanek;sqai_jaʁaɾaik
-r$	r	R	2	2	komir;komir
-s	s	S	67	47	isekjak;sqa_ʔmaʁaɾaik;leso;sqai_jaʁaɾaik;ɾsahmata
-ʃ	ʃ	S	13	9	weetaʃigim;loʃikmaʁa;ɾaʃiwita;ʃiinkolqaiʔ;nokiiketaʃigim
-d	d	T	12	9	jodo;ɾadala;jaʔden;ladok;ledam
-t	t	T	115	83	weetaʃigim;nonot;lqaiʔlaʁat;lqaiʔlaʁat;ɾeloqotoʔot
-dʒ	dʒ	T	5	4	loʔdʒaʁanek;jaʔdʒigi;dʒaq;kidʒim;nadʒaaɾitʃigiɲi
-tʃ	tʃ	T	24	21	noʔtʃi;tʃinaq;tʃim;jaʔmaqatʃigiɲi;qojoqotʃiʔɲigi
-o	o	U	180	157	noʔtʃi;nonot;nonot;ʔoge;ɾoʔo
-oo	oː	U	17	15	ʔoom;ʔootʃolqaiʔ;netoon;leʔkoota;qoqoo
-w	w	W	61	41	weetaʃigim;lowik;weetaɲi;weetaʔgit;naweʔ
-_	+	_	18	18	sqa_ʔmaʁaɾaik;sqai_jaʁaɾaik;lijege_laʔat;se_jalamaq;jaʔwe_nomaʔ
-^kw	kw/k w	K W	1	1	kwaatɾolqaiʔ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	3
+^d	d	T	3
+^dʒ	dʒ	T	1
+^ee	eː	E	1
+^h	h	H	1
+^i	i	I	5
+^j	j	J	27
+^k	k	K	9
+^kw	kw/k w	K W	1
+^l	l	L	123
+^m	m	M	2
+^n	n	N	55
+^nw	n w	N W	1
+^p	p	P	8
+^q	q	K	14
+^s	s	S	19
+^t	t	T	4
+^tʃ	tʃ	T	3
+^w	w	W	10
+^ɲ	ɲ	N	4
+^ɾ	ɾ	R	17
+^ɾs	ɾ s	R S	1
+^ʃ	ʃ	S	4
+^ʎ	ʎ	L	5
+^ʔ	ʔ	H	11
+^ʔw	ʔʷ	H	1
+_	+	_	18
+a	a	A	305
+a$	a	A	45
+aa	aː	A	16
+aa$	aː	A	1
+d	d	T	9
+dʒ	dʒ	T	4
+e	e	E	127
+e$	e	E	39
+ee	eː	E	41
+g	g	K	39
+h	h	H	10
+i	i	I	123
+i$	i	I	45
+ii	iː	I	6
+j	j	J	19
+j$	j	J	1
+k	k	K	32
+k$	k	K	52
+l	l	L	57
+l$	l	L	10
+m	m	M	26
+m$	m	M	9
+n	n	N	40
+n$	n	N	11
+o	o	U	157
+o$	o	U	23
+oo	oː	U	15
+oo$	oː	U	2
+p	p	P	19
+p$	p	P	2
+q	q	K	58
+q$	q	K	15
+r$	r	R	2
+s	s	S	47
+t	t	T	83
+t$	t	T	28
+tʃ	tʃ	T	21
+w	w	W	41
+ɲ	ɲ	N	23
+ɾ	ɾ	R	25
+ʁ	ʁ	R	57
+ʃ	ʃ	S	9
+ʎ	ʎ	L	4
+ʔ	ʔ	H	77
+ʔ$	ʔ	H	48

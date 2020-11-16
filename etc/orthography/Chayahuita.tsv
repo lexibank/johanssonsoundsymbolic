@@ -1,23 +1,42 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		284	NULL	tɨʔwaiɾoʔ;inakɨɾan;iwan;maʔʃa;nipi
-$	NULL		301	NULL	tɨʔwaiɾoʔ;inakɨɾan;iwan;yaʔipi;maʔʃa
-a	a	A	365	229	tɨʔwaiɾoʔ;inakɨɾan;inakɨɾan;iwan;yaʔipi
-h	h	H	1	1	ohistɨɾoʔ
-ʔ	ʔ	H	155	45	tɨʔwaiɾoʔ;tɨʔwaiɾoʔ;yaʔipi;maʔʃa;tanpaʔ
-i	i	I	274	211	tɨʔwaiɾoʔ;inakɨɾan;iwan;yaʔipi;yaʔipi
-ɨ	ɨ	I	122	114	tɨʔwaiɾoʔ;inakɨɾan;pinɨn;ina_pikɨɾan;pɨtoyoʔnan
-ii	iː	I	1	1	niiɾin
-^y	y/j	J	17	17	yaʔipi;yaɾaton;yaniɾin;yaʔpiɾa;yanko
-k	k	K	74	38	inakɨɾan;ina_pikɨɾan;panka;kɨtɨɾin;kaninton
-m	m	M	30	21	maʔʃa;main;tʃiminin;amokan;imiɾa
-n	n	N	290	124	inakɨɾan;inakɨɾan;iwan;nipi;tanpaʔ
-p	p	P	98	75	yaʔipi;nipi;tanpaʔ;tanpaʔ;pinɨn
-ɾ	ɾ	R	95	95	tɨʔwaiɾoʔ;inakɨɾan;waɾianoʔ;ina_pikɨɾan;ina_piɾayan
-s	s	S	25	11	nansɨ;ohistɨɾoʔ;sɨwɨn;posa;sami
-ʃ	ʃ	S	60	25	maʔʃa;waʔwiʃin;koʔʃonin;taʃinan;koʃatɨɾin
-t	t	T	90	67	tɨʔwaiɾoʔ;tanpaʔ;tanpaʔ;pɨtoyoʔnan;pɨʔnatɨʔ
-tʃ	tʃ	T	24	21	noyapiatʃin;tʃiminin;aʔnaɾoatʃin;tatʃiton;tʃanatɨɾin
-o	o	U	128	112	tɨʔwaiɾoʔ;waɾianoʔ;noyapiatʃin;pɨtoyoʔnan;pɨtoyoʔnan
-w	w	W	72	11	tɨʔwaiɾoʔ;iwan;waɾianoʔ;iʔwa;wɨnaiʔ
-y	y	Y	25	25	noyapiatʃin;pɨtoyoʔnan;ina_piɾayan;kayoʔ;noya
-_	+	_	13	13	ina_pikɨɾan;ina_piɾayan;ko_nɨʔwɨtɨɾinwɨʔ;ʃonka_aʔnaʔ;pɨn_panka
+Grapheme	IPA	SCA	Frequency
+^a	a	A	56
+^i	i	I	38
+^k	k	K	36
+^m	m	M	9
+^n	n	N	34
+^o	o	U	11
+^p	p	P	23
+^s	s	S	9
+^t	t	T	23
+^tʃ	tʃ	T	3
+^w	w	W	22
+^y	y/j	J	17
+^ʃ	ʃ	S	20
+_	+	_	13
+a	a	A	229
+a$	a	A	80
+h	h	H	1
+i	i	I	211
+i$	i	I	25
+ii	iː	I	1
+k	k	K	38
+m	m	M	21
+n	n	N	124
+n$	n	N	125
+ns	n s	N S	4
+nw	n w	N W	2
+nʃ	n ʃ	N S	1
+o	o	U	112
+o$	o	U	5
+p	p	P	75
+s	s	S	11
+t	t	T	67
+tʃ	tʃ	T	21
+w	w	W	11
+y	y	Y	25
+ɨ	ɨ	I	114
+ɨ$	ɨ	I	8
+ɾ	ɾ	R	95
+ʃ	ʃ	S	25
+ʔ	ʔ	H	45
+ʔ$	ʔ	H	58

@@ -1,28 +1,68 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		289	NULL	teraw;emesa;esha;eɸena;romreg
-$	NULL		289	NULL	teraw;emesa;esha;eɸena;romreg
-a	a	A	195	52	teraw;emesa;esha;eɸena;marsa
-ɸ	ɸ	B	62	48	eɸena;moɸur;oɸ;oɸuga;oɸ
-e	e	E	221	126	teraw;emesa;emesa;esha;eɸena
-ee	eː	E	1	1	neeki
-h	h	H	29	23	rohog;ahta;oh_eɸena;oha;ahtuka
-i	i	I	60	49	tesi;oskiki;oskiki;enira;detʃir
-j	j	J	36	16	mow_oɸuj;osuj;mem_oɸuj;tʃijdʒa_ergom_okun;etejdʒa
-g	g	K	57	44	romreg;edʒmeg;merga_owos;roga;rohog
-k	k	K	73	59	oskur;kuk;kuk;oroketʃ;oskiki
-m	m	M	107	26	emesa;romreg;marsa;etma;etma
-mh	mh/m̥	M	1	1	omha
-n	n	N	73	50	eɸena;enira;oɸorna;oh_eɸena;en
-b	b	P	17	15	ebisa;ebi;ahabnina;ebir;eɸembedʒ
-r	r	R	89	68	teraw;romreg;romreg;marsa;moɸur
-s	s	S	85	49	emesa;marsa;oskur;merga_owos;tesi
-sh	sh/sʰ	S	1	1	esha
-d	d	T	37	33	odogeg;detʃir;mudag;oduj_ojɸ;edem
-t	t	T	41	30	teraw;etma;etma;tesi;ahta
-dʒ	dʒ	T	38	23	edʒmeg;oɸodʒ;motʃkedʒ;odʒgun;tʃijdʒa_ergom_okun
-tʃ	tʃ	T	16	7	oroketʃ;motʃkedʒ;detʃir;tʃijdʒa_ergom_okun;etʃirɸa
-tʃh	tʃh/tʃʰ	T	1	1	etʃha
-o	o	U	196	118	romreg;moɸur;oskur;merga_owos;merga_owos
-w	w	W	18	11	teraw;merga_owos;engaw;mow_oɸuj;mow
-u	u	Y	73	68	moɸur;oskur;kuk;oɸuga;oku
-_	+	_	43	43	merga_owos;oh_eɸena;mow_oɸuj;mem_oɸuj;tʃijdʒa_ergom_okun
+Grapheme	IPA	SCA	Frequency
+^a	a	A	11
+^b	b	P	1
+^d	d	T	3
+^dʒ	dʒ	T	1
+^e	e	E	95
+^g	g	K	1
+^h	h	H	1
+^i	i	I	2
+^j	j	J	2
+^k	k	K	1
+^m	m	M	71
+^n	n	N	5
+^o	o	U	76
+^r	r	R	4
+^s	s	S	5
+^t	t	T	4
+^tʃ	tʃ	T	5
+^u	u	Y	1
+_	+	_	43
+a	a	A	52
+a$	a	A	132
+b	b	P	15
+bs	b s	P S	1
+d	d	T	33
+d$	d	T	1
+dʒ	dʒ	T	23
+dʒ$	dʒ	T	14
+e	e	E	126
+ee	eː	E	1
+g	g	K	44
+g$	g	K	12
+h	h	H	23
+h$	h	H	5
+i	i	I	49
+i$	i	I	9
+j	j	J	16
+j$	j	J	10
+js	j s	J S	8
+k	k	K	59
+k$	k	K	12
+ks	k s	K S	1
+m	m	M	26
+m$	m	M	9
+mh	mh/m̥	M	1
+ms	m s	M S	1
+n	n	N	50
+n$	n	N	18
+o	o	U	118
+o$	o	U	2
+r	r	R	68
+r$	r	R	15
+rs	r s	R S	2
+s	s	S	49
+s$	s	S	16
+sh	sh/sʰ	S	1
+t	t	T	30
+t$	t	T	7
+tʃ	tʃ	T	7
+tʃ$	tʃ	T	4
+tʃh	tʃh/tʃʰ	T	1
+u	u	Y	68
+u$	u	Y	4
+w	w	W	11
+w$	w	W	7
+ɸ	ɸ	B	48
+ɸ$	ɸ	B	12
+ɸs	ɸ s	B S	2

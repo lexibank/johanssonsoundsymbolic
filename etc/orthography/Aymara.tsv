@@ -1,42 +1,72 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		313	NULL	alaja;aχsaɾaɲa;ukata;samana;sapa
-$	NULL		337	NULL	alaja;aχsaɾaɲa;ukata;samana;sapa
-a	a	A	511	227	alaja;alaja;alaja;aχsaɾaɲa;aχsaɾaɲa
-aa	aː	A	4	4	qhipaaχa;ljaatunka;jaaɾata;paatunka
-ts	ts	C	1	1	kunatsa
-x	x	G	58	15	xatʃxaɲa;xatʃxaɲa;xatʼʃʼa;xamatʼʃʼi;xaχu
-χ	χ	G	12	10	aχsaɾaɲa;qhipaaχa;xaχu;tʼʃʼuχuɲa;tʼʃʼuχɲa
-χw	χw/χʷ	G	1	1	liχwi
-i	i	I	197	133	kʼusiwalju;qhilja;ati;qhathi_siʎpʼi;qhathi_siʎpʼi
-ii	iː	I	4	4	xiliiɾi_kuljaka;xiliiɾi_kuljaka;xiliiɾi_xila;xiliiɾi_xila
-j	j	J	86	76	alaja;ujwa;kʼusiwalju;qhilja;kunalajku
-k	k	K	66	49	ukata;kunalajku;kunalajku;phatanka;kama
-q	q	K	37	29	najɾaqata;atʃuqaɲa;qinaja;tʃiqa;uɾaqi
-kh	kh/kʰ	K	10	10	tʼʃʼakha;tʃhitʃhiljankha;tʼʃʼikhu;thakhi;tʃhankha
-kʼ	kʼ	K	17	11	kʼusiwalju;kʼatʃa;miljkʼuta;kʼawna;xukʼa
-qh	qh/qʰ	K	5	5	manqha;tʼʃʼuljqhi;manqha;qhuɾqhuɲa;tʃhiqha
-qʼ	qʼ	K	13	8	qʼuma;qʼaɲu;laqʼa;manqʼaɲa;liqʼiɲa
-^kh	kʰ	K	3	3	khaja;khajana;khitisa
-^qh	qʰ	K	7	7	qhilja;qhuɾu;qhathi_siʎpʼi;qhipaaχa;qhana
-l	l	L	89	67	alaja;kʼusiwalju;qhilja;kunalajku;wila
-ʎ	ʎ	L	1	1	qhathi_siʎpʼi
-m	m	M	46	31	samana;ampaɾa;ampaɾa;kama;xamatʼʃʼi
-n	n	N	81	74	samana;kunalajku;najɾaqata;phatanka;ajnatʃa
-ɲ	ɲ	N	65	60	aχsaɾaɲa;xatʃxaɲa;atʃuqaɲa;phusaɲa;ɲuɲu
-p	p	P	34	25	sapa;ampaɾa;ampaɾa;qhipaaχa;apaɲa
-ph	ph/pʰ	P	4	4	juspha;laphi;qhujphi;saphi
-pʼ	pʼ	P	8	6	qhathi_siʎpʼi;siljpʼxaɲa;pʼiqi;lapʼa;pʼisi
-^ph	pʰ	P	10	10	phatanka;phusaɲa;phitʃhaɲa;phuju;phisqa
-r	r	R	1	1	para
-ɾ	ɾ	R	71	70	aχsaɾaɲa;ampaɾa;ampaɾa;qhuɾu;najɾaqata
-s	s	S	71	29	aχsaɾaɲa;samana;sapa;kʼusiwalju;qhathi_siʎpʼi
-t	t	T	53	37	ukata;ati;najɾaqata;phatanka;xutaɲa
-th	th/tʰ	T	10	5	qhathi_siʎpʼi;thaja;xathi;thakhi;xatha
-tʃ	tʃ	T	40	29	xatʃxaɲa;kʼatʃa;ajnatʃa;atʃuqaɲa;xantʃi
-tʼ	tʼ	T	9	7	maxtʼa;istʼaɲa;xuntʼu;tʼixuɲa;quntʼaɲa
-tʃh	tʃh/tʃʰ	T	11	11	phitʃhaɲa;tʃhitʃhiljankha;xitʃha;aljtʃhi;aljtʃhi
-^tʃh	tʃʰ	T	4	4	tʃhitʃhiljankha;tʃhankha;tʃhuχuɲa;tʃhiqha
-tʼʃʼ	tʃʼ	T	25	7	xatʼʃʼa;xamatʼʃʼi;tʼʃʼijaɾa;tʼʃʼakha;tʼʃʼina
-w	w	W	57	44	ujwa;kʼusiwalju;wila;xiwata;waɲa
-u	u	Y	194	133	ukata;ujwa;kʼusiwalju;kʼusiwalju;qhuɾu
-_	+	_	16	16	qhathi_siʎpʼi;kimsa_qaljqu;tunka_majani;tajka_waɾmi;qʼixu_qʼixu
+Grapheme	IPA	SCA	Frequency
+^a	a	A	46
+^i	i	I	16
+^j	j	J	8
+^k	k	K	17
+^kh	kʰ	K	3
+^kʼ	kʼ	K	6
+^l	l	L	22
+^m	m	M	13
+^n	n	N	6
+^p	p	P	9
+^ph	pʰ	P	10
+^pʼ	pʼ	P	2
+^q	q	K	8
+^qh	qʰ	K	7
+^qʼ	qʼ	K	5
+^s	s	S	34
+^t	t	T	16
+^th	th/tʰ	T	5
+^tʃ	tʃ	T	11
+^tʃh	tʃʰ	T	4
+^tʼ	tʼ	T	2
+^tʼʃʼ	tʃʼ	T	18
+^u	u	Y	10
+^w	w	W	12
+^x	x	G	42
+^ɲ	ɲ	N	5
+_	+	_	16
+a	a	A	227
+a$	a	A	238
+aa	aː	A	4
+i	i	I	133
+i$	i	I	48
+ii	iː	I	4
+j	j	J	76
+js	j s	J S	1
+jw	j w	J W	1
+k	k	K	49
+kh	kh/kʰ	K	10
+kʼ	kʼ	K	11
+l	l	L	67
+m	m	M	31
+ms	m s	M S	2
+n	n	N	74
+ns	n s	N S	1
+p	p	P	25
+ph	ph/pʰ	P	4
+pʼ	pʼ	P	6
+q	q	K	29
+qh	qh/qʰ	K	5
+qʼ	qʼ	K	8
+r	r	R	1
+s	s	S	29
+t	t	T	37
+th	th/tʰ	T	5
+ts	ts	C	1
+tʃ	tʃ	T	29
+tʃh	tʃh/tʃʰ	T	11
+tʼ	tʼ	T	7
+tʼʃʼ	tʃʼ	T	7
+u	u	Y	133
+u$	u	Y	51
+w	w	W	44
+x	x	G	15
+xs	x s	G S	1
+ɲ	ɲ	N	60
+ɾ	ɾ	R	70
+ɾs	ɾ s	R S	1
+ʎ	ʎ	L	1
+χ	χ	G	10
+χs	χ s	G S	2
+χw	χw/χʷ	G	1

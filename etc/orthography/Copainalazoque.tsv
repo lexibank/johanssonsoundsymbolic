@@ -1,30 +1,72 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		318	NULL	kəsma;tʃəknaʔtsu;xəsaʔka;sawa;mumu
-$	NULL		318	NULL	kəsma;tʃəknaʔtsu;xəsaʔka;sawa;mumu
-a	a	A	167	123	kəsma;tʃəknaʔtsu;xəsaʔka;xəsaʔka;sawa
-ts	ts	C	65	23	tʃəknaʔtsu;jatsi;tsek;tseʔŋna;tsuxtsu
-e	e	E	104	40	tsek;tseʔŋna;xeʔepəxkuj;xeʔepəxkuj;nemu
-ə	ə	E	143	104	kəsma;tʃəknaʔtsu;xəsaʔka;kopən;ukaŋgəʔmək
-x	x	G	88	35	xəsaʔka;xaxtʃuku;xaxtʃuku;kujxam;məxa
-ʔ	ʔ	H	131	115	tʃəknaʔtsu;xəsaʔka;tuʔttskuj;kuʔjunaka;saʔsa
-i	i	I	78	56	jatsi;wina;kiəʔsu;nəʔpin;wim
-j	j	J	79	35	kujxam;tuʔttskuj;jatsi;kuʔjunaka;takaj
-g	g	K	3	3	ukaŋgəʔmək;tungupjoʔk;əŋguexku
-k	k	K	126	57	kəsma;tʃəknaʔtsu;xəsaʔka;kopən;xaxtʃuku
-l	l	L	1	1	paloma
-m	m	M	79	53	kəsma;mumu;mumu;kujxam;ukaŋgəʔmək
-n	n	N	100	81	tʃəknaʔtsu;kopən;kuʔjunaka;wina;tseʔŋna
-ŋ	ŋ	N	29	21	ukaŋgəʔmək;tseʔŋna;ɲəmaŋu;ɲimaʔŋəju;pəŋupə
-ɲ	ɲ	N	11	6	ɲəmaŋu;ɲimaʔŋəju;ɲeʔkə;aŋɲapə;tujuɲajupə
-b	b	P	4	4	neʔŋbak;sebo;wainbaktsaʔ;təmbux
-p	p	P	68	35	kopən;paloma;nəʔpin;pak;kukpak
-s	s	S	48	17	kəsma;xəsaʔka;sawa;tuʔttskuj;saʔsa
-ʃ	ʃ	S	8	3	ʃuxu;uʃaʔŋ;makʃuʔj;xaʃosapə;ʃuʔkisu
-d	d	T	2	2	tiŋdiŋ;xoŋdokoju
-t	t	T	64	25	tuʔttskuj;takaj;təʔpsupə;tənu;tuwi
-tt	tt/tː	T	1	1	tuʔttskuj
-tʃ	tʃ	T	16	10	tʃəknaʔtsu;xaxtʃuku;tʃiks;tʃəxku;kəʔtʃus
-o	o	U	84	64	kopən;paloma;kowaxupə;oʔna;tjoʔŋu
-w	w	W	27	10	sawa;wina;wim;kowaxupə;tuwi
-u	u	Y	167	98	tʃəknaʔtsu;mumu;mumu;xaxtʃuku;xaxtʃuku
-kw	kw/k w	K W	2	2	kukwene;makwəstəxkaʔj
+Grapheme	IPA	SCA	Frequency
+^a	a	A	14
+^e	e	E	18
+^i	i	I	4
+^j	j	J	16
+^k	k	K	41
+^m	m	M	20
+^n	n	N	14
+^o	o	U	10
+^p	p	P	30
+^s	s	S	11
+^t	t	T	37
+^ts	ts	C	36
+^tʃ	tʃ	T	6
+^u	u	Y	5
+^w	w	W	13
+^x	x	G	30
+^ə	ə	E	4
+^ɲ	ɲ	N	5
+^ʃ	ʃ	S	4
+a	a	A	123
+a$	a	A	30
+b	b	P	4
+d	d	T	2
+e	e	E	40
+e$	e	E	46
+g	g	K	3
+i	i	I	56
+i$	i	I	18
+j	j	J	35
+j$	j	J	28
+k	k	K	57
+k$	k	K	21
+ks	k s	K S	4
+ks$	k s	K S	2
+kw	kw/k w	K W	2
+kʃ	k ʃ	K S	1
+l	l	L	1
+m	m	M	53
+m$	m	M	6
+n	n	N	81
+n$	n	N	5
+o	o	U	64
+o$	o	U	10
+p	p	P	35
+p$	p	P	1
+ps	p s	P S	1
+ps$	p s	P S	1
+s	s	S	17
+s$	s	S	6
+t	t	T	25
+t$	t	T	2
+ts	ts	C	23
+ts$	ts	C	5
+tsw	ts w	C W	1
+tt	tt/tː	T	1
+tʃ	tʃ	T	10
+u	u	Y	98
+u$	u	Y	64
+w	w	W	10
+x	x	G	35
+x$	x	G	20
+xs	x s	G S	3
+ŋ	ŋ	N	21
+ŋ$	ŋ	N	7
+ŋs	ŋ s	N S	1
+ə	ə	E	104
+ə$	ə	E	35
+ɲ	ɲ	N	6
+ʃ	ʃ	S	3
+ʔ	ʔ	H	115
+ʔ$	ʔ	H	11

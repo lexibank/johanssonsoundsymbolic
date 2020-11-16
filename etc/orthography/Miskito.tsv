@@ -1,31 +1,66 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		301	NULL	pura;kupia_kaptiwan;niŋkata;pasa;sut
-$	NULL		329	NULL	pura;kupia_kaptiwan;niŋkata;pasa;sut
-a	a	A	621	365	pura;kupia_kaptiwan;kupia_kaptiwan;kupia_kaptiwan;niŋkata
-aa$	aː	A	1	1	kia_walaa
-ts	ts	C	1	1	matsip
-e	e	E	2	1	diera_apu;manke
-x	x	G	23	23	baxamna;taxpla;baxanak;aixkika;kuxbaia
-xw	xw/xʷ	G	1	1	naxwala
-I	I/i	I	5	1	won_Iapura;Iupa;Iupa;Iupa;Iupa
-i	i	I	266	197	kupia_kaptiwan;kupia_kaptiwan;niŋkata;kupia_baikaia;kupia_baikaia
-^y	y/j	J	30	30	yampus;yabaia;yamni;yukukaia;yaŋ
-g	g	K	1	1	sagni
-k	k	K	145	104	kupia_kaptiwan;kupia_kaptiwan;niŋkata;kupia_baikaia;kupia_baikaia
-l	l	L	91	66	won_klakla;won_klakla;won_klakla;won_klakla;slumnikara
-m	m	M	86	40	yampus;baxamna;mawanra;mayara;slumnikara
-n	n	N	151	129	kupia_kaptiwan;niŋkata;daiwan;papu_satka_nani;papu_satka_nani
-ŋ	ŋ	N	16	14	niŋkata;won_wiŋka_pubaia;saŋni;tuŋkuu;won_wiŋka_aubaia
-b	b	P	65	46	kupia_baikaia;baxamna;won_biara;baxanak;won_wiŋka_pubaia
-p	p	P	82	60	pura;kupia_kaptiwan;kupia_kaptiwan;pasa;kupia_baikaia
-r	r	R	101	97	pura;saura;pranakira;pranakira;mawanra
-s	s	S	69	33	pasa;sut;papu_satka_nani;yampus;saura
-d	d	T	31	18	daiwan;dus_taya;won_dusa;daukaia;diaia
-t	t	T	85	50	kupia_kaptiwan;niŋkata;sut;papu_satka_nani;dus_taya
-o	o	U	56	55	won_klakla;won_klakla;won_nina;won_biara;wol_lilapasra
-w	w	W	100	34	kupia_kaptiwan;daiwan;won_klakla;won_klakla;won_nina
-u	u	Y	132	124	pura;kupia_kaptiwan;sut;kupia_baikaia;papu_satka_nani
-y	y	Y	19	19	dus_taya;mayara;praukpraukya;tasba_yuya;tasba_yuya
-uu$	uː	Y	1	1	tuŋkuu
-_	+	_	117	117	kupia_kaptiwan;kupia_baikaia;papu_satka_nani;papu_satka_nani;won_klakla
-kw	kw/k w	K W	1	1	bila_kwakaia
+Grapheme	IPA	SCA	Frequency
+I	I/i	I	1
+^I	I/i	I	4
+^a	a	A	26
+^b	b	P	19
+^d	d	T	13
+^i	i	I	8
+^k	k	K	35
+^l	l	L	15
+^m	m	M	39
+^n	n	N	9
+^p	p	P	19
+^r	r	R	4
+^s	s	S	15
+^sw	s w	S W	3
+^t	t	T	30
+^tw	t w	T W	1
+^u	u	Y	4
+^w	w	W	57
+^y	y/j	J	30
+_	+	_	117
+a	a	A	365
+a$	a	A	230
+aa$	aː	A	1
+b	b	P	46
+d	d	T	18
+e	e	E	1
+e$	e	E	1
+g	g	K	1
+i	i	I	197
+i$	i	I	61
+k	k	K	104
+k$	k	K	4
+ks	k s	K S	2
+kw	kw/k w	K W	1
+l	l	L	66
+l$	l	L	6
+ls	l s	L S	3
+lw	l w	L W	1
+m	m	M	40
+m$	m	M	1
+ms	m s	M S	6
+n	n	N	129
+n$	n	N	11
+ns	n s	N S	2
+o	o	U	55
+o$	o	U	1
+p	p	P	60
+p$	p	P	3
+r	r	R	97
+s	s	S	33
+s$	s	S	4
+sw	s w	S W	1
+t	t	T	50
+t$	t	T	1
+ts	ts	C	1
+tw	t w	T W	3
+u	u	Y	124
+u$	u	Y	4
+uu$	uː	Y	1
+w	w	W	34
+x	x	G	23
+xw	xw/xʷ	G	1
+y	y	Y	19
+ŋ	ŋ	N	14
+ŋ$	ŋ	N	2

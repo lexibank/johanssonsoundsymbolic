@@ -1,38 +1,67 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		341	NULL	ɯe;osoɾe;ato;kɯɯki;sɯbete
-$	NULL		341	NULL	ɯe;osoɾe;ato;kɯɯki;sɯbete
-a	a	A	236	163	ato;ikaɾi;aɾi;hai;ɰaɾɯi
-aa	aː	A	1	1	obaasan
-f	f	B	9	4	fɯkɯ;fɯkai;fɯɾɯi;fɯɾɯi;fɯtatsɯ
-ts	ts	C	21	14	doobɯtsɯ;tsɯtɕi;tsɯme;itsɯtsɯ;itsɯtsɯ
-tɕ	tɕ	C	21	14	tɕi;tsɯtɕi;ʑɯɯitɕi;otɕiɾɯ;mitɕiɾɯ
-e	e	E	65	30	ɯe;osoɾe;sɯbete;sɯbete;ɯde
-h	h	H	37	4	hai;ʑɯhi;haɾa;hone;hakobɯ
-i	i	I	214	70	kɯɯki;ikaɾi;ikaɾi;aɾi;hai
-ɯ	ɯ	I	163	83	ɯe;sɯbete;doobɯtsɯ;doobɯtsɯ;ɯde
-ii	iː	I	10	3	ookii;tadaɕii;ii;haiiɾo;ɯɾeɕii
-ɯɯ	ɯː	I	5	3	kɯɯki;sɯɯ;ʑɯɯitɕi;sɯɯ;ʑɯɯni
-j	j	J	17	7	joko;kijoi;jattsɯ;hajai;jɯbi
-ɰ	ɰ	J	15	9	ɰaɾɯi;kaɰakɯ;ɰataɕi;ɰaɾaɯ;jokotaɰaɾɯ
-g	g	K	21	21	nigai;magaɾɯ;tamago;nagai;togaɾɯ
-k	k	K	110	61	kɯɯki;kɯɯki;ikaɾi;kiɾei;kaɾa
-kk	kk/kː	K	2	2	sekkɯsɯ;jɯkkɯɾi
-m	m	M	90	47	mae;no_ma_ni;kamɯ;moeɾɯ;kɯmo
-n	n	N	63	36	no_ma_ni;no_ma_ni;nigai;nibɯi;hone
-nn	nn/nː	N	2	2	onnanoko;onna
-b	b	P	33	33	sɯbete;doobɯtsɯ;nibɯi;hakobɯ;tabeɾɯ
-pp	pp/pː	P	3	3	oppai;ɕoppai;sɯppai
-ɾ	ɾ	R	80	80	osoɾe;ikaɾi;aɾi;ɰaɾɯi;kiɾei
-s	s	S	62	30	osoɾe;sɯbete;se;sɯɯ;samɯi
-z	z	S	6	6	hiza;haizoo;ɕizɯka;mizɯ;naze
-ɕ	ɕ	S	28	19	ɯɕiɾo;ɕita;ɕiɾi;tadaɕii;ɕinɯ
-ʃ	ʃ	S	2	2	kanaʃii;hainjoo_ʃimasu
-ʑ	ʑ	S	15	12	ʑɯhi;ʑɯɯitɕi;atamaʑiɾami;onaʑi;miʑikai
-ss	ss/sː	S	1	1	massɯgɯ
-d	d	T	14	10	doobɯtsɯ;ɯde;ɯde;kaɾada;tadaɕii
-t	t	T	48	31	ato;sɯbete;ɕita;toɾi;otokonoko
-tt	tt/tː	T	4	4	jattsɯ;jottsɯ;mɯttsɯ;mittsɯ
-o	o	U	167	88	osoɾe;osoɾe;ato;ɯɕiɾo;joko
-oo	oː	U	14	7	doobɯtsɯ;ookii;noo;tooi;doo
-u	u	Y	2	1	tabun;hainjoo_ʃimasu
-_	+	_	13	13	no_ma_ni;no_ma_ni;kaɰa_o_mɯkɯ;kaɰa_o_mɯkɯ;nioi_ga_sɯɾɯ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	28
+^d	d	T	4
+^f	f	B	5
+^h	h	H	33
+^i	i	I	14
+^ii$	iː	I	1
+^j	j	J	10
+^k	k	K	49
+^m	m	M	43
+^n	n	N	24
+^o	o	U	38
+^o$	o	U	1
+^oo	oː	U	2
+^s	s	S	32
+^t	t	T	17
+^ts	ts	C	7
+^tɕ	tɕ	C	7
+^ɕ	ɕ	S	9
+^ɯ	ɯ	I	8
+^ɰ	ɰ	J	6
+^ʑ	ʑ	S	3
+_	+	_	13
+a	a	A	163
+a$	a	A	45
+aa	aː	A	1
+b	b	P	33
+d	d	T	10
+e	e	E	30
+e$	e	E	35
+f	f	B	4
+g	g	K	21
+h	h	H	4
+i	i	I	70
+i$	i	I	130
+ii	iː	I	3
+ii$	iː	I	6
+j	j	J	7
+k	k	K	61
+kk	kk/kː	K	2
+m	m	M	47
+n	n	N	36
+n$	n	N	3
+nn	nn/nː	N	2
+o	o	U	88
+o$	o	U	40
+oo	oː	U	7
+oo$	oː	U	5
+pp	pp/pː	P	3
+s	s	S	30
+ss	ss/sː	S	1
+t	t	T	31
+ts	ts	C	14
+tt	tt/tː	T	4
+tɕ	tɕ	C	14
+u	u	Y	1
+u$	u	Y	1
+z	z	S	6
+ɕ	ɕ	S	19
+ɯ	ɯ	I	83
+ɯ$	ɯ	I	72
+ɯɯ	ɯː	I	3
+ɯɯ$	ɯː	I	2
+ɰ	ɰ	J	9
+ɾ	ɾ	R	80
+ʃ	ʃ	S	2
+ʑ	ʑ	S	12

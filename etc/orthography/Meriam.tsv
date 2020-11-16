@@ -1,26 +1,61 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		232	NULL	kewbu;izrum;pagas;pagas;tibi
-$	NULL		233	NULL	nham;kewbu;izrum;pagas;pagas
-a	a	A	131	89	nham;pagas;pagas;pagas;pagas
-e	e	E	157	129	kewbu;gegur;kikem;kewbu;kem
-i	i	I	91	55	izrum;tibi;tibi;kikem;iruser
-g	g	K	30	15	pagas;pagas;gegur;gegur;goligoli
-k	k	K	55	24	kewbu;kikem;kikem;kewbu;kem
-l	l	L	22	13	goligoli;goligoli;lid;goligoli;goligoli
-m	m	M	69	21	nham;izrum;kikem;kem;mam
-n	n	N	61	12	idoni;nano;nano;bar_ditung;poni
-^nh	nh/n̥	N	1	1	nham
-b	b	P	64	30	kewbu;tibi;kewbu;ebur;taba
-p	p	P	43	14	pagas;pagas;motop;layp;sep
-r	r	R	91	45	izrum;sor;gegur;ebur;iruser
-s	s	S	29	16	pagas;pagas;sor;iruser;sep
-z	z	S	5	5	izrum;azi;i_ezo;buzigbuzig;buzigbuzig
-d	d	T	21	10	adud;adud;lid;idoni;bar_ditung
-t	t	T	60	27	tibi;ikayret;motop;taba;bar_ditung
-o	o	U	33	26	sor;goligoli;goligoli;idoni;nano
-w	w	W	34	13	kewbu;kewbu;aw;werem;ewmi
-u	u	Y	32	19	kewbu;izrum;adud;gegur;kewbu
-y	y	Y	17	13	ikayret;akay;layp;ayswer;batay
-_	+	_	5	5	bar_ditung;i_ezo;ng_ager;mamam_mamam;korider_emri
-gw	gw/g w	K W	8	8	negwam;negwam;negwam;negwam;negwam
-kw	kw/k w	K W	1	1	dikweyredi
+Grapheme	IPA	SCA	Frequency
+^a	a	A	28
+^b	b	P	21
+^d	d	T	6
+^e	e	E	9
+^e$	e	E	1
+^g	g	K	8
+^i	i	I	10
+^k	k	K	27
+^l	l	L	9
+^m	m	M	18
+^n	n	N	49
+^nh	nh/n̥	N	1
+^o	o	U	1
+^o$	o	U	1
+^p	p	P	14
+^s	s	S	4
+^t	t	T	9
+^u	u	Y	3
+^w	w	W	14
+_	+	_	5
+a	a	A	89
+a$	a	A	14
+b	b	P	30
+b$	b	P	13
+d	d	T	10
+d$	d	T	5
+e	e	E	129
+e$	e	E	18
+g	g	K	15
+g$	g	K	7
+gw	gw/g w	K W	8
+i	i	I	55
+i$	i	I	26
+k	k	K	24
+k$	k	K	4
+kw	kw/k w	K W	1
+l	l	L	13
+m	m	M	21
+m$	m	M	30
+n	n	N	12
+o	o	U	26
+o$	o	U	5
+p	p	P	14
+p$	p	P	14
+pw	p w	P W	1
+r	r	R	45
+r$	r	R	46
+s	s	S	16
+s$	s	S	8
+sw	s w	S W	1
+t	t	T	27
+t$	t	T	23
+tw	t w	T W	1
+u	u	Y	19
+u$	u	Y	10
+w	w	W	13
+w$	w	W	4
+y	y	Y	13
+y$	y	Y	4
+z	z	S	5

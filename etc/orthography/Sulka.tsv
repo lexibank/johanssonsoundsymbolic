@@ -1,37 +1,71 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		152	NULL	kuo;ɣor;ekam;tɣus;esik
-$	NULL		165	NULL	kuo;ɣor;ekam;tɣus;esik
-a	a	A	67	40	ekam;laut;elat;katβu;kolkha
-β	β	B	19	6	βɣum;βrik;katβu;βuut;βo
-^βh	βʰ	B	2	2	βha;βha
-e	e	E	52	36	ekam;esik;rkieŋ;ŋoeniŋ;elat
-ɣ	ɣ	G	16	12	ɣor;tɣus;βɣum;loktiek_hori_orom_atɣiaŋ;pɣa
-h	h	H	14	7	a_ktiek_hori_orom_a_korlotge;loktiek_hori_orom_atɣiaŋ;halla;hor;hok
-i	i	I	59	48	esik;kim;βrik;rkieŋ;ŋoeniŋ
-ɨ	ɨ	I	8	5	ɨndɨɨl;pɨs;rɨk;sβɨl;jɨ
-ɨɨ	ɨː	I	1	1	ɨndɨɨl
-^j	j	J	5	5	jor;ja;jɨ;joŋ;jɨn
-g	g	K	1	1	a_ktiek_hori_orom_a_korlotge
-k	k	K	68	20	kuo;ekam;esik;koŋsop;kim
-kh	kh/kʰ	K	3	3	kolkha;βolkha;kolkha
-^kh	kʰ	K	1	1	kha
-l	l	L	38	19	laut;elat;ɨndɨɨl;lol;lol
-ll	ll/lː	L	1	1	halla
-m	m	M	40	13	ekam;βɣum;kim;pum;mem
-^mh	mh/m̥	M	4	4	mhel;mhe;mhel;mhelom
-^mm	mː	M	1	1	mmie
-n	n	N	35	14	ŋoeniŋ;ɨndɨɨl;an;pendɔl;kmeneŋ
-ŋ	ŋ	N	24	3	koŋsop;rkieŋ;ŋoeniŋ;ŋoeniŋ;ŋmir
-nh	nh/n̥	N	4	1	nhar;nhar;kenho;nho
-p	p	P	19	6	koŋsop;pum;poi;pɨs;pruo
-pp	pp/pː	P	1	1	koppet
-r	r	R	49	25	ɣor;βrik;rkieŋ;sir;pruo
-rr	rr/rː	R	1	1	βorrek
-s	s	S	20	2	tɣus;esik;koŋsop;pɨs;sir
-d	d	T	3	2	ɨndɨɨl;pendɔl;dok
-t	t	T	42	22	tɣus;laut;elat;katβu;eti
-o	o	U	90	71	kuo;ɣor;koŋsop;koŋsop;ŋoeniŋ
-ɔ	ɔ	U	1	1	pendɔl
-u	u	Y	22	16	kuo;tɣus;βɣum;pum;laut
-uu	uː	Y	1	1	βuut
-_	+	_	29	29	a_ktiek_hori_orom_a_korlotge;a_ktiek_hori_orom_a_korlotge;a_ktiek_hori_orom_a_korlotge;a_ktiek_hori_orom_a_korlotge;a_ktiek_hori_orom_a_korlotge
+Grapheme	IPA	SCA	Frequency
+^a	a	A	12
+^d	d	T	1
+^e	e	E	9
+^h	h	H	7
+^i	i	I	1
+^j	j	J	5
+^k	k	K	24
+^kh	kʰ	K	1
+^l	l	L	9
+^m	m	M	12
+^mh	mh/m̥	M	4
+^mm	mː	M	1
+^n	n	N	8
+^nh	nh/n̥	N	3
+^o	o	U	2
+^p	p	P	10
+^r	r	R	5
+^s	s	S	11
+^t	t	T	10
+^ŋ	ŋ	N	10
+^ɣ	ɣ	G	4
+^ɨ	ɨ	I	1
+^β	β	B	13
+^βh	βʰ	B	2
+_	+	_	29
+a	a	A	40
+a$	a	A	15
+d	d	T	2
+e	e	E	36
+e$	e	E	7
+g	g	K	1
+h	h	H	7
+i	i	I	48
+i$	i	I	10
+k	k	K	20
+k$	k	K	24
+kh	kh/kʰ	K	3
+l	l	L	19
+l$	l	L	10
+ll	ll/lː	L	1
+m	m	M	13
+m$	m	M	15
+n	n	N	14
+n$	n	N	13
+nh	nh/n̥	N	1
+o	o	U	71
+o$	o	U	17
+p	p	P	6
+p$	p	P	3
+pp	pp/pː	P	1
+r	r	R	25
+r$	r	R	18
+rr	rr/rː	R	1
+rs	r s	R S	1
+s	s	S	2
+s$	s	S	5
+t	t	T	22
+t$	t	T	10
+u	u	Y	16
+u$	u	Y	6
+uu	uː	Y	1
+ŋ	ŋ	N	3
+ŋ$	ŋ	N	10
+ŋs	ŋ s	N S	1
+ɔ	ɔ	U	1
+ɣ	ɣ	G	12
+ɨ	ɨ	I	5
+ɨ$	ɨ	I	2
+ɨɨ	ɨː	I	1
+β	β	B	6

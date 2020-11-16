@@ -1,41 +1,87 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		319	NULL	panti;ciriik;ho̞o̞n;se̞;cʼile̞q
-$	NULL		337	NULL	panti;ciriik;ho̞o̞n;se̞;cʼile̞q
-a	a	A	112	95	panti;kawi;baji;cal;naq
-aa	aː	A	25	9	kalaan;cʼaaq;saaq;maat;kʼuwaatɬ
-c	c	C	51	27	ciriik;cal;culuul;catɬa;co̞kihapʼure̞
-cʼ	cʼ	C	26	2	cʼile̞q;cʼe̞p;cʼil;cʼaaq;cʼar
-e̞	e̞	E	91	72	se̞;cʼile̞q;le̞we̞q;le̞we̞q;le̞we̞q
-e̞e̞	e̞ː	E	13	11	tiqe̞le̞s_kʼe̞te̞e̞m_tɬo̞mi;the̞e̞h;ke̞te̞e̞m;cʼe̞e̞k;pʼe̞e̞b
-^x	x	G	2	2	xiin;xo̞ro̞o̞ta
-^χ	χ	G	3	3	χunaʔ;χat;χat
-h	h	H	40	6	ho̞o̞n;ho̞r;co̞kihapʼure̞;qʼuh;nih
-ʔ	ʔ	H	9	1	ʔe̞m;ʔuw;χunaʔ;ʔe̞l;ʔimit_wan
-i	i	I	104	84	panti;ciriik;cʼile̞q;kawi;baji
-ii	iː	I	8	7	ciriik;tɬiin;puriiw;hiim;ciir
-j	j	J	46	10	baji;pʼe̞j;lo̞o̞j;bo̞j;to̞mo̞j
-k	k	K	29	5	ciriik;kawi;ke̞n;kalaan;bo̞o̞k
-q	q	K	33	7	cʼile̞q;le̞we̞q;le̞we̞q;puq;naq
-kʼ	kʼ	K	28	5	kʼo̞l;tiqe̞le̞s_kʼe̞te̞e̞m_tɬo̞mi;kʼal;kʼah;kʼuwaatɬ
-^qʼ	qʼ	K	6	6	qʼuh;qʼo̞tis;qʼo̞l;qʼo̞t;qʼan
-l	l	L	62	14	cʼile̞q;le̞we̞q;le̞we̞q;cal;le̞
-ɬ	ɬ	L	21	14	tɬiin;catɬa;tɬuum;tɬo̞b;tɬu
-ɬʼ	ɬʼ	L	4	4	se̞rtʼɬʼawi;tʼɬʼaw;tʼɬʼuq;tʼɬʼam
-m	m	M	77	22	mil;ʔe̞m;bam;tɬuum;min
-n	n	N	84	34	panti;ho̞o̞n;naq;ke̞n;kalaan
-b	b	P	27	2	baji;bo̞;bo̞o̞k;bam;bo̞q
-p	p	P	42	6	panti;puq;cʼe̞p;paq;puriiw
-pʼ	pʼ	P	21	1	pʼe̞j;co̞kihapʼure̞;pʼiw;pʼe̞;pʼe̞e̞b
-^ph	pʰ	P	7	7	phuur;phub;pho̞o̞h;pharal;pho̞jo̞q
-r	r	R	36	17	ciriik;ho̞r;cʼar;phuur;co̞kihapʼure̞
-s	s	S	30	6	se̞;saaq;san;cʼapasa;se̞rtʼɬʼawi
-d	d	T	16	1	daq;dum;dil;dal;daw
-t	t	T	84	42	panti;tɬiin;catɬa;tɬuum;maat
-th	th/tʰ	T	7	3	thun;the̞e̞h;the̞w;thaw;nthe̞re̞
-tʼ	tʼ	T	11	2	tʼa;tʼina;se̞rtʼɬʼawi;tʼɬʼaw;tʼip
-o̞	o̞	U	51	48	ho̞r;bo̞;bo̞q;kʼo̞l;co̞kihapʼure̞
-o̞o̞	o̞ː	U	12	9	ho̞o̞n;bo̞o̞k;pho̞o̞h;lo̞o̞j;bo̞o̞s
-w	w	W	25	9	le̞we̞q;le̞we̞q;kawi;wuu;pʼiw
-u	u	Y	77	72	puq;culuul;thun;co̞kihapʼure̞;qʼuh
-uu	uː	Y	18	17	culuul;wuu;phuur;tɬuum;huum
-_	+	_	6	6	tiqe̞le̞s_kʼe̞te̞e̞m_tɬo̞mi;tiqe̞le̞s_kʼe̞te̞e̞m_tɬo̞mi;ʔimit_wan;bo̞he̞m_me̞m_cʼuha;bo̞he̞m_me̞m_cʼuha
+Grapheme	IPA	SCA	Frequency
+^b	b	P	19
+^c	c	C	22
+^cʼ	cʼ	C	24
+^d	d	T	13
+^h	h	H	21
+^j	j	J	4
+^k	k	K	15
+^kʼ	kʼ	K	23
+^l	l	L	16
+^m	m	M	37
+^n	n	N	10
+^p	p	P	29
+^ph	pʰ	P	7
+^pʼ	pʼ	P	20
+^q	q	K	4
+^qʼ	qʼ	K	6
+^s	s	S	15
+^t	t	T	23
+^th	th/tʰ	T	4
+^tʼ	tʼ	T	7
+^w	w	W	6
+^x	x	G	2
+^ʔ	ʔ	H	7
+^χ	χ	G	3
+_	+	_	6
+a	a	A	95
+a$	a	A	17
+aa	aː	A	9
+aa$	aː	A	16
+b	b	P	2
+b$	b	P	6
+c	c	C	27
+c$	c	C	2
+cʼ	cʼ	C	2
+d	d	T	1
+d$	d	T	2
+e̞	e̞	E	72
+e̞$	e̞	E	19
+e̞e̞	e̞ː	E	11
+e̞e̞$	e̞ː	E	2
+h	h	H	6
+h$	h	H	13
+i	i	I	84
+i$	i	I	20
+ii	iː	I	7
+ii$	iː	I	1
+j	j	J	10
+j$	j	J	32
+k	k	K	5
+k$	k	K	9
+kʼ	kʼ	K	5
+l	l	L	14
+l$	l	L	32
+m	m	M	22
+m$	m	M	18
+n	n	N	34
+n$	n	N	40
+o̞	o̞	U	48
+o̞$	o̞	U	3
+o̞o̞	o̞ː	U	9
+o̞o̞$	o̞ː	U	3
+p	p	P	6
+p$	p	P	7
+pʼ	pʼ	P	1
+q	q	K	7
+q$	q	K	22
+r	r	R	17
+r$	r	R	19
+s	s	S	6
+s$	s	S	9
+t	t	T	42
+t$	t	T	19
+th	th/tʰ	T	3
+tʼ	tʼ	T	2
+tʼ$	tʼ	T	2
+u	u	Y	72
+u$	u	Y	5
+uu	uː	Y	17
+uu$	uː	Y	1
+w	w	W	9
+w$	w	W	10
+ɬ	ɬ	L	14
+ɬ$	ɬ	L	7
+ɬʼ	ɬʼ	L	4
+ʔ	ʔ	H	1
+ʔ$	ʔ	H	1

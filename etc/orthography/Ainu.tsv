@@ -1,32 +1,68 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		329	NULL	ɛnka;sitɔma;imaka;ɔpitta;ɾuska
-$	NULL		333	NULL	ɛnka;sitɔma;imaka;ɔpitta;ɾuska
-a	a	A	245	152	ɛnka;sitɔma;imaka;imaka;ɔpitta
-^ts	ts	C	1	1	tsi
-e	e	E	11	5	nojpe;rewke;rewke;ekohaje;ekohaje
-ɛ	ɛ	E	120	51	ɛnka;sɛtuɾ;wɛn;kunnɛ;kɛm
-^ɛɛ	ɛː	E	2	2	ɛɛn;ɛɛn
-h	h	H	41	11	hɔski;hɔn;hɛkatʃi;hɛsɛ;uhuj
-i	i	I	105	71	sitɔma;imaka;ɔpitta;itunnap;amunin
-j	j	J	31	18	nojpe;uhuj;ɾaj;tɔj;tujma
-jh	jh/j̊	J	1	1	kamujhum
-k	k	K	138	86	ɛnka;imaka;ɾuska;kap;piɾka
-kk	kk/kː	K	8	8	tʃakkɛɾɛ;kɔkka;iranakka;sukakkɛ;wakka
-m	m	M	73	27	sitɔma;imaka;amunin;amunin;ɔsma
-n	n	N	109	66	ɛnka;amunin;amunin;amunin;amunin
-nn	nn/nː	N	8	8	itunnap;kunnɛ;askannɛ;kunnɛ;nɔnnɔ
-p	p	P	107	65	ɔpitta;itunnap;pas;kap;piɾka
-pp	pp/pː	P	10	10	sippɔ;pɔppɛ;mippɔ;mippɔ;mippɔ
-r	r	R	6	2	rewke;ukor;sirpeker;sirpeker;iranakka
-ɾ	ɾ	R	99	56	ɾuska;sɛtuɾ;piɾka;utuɾ;pɔɾɔ
-s	s	S	79	32	sitɔma;ɾuska;pas;sɛtuɾ;kusu
-ʃ	ʃ	S	1	1	ɾattʃitaɾa
-t	t	T	70	37	sitɔma;itunnap;sɛtuɾ;utuɾ;nɛtɔpa
-tt	tt/tː	T	3	3	ɔpitta;tɔttɔ;ɾattʃitaɾa
-tʃ	tʃ	T	32	22	tʃikap;hɛkatʃi;tʃis;tʃakkɛɾɛ;hatʃiɾ
-o	o	U	8	8	nojpe;ekohaje;ukor;hotke;neipakno_ka
-ɔ	ɔ	U	96	43	sitɔma;ɔpitta;hɔski;ɔsma;hɔn
-^ɔɔ	ɔː	U	1	1	ɔɔhɔ
-w	w	W	22	12	wɛn;aw;siw;ɛwaɾ;siwnin
-u	u	Y	111	72	ɾuska;itunnap;amunin;amunin;sɛtuɾ
-_	+	_	7	7	sinɛp_ikasma_wanpɛ;sinɛp_ikasma_wanpɛ;ni_sinɾit;neipakno_ka;tup_ikasma_wanpɛ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	31
+^a$	a	A	1
+^e	e	E	1
+^h	h	H	30
+^i	i	I	8
+^j	j	J	7
+^k	k	K	34
+^m	m	M	32
+^n	n	N	19
+^p	p	P	23
+^r	r	R	1
+^s	s	S	34
+^t	t	T	26
+^ts	ts	C	1
+^tʃ	tʃ	T	10
+^u	u	Y	12
+^w	w	W	4
+^ɔ	ɔ	U	20
+^ɔɔ	ɔː	U	1
+^ɛ	ɛ	E	16
+^ɛɛ	ɛː	E	2
+^ɾ	ɾ	R	20
+_	+	_	7
+a	a	A	152
+a$	a	A	61
+e	e	E	5
+e$	e	E	5
+h	h	H	11
+i	i	I	71
+i$	i	I	26
+j	j	J	18
+j$	j	J	6
+jh	jh/j̊	J	1
+k	k	K	86
+k$	k	K	18
+kk	kk/kː	K	8
+m	m	M	27
+m$	m	M	14
+n	n	N	66
+n$	n	N	24
+nn	nn/nː	N	8
+o	o	U	8
+p	p	P	65
+p$	p	P	18
+pp	pp/pː	P	10
+ps	p s	P S	1
+r	r	R	2
+r$	r	R	3
+s	s	S	32
+s$	s	S	11
+t	t	T	37
+t$	t	T	7
+tt	tt/tː	T	3
+tʃ	tʃ	T	22
+u	u	Y	72
+u$	u	Y	27
+w	w	W	12
+w$	w	W	4
+ws	w s	W S	1
+ɔ	ɔ	U	43
+ɔ$	ɔ	U	33
+ɛ	ɛ	E	51
+ɛ$	ɛ	E	53
+ɾ	ɾ	R	56
+ɾ$	ɾ	R	22
+ɾw	ɾ w	R W	1
+ʃ	ʃ	S	1

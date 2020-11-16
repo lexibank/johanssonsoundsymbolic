@@ -1,34 +1,64 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		314	NULL	aaɸe;xakɨɾuite;ieɾnei;aɨɸɨ;na
-$	NULL		323	NULL	aaɸe;xakɨɾuite;ieɾnei;aɨɸɨ;na
-_$	NULL		1	1	iaɨɾei_
-a	a	A	245	172	xakɨɾuite;aɨɸɨ;na;okaina;okaina
-aa	aː	A	3	1	aaɸe;nagaamaga;aado
-ɸ	ɸ	B	44	29	aaɸe;aɨɸɨ;ɸekakaiɾo;ɸekakaiɾo;xuseɸo
-β	β	B	2	2	ɸɨβui;naβui_aɾe
-c	c	C	2	1	ceme;tɾoca
-ɟ	ɟ	C	29	25	aɨɟue;siɟi;iɟaikɨ;uiɟɨe;eɨɟɨmo_dakaɨ
-e	e	E	274	98	aaɸe;xakɨɾuite;ieɾnei;ieɾnei;ɸekakaiɾo
-ee	eː	E	2	1	eede;meeɾe
-x	x	G	56	8	xakɨɾuite;xuseɸo;xeaɾe;xiɾa;xaie
-i	i	I	186	127	xakɨɾuite;ieɾnei;ieɾnei;okaina;ɸekakaiɾo
-ɨ	ɨ	I	155	106	xakɨɾuite;aɨɸɨ;aɨɸɨ;ɾakɨɲo;igoɾaɨ
-ii	iː	I	1	1	ɟiide
-^ɨɨ	ɨː	I	9	1	ɨɨde;ɨɨ;ɨɨ;ɨɨ;ɨɨ
-g	g	K	22	19	igoɾaɨ;xogobe;guite;xɨgɨ;nagaamaga
-k	k	K	75	58	xakɨɾuite;okaina;ɾakɨɲo;ɸekakaiɾo;ɸekakaiɾo
-l	l	L	1	1	palpaɾ_x_etooe
-m	m	M	72	55	emodo;mokoɾede;ceme;maɾe;aɾemona
-n	n	N	90	74	ieɾnei;na;okaina;ɸenaɨ;ana
-ɲ	ɲ	N	25	24	ɾakɨɲo;ɾaitɨkɨɲo;kaiɲɨkɨ_ɨɸo;uiɲote;ɲɨtade
-b	b	P	43	25	ebiɾe;abɨ;xogobe;boode;bite
-p	p	P	2	1	palpaɾ_x_etooe;palpaɾ_x_etooe
-ɾ	ɾ	R	96	84	xakɨɾuite;ieɾnei;ɾakɨɲo;ɸekakaiɾo;ɸekakaiɾo
-s	s	S	53	47	xuseɸo;siɟi;ɾosiɾuite;ɾaɨse;saɸeɾede
-d	d	T	84	72	emodo;aɸekodo;dɨɾue;ɸiɾaide;mokoɾede
-t	t	T	45	39	xakɨɾuite;aɨniɾite;xitɨɾe;xaɸaikɨ_ote;uite
-o	o	U	146	82	okaina;ɾakɨɲo;ɸekakaiɾo;ɸekakaiɾo;xuseɸo
-oo	oː	U	5	2	boode;idoo;palpaɾ_x_etooe;moo;moo
-u	u	Y	72	48	xakɨɾuite;xuseɸo;aɨɟue;dɨɾue;uite
-^uu	uː	Y	1	1	uuɾago
-_	+	_	24	24	xaɸaikɨ_ote;aneɸebeimo_dakaɨ_amani;aneɸebeimo_dakaɨ_amani;eɨɟɨmo_dakaɨ;ibekona_xaide
+Grapheme	IPA	SCA	Frequency
+_$	NULL	NULL	1
+^a	a	A	27
+^aa	aː	A	2
+^b	b	P	18
+^c	c	C	1
+^d	d	T	12
+^e	e	E	34
+^ee	eː	E	1
+^g	g	K	3
+^i	i	I	32
+^k	k	K	17
+^m	m	M	17
+^n	n	N	16
+^o	o	U	9
+^o$	o	U	1
+^p	p	P	1
+^s	s	S	6
+^t	t	T	6
+^u	u	Y	21
+^uu	uː	Y	1
+^x	x	G	48
+^ɟ	ɟ	C	4
+^ɨ	ɨ	I	10
+^ɨɨ	ɨː	I	1
+^ɨɨ$	ɨː	I	8
+^ɲ	ɲ	N	1
+^ɸ	ɸ	B	15
+^ɾ	ɾ	R	12
+_	+	_	24
+a	a	A	172
+a$	a	A	46
+aa	aː	A	1
+b	b	P	25
+c	c	C	1
+d	d	T	72
+e	e	E	98
+e$	e	E	142
+ee	eː	E	1
+g	g	K	19
+i	i	I	127
+i$	i	I	27
+ii	iː	I	1
+k	k	K	58
+l	l	L	1
+m	m	M	55
+n	n	N	74
+o	o	U	82
+o$	o	U	54
+oo	oː	U	2
+oo$	oː	U	3
+p	p	P	1
+s	s	S	47
+t	t	T	39
+u	u	Y	48
+u$	u	Y	3
+x	x	G	8
+ɟ	ɟ	C	25
+ɨ	ɨ	I	106
+ɨ$	ɨ	I	39
+ɲ	ɲ	N	24
+ɸ	ɸ	B	29
+ɾ	ɾ	R	84
+β	β	B	2

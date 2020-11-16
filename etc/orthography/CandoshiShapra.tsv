@@ -1,29 +1,58 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		269	NULL	mona;mona;kanoositʃ;itʃiŋkoɾo;tʃiʃi
-$	NULL		267	NULL	mona;mona;kanoositʃ;itʃiŋkoɾo;tʃiʃi
-a	a	A	313	219	mona;mona;kanoositʃ;poʂatʃi;jootaɾiita
-aa	aː	A	89	89	kapoʈʂomaama;koɾaasi;tapoossamaama;kanoosamaama;koɾamaama
-f	f	B	1	1	kamopʃfmaama
-c	c	C	1	1	kaciʂa
-ts	ts	C	27	18	tsapooʃo;kantsiaɾpi;notsitʃ;tsipaamaama;tsaɾona
-ʈʂ	ʈʂ	C	5	4	kapoʈʂomaama;koʈʂinamaama;moʈʂaʈʂa;moʈʂaʈʂa;ʈʂaŋkitama
-i	i	I	274	131	kanoositʃ;itʃiŋkoɾo;itʃiŋkoɾo;tʃiʃi;tʃiʃi
-ii	iː	I	15	14	jootaɾiita;koʃiiʃimono;wiiɾi;iisi;watsiɾiita
-j	j	J	27	20	jootaɾiita;jamamaama;pojimpo;wajaŋktʃi;tootʃip_matajaɾo
-k	k	K	92	36	kanoositʃ;itʃiŋkoɾo;kooʃitʃ;koɾotanaʂi;koʃiiʃimono
-l$	l	L	2	2	apaaɾl;apaaɾl
-m	m	M	155	122	mona;mona;koʃiiʃimono;kapoʈʂomaama;kapoʈʂomaama
-n	n	N	99	88	mona;mona;kanoositʃ;koɾotanaʂi;koʃiiʃimono
-ŋ	ŋ	N	23	23	itʃiŋkoɾo;noŋki;kapoŋko;nantaɾaŋkitʃ;katoŋkomaama
-p	p	P	90	67	poʂatʃi;tsapooʃo;kapoŋko;kapoʈʂomaama;kapʂi
-ɾ	ɾ	R	102	101	itʃiŋkoɾo;jootaɾiita;koɾotanaʂi;siɾoota;tintiɾantʃitʃ
-s	s	S	30	18	kanoositʃ;siɾoota;koɾaasi;kanoosamaama;kotsas_minam_matajaɾo
-ʂ	ʂ	S	62	39	poʂatʃi;koɾotanaʂi;kapʂi;mʂia;kaciʂa
-ʃ	ʃ	S	19	11	tʃiʃi;kooʃitʃ;koʃiiʃimono;koʃiiʃimono;tsapooʃo
-ss	ss/sː	S	2	2	tapoossamaama;nassitʃ
-t	t	T	64	42	jootaɾiita;jootaɾiita;koɾotanaʂi;siɾoota;tintiɾantʃitʃ
-tʃ	tʃ	T	108	69	kanoositʃ;itʃiŋkoɾo;tʃiʃi;poʂatʃi;kooʃitʃ
-o	o	U	139	96	mona;mona;itʃiŋkoɾo;itʃiŋkoɾo;poʂatʃi
-oo	oː	U	21	21	kanoositʃ;kooʃitʃ;jootaɾiita;siɾoota;tsapooʃo
-w	w	W	51	24	kawampana;wajaŋktʃi;kowitʃ;kowiʂ_ptʃiaɾo;kawampana
-_	+	_	13	13	tootʃip_matajaɾo;kotsas_minam_matajaɾo;kotsas_minam_matajaɾo;kowiʂ_ptʃiaɾo;maŋkitʃ_kama
+Grapheme	IPA	SCA	Frequency
+^a	a	A	8
+^i	i	I	27
+^ii	iː	I	1
+^j	j	J	7
+^k	k	K	55
+^ks	k s	K S	1
+^m	m	M	28
+^ms	m s	M S	2
+^mʂ	m ʂ	M S	2
+^n	n	N	10
+^o	o	U	6
+^p	p	P	19
+^pʂ	p ʂ	P S	2
+^s	s	S	9
+^t	t	T	21
+^ts	ts	C	9
+^tʃ	tʃ	T	12
+^w	w	W	27
+^ʂ	ʂ	S	18
+^ʃ	ʃ	S	4
+^ʈʂ	ʈʂ	C	1
+_	+	_	13
+a	a	A	219
+a$	a	A	86
+aa	aː	A	89
+c	c	C	1
+f	f	B	1
+i	i	I	131
+i$	i	I	116
+ii	iː	I	14
+j	j	J	20
+k	k	K	36
+l$	l	L	2
+m	m	M	122
+mʃ	m ʃ	M S	1
+n	n	N	88
+nʃ	n ʃ	N S	1
+o	o	U	96
+o$	o	U	37
+oo	oː	U	21
+p	p	P	67
+pʂ	p ʂ	P S	1
+pʃ	p ʃ	P S	1
+s	s	S	18
+ss	ss/sː	S	2
+t	t	T	42
+t$	t	T	1
+ts	ts	C	18
+tʃ	tʃ	T	69
+tʃ$	tʃ	T	27
+w	w	W	24
+ŋ	ŋ	N	23
+ɾ	ɾ	R	101
+ɾʃ	ɾ ʃ	R S	1
+ʂ	ʂ	S	39
+ʃ	ʃ	S	11
+ʈʂ	ʈʂ	C	4

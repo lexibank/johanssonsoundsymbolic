@@ -1,42 +1,64 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		205	NULL	tats̪ikwa;taɹiata;iamin̪duɛtʃa;s̪ɨruki;xapu_tʃkari
-$	NULL		225	NULL	tats̪ikwa;taɹiata;iamin̪duɛtʃa;s̪ɨruki;xapu_tʃkari
-a	a	A	234	161	tats̪ikwa;tats̪ikwa;taɹiata;taɹiata;taɹiata
-aa	aː	A	7	6	taa;atʃaati;s̪ɨraata;n̪aan̪di;n̪aan̪di
-ts	ts	C	3	3	iumu_tsimani;tembini_tsimani;ma_ekuatsi
-e	e	E	3	3	tembini_ma;tembini_tsimani;ma_ekuatsi
-ɛ	ɛ	E	54	47	iamin̪duɛtʃa;pɛʃu_kwa;n̪o_s̪ɛs̪i;s̪ɛs̪i_s̪as̪ɨ;kɛts̪ikwa
-x	x	G	48	17	xapu_tʃkari;xirɛs̪tan̪i;xuɹan̪i;xuɹimbiti;xun̪i
-h	h	H	1	1	xauahin̪i
-i	i	I	303	147	tats̪ikwa;taɹiata;iamin̪duɛtʃa;iamin̪duɛtʃa;s̪ɨruki
-ɨ	ɨ	I	26	16	s̪ɨruki;s̪ɛs̪i_s̪as̪ɨ;s̪ɨtuɹi;pimbin̪has̪ɨ;its̪ɨman̪i
-k	k	K	32	21	s̪ɨruki;xapu_tʃkari;kɛts̪ikwa;kats̪aɹin̪i;kapin̪din̪i
-^kh	kʰ	K	5	5	khɛri;khamɛri;khaɹiri;khɛn̪i;khɛs̪ɨ
-kw$	kw/kʷ	K	1	1	xos̪kw
-^kwh	kwh/kʷʰ	K	6	6	kwhiripita;kwhiripu;kwhman̪da;kwhin̪i;kwharan̪i
-kwkw	kwkw/kʷː	K	2	2	phukwkwa;n̪an̪a_kwkwl̪a
-l̪	l̪	L	1	1	n̪an̪a_kwkwl̪a
-m	m	M	51	45	iamin̪duɛtʃa;khamɛri;pimbin̪has̪ɨ;xuɹimbiti;its̪ɨman̪i
-n	n	N	6	6	iumu_tanimu;tembini_ma;iumu_tsimani;tanimu;tembini_tsimani
-ŋ	ŋ	N	6	6	phuŋuari;s̪ɨuaŋua;s̪ɨraŋua;kwhɛŋua;xiŋon̪ikwa
-n̪	n̪	N	117	101	iamin̪duɛtʃa;n̪o_s̪ɛs̪i;kats̪aɹin̪i;phun̪itan̪i;phun̪itan̪i
-n̪h	n̪h/n̪̥	N	5	5	pimbin̪has̪ɨ;an̪han̪tʃakwa;ximban̪hi;uin̪hapiti;an̪hatapu
-b	b	P	18	18	pimbin̪has̪ɨ;xuɹimbiti;tembini_ma;n̪ombɛ_xatari;ambakiti
-p	p	P	51	38	xapu_tʃkari;pɛʃu_kwa;tuɹipiti;s̪apitʃu;pan̪i
-^ph	pʰ	P	3	3	phun̪itan̪i;phuŋuari;phukwkwa
-r	r	R	47	47	s̪ɨruki;xapu_tʃkari;khɛri;khamɛri;iuɹiri
-ɹ	ɹ	R	35	35	taɹiata;s̪ɨtuɹi;kats̪aɹin̪i;tuɹipiti;iuɹiri
-ʃ	ʃ	S	10	7	pɛʃu_kwa;xaʃiti;aʃu;uikiʃkan̪dan̪i;ʃaramita
-s̪	s̪	S	33	20	s̪ɨruki;n̪o_s̪ɛs̪i;n̪o_s̪ɛs̪i;s̪ɛs̪i_s̪as̪ɨ;s̪ɛs̪i_s̪as̪ɨ
-d	d	T	15	15	iamin̪duɛtʃa;kapin̪din̪i;tin̪di;kwɹan̪din̪i;uan̪dikwn̪i
-t	t	T	99	74	tats̪ikwa;taɹiata;taɹiata;s̪ɨtuɹi;tuɹipiti
-th	th/tʰ	T	7	1	thupuri;thamu;iumu_thamu;thaɹɛpiti;thaɹɛpiti
-tʃ	tʃ	T	18	13	iamin̪duɛtʃa;xapu_tʃkari;s̪apitʃu;putʃaran̪i;uitʃu
-ts̪	ts̪	T	29	22	tats̪ikwa;kɛts̪ikwa;kats̪aɹin̪i;its̪ɨman̪i;kwts̪ɨkwa
-^tʃh	tʃʰ	T	2	2	tʃhɛrapiti;tʃhɛti
-^ts̪h	ts̪h/ts̪ʰ	T	4	4	ts̪hirapiti;ts̪hɛxkwn̪i;ts̪hɨma;ts̪hauapiti
-o	o	U	18	18	n̪o_s̪ɛs̪i;n̪ombɛ_xatari;tɛroxkan̪i;tʃopɛri;iotati
-u	u	Y	101	61	iamin̪duɛtʃa;s̪ɨruki;xapu_tʃkari;pɛʃu_kwa;s̪ɨtuɹi
-_	+	_	19	19	xapu_tʃkari;pɛʃu_kwa;n̪o_s̪ɛs̪i;s̪ɛs̪i_s̪as̪ɨ;iumu_tanimu
-^kws̪	kw/kʷ s̪	K S	1	1	kws̪tan̪i
-kw	kw/k w	K W	38	30	tats̪ikwa;pɛʃu_kwa;kɛts̪ikwa;xuɹiakwa;kwas̪ita
+Grapheme	IPA	SCA	Frequency
+^a	a	A	11
+^i	i	I	26
+^i$	i	I	1
+^k	k	K	9
+^kh	kʰ	K	5
+^ks̪	k s̪	K S	2
+^kw	kw/k w	K W	8
+^kwh	kwh/kʷʰ	K	6
+^kws̪	kw/kʷ s̪	K S	1
+^m	m	M	6
+^n̪	n̪	N	16
+^p	p	P	13
+^ph	pʰ	P	3
+^s̪	s̪	S	11
+^t	t	T	25
+^th	th/tʰ	T	6
+^ts̪	ts̪	T	7
+^ts̪h	ts̪h/ts̪ʰ	T	4
+^tʃ	tʃ	T	5
+^tʃh	tʃʰ	T	2
+^u	u	Y	21
+^x	x	G	31
+^ɛ	ɛ	E	4
+^ʃ	ʃ	S	3
+_	+	_	19
+a	a	A	161
+a$	a	A	62
+aa	aː	A	6
+aa$	aː	A	1
+b	b	P	18
+d	d	T	15
+e	e	E	3
+h	h	H	1
+i	i	I	147
+i$	i	I	129
+k	k	K	21
+kw	kw/k w	K W	30
+kw$	kw/kʷ	K	1
+kwkw	kwkw/kʷː	K	2
+l̪	l̪	L	1
+m	m	M	45
+n	n	N	6
+n̪	n̪	N	101
+n̪h	n̪h/n̪̊	N	5
+o	o	U	18
+p	p	P	38
+r	r	R	47
+s̪	s̪	S	20
+t	t	T	74
+th	th/tʰ	T	1
+ts	ts	C	3
+ts̪	ts̪	T	22
+tʃ	tʃ	T	13
+u	u	Y	61
+u$	u	Y	19
+x	x	G	17
+ŋ	ŋ	N	6
+ɛ	ɛ	E	47
+ɛ$	ɛ	E	3
+ɨ	ɨ	I	16
+ɨ$	ɨ	I	10
+ɹ	ɹ	R	35
+ʃ	ʃ	S	7

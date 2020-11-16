@@ -1,28 +1,46 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		301	NULL	walmu;puta;pakiinta;paji;jaɻputa
-$	NULL		301	NULL	walmu;puta;pakiinta;paji;jaɻputa
-a	a	A	469	298	walmu;puta;pakiinta;pakiinta;paji
-aa	aː	A	36	7	t̪aʈaa;t̪aʈaa;mintaa;paaca;ŋaɲaaɲawat̪a
-c	c	C	78	54	caʈi;cuŋara;paaca;culta;ŋawiica
-i	i	I	137	116	paji;caʈi;piʈi;piʈi;jaɻki
-ii	iː	I	11	11	pakiinta;piɻiita;ŋawiica;takaʎtiica;wiiwica
-j	j	J	18	9	paji;jaɻputa;jaɻki;ŋaɻuwaraja;jaɻputa
-k	k	K	130	71	pakiinta;paʈaka;jaɻki;kaɳtu;wuɻkaɻa
-l	l	L	55	54	walmu;t̪alunta;culta;talica;ŋilat̪ica
-ʎ	ʎ	L	10	10	mipuʎta;puʎtamura;maʎta;puʎa_culta;maʎta
-m	m	M	81	41	walmu;mintaa;ŋumu;tami;munira
-n	n	N	79	73	pakiinta;ŋawunta;t̪alunta;mintaa;munira
-ŋ	ŋ	N	63	25	ŋawunta;ŋaɻuwaraja;cuŋara;ŋumu;ŋawiica
-ɲ	ɲ	N	6	5	ŋaɲaaɲawat̪a;ŋaɲaaɲawat̪a;ŋuɲmura;miɲiɻicia;kuɲaa
-ɳ	ɳ	N	12	12	t̪awuɳa;kaɳtu;muɳtu;ŋaɻɳkara;ŋiɻɳkuta
-n̪	n̪	N	1	1	calŋan̪aŋka
-p	p	P	91	37	puta;pakiinta;paji;jaɻputa;piʈi
-r	r	R	87	85	ŋaɻuwaraja;cuŋara;karuɻu;munira;ŋurinta
-ɻ	ɻ	R	42	39	jaɻputa;jaɻki;ŋaɻuwaraja;jaɻputa;piɻiita
-t	t	T	134	95	puta;pakiinta;jaɻputa;ŋawunta;t̪alunta
-ʈ	ʈ	T	31	31	t̪aʈaa;t̪aʈaa;caʈi;piʈi;paʈaka
-t̪	t̪	T	98	85	t̪aʈaa;t̪aʈaa;t̪alunta;t̪awuɳa;pawat̪a
-w	w	W	44	22	walmu;ŋawunta;ŋaɻuwaraja;t̪awuɳa;pawat̪a
-u	u	Y	228	150	walmu;puta;jaɻputa;ŋawunta;t̪alunta
-uu	uː	Y	3	3	wuuca;tuucinta;tuucinta
-_	+	_	8	8	puʎa_culta;mirawat̪a_paʈaka;tinmira_waɻaa;caɻa_t̪uŋalta;cintaa_tari
+Grapheme	IPA	SCA	Frequency
+^c	c	C	24
+^j	j	J	9
+^k	k	K	59
+^m	m	M	40
+^n	n	N	6
+^p	p	P	54
+^t	t	T	37
+^t̪	t̪	T	13
+^w	w	W	18
+^ŋ	ŋ	N	38
+^ɲ	ɲ	N	1
+^ɻ	ɻ	R	2
+_	+	_	8
+a	a	A	298
+a$	a	A	171
+aa	aː	A	7
+aa$	aː	A	29
+c	c	C	54
+i	i	I	116
+i$	i	I	21
+ii	iː	I	11
+j	j	J	9
+k	k	K	71
+l	l	L	54
+lw	l w	L W	1
+m	m	M	41
+n	n	N	73
+n̪	n̪	N	1
+p	p	P	37
+r	r	R	85
+rw	r w	R W	2
+t	t	T	95
+t$	t	T	2
+t̪	t̪	T	85
+u	u	Y	150
+u$	u	Y	78
+uu	uː	Y	3
+w	w	W	22
+ŋ	ŋ	N	25
+ɲ	ɲ	N	5
+ɳ	ɳ	N	12
+ɻ	ɻ	R	39
+ɻw	ɻ w	R W	1
+ʈ	ʈ	T	31
+ʎ	ʎ	L	10

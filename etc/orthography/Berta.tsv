@@ -1,45 +1,90 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		294	NULL	alu;hiba;baʔad;bubani;kʼilliŋ
-$	NULL		302	NULL	alu;hiba;baʔad;bubani;kʼilliŋ
-a	a	A	345	185	alu;hiba;baʔad;baʔad;bubani
-aa	aː	A	32	31	faaʃu;kʼaara;daara_alu;baala_ʃugo;maaʃuŋ
-f	f	B	18	9	faaʃu;kʼafa;fula;afuθah;lufa
-θ	θ	D	31	15	θiri;afuθah;θiŋa;θaba_alu;jaguθ
-e	e	E	22	11	busʼikʼe;ile;makʼera_ma_olo_mahole;makʼera_ma_olo_mahole;are
-e̞	e̞	E	16	6	misʼe̞_ʃooru;hidaʃe̞r;misʼe̞_buʃ;horθe̞;ŋe̞sʼi
-e̞e̞	e̞ː	E	4	4	me̞e̞ra;kʼe̞e̞da;ʃe̞e̞kʼe;fe̞e̞ɗa
-h	h	H	31	9	hiba;afuθah;hasʼula;hohoja;hohoja
-ʔ	ʔ	H	13	13	baʔad;uʔuŋ;namu_ʔi;maada_ʔi;mula_ʔi
-i	i	I	145	70	hiba;bubani;kʼilliŋ;kʼilliŋ;pʼila
-ii	iː	I	9	6	pʼiiɗa;ɗiiŋi;guda_sʼii;pʼiiʃi;fiili
-j	j	J	10	7	iju;hohoja;jo̞m;pʼiliju;wala_maiju
-g	g	K	51	31	giŋ_buuʃu;gundi;gundi;boŋgo̞r;aguuru
-k	k	K	1	1	fakara
-kʼ	kʼ	K	25	14	kʼilliŋ;kʼasʼi;kʼafa;busʼikʼe;kʼaara
-l	l	L	74	71	alu;pʼila;awal;mili;fula
-ll	ll/lː	L	1	1	kʼilliŋ
-m	m	M	75	30	misʼe̞_ʃooru;mili;amilaŋgaŋ;jo̞m;muʃa
-mm	mm/mː	M	6	6	amma;amma;amma_ɗaaŋi;amma_ɗaaŋi;amma_baala
-n	n	N	42	28	bubani;gundi;ʃuni;inʃan;inʃan
-ŋ	ŋ	N	71	38	kʼilliŋ;giŋ_buuʃu;ɗaŋi;boŋgo̞r;iŋalu
-nn	nn/nː	N	1	1	mannamu
-b	b	P	88	57	hiba;baʔad;bubani;bubani;giŋ_buuʃu
-bb	bː	P	6	6	abba;abba;abba_ɗaaŋi;abba_ɗaaŋi;abba_baala
-^pʼ	pʼ	P	8	8	pʼila;pʼiiɗa;pʼiliju;pʼiʃi;pʼiʃiga_aŋ
-r	r	R	60	47	sʼawari;θiri;misʼe̞_ʃooru;ʃari_ndu;kʼaara
-z	z	S	5	4	makʼozu;galazi;zigi;azola;munzu
-ʃ	ʃ	S	39	23	giŋ_buuʃu;ʃuni;faaʃu;inʃan;misʼe̞_ʃooru
-ss	ss/sː	S	2	2	hassa;assama
-sʼ	sʼ	S	30	17	sʼawari;misʼe̞_ʃooru;kʼasʼi;busʼikʼe;hasʼula
-d	d	T	53	44	baʔad;bubuda;gundi;gundi;ʃari_ndu
-t	t	T	3	3	makʼera_ma_olo_mohote;matuma;matuma_mahola
-ɗ	ɗ	T	23	13	ɗaŋi;pʼiiɗa;diɗi;amuɗa;ma_ɗuuθa
-tʼ	tʼ	T	2	1	tʼokʼolo̞;kʼaltʼan
-o	o	U	52	34	boŋgo̞r;hohoja;hohoja;hoʃala;makʼera_ma_olo_mahole
-oo	oː	U	6	6	misʼe̞_ʃooru;sʼoomo;mooθe;boolo;ɗooʃa
-o̞	o̞	U	22	12	boŋgo̞r;ado̞;go̞li;jo̞m;horo̞ŋ
-o̞o̞	o̞ː	U	1	1	ʃo̞o̞ra
-w	w	W	6	3	sʼawari;awal;wala_maiju;wala;awune̞
-u	u	Y	128	87	alu;bubani;giŋ_buuʃu;bua;bua
-uu	uː	Y	9	9	giŋ_buuʃu;aguuru;huuhulu;ma_ɗuuθa;duudu_ile
-_	+	_	64	64	giŋ_buuʃu;misʼe̞_ʃooru;ʃari_ndu;daara_alu;makʼera_ma_olo_mahole
+Grapheme	IPA	SCA	Frequency
+^a	a	A	56
+^b	b	P	31
+^d	d	T	8
+^f	f	B	9
+^g	g	K	19
+^h	h	H	21
+^i	i	I	7
+^ii	iː	I	2
+^j	j	J	3
+^kʼ	kʼ	K	11
+^l	l	L	1
+^m	m	M	44
+^n	n	N	11
+^o	o	U	8
+^pʼ	pʼ	P	8
+^r	r	R	2
+^sʼ	sʼ	S	11
+^tʼ	tʼ	T	1
+^u	u	Y	1
+^w	w	W	3
+^z	z	S	1
+^ŋ	ŋ	N	9
+^ɗ	ɗ	T	10
+^ʃ	ʃ	S	12
+^θ	θ	D	13
+_	+	_	64
+a	a	A	185
+a$	a	A	104
+aa	aː	A	31
+aa$	aː	A	1
+b	b	P	57
+bb	bː	P	6
+d	d	T	44
+d$	d	T	1
+e	e	E	11
+e$	e	E	11
+e̞	e̞	E	6
+e̞$	e̞	E	10
+e̞e̞	e̞ː	E	4
+f	f	B	9
+g	g	K	31
+g$	g	K	1
+h	h	H	9
+h$	h	H	1
+i	i	I	70
+i$	i	I	68
+ii	iː	I	6
+ii$	iː	I	1
+j	j	J	7
+k	k	K	1
+kʼ	kʼ	K	14
+l	l	L	71
+l$	l	L	2
+ll	ll/lː	L	1
+m	m	M	30
+m$	m	M	1
+mm	mm/mː	M	6
+n	n	N	28
+n$	n	N	2
+nn	nn/nː	N	1
+nʃ	n ʃ	N S	1
+o	o	U	34
+o$	o	U	10
+oo	oː	U	6
+o̞	o̞	U	12
+o̞$	o̞	U	10
+o̞o̞	o̞ː	U	1
+r	r	R	47
+r$	r	R	10
+rʃ	r ʃ	R S	1
+ss	ss/sː	S	2
+sʼ	sʼ	S	17
+sʼ$	sʼ	S	1
+t	t	T	3
+tʼ	tʼ	T	1
+u	u	Y	87
+u$	u	Y	40
+uu	uː	Y	9
+w	w	W	3
+z	z	S	4
+ŋ	ŋ	N	38
+ŋ$	ŋ	N	23
+ŋsʼ	ŋ sʼ	N S	1
+ɗ	ɗ	T	13
+ʃ	ʃ	S	23
+ʃ$	ʃ	S	2
+ʔ	ʔ	H	13
+θ	θ	D	15
+θ$	θ	D	3

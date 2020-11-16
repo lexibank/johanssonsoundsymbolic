@@ -1,34 +1,67 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		246	NULL	pɨçmɨ;kɨʔhada;htaʔsɨɾa;htaʔsɨɾa;tumɾɨʔɨ
-$	NULL		246	NULL	pɨçmɨ;kɨʔhada;htaʔsɨɾa;htaʔsɨɾa;tumɾɨʔɨ
-a	a	A	212	88	kɨʔhada;kɨʔhada;htaʔsɨɾa;htaʔsɨɾa;htaʔsɨɾa
-aa	aː	A	1	1	tsaaʃowa
-f	f	B	6	4	aʔfiɾa;tsaʔfa;çafe;afe;fa
-c	c	C	8	7	smecu;uʔhumcume;scu;custaʔu;wɨʔcu
-ç	ç	C	24	19	pɨçmɨ;tʃatpiçɨ;taʔçu;niçta;mamça
-ts	ts	C	17	13	hiʔtsaʔtsaʔa;hiʔtsaʔtsaʔa;tsipɨnɨ;tsaaʃowa;tsaʔfa
-ʈʂ	ʈʂ	C	15	3	ʈʂaʂɨɾa;haʈʂu;ʈʂɨʔna;ʈʂɨnɨ;ʈʂaʂti
-e	e	E	51	30	smecu;uʔhumcume;nane;metʃa;eʔna
-h	h	H	30	14	htaʔsɨɾa;htaʔsɨɾa;hiʔtsaʔtsaʔa;kɨhna;hinu
-ʔ	ʔ	H	94	73	htaʔsɨɾa;htaʔsɨɾa;tumɾɨʔɨ;tumɾuʔna;mitʃiʔi
-ʔh	ʔh/ʔʰ	H	2	2	kɨʔhada;uʔhumcume
-i	i	I	88	43	tʃatpiçɨ;pdisti;pdisti;mitʃiʔi;mitʃiʔi
-ɨ	ɨ	I	137	78	pɨçmɨ;pɨçmɨ;kɨʔhada;htaʔsɨɾa;htaʔsɨɾa
-ii	iː	I	1	1	piiɲe
-j	j	J	4	2	pja;juɾa;jaʂnɨ;çaju
-k	k	K	21	11	kɨʔhada;kɨhna;kɨa;wɨʔka;ɲuʔki
-m	m	M	62	44	pɨçmɨ;tumɾɨʔɨ;smecu;uʔhumcume;uʔhumcume
-n	n	N	62	55	tumɾuʔna;nane;nane;ʂunu;kɨhna
-ɲ	ɲ	N	15	9	ɲuʔu;ɲuʔki;tʃawɲiʔnɨ;tʃawɲiʔnɨ;piiɲe
-nh	nh/n̥	N	2	2	ɨnhane;ɨnhane
-p	p	P	48	31	pɨçmɨ;tʃatpiçɨ;pdisti;stipi;ipsi
-ɾ	ɾ	R	30	24	htaʔsɨɾa;htaʔsɨɾa;tumɾɨʔɨ;tumɾuʔna;tʃaʔsiɾa
-s	s	S	31	10	htaʔsɨɾa;htaʔsɨɾa;smecu;pdisti;tʃaʔsiɾa
-ʂ	ʂ	S	18	6	ʂa;aʂtu;ʂunu;ʈʂaʂɨɾa;ʂa
-ʃ	ʃ	S	1	1	tsaaʃowa
-d	d	T	14	10	kɨʔhada;pdisti;adepɨʔsa;dɨseɾa;intaduça
-t	t	T	73	52	htaʔsɨɾa;htaʔsɨɾa;tumɾɨʔɨ;tʃatpiçɨ;tumɾuʔna
-tʃ	tʃ	T	52	15	tʃatpiçɨ;mitʃiʔi;tʃaʔsiɾa;metʃa;ptʃi
-o	o	U	2	2	tsaaʃowa;kotʃa
-w	w	W	19	8	wɨha;wɨʔnɨ;wɨʔka;tsaaʃowa;tʃawɲiʔnɨ
-u	u	Y	82	34	tumɾɨʔɨ;smecu;uʔhumcume;uʔhumcume;uʔhumcume
+Grapheme	IPA	SCA	Frequency
+^a	a	A	24
+^a$	a	A	1
+^c	c	C	1
+^d	d	T	4
+^e	e	E	3
+^f	f	B	2
+^h	h	H	15
+^i	i	I	9
+^j	j	J	2
+^k	k	K	10
+^m	m	M	18
+^n	n	N	7
+^p	p	P	16
+^s	s	S	10
+^t	t	T	20
+^ts	ts	C	4
+^tʃ	tʃ	T	37
+^u	u	Y	13
+^u$	u	Y	1
+^w	w	W	9
+^ç	ç	C	5
+^ɨ	ɨ	I	6
+^ɲ	ɲ	N	6
+^ɾ	ɾ	R	6
+^ʂ	ʂ	S	5
+^ʈʂ	ʈʂ	C	12
+a	a	A	88
+a$	a	A	99
+aa	aː	A	1
+c	c	C	7
+d	d	T	10
+e	e	E	30
+e$	e	E	18
+f	f	B	4
+h	h	H	14
+h$	h	H	1
+i	i	I	43
+i$	i	I	36
+ii	iː	I	1
+j	j	J	2
+k	k	K	11
+m	m	M	44
+n	n	N	55
+nh	nh/n̥	N	2
+o	o	U	2
+p	p	P	31
+ps	p s	P S	1
+s	s	S	10
+t	t	T	52
+t$	t	T	1
+ts	ts	C	13
+tʃ	tʃ	T	15
+u	u	Y	34
+u$	u	Y	34
+w	w	W	8
+ç	ç	C	19
+ɨ	ɨ	I	78
+ɨ$	ɨ	I	53
+ɲ	ɲ	N	9
+ɾ	ɾ	R	24
+ʂ	ʂ	S	6
+ʃ	ʃ	S	1
+ʈʂ	ʈʂ	C	3
+ʔ	ʔ	H	73
+ʔ$	ʔ	H	2
+ʔh	ʔh/ʔʰ	H	2

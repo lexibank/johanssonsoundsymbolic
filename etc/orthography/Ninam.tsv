@@ -1,33 +1,69 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		309	NULL	teɾe_həm;kiɾi;jaip_həm;hɯʃiampək;kõmoɾi
-$	NULL		309	NULL	teɾe_həm;kiɾi;jaip_həm;hɯʃiampək;kõmoɾi
-a	a	A	198	146	jaip_həm;hɯʃiampək;jaɾo;jaip;paɾɯk_həm
-ã	ã	A	33	31	wãɾihiki;wãɾo_oʃe;ãhɯk;jãmi;piɾi_jãhi
-aa	aː	A	20	19	waaje;taam_totihi;taa;maama;ʃaaɾi
-e	e	E	167	67	teɾe_həm;teɾe_həm;waaje;keteen;pepihə
-ə	ə	E	20	15	teɾe_həm;jaip_həm;hɯʃiampək;paɾɯk_həm;jaip_həm
-ẽ	ẽ	E	2	2	hẽɾeheɾekmo;hẽtehe
-ee	eː	E	3	3	keteen;theeje;theeje
-ə̃	ə̃	E	1	1	hə̃ɾiamo
-h	h	H	93	66	teɾe_həm;jaip_həm;hɯʃiampək;wãɾihiki;taam_totihi
-i	i	I	218	141	kiɾi;kiɾi;jaip_həm;hɯʃiampək;kõmoɾi
-ĩ	ĩ	I	15	9	ĩep;ĩoʃip;ĩʃia_ma;ĩʃi;ʃĩe
-ɯ	ɯ	I	54	38	hɯʃiampək;jɯpɯʃɯpɯ;jɯpɯʃɯpɯ;jɯpɯʃɯpɯ;jɯpɯʃɯpɯ
-ii	iː	I	1	1	wiitihi
-ɯ̃	ɯ̃	I	7	3	piɾi_thɯ̃;ɯ̃kɯ;jɯ̃mɯk;piɾi_ɯ̃tha;ɯ̃ta
-j	j	J	113	75	jaip_həm;waaje;jaɾo;jɯpɯʃɯpɯ;jaip
-k	k	K	100	50	kiɾi;hɯʃiampək;kõmoɾi;poko;poko
-m	m	M	66	45	teɾe_həm;jaip_həm;hɯʃiampək;kõmoɾi;taam_totihi
-mh	mh/m̥	M	1	1	namhesi
-n	n	N	29	14	keteen;namhesi;nãkʃi;ʃinak;jãno
-p	p	P	98	39	jaip_həm;hɯʃiampək;poko;poko;jɯpɯʃɯpɯ
-ɾ	ɾ	R	113	97	teɾe_həm;kiɾi;kõmoɾi;jaɾo;wãɾihiki
-s	s	S	31	27	piɾi_si;piɾi_simosi;piɾi_simosi;soa;pɯsi
-ʃ	ʃ	S	54	28	hɯʃiampək;jɯpɯʃɯpɯ;ɯʃi;ɯʃi;wãɾo_oʃe
-t	t	T	48	33	teɾe_həm;taam_totihi;taam_totihi;taam_totihi;keteen
-th	th/tʰ	T	48	20	piɾi_thɯ̃;thɯpək;thokomo;thəm;tha
-o	o	U	110	76	kõmoɾi;jaɾo;poko;poko;poko
-õ	õ	U	8	5	kõmoɾi;õki;ɾõ;jõɾak;mõɾi
-oo	oː	U	1	1	hooɾo
-w	w	W	35	15	waaje;wãɾihiki;wãɾo_oʃe;wakiʃi;watɯtɯ
-_	+	_	50	50	teɾe_həm;jaip_həm;piɾi_si;taam_totihi;paɾɯk_həm
+Grapheme	IPA	SCA	Frequency
+^a	a	A	11
+^e	e	E	1
+^h	h	H	27
+^i	i	I	2
+^j	j	J	38
+^k	k	K	20
+^m	m	M	13
+^n	n	N	14
+^o	o	U	5
+^p	p	P	50
+^s	s	S	4
+^t	t	T	15
+^th	th/tʰ	T	28
+^w	w	W	20
+^ã	ã	A	1
+^õ	õ	U	2
+^ĩ	ĩ	I	6
+^ɯ	ɯ	I	8
+^ɯ$	ɯ	I	1
+^ɯ̃	ɯ̃	I	3
+^ɾ	ɾ	R	16
+^ʃ	ʃ	S	24
+_	+	_	50
+a	a	A	146
+a$	a	A	41
+aa	aː	A	19
+aa$	aː	A	1
+e	e	E	67
+e$	e	E	99
+ee	eː	E	3
+h	h	H	66
+i	i	I	141
+i$	i	I	75
+ii	iː	I	1
+j	j	J	75
+k	k	K	50
+k$	k	K	29
+kʃ	k ʃ	K S	1
+m	m	M	45
+m$	m	M	8
+mh	mh/m̥	M	1
+n	n	N	14
+n$	n	N	1
+o	o	U	76
+o$	o	U	29
+oo	oː	U	1
+p	p	P	39
+p$	p	P	9
+s	s	S	27
+t	t	T	33
+th	th/tʰ	T	20
+w	w	W	15
+ã	ã	A	31
+ã$	ã	A	1
+õ	õ	U	5
+õ$	õ	U	1
+ĩ	ĩ	I	9
+ə	ə	E	15
+ə$	ə	E	5
+ə̃	ə̃	E	1
+ɯ	ɯ	I	38
+ɯ$	ɯ	I	7
+ɯ̃	ɯ̃	I	3
+ɯ̃$	ɯ̃	I	1
+ɾ	ɾ	R	97
+ʃ	ʃ	S	28
+ʃ$	ʃ	S	1
+ẽ	ẽ	E	2

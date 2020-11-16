@@ -1,27 +1,49 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		321	NULL	kuɻijuwu;waŋa;jint̪aɣi;t̪ajikuwapi;tʃuɾimumaɲimi_jimiŋa
-$	NULL		321	NULL	kuɻijuwu;waŋa;jint̪aɣi;t̪ajikuwapi;tʃuɾimumaɲimi_jimiŋa
-a	a	A	484	292	waŋa;waŋa;jint̪aɣi;t̪ajikuwapi;t̪ajikuwapi
-ɣ	ɣ	G	14	14	jint̪aɣi;kuɭuɣi;_pitʃiɣi;awuɭiɣi;jilipuɣa
-i	i	I	498	353	kuɻijuwu;jint̪aɣi;jint̪aɣi;t̪ajikuwapi;t̪ajikuwapi
-j	j	J	86	45	kuɻijuwu;jint̪aɣi;t̪ajikuwapi;tʃuɾimumaɲimi_jimiŋa;_janamuɭi
-k	k	K	96	54	kuɻijuwu;t̪ajikuwapi;kuɭuɣi;jinkit̪aji;puɳikapa
-l	l	L	55	55	waliwaliŋa;waliwaliŋa;pitʃuwaluwi;pili;jilaɻuwu
-ɭ	ɭ	L	21	21	_janamuɭi;kuɭuɣi;matʃiɾoɭipiɾi;kulaɭaka;piɭinkit̪i
-m	m	M	142	78	tʃuɾimumaɲimi_jimiŋa;tʃuɾimumaɲimi_jimiŋa;tʃuɾimumaɲimi_jimiŋa;tʃuɾimumaɲimi_jimiŋa;_janamuɭi
-n	n	N	146	142	jint̪aɣi;_janamuɭi;jint̪uwu;jinkit̪aji;aɾuwulupini
-ŋ	ŋ	N	125	97	waŋa;tʃuɾimumaɲimi_jimiŋa;waliwaliŋa;jiɾimpuŋa;tʃukwat̪aŋa
-ɲ	ɲ	N	18	18	tʃuɾimumaɲimi_jimiŋa;t̪uwuɲa;maɻimpuɲini;puɲipuɲi;puɲipuɲi
-ɳ	ɳ	N	14	14	miɳamiɳijaɾi;miɳamiɳijaɾi;piɳt̪uwa;puɳikapa;waɳt̪a
-ŋw	ŋw/ŋʷ	N	5	5	patʃuŋwani;patʃuŋwani;kiɾiŋwat̪i;wuniŋwaji;uŋwali
-p	p	P	98	52	t̪ajikuwapi;jiɾimpuŋa;jiɾipit̪a;pitʃuwaluwi;pili
-ɻ	ɻ	R	81	81	kuɻijuwu;tʃiɻiŋa;wuɻaɾa;jilaɻuwu;maɻimpuɲini
-ɾ	ɾ	R	71	67	tʃuɾimumaɲimi_jimiŋa;jiɾimpuŋa;jiɾipit̪a;miɳamiɳijaɾi;wuɻaɾa
-ʈ	ʈ	T	13	13	patʃiɾaʈi;patʃiɾaʈi;kuŋijaʈi;pulaʈi;jipiʈila
-tʃ	tʃ	T	51	37	tʃuɾimumaɲimi_jimiŋa;tʃukwat̪aŋa;tʃiɻiŋa;pitʃuwaluwi;matʃimpani
-t̪	t̪	T	68	54	jint̪aɣi;t̪ajikuwapi;jiɾipit̪a;t̪uwuɲa;tʃukwat̪aŋa
-o	o	U	4	4	matʃiɾoɭipiɾi;kitʃoɻi;jilokwa;joni
-w	w	W	126	70	kuɻijuwu;waŋa;t̪ajikuwapi;waliwaliŋa;waliwaliŋa
-u	u	Y	208	192	kuɻijuwu;kuɻijuwu;kuɻijuwu;t̪ajikuwapi;tʃuɾimumaɲimi_jimiŋa
-_	+	_	9	4	tʃuɾimumaɲimi_jimiŋa;_janamuɭi;_pitʃiɣi;_tʃapaluka;miɲawuŋa_mi
-kw	kw/k w	K W	11	9	tʃukwat̪aŋa;mankwamuŋa;aɳukwanaɻa;jikwani;jilokwa
+Grapheme	IPA	SCA	Frequency
+^_	+	_	5
+^a	a	A	32
+^i	i	I	1
+^j	j	J	41
+^k	k	K	42
+^kw	kw/k w	K W	2
+^m	m	M	47
+^mw	m w	M W	11
+^n	n	N	4
+^p	p	P	38
+^pw	p w	P W	2
+^tʃ	tʃ	T	14
+^t̪	t̪	T	14
+^u	u	Y	2
+^w	w	W	34
+^ŋ	ŋ	N	28
+^ɾ	ɾ	R	4
+_	+	_	4
+a	a	A	292
+a$	a	A	160
+i	i	I	353
+i$	i	I	144
+j	j	J	45
+k	k	K	54
+kw	kw/k w	K W	9
+l	l	L	55
+m	m	M	78
+m$	m	M	2
+mw	m w	M W	4
+n	n	N	142
+o	o	U	4
+p	p	P	52
+p$	p	P	1
+pw	p w	P W	5
+tʃ	tʃ	T	37
+t̪	t̪	T	54
+u	u	Y	192
+u$	u	Y	14
+w	w	W	70
+ŋ	ŋ	N	97
+ŋw	ŋw/ŋʷ	N	5
+ɣ	ɣ	G	14
+ɭ	ɭ	L	21
+ɲ	ɲ	N	18
+ɳ	ɳ	N	14
+ɻ	ɻ	R	81
+ɾ	ɾ	R	67
+ʈ	ʈ	T	13

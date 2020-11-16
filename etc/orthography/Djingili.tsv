@@ -1,27 +1,54 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		294	NULL	ɟaaŋgi;ŋiɭiwi;warb;ɟiɖad;ŋaŋa
-$	NULL		294	NULL	ɟaaŋgi;ŋiɭiwi;warb;ɟiɖad;ŋaŋa
-a	a	A	381	283	warb;ɟiɖad;ŋaŋa;ŋaŋa;baguŋunɟini
-aa	aː	A	3	3	ɟaaŋgi;ɟaaljagbaljagu;gaariɟbi
-ɟ	ɟ	C	124	68	ɟaaŋgi;ɟiɖad;baguŋunɟini;balgiɟ;ɟuɭiɟi
-^h	h	H	1	1	huruɳmi
-i	i	I	258	184	ɟaaŋgi;ŋiɭiwi;ŋiɭiwi;ŋiɭiwi;ɟiɖad
-j	j	J	68	44	wagijabaɖu;bijaŋga;murmujaga;buj;jinɟilmi
-g	g	K	170	102	ɟaaŋgi;baguŋunɟini;gumuŋgu;gumuŋgu;wagijabaɖu
-l	l	L	97	77	maɻalu;balgiɟ;luɳgurba;ɟambiliɟi;jinɟilmi
-ɭ	ɭ	L	14	14	ŋiɭiwi;ɟuɭiɟi;gaɭiŋga;gilaɭiɟu;baɭulji
-m	m	M	79	52	maɳdamaɳda;maɳdamaɳda;maɳdamaɳda;maɳdamaɳda;gumuŋgu
-n	n	N	56	52	baguŋunɟini;baguŋunɟini;buna;jinɟilmi;waɟanbili
-ŋ	ŋ	N	59	32	ɟaaŋgi;ŋiɭiwi;ŋaŋa;ŋaŋa;baguŋunɟini
-ɲ	ɲ	N	28	20	biɲamagu;guɲarba;gaɲburu;ŋuɲ;malibaɲa
-ɳ	ɳ	N	44	44	maɳdamaɳda;maɳdamaɳda;maɳdamaɳda;maɳdamaɳda;baɳdabi
-nn	nn/nː	N	1	1	ɟunnuɖgu
-b	b	P	118	71	warb;baguŋunɟini;buna;wagijabaɖu;baɳdabi
-r	r	R	80	74	warb;abura;luɳgurba;murmujaga;gaburgaburu
-ɻ	ɻ	R	9	8	maɻalu;ɟabaɻa;gaɻalu;naɻanɟa;ɻabgagu
-d	d	T	46	21	ɟiɖad;maɳdamaɳda;maɳdamaɳda;maɳdamaɳda;maɳdamaɳda
-ɖ	ɖ	T	48	46	ɟiɖad;wagijabaɖu;gaɖagaɖa;gaɖagaɖa;ɟumuɖgu
-o$	o	U	1	1	wuraɟo
-w	w	W	53	13	ŋiɭiwi;warb;wagijabaɖu;wuraɟo;ŋaɖɟuw
-u	u	Y	220	159	baguŋunɟini;baguŋunɟini;buna;gumuŋgu;gumuŋgu
-_	+	_	4	4	duwa_ŋab;daruŋ_ŋab;juru_baɖg;ɟaŋaji_il
+Grapheme	IPA	SCA	Frequency
+^a	a	A	1
+^b	b	P	41
+^d	d	T	24
+^g	g	K	62
+^h	h	H	1
+^j	j	J	14
+^l	l	L	15
+^m	m	M	20
+^n	n	N	2
+^w	w	W	36
+^ŋ	ŋ	N	25
+^ɟ	ɟ	C	47
+^ɲ	ɲ	N	6
+^ɻ	ɻ	R	1
+_	+	_	4
+a	a	A	283
+a$	a	A	97
+aa	aː	A	3
+b	b	P	71
+b$	b	P	6
+d	d	T	21
+d$	d	T	1
+g	g	K	102
+g$	g	K	6
+i	i	I	184
+i$	i	I	74
+j	j	J	44
+j$	j	J	10
+l	l	L	77
+l$	l	L	5
+m	m	M	52
+m$	m	M	7
+n	n	N	52
+n$	n	N	2
+nn	nn/nː	N	1
+o$	o	U	1
+r	r	R	74
+r$	r	R	6
+u	u	Y	159
+u$	u	Y	61
+w	w	W	13
+w$	w	W	4
+ŋ	ŋ	N	32
+ŋ$	ŋ	N	2
+ɖ	ɖ	T	46
+ɖ$	ɖ	T	2
+ɟ	ɟ	C	68
+ɟ$	ɟ	C	9
+ɭ	ɭ	L	14
+ɲ	ɲ	N	20
+ɲ$	ɲ	N	2
+ɳ	ɳ	N	44
+ɻ	ɻ	R	8

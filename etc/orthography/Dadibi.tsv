@@ -1,23 +1,45 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		240	NULL	wibo;maga;tigi_dali;posobo;sagadu
-$	NULL		264	NULL	wibo;maga;tigi_dali;posobo;hasa
-a	a	A	292	170	maga;maga;tigi_dali;hasa;hasa
-e	e	E	119	73	gese_jai_nai;gese_jai_nai;ajenu;pagede;pagede
-^h	h	H	15	15	hasa;habo;husugu;husugu;hogomu
-i	i	I	149	75	wibo;tigi_dali;tigi_dali;tigi_dali;dwai
-j	j	J	13	9	gese_jai_nai;ajenu;tobai_jai;jowi;jabe_tigi_pwai
-g	g	K	89	75	maga;tigi_dali;sagadu;nogo;nogo
-^k	k	K	9	9	kanome;kidu;konego;kemi;kone_palobo
-l	l	L	60	60	tigi_dali;dili;tolobo;giligade;olo
-m	m	M	65	51	maga;kanome;ame;hogomu;anaga_olama_mebadu_sela
-n	n	N	66	45	nogo;nogo;gese_jai_nai;nasi;ajenu
-b	b	P	101	83	wibo;posobo;bau;ba;habo
-p	p	P	28	8	posobo;pagede;puna_pabo;puna_pabo;po
-s	s	S	74	54	posobo;hasa;sagadu;gese_jai_nai;nasi
-d	d	T	73	51	tigi_dali;sagadu;dwai;pagede;dili
-t	t	T	23	2	tigi_dali;tigi;tolobo;tobai_jai;tubo
-o	o	U	162	89	wibo;posobo;posobo;posobo;nogo
-w	w	W	50	34	wibo;dwai;susugo_wabo;susugo_wabo;geda_wabo
-u	u	Y	107	82	sagadu;bau;ajenu;genuai;husugu
-_	+	_	89	89	tigi_dali;gese_jai_nai;gese_jai_nai;puna_pabo;siago_dabo
-gw	gw/g w	K W	3	3	ogwa_wai;ogwa;ogwa
+Grapheme	IPA	SCA	Frequency
+^a	a	A	62
+^b	b	P	17
+^d	d	T	17
+^dw	d w	T W	5
+^e	e	E	4
+^e$	e	E	1
+^g	g	K	14
+^h	h	H	15
+^i	i	I	4
+^j	j	J	4
+^k	k	K	9
+^m	m	M	14
+^n	n	N	21
+^o	o	U	6
+^p	p	P	19
+^s	s	S	20
+^t	t	T	21
+^u	u	Y	1
+^w	w	W	10
+_	+	_	89
+a	a	A	170
+a$	a	A	60
+b	b	P	83
+b$	b	P	1
+d	d	T	51
+e	e	E	73
+e$	e	E	41
+g	g	K	75
+gw	gw/g w	K W	3
+i	i	I	75
+i$	i	I	70
+j	j	J	9
+l	l	L	60
+m	m	M	51
+n	n	N	45
+o	o	U	89
+o$	o	U	67
+p	p	P	8
+pw	p w	P W	1
+s	s	S	54
+t	t	T	2
+u	u	Y	82
+u$	u	Y	24
+w	w	W	34

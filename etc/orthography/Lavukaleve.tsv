@@ -1,28 +1,58 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		192	NULL	hal;naɰea;hano;suni;thau
-$	NULL		227	NULL	hal;naɰea;hano;suni;thau
-a	a	A	177	111	hal;naɰea;naɰea;hano;thau
-aa$	aː	A	1	1	haa
-f	f	B	26	8	fotho;fulu;sisiafo;falio;fosal
-β	β	B	39	16	βuli;βala;raβu;βoβou;βoβou
-e	e	E	64	44	naɰea;kheuri;le;se;mithakheu
-ee$	eː	E	1	1	see
-h	h	H	28	3	hal;hano;hano;homa;hoβir
-i	i	I	91	48	suni;sikhala;βuli;ruɰi;thina
-ɰ	ɰ	J	9	8	naɰea;ruɰi;malaɰula;hoithuɰ;loɰoa
-kh	kh/kʰ	K	28	28	sikhala;khokhoras;khokhoros;sosokhio;lakho
-^kh	kʰ	K	37	37	khokhoras;khokhoros;khui;kheuri;khoro
-l	l	L	72	33	hal;sikhala;nal;βuli;βala
-m	m	M	47	14	umu;malaɰula;homa;mithakheu;aram
-n	n	N	36	24	naɰea;hano;suni;nal;hano
-ŋ	ŋ	N	11	7	ŋiu;ŋai;laŋi;ŋaŋa;ŋaŋa
-b	b	P	2	1	hobea;bekho
-ph	ph/pʰ	P	1	1	saphorau_sia
-r	r	R	36	24	ruɰi;khokhoras;raβu;khokhoros;kheuri
-s	s	S	47	18	suni;sikhala;khokhoras;khokhoros;sosokhio
-d	d	T	2	1	khane_dom;dom
-th	th/tʰ	T	55	32	thau;thau;fotho;thina;thothoas
-o	o	U	94	66	hano;hano;fotho;fotho;homa
-oo	oː	U	2	2	sooso;loolo
-u	u	Y	98	59	suni;thau;thau;βuli;umu
-_	+	_	6	6	khane_dom;saphorau_sia;βoβo_hai;tha_hona;ŋoro_hai
+Grapheme	IPA	SCA	Frequency
+^a	a	A	5
+^b	b	P	1
+^d	d	T	1
+^e	e	E	2
+^e$	e	E	1
+^f	f	B	18
+^h	h	H	25
+^i	i	I	5
+^kh	kʰ	K	37
+^l	l	L	27
+^m	m	M	13
+^n	n	N	9
+^o	o	U	10
+^r	r	R	8
+^s	s	S	22
+^th	th/tʰ	T	21
+^u	u	Y	1
+^u$	u	Y	1
+^ŋ	ŋ	N	4
+^β	β	B	18
+_	+	_	6
+a	a	A	111
+a$	a	A	61
+aa$	aː	A	1
+b	b	P	1
+d	d	T	1
+e	e	E	44
+e$	e	E	17
+ee$	eː	E	1
+f	f	B	8
+h	h	H	3
+i	i	I	48
+i$	i	I	38
+kh	kh/kʰ	K	28
+l	l	L	33
+l$	l	L	12
+m	m	M	14
+m$	m	M	20
+n	n	N	24
+n$	n	N	3
+o	o	U	66
+o$	o	U	18
+oo	oː	U	2
+ph	ph/pʰ	P	1
+r	r	R	24
+r$	r	R	4
+s	s	S	18
+s$	s	S	7
+th	th/tʰ	T	32
+th$	th/tʰ	T	2
+u	u	Y	59
+u$	u	Y	37
+ŋ	ŋ	N	7
+ɰ	ɰ	J	8
+ɰ$	ɰ	J	1
+β	β	B	16
+β$	β	B	5

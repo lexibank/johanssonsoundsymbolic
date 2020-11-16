@@ -1,36 +1,70 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		322	NULL	adʒɨ;iguiʔi;adʒɨβɨ;xagaba;paɾjɨ
-$	NULL		322	NULL	adʒɨ;iguiʔi;adʒɨβɨ;xagaba;paɾjɨ
-a	a	A	187	139	adʒɨ;adʒɨβɨ;xagaba;xagaba;xagaba
-aa	aː	A	45	41	naagonoβi;ɸaaɸaɲo;saaʔi;mijaano;taaʔi
-ɸ	ɸ	B	40	20	ɸoone;agaʔaɸomeʔexe;ɸaaɸaɲo;ɸaaɸaɲo;iɸi
-β	β	B	25	24	adʒɨβɨ;naagonoβi;kɨβono;atjɨβano;mɨʔɨniβatɨno
-e	e	E	94	63	usekexe;usekexe;usekexe;usekexe;usekexe
-ee	eː	E	35	33	kuumeeʔu;eeduʔi;xeebɨɨga_meeʔu;xeebɨɨga_meeʔu;kɨɾjuxeekinɨno
-x	x	G	85	56	xagaba;usekexe;usekexe;baiguiixɨ;doxɨkutɨ
-ʔ	ʔ	H	112	112	iguiʔi;kuumeeʔu;agaʔaɸomeʔexe;agaʔaɸomeʔexe;eeduʔi
-i	i	I	225	84	iguiʔi;iguiʔi;iguiʔi;asi;baiguiixɨ
-ɨ	ɨ	I	95	62	adʒɨ;adʒɨβɨ;adʒɨβɨ;paɾjɨ;baiguiixɨ
-ii	iː	I	30	23	baiguiixɨ;iiba;guiino;kikiixeba;ɸiigaɲo
-ɨɨ	ɨː	I	17	14	tɨɨxoʔo;xeebɨɨga_meeʔu;aadʒɨɨ;kɨɨxigai;dɨɨriba
-j	j	J	32	31	paɾjɨ;joobai;atjɨβano;satjeʔi;mijaano
-g	g	K	79	59	iguiʔi;xagaba;baiguiixɨ;gui;guiino
-k	k	K	96	52	usekexe;usekexe;kuumeeʔu;doxɨkutɨ;bokɨno
-m	m	M	96	79	imitɨno;kuumeeʔu;sanomɨro;agaʔaɸomeʔexe;xeebɨɨga_meeʔu
-n	n	N	106	84	imitɨno;ɸoone;guiino;naagonoβi;naagonoβi
-ɲ	ɲ	N	13	12	ɸaaɸaɲo;ɲeɲexeruʔi;ɲeɲexeruʔi;ɸiigaɲo;ɸaɲo
-b	b	P	83	50	xagaba;baiguiixɨ;joobai;iiba;bokɨno
-p	p	P	2	1	paɾjɨ;xapaɾja
-r	r	R	14	14	sanomɨro;ɲeɲexeruʔi;dɨɨriba;xakuraraba;xakuraraba
-ɾ	ɾ	R	3	3	paɾjɨ;kɨɾjuxeekinɨno;xapaɾja
-s	s	S	64	39	asi;usekexe;usekexe;sanomɨro;buusuʔi
-ʃ	ʃ	S	1	1	axaʃuno
-d	d	T	24	14	doxɨkutɨ;eeduʔi;aduʔi;sanoodɨmo;duuxoʔo
-t	t	T	44	26	imitɨno;doxɨkutɨ;tɨɨxoʔo;atjɨβano;satjeʔi
-dʒ	dʒ	T	16	14	adʒɨ;adʒɨβɨ;aadʒɨɨ;adʒɨ;dʒaxaʔi
-tʃ	tʃ	T	6	4	tʃeemeʔi;matʃuʔi;atʃo;atʃixɨ;tʃa
-o	o	U	182	76	imitɨno;doxɨkutɨ;guiino;naagonoβi;naagonoβi
-oo	oː	U	46	45	joobai;ɸoone;saʔuse_xuugaʔuse_minookɨ_saano;gooβaʔi;sanoodɨmo
-u	u	Y	97	76	iguiʔi;usekexe;usekexe;baiguiixɨ;kuumeeʔu
-uu	uː	Y	19	18	kuumeeʔu;buusuʔi;aimuuɸai;kuuxe;saʔuse_xuugaʔuse_minookɨ_saano
-_	+	_	20	20	xeebɨɨga_meeʔu;saʔuse_xuugaʔuse_minookɨ_saano;saʔuse_xuugaʔuse_minookɨ_saano;saʔuse_xuugaʔuse_minookɨ_saano;ɸaʔuseekɨ_motɨʔaitɨ_saano
+Grapheme	IPA	SCA	Frequency
+^a	a	A	23
+^aa	aː	A	3
+^b	b	P	33
+^d	d	T	10
+^dʒ	dʒ	T	2
+^e	e	E	3
+^ee	eː	E	2
+^g	g	K	20
+^i	i	I	25
+^ii	iː	I	7
+^j	j	J	1
+^k	k	K	44
+^m	m	M	17
+^n	n	N	22
+^o	o	U	1
+^oo	oː	U	1
+^p	p	P	1
+^s	s	S	25
+^t	t	T	18
+^tʃ	tʃ	T	2
+^u	u	Y	6
+^uu	uː	Y	1
+^x	x	G	29
+^ɨ	ɨ	I	3
+^ɨɨ	ɨː	I	1
+^ɲ	ɲ	N	1
+^ɸ	ɸ	B	20
+^β	β	B	1
+_	+	_	20
+a	a	A	139
+a$	a	A	25
+aa	aː	A	41
+aa$	aː	A	1
+b	b	P	50
+d	d	T	14
+dʒ	dʒ	T	14
+e	e	E	63
+e$	e	E	28
+ee	eː	E	33
+g	g	K	59
+i	i	I	84
+i$	i	I	116
+ii	iː	I	23
+j	j	J	31
+k	k	K	52
+m	m	M	79
+n	n	N	84
+o	o	U	76
+o$	o	U	105
+oo	oː	U	45
+p	p	P	1
+r	r	R	14
+s	s	S	39
+t	t	T	26
+tʃ	tʃ	T	4
+u	u	Y	76
+u$	u	Y	15
+uu	uː	Y	18
+x	x	G	56
+ɨ	ɨ	I	62
+ɨ$	ɨ	I	30
+ɨɨ	ɨː	I	14
+ɨɨ$	ɨː	I	2
+ɲ	ɲ	N	12
+ɸ	ɸ	B	20
+ɾ	ɾ	R	3
+ʃ	ʃ	S	1
+ʔ	ʔ	H	112
+β	β	B	24

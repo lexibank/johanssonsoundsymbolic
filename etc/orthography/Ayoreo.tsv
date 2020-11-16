@@ -1,38 +1,74 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		325	NULL	gaaj;isadodeɾiŋai;digaaʔ;ibodi;n̥eeseʔ
-$	NULL		265	NULL	gaaj;isadodeɾiŋai;ibodi;aan̥iŋaai;kutʃiisooi
-a	a	A	249	183	isadodeɾiŋai;isadodeɾiŋai;m̥aneɾo;m̥aneɾo;pooɾaooi
-ã	ã	A	10	7	ãɾu;õokoɾoɾãai;ĩikooɾãʔ;ãɾama;pooɾãakaɾaai
-aa	aː	A	108	81	gaaj;digaaʔ;aan̥iŋaai;aan̥iŋaai;kaasekaai
-e	e	E	118	83	isadodeɾiŋai;n̥eeseʔ;kaasekaai;m̥aneɾo;m̥aneɾo
-ẽ	ẽ	E	4	3	tʃuŋupeɾẽ;saɾẽi;ikatekaɾẽʔ;saɾẽi
-ee	eː	E	42	36	n̥eeseʔ;uheeʔ;aheei;an̥okeei;geei
-h	h	H	39	38	uheeʔ;aheei;in̥oŋahaʔ;oo_juɾaheeʔ;ihaɾooʔ
-ʔ$	ʔ	H	60	60	digaaʔ;n̥eeseʔ;uheeʔ;ikaiteʔ;kigaadeʔ
-i	i	I	326	102	isadodeɾiŋai;isadodeɾiŋai;isadodeɾiŋai;digaaʔ;ibodi
-ĩ	ĩ	I	4	1	ĩikooɾãʔ;ĩkeeɾaʔ;kĩɾiike;n̥aɾĩ
-ii	iː	I	28	17	kutʃiisooi;giidobooi;siin̥aai;diisi;tʃakii
-j	j	J	41	31	gaaj;ijoi;gaaj;oo_juɾaheeʔ;gadiog_ihi_jim̥anuɲaa
-g	g	K	64	30	gaaj;digaaʔ;giidobooi;kigaadeʔ;gaadoi
-k	k	K	71	54	kutʃiisooi;kaasekaai;kaasekaai;uutʃukuɾui;ikaiteʔ
-m	m	M	40	40	n̥umi;tamokoi;n̥umi;ãɾama;amuna
-m̥	m̥	M	17	13	m̥aneɾo;m̥aneɾo;gadiog_ihi_jim̥anuɲaa;tʃom̥aɾa_ihi_jiɾidaaj;m̥ane
-n	n	N	28	26	m̥aneɾo;m̥aneɾo;naaŋanataai;naaŋanataai;aŋoɾone
-ŋ	ŋ	N	15	15	isadodeɾiŋai;aan̥iŋaai;tʃuŋupeɾẽ;iɾiŋoi;naaŋanataai
-ɲ	ɲ	N	24	24	gadiog_ihi_jim̥anuɲaa;gagan̥i_ihi_jim̥anuɲaa;uɲeŋameei;gaɾe_ihi_jim̥anuɲaai;tʃom̥aɾa_ihi_jim̥anuɲaai
-n̥	n̥	N	49	44	n̥eeseʔ;aan̥iŋaai;siin̥aai;n̥umi;an̥okeei
-ɲ̊	ɲ̊	N	2	2	uɲ̊aɾi;aɲ̊ua
-b	b	P	17	17	ibodi;giidobooi;ubutʃu;ibagi;iiboʔ
-p	p	P	43	28	pooɾaooi;tʃuŋupeɾẽ;pakaai;ipeesute_aɾei;topiei
-ɾ	ɾ	R	116	116	isadodeɾiŋai;m̥aneɾo;m̥aneɾo;uutʃukuɾui;pooɾaooi
-s	s	S	41	37	isadodeɾiŋai;n̥eeseʔ;kutʃiisooi;kaasekaai;siin̥aai
-d	d	T	81	49	isadodeɾiŋai;isadodeɾiŋai;digaaʔ;ibodi;giidobooi
-t	t	T	67	56	ikaiteʔ;utatai;utatai;naaŋanataai;taɾooi
-tʃ	tʃ	T	27	14	kutʃiisooi;uutʃukuɾui;tʃuŋupeɾẽ;ubutʃu;tʃakii
-o	o	U	88	76	isadodeɾiŋai;ibodi;m̥aneɾo;m̥aneɾo;giidobooi
-õ	õ	U	4	2	õokoɾoɾãai;kõɾatʃuui;tʃõm̥ãɾãʔ;õɾoon̥ai
-oo	oː	U	42	33	kutʃiisooi;giidobooi;pooɾaooi;pooɾaooi;taɾooi
-u	u	Y	102	66	kutʃiisooi;uutʃukuɾui;uutʃukuɾui;uutʃukuɾui;ueɾaadi
-ũ	ũ	Y	3	2	kũɾeei;oo_jũkaɾatoodeʔ;ũtiɾahaʔ
-uu	uː	Y	12	9	uutʃukuɾui;keɾuui;ten̥uui;uusuguɾui;huubi
-_	+	_	47	47	ipeesute_aɾei;oo_juɾaheeʔ;idaha_aha_geesi;idaha_aha_geesi;gadiog_ihi_jim̥anuɲaa
+Grapheme	IPA	SCA	Frequency
+^a	a	A	39
+^aa	aː	A	16
+^d	d	T	32
+^e	e	E	5
+^ee	eː	E	5
+^ee$	eː	E	1
+^g	g	K	34
+^h	h	H	1
+^i	i	I	56
+^ii	iː	I	7
+^ii$	iː	I	2
+^j	j	J	4
+^k	k	K	17
+^m̥	m̥	M	4
+^n	n	N	2
+^n̥	n̥	N	5
+^o	o	U	5
+^oo	oː	U	9
+^p	p	P	15
+^s	s	S	4
+^t	t	T	11
+^tʃ	tʃ	T	13
+^u	u	Y	27
+^uu	uː	Y	3
+^ã	ã	A	3
+^õ	õ	U	2
+^ĩ	ĩ	I	2
+^ũ	ũ	Y	1
+_	+	_	47
+a	a	A	183
+a$	a	A	27
+aa	aː	A	81
+aa$	aː	A	11
+b	b	P	17
+d	d	T	49
+e	e	E	83
+e$	e	E	30
+ee	eː	E	36
+g	g	K	30
+h	h	H	38
+i	i	I	102
+i$	i	I	168
+ii	iː	I	17
+ii$	iː	I	2
+j	j	J	31
+j$	j	J	6
+k	k	K	54
+m	m	M	40
+m̥	m̥	M	13
+n	n	N	26
+n̥	n̥	N	44
+o	o	U	76
+o$	o	U	7
+oo	oː	U	33
+p	p	P	28
+s	s	S	37
+t	t	T	56
+tʃ	tʃ	T	14
+u	u	Y	66
+u$	u	Y	9
+uu	uː	Y	9
+ã	ã	A	7
+õ	õ	U	2
+ĩ	ĩ	I	1
+ĩ$	ĩ	I	1
+ŋ	ŋ	N	15
+ũ	ũ	Y	2
+ɲ	ɲ	N	24
+ɲ̊	ɲ̊	N	2
+ɾ	ɾ	R	116
+ʔ$	ʔ	H	60
+ẽ	ẽ	E	3
+ẽ$	ẽ	E	1

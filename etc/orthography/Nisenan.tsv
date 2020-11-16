@@ -1,43 +1,83 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		276	NULL	hipin;honkʼelee;ʔamam;bəəppaj;ʔəən
-$	NULL		278	NULL	hipin;honkʼelee;ʔamam;bəəppaj;ʔəən
-a	a	A	92	69	ʔamam;ʔamam;bəəppaj;kapum;ʔamananna
-aa	aː	A	17	12	maawɨkɨ;maa;honnaan;wadaa;baaj
-cʼ	cʼ	C	19	11	pɨcʼɨɨ;məcʼaw;picʼi;peencʼɨjim;cʼɨj
-e	e	E	52	36	honkʼelee;wete;wete;bohejpaj;ʔesto
-ə	ə	E	12	9	məcʼaw;wakʼənə;wakʼənə;wə;pʼihəpʼ
-ee	eː	E	24	11	honkʼelee;ʔeela;ʔeekʼal;peencʼɨjim;jeewo
-əə	əː	E	4	3	bəəppaj;ʔəən;dəə;kəələj
-h	h	H	40	7	hipin;honkʼelee;bohejpaj;ʔooho;honpin
-ʔ	ʔ	H	27	2	ʔamam;ʔəən;ʔos;ʔamananna;ʔeela
-i	i	I	47	31	hipin;hipin;jim;jim;kiw
-ɨ	ɨ	I	32	24	kɨjɨsɨ;kɨjɨsɨ;kɨjɨsɨ;pɨcʼɨɨ;kɨlɨm
-ii	iː	I	4	3	hiin;hii;kʼapʼiipʼit;diil
-ɨɨ	ɨː	I	6	4	pɨcʼɨɨ;bɨɨ;cʼɨɨka;cʼɨɨka;cʼɨɨta
-j	j	J	56	7	bəəppaj;kɨjɨsɨ;jim;jim;jol
-k	k	K	63	14	kɨjɨsɨ;kiw;kapum;kɨlɨm;kɨlɨm
-kk	kk/kː	K	2	2	sukku;bakkal
-kʼ	kʼ	K	23	7	honkʼelee;kʼawnandi;wakʼ;honkʼoho;honkʼo
-l	l	L	31	14	honkʼelee;jol;ʔeela;kɨlɨm;ʔol
-ll	ll/lː	L	1	1	kɨlla
-m	m	M	78	19	ʔamam;ʔamam;jim;jim;kapum
-n	n	N	45	19	hipin;honkʼelee;ʔəən;ʔamananna;kʼawnandi
-nn	nn/nː	N	4	4	ʔamananna;winno;honnaan;pɨjcʼanna
-b	b	P	27	3	bəəppaj;bohejpaj;betej;bɨɨ;bɨm
-p	p	P	46	12	hipin;pɨcʼɨɨ;kapum;bohejpaj;honpin
-^P	P/p	P	1	1	Pin
-pp	pp/pː	P	1	1	bəəppaj
-pʼ	pʼ	P	13	4	pʼi;wisapʼ;pʼidepʼ;pʼidepʼ;jepʼ
-s	s	S	25	11	kɨjɨsɨ;ʔos;ʔesto;sedej;jupus
-ss	ss/sː	S	1	1	hɨssɨ
-d	d	T	23	14	kʼawnandi;doo;sedej;pɨtodaw;lamdi
-t	t	T	37	17	wete;ʔesto;betej;pɨtodaw;butuj
-tt	tt/tː	T	2	2	wittee;pettuj
-^tʼ	tʼ	T	1	1	tʼun
-o	o	U	78	54	honkʼelee;jol;ʔos;bohejpaj;ʔesto
-oo	oː	U	32	15	doo;ʔooho;woo;woon;moo
-w	w	W	30	3	kiw;wete;kʼawnandi;wakʼ;məcʼaw
-ww	ww/wː	W	1	1	jowwoo
-u	u	Y	26	19	kapum;jupus;jupus;sukku;sukku
-uu	uː	Y	4	1	huu;huu;luul;duu
-_	+	_	2	2	woolem_mom;ho_maa
+Grapheme	IPA	SCA	Frequency
+^P	P/p	P	1
+^b	b	P	24
+^cʼ	cʼ	C	8
+^d	d	T	9
+^h	h	H	33
+^j	j	J	15
+^k	k	K	40
+^kʼ	kʼ	K	9
+^l	l	L	5
+^m	m	M	21
+^n	n	N	9
+^p	p	P	33
+^pʼ	pʼ	P	4
+^s	s	S	9
+^t	t	T	16
+^tʼ	tʼ	T	1
+^w	w	W	16
+^ʔ	ʔ	H	25
+_	+	_	2
+a	a	A	69
+a$	a	A	23
+aa	aː	A	12
+aa$	aː	A	5
+b	b	P	3
+cʼ	cʼ	C	11
+d	d	T	14
+e	e	E	36
+e$	e	E	16
+ee	eː	E	11
+ee$	eː	E	13
+h	h	H	7
+i	i	I	31
+i$	i	I	16
+ii	iː	I	3
+ii$	iː	I	1
+j	j	J	7
+j$	j	J	33
+js	j s	J S	1
+k	k	K	14
+k$	k	K	9
+kk	kk/kː	K	2
+kʼ	kʼ	K	7
+kʼ$	kʼ	K	7
+l	l	L	14
+l$	l	L	12
+ll	ll/lː	L	1
+m	m	M	19
+m$	m	M	38
+n	n	N	19
+n$	n	N	17
+nn	nn/nː	N	4
+o	o	U	54
+o$	o	U	24
+oo	oː	U	15
+oo$	oː	U	17
+p	p	P	12
+pp	pp/pː	P	1
+pw	p w	P W	1
+pʼ	pʼ	P	4
+pʼ$	pʼ	P	5
+s	s	S	11
+s$	s	S	4
+ss	ss/sː	S	1
+t	t	T	17
+t$	t	T	4
+tt	tt/tː	T	2
+u	u	Y	19
+u$	u	Y	7
+uu	uː	Y	1
+uu$	uː	Y	3
+w	w	W	3
+w$	w	W	10
+ww	ww/wː	W	1
+ə	ə	E	9
+ə$	ə	E	3
+əə	əː	E	3
+əə$	əː	E	1
+ɨ	ɨ	I	24
+ɨ$	ɨ	I	8
+ɨɨ	ɨː	I	4
+ɨɨ$	ɨː	I	2
+ʔ	ʔ	H	2

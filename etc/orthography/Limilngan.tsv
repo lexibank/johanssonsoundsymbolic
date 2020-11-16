@@ -1,33 +1,63 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		230	NULL	alɪccpa;maɳɪmaɳɪ;lʊlajɪ;aɳʊŋ;ʊɭaŋɪɲ
-$	NULL		228	NULL	alɪccpa;maɳɪmaɳɪ;lʊlajɪ;aɳʊŋ;ʊɭaŋɪɲ
-a	a	A	248	188	alɪccpa;alɪccpa;maɳɪmaɳɪ;maɳɪmaɳɪ;lʊlajɪ
-c	c	C	18	16	alkkɪcɪ;ɪcɪ;limɪcɪ;ampɪciwɪ;ciɾppʊŋɪ
-cc	cː	C	7	5	alɪccpa;lʊucckɪ;lɪɲaŋɪcc;ʊɳʊɳɪcc;ʊɳɪcckan
-i	i	I	148	126	milalkkal;dinŋakɪ;diɾikkiɾʊkk;diɾikkiɾʊkk;diɾikkiɾʊkk
-ɪ	ɪ	I	127	56	alɪccpa;maɳɪmaɳɪ;maɳɪmaɳɪ;lʊlajɪ;ʊɭaŋɪɲ
-ɪɪ$	ɪː	I	3	3	anpɪɪ;ŋilɪɪ;mamɪɪ
-j	j	J	29	25	lʊlajɪ;makkajan;lɪɲajan;ʊjʊŋ;ɪɲajan
-k	k	K	41	30	dinŋakɪ;akɪan;nikɪ;ʊlʊka;ilikan
-kk	kk/kː	K	68	38	milalkkal;ʊɭkkʊɭkk;ʊɭkkʊɭkk;makkajan;alkkɪcɪ
-l	l	L	91	60	alɪccpa;lʊlajɪ;lʊlajɪ;milalkkal;milalkkal
-ɭ	ɭ	L	26	21	ʊɭaŋɪɲ;ʊɭkkʊɭkk;ʊɭkkʊɭkk;ampiɾiwiɭʊɭ;ampiɾiwiɭʊɭ
-ʎ	ʎ	L	8	8	laiʎkkɪ;ɪʎaɾ;waiʎkka;waiʎkka;waiʎkka
-m	m	M	88	57	maɳɪmaɳɪ;maɳɪmaɳɪ;milalkkal;makkajan;um
-^mm	mː	M	1	1	mmʊjŋan
-n	n	N	90	24	makkajan;dinŋakɪ;alkkan;lɪɲajan;akɪan
-ŋ	ŋ	N	76	45	aɳʊŋ;ʊɭaŋɪɲ;dinŋakɪ;makkpaŋɪ;amiŋan
-ɲ	ɲ	N	46	28	ʊɭaŋɪɲ;lɪɲajan;pimɪɲmʊ;ɪɲajan;aiɲa
-ɳ	ɳ	N	19	19	maɳɪmaɳɪ;maɳɪmaɳɪ;aɳʊŋ;imiɳnaɾ;aɳu
-nn	nn/nː	N	1	1	annʊka
-p	p	P	39	35	alɪccpa;makkpaŋɪ;ampiɾiwiɭʊɭ;ʊwaɾkkpɪ;pimɪɲmʊ
-pp	pp/pː	P	1	1	ciɾppʊŋɪ
-ɻ	ɻ	R	6	5	mʊmaɻalkk;aliɻɳkan;maiɲpiɻwaɭɪ;iwiɻaɾ;mʊɻaɾɪ
-ɾ	ɾ	R	24	15	diɾikkiɾʊkk;diɾikkiɾʊkk;ampiɾiwiɭʊɭ;ʊwaɾkkpɪ;imiɳnaɾ
-d	d	T	26	9	dinŋakɪ;diɾikkiɾʊkk;ɪɲmʊldɪ;ladlɪ;dawin
-tt	tt/tː	T	1	1	ampattdajkwan
-w	w	W	35	20	wa;ampiɾiwiɭʊɭ;ʊwaɾkkpɪ;ʊwakɪ;iwan
-u	u	Y	12	2	um;aɳu;inɪɲu;uŋal;lʊucckɪ
-ʊ	ʊ	Y	85	64	lʊlajɪ;aɳʊŋ;ʊɭaŋɪɲ;ʊɭkkʊɭkk;ʊɭkkʊɭkk
-_	+	_	10	10	ɪiɾ_mʊɳikkaj;maŋi_ŋilɪʊkalkk;maŋi_ŋilɪʊkalkk;kaɭi_naŋil;kaɭi_naŋil
-kw	kw/k w	K W	1	1	ampattdajkwan
+Grapheme	IPA	SCA	Frequency
+^a	a	A	35
+^a$	a	A	1
+^c	c	C	2
+^d	d	T	17
+^i	i	I	19
+^k	k	K	11
+^l	l	L	18
+^m	m	M	30
+^mm	mː	M	1
+^n	n	N	19
+^p	p	P	4
+^u	u	Y	4
+^w	w	W	13
+^ŋ	ŋ	N	25
+^ɪ	ɪ	I	12
+^ʊ	ʊ	Y	20
+_	+	_	10
+a	a	A	188
+a$	a	A	24
+c	c	C	16
+cc	cː	C	5
+cc$	cː	C	2
+d	d	T	9
+i	i	I	126
+i$	i	I	3
+j	j	J	25
+j$	j	J	4
+k	k	K	30
+kk	kk/kː	K	38
+kk$	kk/kː	K	30
+kw	kw/k w	K W	1
+l	l	L	60
+l$	l	L	12
+lw	l w	L W	1
+m	m	M	57
+m$	m	M	1
+n	n	N	24
+n$	n	N	47
+nn	nn/nː	N	1
+p	p	P	35
+pp	pp/pː	P	1
+tt	tt/tː	T	1
+u	u	Y	2
+u$	u	Y	6
+w	w	W	20
+ŋ	ŋ	N	45
+ŋ$	ŋ	N	6
+ɪ	ɪ	I	56
+ɪ$	ɪ	I	59
+ɪɪ$	ɪː	I	3
+ɭ	ɭ	L	21
+ɭ$	ɭ	L	5
+ɲ	ɲ	N	28
+ɲ$	ɲ	N	18
+ɳ	ɳ	N	19
+ɻ	ɻ	R	5
+ɻw	ɻ w	R W	1
+ɾ	ɾ	R	15
+ɾ$	ɾ	R	9
+ʊ	ʊ	Y	64
+ʊ$	ʊ	Y	1
+ʎ	ʎ	L	8

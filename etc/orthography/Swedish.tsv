@@ -1,61 +1,132 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		332	NULL	øøvər;rɛdd;ɛfthər;lɵfth;alla
-$	NULL		338	NULL	øøvər;ɛfthər;lɵfth;alla;arj
-a	a	A	157	74	alla;alla;arj;myyra;arm
-ɑɑ	ɑː	A	17	16	bɑɑkhɔm;mɑɑgɛ;dɑɑg;nɑɑgɛl;glɑɑd
-f	f	B	42	9	ɛfthər;lɵfth;ɛfthərsɔm;føørɛ;foogɛl
-v	v	B	37	16	øøvər;vakhər;breevɪd;svarth;ɛlva
-ths	ths/tsʰ	C	2	2	smɵthsɪg;spɛthsɪg
-ə	ə	E	44	41	øøvər;ɛfthər;vakhər;ɛfthərsɔm;ʊndər
-ɛ	ɛ	E	48	36	rɛdd;ɛfthər;ɛfthərsɔm;føørɛ;mɑɑgɛ
-e$	e	E	1	1	ʉʉthe
-ee	eː	E	15	11	breevɪd;been;reen;jee;veetha
-ɛɛ	ɛː	E	20	18	jɛɛrna;bɛɛra;ɛɛtha;fjɛɛdər;grɛɛs
-h	h	H	51	22	bɪtthər;khrɔpph;rɛtth;hʊsta;hɵnd
-i	i	I	2	2	niu;thiu
-ɪ	ɪ	I	29	25	doolɪg;breevɪd;bɪtthər;trʊbbɪg;brɪnna
-ii	iː	I	9	6	biitha;fiisa;stiig;liithɛn;vii
-j	j	J	21	6	arj;jʉʉr;poojkə;jɛɛrna;jʉʉph
-jj	jː	J	1	1	sɛjja
-g	g	K	38	13	doolɪg;mɑɑgɛ;foogɛl;trʊbbɪg;khruukhɪg
-k	k	K	10	4	poojkə;knɵlla;knɛɛ;skratta;skrɔvlɪg
-gg	gː	K	4	2	rʏgg;ɛgg;lɪgga;skɵgga
-kh	kh/kʰ	K	19	11	askha;barkh;vakhər;bɑɑkhɔm;khruukhɪg
-kk	kk/kː	K	4	4	drɪkkha;flɪkkha;nakkhɛ;ɕɔkkh
-^kh	kʰ	K	9	9	khrɔpph;khall;khɔmma;khruukhɪg;khrɔssa
-l	l	L	52	23	lɵfth;doolɪg;foogɛl;blood;bloosa
-ll	ll/lː	L	6	4	alla;mɛllan;khall;falla;fɵll
-m	m	M	42	11	myyra;arm;arm;ɛfthərsɔm;bɑɑkhɔm
-ʍ	ʍ	M	5	2	khanʍə;mɛnʍa;ʍʉʉ;ʍɪnn;ʍɛrna
-mm	mm/mː	M	18	11	khɔmma;damm;thʊmm;fɛmm;blʊmma
-n	n	N	85	32	ʊndər;mɛllan;been;jɛɛrna;andas
-ŋ	ŋ	N	5	4	lɔŋth_bɔrtha;rɛŋn;lɔŋsamm;pɵŋkhʉʉla;thɛŋkha
-nn	nn/nː	N	9	4	brɪnna;hann;ɪnnɛ;mann;mɵnn
-ŋŋ	ŋŋ/ŋː	N	10	7	fɪŋŋər;tɵŋŋ;lɔŋŋ;lɵŋŋa;mɔŋŋa
-b	b	P	57	18	barkh;bɑɑkhɔm;breevɪd;biitha;bɪtthər
-p	p	P	9	4	poojkə;rʉʉmpa;platth;spɛthsɪg;sprɪŋŋa
-bb	bː	P	3	2	trʊbbɪg;snabb;gɵbbə
-ph	ph/pʰ	P	3	1	jʉʉph;reeph;jɛspha
-pp	pp/pː	P	5	4	khrɔpph;lɛpp;snɔpph;pappha;pappha
-r	r	R	201	103	øøvər;rɛdd;ɛfthər;arj;jʉʉr
-rr$	rr/rː	R	1	1	thɔrr
-s	s	S	108	32	askha;ɛfthərsɔm;stuur;svarth;bloosa
-^ɕ	ɕ	S	3	3	ɕœtth;ɕɔkkh;ɕʉʉgʊ
-ss	ss/sː	S	4	3	khrɔssa;lɛssɛn;vass;khɪssa
-d	d	T	54	15	doolɪg;ʊndər;breevɪd;blood;andas
-t	t	T	25	16	stuur;trʊbbɪg;hʊsta;tɵŋŋ;hɛɛt
-th	th/tʰ	T	47	27	ɛfthər;lɵfth;ɛfthərsɔm;biitha;svarth
-tt	tt/tː	T	25	24	bɪtthər;rɛtth;ɔttha;platth;ɕœtth
-dd$	dː	T	2	2	rɛdd;høøgjɵdd
-œ	œ	U	6	6	brœsth;ɕœtth;jœmma;mjœlkh;brœsthvoortha
-ɔ	ɔ	U	46	43	ɛfthərsɔm;bɑɑkhɔm;khrɔpph;mɔln;khɔmma
-ɵ	ɵ	U	21	20	lɵfth;smɵthsɪg;hɵnd;fɵll;knɵlla
-oo	oː	U	37	25	doolɪg;foogɛl;blood;bloosa;bloo
-øø	øː	U	20	15	øøvər;føørɛ;møørkh;døø;jøøra
-ʊ	ʊ	Y	24	21	ʊndər;trʊbbɪg;hʊsta;thʊmm;blʊmma
-ʏ	ʏ	Y	14	14	rʏgg;thʏsth;sʏsthər;sʏsthər;sʏsthər
-u$	u	Y	2	2	niu;thiu
-uu	uː	Y	15	15	stuur;khruukhɪg;juurd;guud;muugɛn
-yy	yː	Y	6	5	myyra;flyyga;fyyra;nyy;nyysa
-ʉʉ	ʉː	Y	20	16	jʉʉr;rʉʉmpa;jʉʉph;flʉʉga;hʉʉvɵd
-_	+	_	4	4	lɔŋth_bɔrtha;dɛn_dɛɛr;dɛn_dɛɛr;dɛn_hɛɛr
+Grapheme	IPA	SCA	Frequency
+^a	a	A	7
+^b	b	P	39
+^d	d	T	17
+^ee	eː	E	1
+^f	f	B	33
+^g	g	K	13
+^h	h	H	20
+^j	j	J	12
+^k	k	K	4
+^kh	kʰ	K	9
+^l	l	L	16
+^m	m	M	27
+^n	n	N	14
+^oo	oː	U	1
+^oo$	oː	U	1
+^p	p	P	5
+^r	r	R	15
+^s	s	S	50
+^t	t	T	6
+^th	th/tʰ	T	10
+^v	v	B	18
+^øø	øː	U	3
+^ɔ	ɔ	U	3
+^ɕ	ɕ	S	3
+^ɛ	ɛ	E	5
+^ɛɛ	ɛː	E	1
+^ɪ	ɪ	I	4
+^ɵ	ɵ	U	1
+^ʉʉ	ʉː	Y	1
+^ʊ	ʊ	Y	2
+^ʍ	ʍ	M	3
+_	+	_	4
+a	a	A	74
+a$	a	A	76
+b	b	P	18
+bb	bː	P	2
+bb$	bː	P	1
+d	d	T	15
+d$	d	T	22
+dd$	dː	T	2
+e$	e	E	1
+ee	eː	E	11
+ee$	eː	E	3
+f	f	B	9
+g	g	K	13
+g$	g	K	12
+gg	gː	K	2
+gg$	gː	K	2
+h	h	H	22
+h$	h	H	9
+i	i	I	2
+ii	iː	I	6
+ii$	iː	I	3
+j	j	J	6
+j$	j	J	2
+jj	jː	J	1
+js	j s	J S	1
+k	k	K	4
+k$	k	K	2
+kh	kh/kʰ	K	11
+kh$	kh/kʰ	K	6
+khs	kh/kʰ s	K S	1
+khs$	kh/kʰ s	K S	1
+kk	kk/kː	K	4
+l	l	L	23
+l$	l	L	12
+ll	ll/lː	L	4
+ll$	ll/lː	L	2
+ls$	l s	L S	1
+m	m	M	11
+m$	m	M	4
+mm	mm/mː	M	11
+mm$	mm/mː	M	7
+n	n	N	32
+n$	n	N	37
+nn	nn/nː	N	4
+nn$	nn/nː	N	5
+ns	n s	N S	1
+ns$	n s	N S	1
+oo	oː	U	25
+oo$	oː	U	10
+p	p	P	4
+ph	ph/pʰ	P	1
+ph$	ph/pʰ	P	2
+pp	pp/pː	P	4
+pp$	pp/pː	P	1
+r	r	R	103
+r$	r	R	70
+rr$	rr/rː	R	1
+rs	r s	R S	13
+s	s	S	32
+s$	s	S	6
+ss	ss/sː	S	3
+ss$	ss/sː	S	1
+t	t	T	16
+t$	t	T	3
+th	th/tʰ	T	27
+th$	th/tʰ	T	10
+ths	ths/tsʰ	C	2
+tt	tt/tː	T	24
+tt$	tt/tː	T	1
+u$	u	Y	2
+uu	uː	Y	15
+v	v	B	16
+v$	v	B	3
+yy	yː	Y	5
+yy$	yː	Y	1
+øø	øː	U	15
+øø$	øː	U	2
+ŋ	ŋ	N	4
+ŋs	ŋ s	N S	1
+ŋŋ	ŋŋ/ŋː	N	7
+ŋŋ$	ŋŋ/ŋː	N	3
+œ	œ	U	6
+ɑɑ	ɑː	A	16
+ɑɑ$	ɑː	A	1
+ɔ	ɔ	U	43
+ə	ə	E	41
+ə$	ə	E	3
+ɛ	ɛ	E	36
+ɛ$	ɛ	E	7
+ɛɛ	ɛː	E	18
+ɛɛ$	ɛː	E	1
+ɪ	ɪ	I	25
+ɵ	ɵ	U	20
+ʉʉ	ʉː	Y	16
+ʉʉ$	ʉː	Y	3
+ʊ	ʊ	Y	21
+ʊ$	ʊ	Y	1
+ʍ	ʍ	M	2
+ʏ	ʏ	Y	14

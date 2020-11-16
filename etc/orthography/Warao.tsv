@@ -1,22 +1,42 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		316	NULL	aɾai;musika;ahaka;kokotuka;jaɾi
-$	NULL		315	NULL	aɾai;musika;ahaka;kokotuka;jaɾi
-a	a	A	366	214	aɾai;aɾai;musika;ahaka;ahaka
-aa$	aː	A	1	1	isaa
-e	e	E	52	30	hekunu_ahuhu;hebuɾa;teho;ameho;debotoboto
-h	h	H	129	76	ahaka;muha;haɾa;haɾa;hekunu_ahuhu
-i	i	I	146	81	aɾai;musika;jaɾi;inaɾao;dai
-j	j	J	12	6	jaɾi;jati;tokojo;oɾabakaja;jaka
-g	g	K	20	11	kaguana;guaba;guaha;guihi;kaguaha
-k	k	K	107	82	musika;ahaka;kokotuka;kokotuka;kokotuka
-q	q	K	1	1	oqoko
-m	m	M	70	48	musika;muha;obohonamo;domu;muhu
-n	n	N	92	54	inaɾao;hekunu_ahuhu;obohonamo;nokabasaba;kaguana
-b	b	P	64	54	siboɾoɾi;obohonamo;nokabasaba;nokabasaba;abu
-ɾ	ɾ	R	97	96	aɾai;jaɾi;inaɾao;haɾa;haɾa
-s	s	S	30	21	musika;asi;siboɾoɾi;nokabasaba;kasi
-d	d	T	50	14	dai;aida;domu;doka;debotoboto
-t	t	T	72	54	kokotuka;jati;teho;hoto;nahamutu
-o	o	U	233	122	kokotuka;kokotuka;inaɾao;hoɾo;hoɾo
-u	u	Y	115	62	musika;kokotuka;muha;hekunu_ahuhu;hekunu_ahuhu
-_	+	_	14	14	hekunu_ahuhu;mohomatana_dihanamo;mohoɾeko_aɾai_isaka;mohoɾeko_aɾai_isaka;a_mi
+Grapheme	IPA	SCA	Frequency
+^a	a	A	40
+^b	b	P	10
+^d	d	T	36
+^e	e	E	5
+^g	g	K	9
+^h	h	H	53
+^i	i	I	17
+^i$	i	I	1
+^j	j	J	6
+^k	k	K	25
+^m	m	M	22
+^n	n	N	38
+^o	o	U	16
+^s	s	S	9
+^t	t	T	18
+^u	u	Y	10
+^ɾ	ɾ	R	1
+_	+	_	14
+a	a	A	214
+a$	a	A	112
+aa$	aː	A	1
+b	b	P	54
+d	d	T	14
+e	e	E	30
+e$	e	E	17
+g	g	K	11
+h	h	H	76
+i	i	I	81
+i$	i	I	47
+j	j	J	6
+k	k	K	82
+m	m	M	48
+n	n	N	54
+o	o	U	122
+o$	o	U	95
+q	q	K	1
+s	s	S	21
+t	t	T	54
+u	u	Y	62
+u$	u	Y	43
+ɾ	ɾ	R	96

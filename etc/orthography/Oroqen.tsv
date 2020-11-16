@@ -1,45 +1,99 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		327	NULL	ujiləə;amalan;banbʊr;bəjiŋə;iriktə
-$	NULL		326	NULL	ujiləə;amalan;banbʊr;bəjiŋə;iriktə
-a	a	A	161	78	amalan;amalan;amalan;banbʊr;ŋaala
-aa	aː	A	42	35	ŋaala;ŋaala;dʒaalin;tɔɔgidaalin;dʒaan_umun
-ə	ə	E	159	71	bəjiŋə;bəjiŋə;iriktə;uləptən;uləptən
-ɛ	ɛ	E	3	2	kəŋgugdɛ;mɛɣan;bɛga
-əə	əː	E	8	4	ujiləə;kəərə;gudəə;ʃəəkʃə;dilkəətʃən
-ɛɛ	ɛː	E	5	5	tʃaŋgɛɛn;ʃɛɛn;jɛɛʃa;ɲɛɛʃin;jɛɛda
-x	x	G	2	2	axakan_utə;axakan_utə
-ɣ	ɣ	G	3	3	tɔɣɔ;mɛɣan;daɣa
-i	i	I	92	57	ujiləə;bəjiŋə;iriktə;iriktə;dʒaalin
-ɪ	ɪ	I	61	33	kɪk;gʊtɪ;kɔŋnɔrɪn;gɪramna;dɪjardʒi
-ii	iː	I	7	2	ərii;iigə;bii;ʃiip;nii
-ɪɪ$	ɪː	I	1	1	adɪɪ
-j	j	J	38	25	ujiləə;bəjiŋə;ajamakan;bəjə;jɛɛʃa
-g	g	K	42	34	ʃɔgdɔnɔ;dʒulgida;gudəə;ərgin;tɔɔgidaalin
-k	k	K	108	93	iriktə;kəərə;ajamakan;tʃinəkə;kɪk
-kk	kk/kː	K	2	2	ətirkkətʃən;atirkkaatʃan
-l	l	L	58	52	ujiləə;amalan;ŋaala;ŋaala;uləptən
-ll	ll/lː	L	2	2	dʒuullə;tullə
-m	m	M	48	36	amalan;ajamakan;amalan;mampa;mampa
-n	n	N	164	52	amalan;banbʊr;uləptən;ʃɔgdɔnɔ;ajamakan
-ŋ	ŋ	N	25	17	bəjiŋə;ŋaala;ŋaala;əgdiŋə;kɔŋnɔrɪn
-ɲ	ɲ	N	16	10	uɲakaan;ɲuriktə;iɲə;ɲɪraj;ɲuŋun
-ŋŋ	ŋŋ/ŋː	N	6	6	tʊŋŋa;əŋŋən;tʃʊŋŋʊrʊ;ʃaŋŋan;əŋŋəl
-b	b	P	30	9	banbʊr;banbʊr;bəjiŋə;bəjə;bukʃu
-p	p	P	11	10	uləptən;mampa;dʒapkʊn;ʃuptʃu;lʊpkʊptɪn
-r	r	R	67	58	banbʊr;iriktə;əru;kəərə;ərgin
-ʃ	ʃ	S	36	11	ʃɔgdɔnɔ;ʃəəkʃə;ʃəəkʃə;bukʃu;tukʃu
-d	d	T	51	35	ʃɔgdɔnɔ;dʒulgida;gudəə;tɔɔgidaalin;əgdiŋə
-t	t	T	54	33	iriktə;uləptən;tɔɔgidaalin;gʊtɪ;tukʃu
-dʒ	dʒ	T	56	18	dʒaalin;dʒulgida;dʒəgdə;dʒuu;dʒugtən
-tʃ	tʃ	T	30	22	tʃinəkə;tʃaŋgɛɛn;muktʃika;ʃuptʃu;atʃʊkʊn
-o	o	U	2	1	oŋtu;boŋbəlin
-ɔ	ɔ	U	31	15	ʃɔgdɔnɔ;ʃɔgdɔnɔ;ʃɔgdɔnɔ;kɔŋnɔrɪn;kɔŋnɔrɪn
-oo	oː	U	2	1	ootə;kooməkə
-ɔɔ	ɔː	U	11	7	tɔɔgidaalin;ɔɔ;tɔɔrag;nɔɔnɪn;dɔɔldi
-w	w	W	7	3	iʃəwu;waa;wargi;bʊwa;wʊlapkʊn
-u	u	Y	98	56	ujiləə;uləptən;əru;dʒulgida;gudəə
-y	y	Y	16	16	dʒyj_ʊnaadʒɪ;dʒyj_ʊnaadʒɪ;dʒyj_ʊnaadʒɪ;dʒyj_ʊnaadʒɪ;dʒyj_ʊnaadʒɪ
-ʊ	ʊ	Y	54	38	banbʊr;gʊtɪ;ʃʊŋta;amʊn;bʊdʒar
-uu	uː	Y	10	2	uu;dʒuu;uruu;buu;dʒuu
-ʊʊ	ʊː	Y	1	1	arʊʊn
-_	+	_	22	22	dʒaan_umun;dɪlgan_əgdɪŋə;ər_ərin;umun_nandar;dʒaan_dʒur
+Grapheme	IPA	SCA	Frequency
+^a	a	A	38
+^aa	aː	A	3
+^b	b	P	20
+^d	d	T	16
+^dʒ	dʒ	T	38
+^g	g	K	7
+^i	i	I	17
+^ii	iː	I	1
+^j	j	J	3
+^k	k	K	7
+^l	l	L	4
+^m	m	M	8
+^n	n	N	15
+^o	o	U	1
+^oo	oː	U	1
+^t	t	T	21
+^tʃ	tʃ	T	8
+^u	u	Y	29
+^uu	uː	Y	1
+^uu$	uː	Y	1
+^w	w	W	3
+^ŋ	ŋ	N	7
+^ɔ	ɔ	U	5
+^ɔɔ	ɔː	U	1
+^ɔɔ$	ɔː	U	1
+^ə	ə	E	33
+^ə$	ə	E	1
+^ɪ	ɪ	I	3
+^ɲ	ɲ	N	6
+^ʃ	ʃ	S	19
+^ʊ	ʊ	Y	9
+_	+	_	22
+a	a	A	78
+a$	a	A	45
+aa	aː	A	35
+aa$	aː	A	4
+b	b	P	9
+b$	b	P	1
+d	d	T	35
+dʒ	dʒ	T	18
+g	g	K	34
+g$	g	K	1
+i	i	I	57
+i$	i	I	18
+ii	iː	I	2
+ii$	iː	I	4
+j	j	J	25
+j$	j	J	10
+k	k	K	93
+k$	k	K	2
+kk	kk/kː	K	2
+kʃ	k ʃ	K S	6
+l	l	L	52
+l$	l	L	2
+ll	ll/lː	L	2
+m	m	M	36
+m$	m	M	4
+n	n	N	52
+n$	n	N	97
+o	o	U	1
+oo	oː	U	1
+p	p	P	10
+p$	p	P	1
+r	r	R	58
+r$	r	R	9
+t	t	T	33
+tʃ	tʃ	T	22
+u	u	Y	56
+u$	u	Y	13
+uu	uː	Y	2
+uu$	uː	Y	6
+w	w	W	3
+w$	w	W	1
+x	x	G	2
+y	y	Y	16
+ŋ	ŋ	N	17
+ŋ$	ŋ	N	1
+ŋŋ	ŋŋ/ŋː	N	6
+ɔ	ɔ	U	15
+ɔ$	ɔ	U	11
+ɔɔ	ɔː	U	7
+ɔɔ$	ɔː	U	2
+ə	ə	E	71
+ə$	ə	E	54
+əə	əː	E	4
+əə$	əː	E	4
+ɛ	ɛ	E	2
+ɛ$	ɛ	E	1
+ɛɛ	ɛː	E	5
+ɣ	ɣ	G	3
+ɪ	ɪ	I	33
+ɪ$	ɪ	I	25
+ɪɪ$	ɪː	I	1
+ɲ	ɲ	N	10
+ʃ	ʃ	S	11
+ʊ	ʊ	Y	38
+ʊ$	ʊ	Y	7
+ʊʊ	ʊː	Y	1

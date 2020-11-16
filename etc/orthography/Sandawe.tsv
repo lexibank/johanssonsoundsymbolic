@@ -1,62 +1,112 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		215	NULL	chia;kʼitʼɬʼe̞;cuu;saxam;tʼɬʼuŋ
-$	NULL		275	NULL	chia;kʼitʼɬʼe̞;cuu;saxam;tʼɬʼuŋ
-^!i$	ǃ i	! I	1	1	!i
-ǀ	ǀ	!	15	2	ǀuku;ǀʔiŋkhe̞;ǀʔina;ǀi;ǀime̞
-ǁ	ǁ	!	13	2	ǁʔe̞kʼa;ǁʔiŋ;ǁu;hiǁʔi;ǁʔe̞kʼanana
-ǁh	ǁʰ	!	3	1	uʔǁhu;ǁhata;ǁhata
-ᵑǁ	ⁿǁ	!	4	2	thame̞si_ᵑǁo̞su;ᵑǁine̞;ᵑǁume̞;hiᵑǁa
-^!h	ǃʰ	!	3	3	!hamu;!he̞ŋki;!he̞ŋ
-^!ʔ	ǃʔ	!	5	5	!ʔupha;!ʔuma;!ʔpha_kale̞e̞;!ʔu;!ʔakhaŋ
-^ǁw	ǁʷ	!	1	1	ǁwa
-^ᵑ!	ⁿǃ	!	12	12	ᵑ!aante̞;ᵑ!atʼsʼ;ᵑ!e̞e̞;ᵑ!aŋkʼo̞;ᵑ!e̞e̞
-^ᵑǀ	ⁿǀ	!	7	7	ᵑǀin;ᵑǀiŋkʼɾ;ᵑǀin;ᵑǀo̞me̞se̞;ᵑǀathi
-^!hw	ǃʷʰ	!	1	1	!hwe̞na
-^ǀhw	ǀʷʰ	!	1	1	ǀhwe̞e̞si
-^ᵑǀw	ⁿǀʷ	!	1	1	ᵑǀwe̞e̞
-a	a	A	184	119	chia;saxam;saxam;!ʔupha;ɟanɟa
-aa	aː	A	24	16	ᵑ!aante̞;kwʔana_daanda_swamkixi;kom_daanda_tʼsʼe̞xie̞;ǀaa;ɟaaŋga
-c	c	C	9	5	cuu;ce̞e̞;ci;cucu;cucu
-ɟ	ɟ	C	10	4	ɟanɟa;ɟanɟa;ɟaaŋga;ɟigida;maganɟa
-e̞	e̞	E	103	56	kʼitʼɬʼe̞;ɬawe̞;ᵑ!aante̞;kate̞;baʔe̞
-e̞e̞	e̞ː	E	30	5	se̞e̞;tʼɬʼwe̞e̞;kho̞ɾo̞kʼo̞te̞e̞;ᵑ!e̞e̞;ǀhwe̞e̞si
-x	x	G	16	13	saxam;xa;maxa;kwʔana_daanda_swamkixi;kom_daanda_tʼsʼe̞xie̞
-ʔ	ʔ	H	42	35	baʔe̞;ǀʔiŋkhe̞;ǁʔe̞kʼa;ǀʔina;uʔǁhu
-^h	h	H	21	21	hiipasi;hakaxi;hikʼi;he̞we̞;hiǁʔi
-i	i	I	80	49	chia;kʼitʼɬʼe̞;tʼɬʼabiso̞o̞;thui;ǀʔiŋkhe̞
-ii	iː	I	3	3	hiipasi;ᵑ!iiŋ;diin
-j	j	J	8	8	chaŋjite̞e̞;bo̞jo̞o̞;ijo̞o̞;ijo̞o̞;ijo̞o̞
-g	g	K	10	8	tʼɬʼuŋgu;ɟaaŋga;ɟigida;maganɟa;maganɟa
-k	k	K	43	27	ǀuku;kate̞;tiŋka;ke̞ke̞;ke̞ke̞
-kh	kh/kʰ	K	6	6	ǀʔiŋkhe̞;we̞khe̞ŋ;ɟakha;ᵑ!e̞ŋkhe̞;!ʔakhaŋ
-kʼ	kʼ	K	18	11	kʼitʼɬʼe̞;kʼaŋkʼaɾasi;kʼaŋkʼaɾasi;ǁʔe̞kʼa;kho̞ɾo̞kʼo̞te̞e̞
-^kh	kʰ	K	3	3	kho̞ɾo̞kʼo̞te̞e̞;khe̞ʔe̞;kho̞o̞
-l	l	L	7	7	bulu;!ʔpha_kale̞e̞;tʼuʔulaa;ke̞le̞mba;do̞o̞lo̞
-ɬ	ɬ	L	8	2	ɬawe̞;ɬabe̞;ɬawe̞te̞e̞;tɬana;ɬanta
-ɬʼ	ɬʼ	L	13	9	kʼitʼɬʼe̞;tʼɬʼuŋ;tʼɬʼuŋ;tʼɬʼa;tʼɬʼabiso̞o̞
-m	m	M	57	32	saxam;maxa;ǀime̞;!ʔuma;mancha
-n	n	N	52	42	ɟanɟa;ᵑ!aante̞;danda;tuuntʼsʼise̞;ᵑǀin
-ŋ	ŋ	N	41	18	tʼɬʼuŋ;tʼɬʼuŋ;ǀʔiŋkhe̞;kʼaŋkʼaɾasi;we̞khe̞ŋ
-b	b	P	28	10	tʼɬʼabiso̞o̞;baʔe̞;bulu;ɬabe̞;baʔe̞
-p	p	P	4	4	hiipasi;!aapuso̞;kipalala;hapu
-ph	ph/pʰ	P	3	3	!ʔupha;!ʔpha_kale̞e̞;ɟipha
-^ph	pʰ	P	3	3	phuduse̞;phi!ʔise̞e̞;pho̞o̞si
-ɾ	ɾ	R	17	16	kʼaŋkʼaɾasi;!e̞ɾe̞;kho̞ɾo̞kʼo̞te̞e̞;ᵑǀiŋkʼɾ;kʼuŋkʼuɾa
-s	s	S	53	34	saxam;se̞e̞;tʼɬʼabiso̞o̞;kʼaŋkʼaɾasi;tuuntʼsʼise̞
-d	d	T	19	13	danda;danda;kwʔana_daanda_swamkixi;kwʔana_daanda_swamkixi;kom_daanda_tʼsʼe̞xie̞
-t	t	T	30	17	ᵑ!aante̞;kate̞;tuuntʼsʼise̞;tiniŋ;kho̞ɾo̞kʼo̞te̞e̞
-ch	ch/tʃ	T	9	2	chia;china;cho̞o̞;mancha;chaŋjite̞e̞
-th	th/tʰ	T	17	3	thui;thuntʼsʼi;itha;thame̞si_ᵑǁo̞su;thasino̞o̞
-tʼ	tʼ	T	15	2	kʼitʼɬʼe̞;tʼɬʼuŋ;tʼɬʼuŋ;tʼɬʼa;tʼɬʼabiso̞o̞
-tʼsʼ	tsʼ	T	23	10	tuuntʼsʼise̞;ᵑ!atʼsʼ;thuntʼsʼi;tʼsʼe̞e̞;kom_daanda_tʼsʼe̞xie̞
-o	o	U	1	1	kom_daanda_tʼsʼe̞xie̞
-o̞	o̞	U	50	33	kho̞ɾo̞kʼo̞te̞e̞;kho̞ɾo̞kʼo̞te̞e̞;kho̞ɾo̞kʼo̞te̞e̞;ǀo̞e̞e̞;thame̞si_ᵑǁo̞su
-o̞o̞	o̞ː	U	24	9	tʼɬʼabiso̞o̞;no̞o̞e̞;cho̞o̞;kho̞o̞;thasino̞o̞
-w	w	W	22	7	ɬawe̞;tʼɬʼwe̞e̞;we̞khe̞ŋ;kwʔana_daanda_swamkixi;tʼsʼwaʔa
-u	u	Y	75	38	tʼɬʼuŋ;tʼɬʼuŋ;!ʔupha;ǀuku;ǀuku
-uu	uː	Y	7	6	cuu;tuuntʼsʼise̞;ɬuuba;nuunu;nuunu
-_	+	_	16	16	kwʔana_daanda_swamkixi;kwʔana_daanda_swamkixi;kom_daanda_tʼsʼe̞xie̞;kom_daanda_tʼsʼe̞xie̞;thame̞si_ᵑǁo̞su
-^!a	ǃ a	! A	1	1	!aapuso̞
-^!e̞	ǃ e̞	! E	1	1	!e̞ɾe̞
-i!ʔ	i ǃʔ	I !	1	1	phi!ʔise̞e̞
-kw	kw/k w	K W	10	4	kwʔana_daanda_swamkixi;kwaʔana;kwaʔana;kwaʔana_danda_kiso̞x;kwaʔana_danda_tʼsʼe̞xe̞
+Grapheme	IPA	SCA	Frequency
+^!a	ǃ a	! A	1
+^!e̞	ǃ e̞	! E	1
+^!h	ǃʰ	!	3
+^!hw	ǃʷʰ	!	1
+^!i$	ǃ i	! I	1
+^!ʔ	ǃʔ	!	5
+^a	a	A	1
+^b	b	P	18
+^c	c	C	4
+^ch	ch/tʃ	T	7
+^d	d	T	6
+^g	g	K	1
+^h	h	H	21
+^i	i	I	8
+^k	k	K	16
+^kh	kʰ	K	3
+^kw	kw/k w	K W	6
+^kʼ	kʼ	K	7
+^m	m	M	21
+^n	n	N	7
+^o̞	o̞	U	1
+^ph	pʰ	P	3
+^s	s	S	8
+^sw	s w	S W	3
+^t	t	T	13
+^th	th/tʰ	T	14
+^tʼ	tʼ	T	12
+^tʼs	tʼ s	T S	1
+^tʼsʼ	tsʼ	T	9
+^tʼsʼw	tsʼ w	T W	2
+^u	u	Y	3
+^w	w	W	6
+^x	x	G	1
+^ǀ	ǀ	!	13
+^ǀhw	ǀʰʷ	!	1
+^ǁ	ǁ	!	11
+^ǁh	ǁʰ	!	2
+^ǁw	ǁʷ	!	1
+^ɟ	ɟ	C	6
+^ɬ	ɬ	L	6
+^ᵑ!	ⁿǃ	!	12
+^ᵑǀ	ⁿǀ	!	7
+^ᵑǀw	ᵑǀʷ	!	1
+^ᵑǁ	ⁿǁ	!	2
+_	+	_	16
+a	a	A	119
+a$	a	A	64
+aa	aː	A	16
+aa$	aː	A	8
+b	b	P	10
+c	c	C	5
+ch	ch/tʃ	T	2
+d	d	T	13
+e̞	e̞	E	56
+e̞$	e̞	E	47
+e̞e̞	e̞ː	E	5
+e̞e̞$	e̞ː	E	25
+g	g	K	8
+g$	g	K	1
+i	i	I	49
+i!ʔ	i ǃʔ	I !	1
+i$	i	I	23
+ii	iː	I	3
+j	j	J	8
+k	k	K	27
+kh	kh/kʰ	K	6
+kw	kw/k w	K W	4
+kʼ	kʼ	K	11
+l	l	L	7
+m	m	M	32
+m$	m	M	3
+ms	m s	M S	1
+n	n	N	42
+n$	n	N	3
+o	o	U	1
+o̞	o̞	U	33
+o̞$	o̞	U	16
+o̞o̞	o̞ː	U	9
+o̞o̞$	o̞ː	U	15
+p	p	P	4
+ph	ph/pʰ	P	3
+s	s	S	34
+s$	s	S	2
+sw	s w	S W	1
+t	t	T	17
+th	th/tʰ	T	3
+tʼ	tʼ	T	2
+tʼsʼ	tsʼ	T	10
+tʼsʼ$	tsʼ	T	2
+u	u	Y	38
+u$	u	Y	34
+uu	uː	Y	6
+uu$	uː	Y	1
+w	w	W	7
+x	x	G	13
+x$	x	G	2
+ŋ	ŋ	N	18
+ŋ$	ŋ	N	23
+ǀ	ǀ	!	2
+ǁ	ǁ	!	2
+ǁh	ǁʰ	!	1
+ɟ	ɟ	C	4
+ɬ	ɬ	L	2
+ɬʼ	ɬʼ	L	9
+ɬʼ$	ɬʼ	L	1
+ɬʼw	ɬʼ w	L W	3
+ɾ	ɾ	R	16
+ɾ$	ɾ	R	1
+ʔ	ʔ	H	35
+ʔ$	ʔ	H	4
+ᵑǁ	ⁿǁ	!	2

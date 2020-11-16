@@ -1,28 +1,52 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		321	NULL	aro̞ri_vo̞a;t̪o̞re̞_l̪e̞i;ait̪e̞;miruru;fo̞ro̞mai
-$	NULL		320	NULL	aro̞ri_vo̞a;t̪o̞re̞_l̪e̞i;ait̪e̞;miruru;fo̞ro̞mai
-a	a	A	429	303	aro̞ri_vo̞a;aro̞ri_vo̞a;ait̪e̞;fo̞ro̞mai;mai
-aa	aː	A	1	1	mai_tai_heraake
-f	f	B	28	15	fo̞ro̞mai;afut̪ae̞;fo̞ro̞e̞;s̪afukavai;furirai
-v	v	B	72	68	aro̞ri_vo̞a;ipi_e̞avia;o̞mo̞pa_vo̞a;ait̪a_vo̞a;ro̞vae̞a
-e	e	E	3	2	mai_tai_heraake;mai_tai_heraake;mai_tai_fareapo
-e̞	e̞	E	201	116	t̪o̞re̞_l̪e̞i;t̪o̞re̞_l̪e̞i;ait̪e̞;afut̪ae̞;mae̞al̪o̞l̪o̞
-h	h	H	36	14	hiai;mae̞a_haihiri;mae̞a_haihiri;ho̞re̞;haro̞_puru
-i	i	I	189	89	aro̞ri_vo̞a;t̪o̞re̞_l̪e̞i;ait̪e̞;miruru;fo̞ro̞mai
-ii	iː	I	1	1	haiiri_ipi
-k	k	K	83	57	kit̪o̞u_l̪o̞i;kɔu;e̞o̞ke̞re̞;s̪afukavai;ko̞
-l̪	l̪	L	55	34	t̪o̞re̞_l̪e̞i;kit̪o̞u_l̪o̞i;mae̞al̪o̞l̪o̞;mae̞al̪o̞l̪o̞;t̪o̞l̪a_ruru
-m	m	M	90	17	miruru;fo̞ro̞mai;mai;mai;mae̞al̪o̞l̪o̞
-n	n	N	2	1	nume̞ra;mai_s̪a_no̞pai
-p	p	P	67	42	ipi_e̞avia;o̞mo̞pa_vo̞a;put̪avai;haro̞_puru;o̞pai
-r	r	R	181	175	aro̞ri_vo̞a;aro̞ri_vo̞a;t̪o̞re̞_l̪e̞i;miruru;miruru
-s	s	S	1	1	mai_tai_hiruusu
-s̪	s̪	S	55	35	s̪afukavai;s̪iare̞;a_s̪auai;s̪are̞;s̪iris̪iri_l̪o̞i
-t	t	T	7	7	mai_tai_hiruusu;mai_tai;mai_tai_fari;mai_tai_heraake;mai_tai_fareapo
-t̪	t̪	T	70	52	t̪o̞re̞_l̪e̞i;ait̪e̞;kit̪o̞u_l̪o̞i;afut̪ae̞;t̪o̞l̪a_ruru
-ɔ	ɔ	U	18	18	kɔu;mae̞a_s̪arɔva;mɔvo̞a;kɔ_o̞pu;kɔvɔre̞
-o$	o	U	1	1	mai_tai_fareapo
-o̞	o̞	U	202	150	aro̞ri_vo̞a;aro̞ri_vo̞a;t̪o̞re̞_l̪e̞i;fo̞ro̞mai;fo̞ro̞mai
-u	u	Y	112	68	miruru;miruru;kit̪o̞u_l̪o̞i;afut̪ae̞;kɔu
-uu	uː	Y	1	1	mai_tai_hiruusu
-_	+	_	102	102	aro̞ri_vo̞a;t̪o̞re̞_l̪e̞i;kit̪o̞u_l̪o̞i;t̪o̞l̪a_ruru;ipi_e̞avia
+Grapheme	IPA	SCA	Frequency
+^a	a	A	35
+^a$	a	A	2
+^e̞	e̞	E	16
+^e̞$	e̞	E	1
+^f	f	B	13
+^h	h	H	22
+^i	i	I	4
+^k	k	K	26
+^l̪	l̪	L	20
+^m	m	M	73
+^n	n	N	1
+^o̞	o̞	U	26
+^o̞$	o̞	U	1
+^p	p	P	25
+^r	r	R	6
+^s̪	s̪	S	20
+^t̪	t̪	T	18
+^u	u	Y	8
+^v	v	B	4
+_	+	_	102
+a	a	A	303
+a$	a	A	89
+aa	aː	A	1
+e	e	E	2
+e$	e	E	1
+e̞	e̞	E	116
+e̞$	e̞	E	68
+f	f	B	15
+h	h	H	14
+i	i	I	89
+i$	i	I	96
+ii	iː	I	1
+k	k	K	57
+l̪	l̪	L	34
+l̪$	l̪	L	1
+m	m	M	17
+n	n	N	1
+o$	o	U	1
+o̞	o̞	U	150
+o̞$	o̞	U	25
+p	p	P	42
+r	r	R	175
+s	s	S	1
+s̪	s̪	S	35
+t	t	T	7
+t̪	t̪	T	52
+u	u	Y	68
+u$	u	Y	36
+uu	uː	Y	1
+v	v	B	68
+ɔ	ɔ	U	18

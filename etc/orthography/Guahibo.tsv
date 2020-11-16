@@ -1,35 +1,67 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		331	NULL	mata;eena;xuakuxinae;xumaalixia;daxita
-$	NULL		331	NULL	mata;eena;xuakuxinae;xumaalixia;daxita
-a	a	A	464	319	mata;mata;eena;xuakuxinae;xuakuxinae
-aa	aː	A	60	35	xumaalixia;jaaxɨwɨnɨ;pemiipaa;xumaalibatsi;saaxawa
-aaa	aaa/aː	A	2	2	apaaaxajoo;apaaaxajoo
-ɸ	ɸ	B	4	3	pekoɸoɸoowi;pekoɸoɸoowi;ɸoobia;pekoɾoɸeto
-ts	ts	C	45	36	tsipaxi;pepɨnɨɨweetsiina;kanakuxitsia;baɾatsuito;atsaxa
-e	e	E	217	186	xuakuxinae;pemaxɨ;pemaxɨ;abexe;abexe
-ee	eː	E	24	18	eena;pepɨnɨɨweetsiina;pepeeɾabɨto;tseewa;itsakobeejaabelia_akuejabi_pakobesiitobexe
-eee	eee/eː	E	2	2	wainaeeeka;peeebaɾɨto
-x	x	G	190	159	xuakuxinae;xuakuxinae;xumaalixia;xumaalixia;daxita
-i	i	I	160	125	xuakuxinae;xumaalixia;xumaalixia;daxita;duxuainɨɨ
-ɨ	ɨ	I	50	36	pemaxɨ;pemaxɨ;pewaxɨnae;pepɨnɨɨweetsiina;jaaxɨwɨnɨ
-ii	iː	I	27	23	iipumana;pepɨnɨɨweetsiina;siine;pesiito;pemiipaa
-ɨɨ	ɨː	I	52	22	duxuainɨɨ;aitabɨɨ;pepɨnɨɨweetsiina;nawɨɨjanaxaetaɾukabexe;tɨɨpa
-j	j	J	60	51	jaaxɨwɨnɨ;ajai;nawɨɨjanaxaetaɾukabexe;xejoxejowa;xejoxejowa
-k	k	K	86	65	xuakuxinae;kuxinae;pekototo;kanakuxitsia;kanakuxitsia
-l	l	L	11	10	xumaalixia;naxialina;xumaalibatsi;itsakobeejaabelia_akuejabi_pakobesiitobexe;pekotsotsoolito
-m	m	M	71	61	mata;xumaalixia;amaito;pemaxɨ;pemaxɨ
-n	n	N	152	138	eena;xuakuxinae;duxuainɨɨ;iipumana;pewaxɨnae
-nn	nn/nː	N	1	1	kaenne
-b	b	P	91	77	abexe;aitabɨɨ;baɾatsuito;uxuba;abaɾɨbi
-p	p	P	189	51	pemaxɨ;pemaxɨ;iipumana;pixuma;tsipaxi
-ɾ	ɾ	R	47	44	baɾatsuito;abaɾɨbi;pepeeɾabɨto;axuiɾaxiibi;itaɾɨɾɨbo
-s	s	S	26	20	siine;nasaɨna;pesiito;saaxawa;itsakobeejaabelia_akuejabi_pakobesiitobexe
-d	d	T	8	1	daxita;duxuainɨɨ;duxuainɨɨ;dainato;deeɾaa_xua
-t	t	T	133	119	mata;daxita;amaito;aitabɨɨ;pekototo
-th	th/tʰ	T	1	1	pexamatabɨɨthɨto
-o	o	U	144	88	amaito;pekototo;pekototo;pekototo;baɾatsuito
-oo	oː	U	41	18	apaaaxajoo;poonaa;xoota;boo;joojoona
-w	w	W	55	48	pewaxɨnae;pepɨnɨɨweetsiina;jaaxɨwɨnɨ;saaxawa;nawɨɨjanaxaetaɾukabexe
-u	u	Y	103	98	xuakuxinae;xuakuxinae;xumaalixia;duxuainɨɨ;duxuainɨɨ
-uu	uː	Y	15	13	atuutsoɾo;pemuxuu;piitaxuuto;jaapuuna;puuɾana
-_	+	_	11	11	itsakobeejaabelia_akuejabi_pakobesiitobexe;itsakobeejaabelia_akuejabi_pakobesiitobexe;taxuabeɾeka_kaesiito;deeɾaa_xua;itsakobeejaabelia_penajanatsi_pakobesiitobexe
+Grapheme	IPA	SCA	Frequency
+^a	a	A	26
+^a$	a	A	1
+^b	b	P	14
+^d	d	T	7
+^e	e	E	2
+^ee	eː	E	3
+^i	i	I	11
+^ii	iː	I	2
+^j	j	J	9
+^k	k	K	21
+^l	l	L	1
+^m	m	M	10
+^n	n	N	14
+^p	p	P	138
+^s	s	S	6
+^t	t	T	14
+^ts	ts	C	9
+^u	u	Y	1
+^w	w	W	7
+^x	x	G	31
+^ɸ	ɸ	B	1
+^ɾ	ɾ	R	3
+_	+	_	11
+a	a	A	319
+a$	a	A	118
+aa	aː	A	35
+aa$	aː	A	25
+aaa	aaa/aː	A	2
+b	b	P	77
+d	d	T	1
+e	e	E	186
+e$	e	E	29
+ee	eː	E	18
+ee$	eː	E	3
+eee	eee/eː	E	2
+i	i	I	125
+i$	i	I	24
+ii	iː	I	23
+ii$	iː	I	2
+j	j	J	51
+k	k	K	65
+l	l	L	10
+m	m	M	61
+n	n	N	138
+nn	nn/nː	N	1
+o	o	U	88
+o$	o	U	56
+oo	oː	U	18
+oo$	oː	U	23
+p	p	P	51
+s	s	S	20
+t	t	T	119
+th	th/tʰ	T	1
+ts	ts	C	36
+u	u	Y	98
+u$	u	Y	4
+uu	uː	Y	13
+uu$	uː	Y	2
+w	w	W	48
+x	x	G	159
+ɨ	ɨ	I	36
+ɨ$	ɨ	I	14
+ɨɨ	ɨː	I	22
+ɨɨ$	ɨː	I	30
+ɸ	ɸ	B	3
+ɾ	ɾ	R	44

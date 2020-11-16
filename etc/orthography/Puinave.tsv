@@ -1,34 +1,72 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		322	NULL	sɤnɤ;moõmju;ojem;hĩm;tohani
-$	NULL		320	NULL	sɤnɤ;moõmju;ojem;hĩm;tohani
-a	a	A	131	101	tohani;hahuk;pupjau;sak;tade
-ã	ã	A	55	51	mãu;wãn;mã;ãk;je_wãi
-aa$	aː	A	1	1	naa
-ts	ts	C	1	1	tatsut
-e	e	E	69	59	ojem;ep;i_pek;de_ɯi;tade
-ɤ	ɤ	E	53	48	sɤnɤ;sɤnɤ;hɤduk;dɤpɯp;osɤm
-ɤ̃	ɤ̃	E	23	23	nɤ̃m;tɤ̃m_simbata_bat;daptɤ̃m;mɤ̃m;sɤ̃n
-ɤɤ$	ɤː	E	1	1	bɤɤ
-h	h	H	74	14	hĩm;tohani;hɤduk;hui;hahuk
-i	i	I	175	102	tohani;hui;punpik;i_pek;wip
-ĩ	ĩ	I	9	8	hĩm;hĩjɤk;hĩ_hai;hĩ;mohĩsɤ̃mju
-ɯ	ɯ	I	32	24	dɤpɯp;pɯk;de_ɯi;bontɯi;hapi_ɯi
-j	j	J	33	13	moõmju;ojem;pupjau;hujak_desõ;hĩjɤk
-k	k	K	117	24	hɤduk;punpik;hahuk;i_pek;sak
-kh	kh/kʰ	K	1	1	saibikhak
-m	m	M	66	17	moõmju;moõmju;ojem;hĩm;nɤ̃m
-n	n	N	64	18	sɤnɤ;tohani;nɤ̃m;punpik;pɤn
-nh	nh/n̥	N	4	4	inha;inha;inha;inha
-b	b	P	47	27	bo;bo;bontɯi;oibɯtep;tebɯu
-p	p	P	82	35	dɤpɯp;dɤpɯp;ep;punpik;punpik
-s	s	S	40	17	sɤnɤ;osɤm;sak;hujak_desõ;tɤ̃m_simbata_bat
-d	d	T	73	42	hɤduk;dɤpɯp;de_ɯi;tade;hujak_desõ
-t	t	T	94	31	tohani;tum;hupɤt;tade;ut
-th	th/tʰ	T	1	1	uthujak
-o	o	U	69	61	moõmju;ojem;tohani;bo;bo
-õ	õ	U	10	4	moõmju;hujak_desõ;jõpawan;dapsõ;tõn
-oo	oː	U	1	1	noot_sɤ̃k
-w	w	W	63	45	wip;wãn;jõpawan;wɤju;wok
-u	u	Y	75	45	moõmju;hɤduk;hui;tum;punpik
-_	+	_	52	52	i_pek;de_ɯi;hujak_desõ;hapi_ɯi;hapi_bak
-kw	kw/k w	K W	1	1	mokwãini
+Grapheme	IPA	SCA	Frequency
+^a	a	A	6
+^b	b	P	20
+^d	d	T	31
+^e	e	E	2
+^h	h	H	60
+^i	i	I	16
+^i$	i	I	2
+^j	j	J	20
+^k	k	K	15
+^m	m	M	17
+^n	n	N	10
+^o	o	U	6
+^p	p	P	38
+^s	s	S	21
+^t	t	T	22
+^u	u	Y	6
+^u$	u	Y	1
+^w	w	W	17
+^ã	ã	A	2
+^õ	õ	U	2
+^ɤ	ɤ	E	1
+^ɯ	ɯ	I	7
+_	+	_	52
+a	a	A	101
+a$	a	A	24
+aa$	aː	A	1
+b	b	P	27
+d	d	T	42
+e	e	E	59
+e$	e	E	8
+h	h	H	14
+i	i	I	102
+i$	i	I	55
+j	j	J	13
+k	k	K	24
+k$	k	K	77
+kh	kh/kʰ	K	1
+ks	k s	K S	1
+kw	kw/k w	K W	1
+m	m	M	17
+m$	m	M	32
+n	n	N	18
+n$	n	N	35
+nh	nh/n̥	N	4
+nw	n w	N W	1
+o	o	U	61
+o$	o	U	2
+oo	oː	U	1
+p	p	P	35
+p$	p	P	8
+ps	p s	P S	1
+s	s	S	17
+t	t	T	31
+t$	t	T	41
+th	th/tʰ	T	1
+ts	ts	C	1
+u	u	Y	45
+u$	u	Y	23
+w	w	W	45
+ã	ã	A	51
+ã$	ã	A	2
+õ	õ	U	4
+õ$	õ	U	4
+ĩ	ĩ	I	8
+ĩ$	ĩ	I	1
+ɤ	ɤ	E	48
+ɤ$	ɤ	E	4
+ɤɤ$	ɤː	E	1
+ɤ̃	ɤ̃	E	23
+ɯ	ɯ	I	24
+ɯ$	ɯ	I	1

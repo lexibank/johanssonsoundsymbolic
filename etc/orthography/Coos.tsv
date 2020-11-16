@@ -1,49 +1,106 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		125	NULL	kuus;kʼiɬa;kʼiɬa;inta;cʼxaa
-$	NULL		131	NULL	kuus;kʼiɬa;kʼiɬa;inta;cʼxaa
-a	a	A	79	67	kʼiɬa;kʼiɬa;inta;hɛwica;kʼlas
-aa	aː	A	12	10	cʼxaa;kʼaanaj;laamakʼ;tʼɬʼtaa;maatɬaaj
-c	c	C	8	3	hɛwica;cəci;cəci;tikʼilc;kwanc
-cʼ	cʼ	C	5	1	cʼxaa;cʼaʔaj;cʼaʔuwaht;cʼilatʃ;micʼlis
-ə	ə	E	21	19	cəci;wətn;qwətɬtʃ;jəhajʔahaɬ;tɬəpqani_jəxajəqwsi
-ɛ	ɛ	E	54	45	hɛwica;hɛmmus;tɛt;gɛɛjnɛ;hɛllaq
-ɛɛ	ɛː	E	8	6	gɛɛjnɛ;jilɛɛ;kʼwlɛɛjis;tɬɛɛwɛ;dɛɛmiɬ
-x	x	G	12	5	cʼxaa;tɬəpqani_jəxajəqwsi;xɛkɛ;xalwaʃ;ihalx
-^χ	χ	G	2	2	χnɛk;χaapq
-xw	xw/xʷ	G	12	7	xwalxwal;xwalxwal;ʃxwaɬ;xwiluw;ɬuuxw
-χ$	χ	G	2	2	qaliχ;qaliχ
-h	h	H	17	6	hɛwica;hɛmmus;hɛllaq;jəhajʔahaɬ;jəhajʔahaɬ
-ʔ	ʔ	H	16	11	jəhajʔahaɬ;cʼaʔaj;kʼsəʔltas;cʼaʔuwaht;qwaijɛʔis
-i	i	I	65	52	kʼiɬa;kʼiɬa;inta;hɛwica;cəci
-ii	iː	I	8	6	diiluɬ;tʼɬʼiitʃ;ʃitʃtii;tɬiijis;juumii
-j	j	J	37	19	kʼaanaj;gɛɛjnɛ;kʼwijuus;ʃajani;tɬajam
-g	g	K	2	1	gɛɛjnɛ;lagawa
-k	k	K	17	5	kuus;lɛjik;katʼəmis;tɬnik;χnɛk
-q	q	K	17	7	hɛllaq;tɬəpqani_jəxajəqwsi;qaliχ;qaliχ;juxwɛwiɛq
-kʼ	kʼ	K	12	1	kʼiɬa;kʼiɬa;kʼlas;kʼaanaj;laamakʼ
-^qw	qw/qʷ	K	3	3	qwətɬtʃ;qwaijɛʔis;qwətɬtʃ
-^qwh	qwh/qʷʰ	K	1	1	qwhannas
-l	l	L	28	18	kʼlas;laamakʼ;diiluɬ;tikʼilc;lagawa
-ɬ	ɬ	L	42	25	kʼiɬa;kʼiɬa;diiluɬ;qwətɬtʃ;tɬajam
-ll	ll/lː	L	1	1	hɛllaq
-ɬh	ɬh/ɬ̥	L	2	2	ɛkwtɬhɛtʃ;ɛkwtɬhɛtʃ
-ɬʼ	ɬʼ	L	4	3	tʼɬʼtaa;tʼɬʼiitʃ;tʼɬʼwɛɛsas;tʼɬʼanɛɛx
-m	m	M	13	9	laamakʼ;tɬajam;maatɬaaj;katʼəmis;dɛɛmiɬ
-mm	mm/mː	M	1	1	hɛmmus
-n	n	N	30	23	inta;wətn;kʼaanaj;gɛɛjnɛ;ʃajani
-nn	nn/nː	N	4	4	qwhannas;ənnə;tənnahs;cənna
-p	p	P	11	6	tɬəpqani_jəxajəqwsi;suuwaɬ_tɬapit;tɬəpqani;jipsən;tɬapqani_ʔixwɛuqwsi
-^b	b	P	1	1	baɬditʃ
-s	s	S	32	5	kuus;hɛmmus;kʼlas;kʼwijuus;qwhannas
-^ʃ	ʃ	S	3	3	ʃajani;ʃxwaɬ;ʃitʃtii
-ʃ$	ʃ	S	2	1	xalwaʃ;kʼajʃ
-d	d	T	6	1	diiluɬ;dɛɛmiɬ;baɬditʃ;dɛʔɛj;diiluuɬ
-t	t	T	41	18	inta;wətn;tɛt;tɛt;qwətɬtʃ
-tʃ	tʃ	T	22	3	qwətɬtʃ;hɛstɬtʃ;tʼɬʼiitʃ;ilwaltʃas;cʼilatʃ
-tʼ	tʼ	T	7	1	tʼɬʼtaa;katʼəmis;tʼɛht;tʼɬʼiitʃ;tʼquʔəɬ
-w	w	W	22	12	hɛwica;wətn;lagawa;kʼwijuus;watɬ
-u	u	Y	12	11	hɛmmus;diiluɬ;xwiluw;cʼaʔuwaht;tɬuwit
-uu	uː	Y	16	16	kuus;kʼwijuus;suuwaɬ;suuwaɬ_tɬapit;ɬuuxw
-_	+	_	3	3	tɬəpqani_jəxajəqwsi;suuwaɬ_tɬapit;tɬapqani_ʔixwɛuqwsi
-qws	qw/qʷ s	K S	2	2	tɬəpqani_jəxajəqwsi;tɬapqani_ʔixwɛuqwsi
-kw	kw/k w	K W	10	5	kwɛis;kwanc;tɬkwiɬt;kwmɛnɛil;ɛkwtɬhɛtʃ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	1
+^b	b	P	1
+^c	c	C	2
+^cʼ	cʼ	C	4
+^d	d	T	5
+^g	g	K	1
+^h	h	H	10
+^i	i	I	3
+^j	j	J	11
+^k	k	K	4
+^kw	kw/k w	K W	5
+^kʼ	kʼ	K	7
+^kʼs	kʼ s	K S	1
+^kʼw	kʼ w	K W	2
+^l	l	L	6
+^m	m	M	3
+^n	n	N	2
+^p	p	P	4
+^q	q	K	5
+^qw	qw/qʷ	K	3
+^qwh	qwh/qʷʰ	K	1
+^s	s	S	5
+^t	t	T	15
+^tʃ	tʃ	T	1
+^tʼ	tʼ	T	6
+^w	w	W	3
+^x	x	G	3
+^xw	xw/xʷ	G	4
+^ə	ə	E	1
+^ɛ	ɛ	E	4
+^ɬ	ɬ	L	3
+^ʃ	ʃ	S	3
+^ʔ	ʔ	H	4
+^χ	χ	G	2
+_	+	_	3
+a	a	A	67
+a$	a	A	11
+aa	aː	A	10
+aa$	aː	A	2
+c	c	C	3
+c$	c	C	3
+cʼ	cʼ	C	1
+d	d	T	1
+g	g	K	1
+h	h	H	6
+hs$	h s	H S	1
+i	i	I	52
+i$	i	I	10
+ii	iː	I	6
+ii$	iː	I	2
+j	j	J	19
+j$	j	J	5
+jw	j w	J W	1
+jʃ$	j ʃ	J S	1
+k	k	K	5
+k$	k	K	8
+kw	kw/k w	K W	5
+kʼ	kʼ	K	1
+kʼ$	kʼ	K	1
+l	l	L	18
+l$	l	L	2
+ll	ll/lː	L	1
+lw	l w	L W	2
+m	m	M	9
+m$	m	M	1
+mm	mm/mː	M	1
+n	n	N	23
+n$	n	N	5
+nn	nn/nː	N	4
+p	p	P	6
+ps	p s	P S	1
+q	q	K	7
+q$	q	K	5
+qws	qw/qʷ s	K S	2
+s	s	S	5
+s$	s	S	19
+t	t	T	18
+t$	t	T	8
+tʃ	tʃ	T	3
+tʃ$	tʃ	T	18
+tʼ	tʼ	T	1
+u	u	Y	11
+u$	u	Y	1
+uu	uː	Y	16
+w	w	W	12
+w$	w	W	1
+x	x	G	5
+x$	x	G	4
+xw	xw/xʷ	G	7
+xw$	xw/xʷ	G	1
+ə	ə	E	19
+ə$	ə	E	1
+ɛ	ɛ	E	45
+ɛ$	ɛ	E	5
+ɛɛ	ɛː	E	6
+ɛɛ$	ɛː	E	2
+ɬ	ɬ	L	25
+ɬ$	ɬ	L	14
+ɬh	ɬh/ɬ̥	L	2
+ɬʼ	ɬʼ	L	3
+ɬʼw	ɬʼ w	L W	1
+ʃ$	ʃ	S	1
+ʔ	ʔ	H	11
+ʔ$	ʔ	H	1
+χ$	χ	G	2

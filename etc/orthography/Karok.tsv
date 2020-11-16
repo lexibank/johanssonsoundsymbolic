@@ -1,41 +1,87 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		326	NULL	ʔaʔ;ʔaj;ifuθ;ikɾeemjah;kooβʊɾa
-$	NULL		330	NULL	ʔaʔ;ʔaj;ifuθ;ikɾeemjah;kooβʊɾa
-a	a	A	248	201	ʔaʔ;ʔaj;ikɾeemjah;kooβʊɾa;ʔixviipha
-aa	aː	A	67	63	ʔat̪ɾaax;ʔat̪ɾaax;ʔamt̪aap;maan̪;jaamac
-f	f	B	24	14	ifuθ;ʔifʊθ;θafɾaam;fʊmpʊh;ʔafʊp
-v	v	B	22	17	ʔixviipha;as̪vʊʊt̪;vas̪ih;xaɾaveet̪ak;kʊjɾakin̪ivkih
-β	β	B	43	21	kooβʊɾa;ʔatʃβiiβ;ʔatʃβiiβ;ʔaβan̪s̪axiit̪itʃ;ʔaas̪ɾaβaɾ
-c$	c	C	1	1	jaamac
-θ	θ	D	51	22	ifuθ;ʔifʊθ;θafɾaam;θʊkin̪kʊn̪iʃ;ʔeeθ
-ee	eː	E	19	19	ikɾeemjah;keem;xaɾaveet̪ak;keetʃ;ʔeeθ
-x	x	G	67	49	ʔixviipha;ʔat̪ɾaax;ʔat̪ɾaax;xaɾaveet̪ak;ʔax
-h	h	H	79	23	ikɾeemjah;vas̪ih;fʊmpʊh;mʊmʊh;ʔipih
-ʔ	ʔ	H	144	6	ʔaʔ;ʔaʔ;ʔaj;ʔixviipha;ʔat̪ɾaax
-i	i	I	165	155	ifuθ;ikɾeemjah;ʔixviipha;vas̪ih;ʔifʊθ
-ii	iː	I	68	67	ʔixviipha;ʔatʃβiiβ;ʔiiʃ;ʔaβan̪s̪axiit̪itʃ;ʔaθiik
-j	j	J	58	28	ʔaj;ikɾeemjah;jaamac;ʔajʊʔaatʃ;imjah
-k	k	K	130	81	ikɾeemjah;kooβʊɾa;keem;xaɾaveet̪ak;s̪ʊɾʊk
-kh	kh/kʰ	K	3	3	keeβɾiikha;keeβɾiikha;as̪t̪ʊʊkha
-m	m	M	69	37	ikɾeemjah;ʔamt̪aap;keem;maan̪;jaamac
-mh	mh/m̥	M	1	1	ʔʊhθaamha
-n̪	n̪	N	67	37	maan̪;ʔikxaɾamkʊn̪iʃ;θʊkin̪kʊn̪iʃ;θʊkin̪kʊn̪iʃ;ʔaβan̪s̪axiit̪itʃ
-n̪h	n̪h/n̪̥	N	1	1	ʔin̪hika
-p	p	P	63	25	ʔamt̪aap;ʔapapkam;ʔapapkam;fʊmpʊh;ʔipih
-ph	ph/pʰ	P	1	1	ʔixviipha
-ɾ	ɾ	R	88	73	ikɾeemjah;kooβʊɾa;ʔat̪ɾaax;ʔat̪ɾaax;xaɾaveet̪ak
-ɾh	ɾh/ɾ̥	R	1	1	ʔʊxɾhaθkaaj
-ʃ	ʃ	S	36	13	ʔikxaɾamkʊn̪iʃ;θʊkin̪kʊn̪iʃ;ʔiiʃ;ikxaɾamkʊn̪iʃ;tʃiʃiih
-^s	s	S	1	1	siʃaf
-s̪	s̪	S	26	13	as̪vʊʊt̪;vas̪ih;ʔaβan̪s̪axiit̪itʃ;ʔaas̪ɾaβaɾ;ʔis̪
-^s̪	s̪	S	6	6	s̪ʊɾʊk;s̪ʊpaah;s̪akɾiiβ;s̪ʊɾʊk;s̪aan̪
-tʃ	tʃ	T	61	9	ʔajʊʔaatʃ;keetʃ;ʔatʃβiiβ;ʔaβan̪s̪axiit̪itʃ;ʔʊʊtʃitʃ
-t̪	t̪	T	75	32	as̪vʊʊt̪;ʔat̪ɾaax;ʔat̪ɾaax;ʔamt̪aap;xaɾaveet̪ak
-tʃh	tʃh/tʃʰ	T	1	1	ʔaatʃitʃha
-t̪s̪	ts̪/ts̪	T	1	1	θavʊʊt̪s̪ʊɾ
-oo	oː	U	8	5	kooβʊɾa;ʔahoo;ʔit̪ɾoop;ʔahoo;ʔit̪ɾoopat̪iʃaamn̪ih
-u	u	Y	2	2	ifuθ;ifujaatʃ
-ʊ	ʊ	Y	94	92	kooβʊɾa;ʔajʊʔaatʃ;ʔifʊθ;s̪ʊɾʊk;s̪ʊɾʊk
-ʊʊ	ʊː	Y	32	30	as̪vʊʊt̪;ʔʊʊx;ʔʊʊtʃitʃ;kʊʊn̪;ʔaɾʊʊn̪
-uu$	uː	Y	2	2	n̪uu;n̪uu
-_	+	_	6	6	ʔit̪ɾahjaɾ_kaɾʊ_jiθa;ʔit̪ɾahjaɾ_kaɾʊ_jiθa;paj_n̪an̪ʊʔaβahkam;ʔit̪ɾahjaɾ_kaɾʊ_ʔaxak;ʔit̪ɾahjaɾ_kaɾʊ_ʔaxak
+Grapheme	IPA	SCA	Frequency
+^a	a	A	21
+^aa	aː	A	2
+^f	f	B	6
+^h	h	H	4
+^i	i	I	8
+^j	j	J	18
+^k	k	K	35
+^m	m	M	9
+^n̪	n̪	N	7
+^p	p	P	22
+^s	s	S	1
+^s̪	s̪	S	6
+^tʃ	tʃ	T	10
+^t̪	t̪	T	12
+^v	v	B	4
+^x	x	G	11
+^ɾ	ɾ	R	1
+^ʊʊ	ʊː	Y	2
+^ʔ	ʔ	H	137
+^β	β	B	5
+^θ	θ	D	12
+_	+	_	6
+a	a	A	201
+a$	a	A	26
+aa	aː	A	63
+aa$	aː	A	2
+c$	c	C	1
+ee	eː	E	19
+f	f	B	14
+f$	f	B	4
+h	h	H	23
+h$	h	H	52
+i	i	I	155
+i$	i	I	2
+ii	iː	I	67
+ii$	iː	I	1
+j	j	J	28
+j$	j	J	11
+jʃ	j ʃ	J S	1
+k	k	K	81
+k$	k	K	12
+kh	kh/kʰ	K	3
+kʃ	k ʃ	K S	2
+m	m	M	37
+m$	m	M	22
+mh	mh/m̥	M	1
+ms̪	m s̪	M S	1
+n̪	n̪	N	37
+n̪$	n̪	N	21
+n̪h	n̪h/n̪̊	N	1
+n̪s̪	n̪ s̪	N S	2
+oo	oː	U	5
+oo$	oː	U	3
+p	p	P	25
+p$	p	P	14
+ph	ph/pʰ	P	1
+ps̪	p s̪	P S	1
+pʃ	p ʃ	P S	1
+s̪	s̪	S	13
+s̪$	s̪	S	9
+tʃ	tʃ	T	9
+tʃ$	tʃ	T	42
+tʃh	tʃh/tʃʰ	T	1
+t̪	t̪	T	32
+t̪$	t̪	T	31
+t̪s̪	ts̪/ts̪	T	1
+u	u	Y	2
+uu$	uː	Y	2
+v	v	B	17
+v$	v	B	1
+x	x	G	49
+x$	x	G	7
+ɾ	ɾ	R	73
+ɾ$	ɾ	R	14
+ɾh	ɾh/ɾ̥	R	1
+ʃ	ʃ	S	13
+ʃ$	ʃ	S	19
+ʊ	ʊ	Y	92
+ʊ$	ʊ	Y	2
+ʊʊ	ʊː	Y	30
+ʔ	ʔ	H	6
+ʔ$	ʔ	H	1
+β	β	B	21
+β$	β	B	17
+θ	θ	D	22
+θ$	θ	D	17

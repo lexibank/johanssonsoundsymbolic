@@ -1,26 +1,53 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		266	NULL	tamaʃiʔ;jinʔ;ʃamʔ;manaʔ;kaɾawa
-$	NULL		271	NULL	tamaʃiʔ;jinʔ;ʃamʔ;manaʔ;kaɾawa
-a	a	A	266	233	tamaʃiʔ;tamaʃiʔ;ʃamʔ;manaʔ;manaʔ
-e	e	E	86	63	ʔemʔ;ʃoneʃiʔ;me;miʃem;ka_ʔom_tok_meɾemem_wa
-h	h	H	9	4	hu;øhø;tohoɾoʔ;hohoʔ_neʃiʔ;hohoʔ_neʃiʔ
-ʔ	ʔ	H	152	16	tamaʃiʔ;jinʔ;ʃamʔ;manaʔ;waɾaʃiʔ
-hw	hw/hʷ	H	4	4	ka_ʔom_hwaɾaʔ_ne_kimain;ka_nahweɾeʔ_neʃiʔ;kahweɾein;petehwet_neʃiʔ
-^hw	hʷ	H	4	4	hwaɾaʔ;hwap;hwam;hwaɾamaʃiʔ
-i	i	I	207	191	tamaʃiʔ;jinʔ;waɾaʃiʔ;tapaɾi;nomonoʃiʔ
-j	j	J	46	34	jinʔ;ʃimijaʃiʔ;oɾopijeʃiʔ;tajain_nanawin;oɾomijak
-k	k	K	85	30	kaɾawa;topakon;kiɾiʃiʔ;kio;kiʃiʔ
-m	m	M	97	50	tamaʃiʔ;ʃamʔ;manaʔ;ʔemʔ;nomonoʃiʔ
-n	n	N	105	61	jinʔ;manaʔ;na;topakon;nomonoʃiʔ
-p	p	P	47	19	tapaɾa;tapaɾa;topakon;tapaɾi;oɾopijeʃiʔ
-ɾ	ɾ	R	72	72	kaɾawa;tapaɾa;tapaɾa;waɾaʃiʔ;tapaɾi
-ʃ	ʃ	S	106	77	tamaʃiʔ;ʃamʔ;waɾaʃiʔ;nomonoʃiʔ;monoʃiʔ
-t	t	T	66	11	tamaʃiʔ;tapaɾa;tapaɾa;topakon;tapaɾi
-^th	th/tʰ	T	1	1	thoɾnʔ
-o	o	U	99	87	topakon;topakon;nomonoʃiʔ;nomonoʃiʔ;nomonoʃiʔ
-^ø	ø	U	1	1	øhø
-ø$	ø	U	1	1	øhø
-w	w	W	55	23	kaɾawa;waɾaʃiʔ;ka_ʔom_tok_meɾemem_wa;weɾeme;tajain_nanawin
-u	u	Y	18	11	hu;tum;um;tum;taɾaju
-_	+	_	35	34	ka_ʔom_tok_meɾemem_wa;ka_ʔom_tok_meɾemem_wa;ka_ʔom_tok_meɾemem_wa;ka_ʔom_tok_meɾemem_wa;tajain_nanawin
-kw	kw/k w	K W	10	4	kweɾe;ko_kwaʔ;kwaʔ;kweɾeʃiʔ;kweɾeʃiʔ
+Grapheme	IPA	SCA	Frequency
+^_	+	_	1
+^a	a	A	11
+^e	e	E	3
+^h	h	H	5
+^hw	hʷ	H	4
+^i	i	I	2
+^j	j	J	12
+^k	k	K	45
+^kw	kw/k w	K W	6
+^m	m	M	24
+^n	n	N	13
+^o	o	U	4
+^p	p	P	24
+^t	t	T	50
+^th	th/tʰ	T	1
+^u	u	Y	1
+^w	w	W	32
+^ø	ø	U	1
+^ʃ	ʃ	S	27
+^ʔ	ʔ	H	6
+_	+	_	34
+a	a	A	233
+a$	a	A	22
+e	e	E	63
+e$	e	E	20
+h	h	H	4
+hw	hw/hʷ	H	4
+i	i	I	191
+i$	i	I	14
+j	j	J	34
+k	k	K	30
+k$	k	K	10
+kw	kw/k w	K W	4
+m	m	M	50
+m$	m	M	23
+n	n	N	61
+n$	n	N	29
+nʃ	n ʃ	N S	2
+o	o	U	87
+o$	o	U	8
+p	p	P	19
+p$	p	P	4
+t	t	T	11
+t$	t	T	5
+u	u	Y	11
+u$	u	Y	6
+w	w	W	23
+ø$	ø	U	1
+ɾ	ɾ	R	72
+ʃ	ʃ	S	77
+ʔ	ʔ	H	16
+ʔ$	ʔ	H	130

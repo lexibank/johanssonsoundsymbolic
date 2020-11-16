@@ -1,37 +1,77 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		132	NULL	tumpaguelo;now;now;per;kaʃtiliʃlaila
-$	NULL		130	NULL	tumpaguelo;kaʃtiliʃlaila;tʃeja;ihuili;stukam
-a	a	A	120	73	tumpaguelo;kaʃtiliʃlaila;kaʃtiliʃlaila;kaʃtiliʃlaila;tʃeja
-aa	aː	A	7	6	bissaak;taamal;thaak;mamaa;tʃuhaali
-f$	f	B	1	1	uf
-e	e	E	25	17	tumpaguelo;per;tʃeja;tettobak;ajteku
-h	h	H	32	25	ihuili;jijoh;aguiltahua;kuhuali;hohi
-i	i	I	77	30	kaʃtiliʃlaila;kaʃtiliʃlaila;kaʃtiliʃlaila;ihuili;ihuili
-j	j	J	46	31	tʃeja;dijta;iʃtaloja;ajteku;jijoh
-jh	jh/j̊	J	1	1	iʃjhup
-g	g	K	20	17	tumpaguelo;gogooʃ;gogooʃ;jujuguia;aguiltahua
-k	k	K	29	13	kaʃtiliʃlaila;stukam;studok;tettobak;ajteku
-l	l	L	58	55	tumpaguelo;kaʃtiliʃlaila;kaʃtiliʃlaila;kaʃtiliʃlaila;ihuili
-m	m	M	26	16	tumpaguelo;stukam;taamal;stomap;ajtimo
-n	n	N	26	13	now;now;lonjlole;nanak;nanak
-nh$	nh/n̥	N	1	1	gununh
-b	b	P	11	5	tettobak;bissaak;bit;bupui;ottob
-p	p	P	18	12	tumpaguelo;per;iʃjhup;pujta_lijpuʃla;pujta_lijpuʃla
-r$	r	R	1	1	per
-s	s	S	22	7	stukam;studok;stomap;nsjukwik;bastʃo
-ʃ	ʃ	S	18	15	kaʃtiliʃlaila;kaʃtiliʃlaila;iʃtaloja;iʃjhup;gogooʃ
-^z	z	S	1	1	zahikastetʃu
-ss	ss/sː	S	1	1	bissaak
-d	d	T	7	4	studok;dijta;dilgalelmahua;idengustʃta;dastʃi
-t	t	T	48	28	tumpaguelo;kaʃtiliʃlaila;stukam;studok;dijta
-th	th/tʰ	T	4	1	thun;thaak;thamkatu;suthi
-tt	tt/tː	T	3	3	tettobak;ottob;tettobak
-tʃ	tʃ	T	21	13	tʃeja;ijtʃuj;bastʃo;stʃomemo;idengustʃta
-^tt	tː	T	1	1	ttʃonsla
-o	o	U	51	32	tumpaguelo;now;now;studok;iʃtaloja
-oo	oː	U	3	2	gogooʃ;moo;kooma
-^w	w	W	2	2	wilka;wajajli
-w$	w	W	3	3	now;now;now
-u	u	Y	75	64	tumpaguelo;tumpaguelo;ihuili;stukam;studok
-_	+	_	3	3	pujta_lijpuʃla;oj_oj;moguel_gaj
-kw	kw/k w	K W	2	2	nsjukwik;itʃkwibon
+Grapheme	IPA	SCA	Frequency
+^a	a	A	10
+^b	b	P	5
+^d	d	T	3
+^e	e	E	1
+^g	g	K	2
+^h	h	H	6
+^i	i	I	16
+^j	j	J	8
+^k	k	K	7
+^l	l	L	2
+^m	m	M	6
+^n	n	N	9
+^ns	n s	N S	1
+^o	o	U	3
+^p	p	P	4
+^s	s	S	13
+^t	t	T	19
+^th	th/tʰ	T	3
+^tt	tː	T	1
+^tʃ	tʃ	T	8
+^u	u	Y	4
+^u$	u	Y	1
+^w	w	W	2
+^z	z	S	1
+^ʃ	ʃ	S	1
+_	+	_	3
+a	a	A	73
+a$	a	A	37
+aa	aː	A	6
+aa$	aː	A	1
+b	b	P	5
+b$	b	P	1
+d	d	T	4
+e	e	E	17
+e$	e	E	7
+f$	f	B	1
+g	g	K	17
+g$	g	K	1
+h	h	H	25
+h$	h	H	1
+i	i	I	30
+i$	i	I	31
+j	j	J	31
+j$	j	J	7
+jh	jh/j̊	J	1
+k	k	K	13
+k$	k	K	8
+kw	kw/k w	K W	2
+kʃ$	k ʃ	K S	1
+l	l	L	55
+l$	l	L	1
+m	m	M	16
+m$	m	M	4
+n	n	N	13
+n$	n	N	2
+nh$	nh/n̥	N	1
+ns	n s	N S	1
+o	o	U	32
+o$	o	U	16
+oo	oː	U	2
+oo$	oː	U	1
+p	p	P	12
+p$	p	P	2
+r$	r	R	1
+s	s	S	7
+ss	ss/sː	S	1
+t	t	T	28
+t$	t	T	1
+th	th/tʰ	T	1
+tt	tt/tː	T	3
+tʃ	tʃ	T	13
+u	u	Y	64
+u$	u	Y	6
+w$	w	W	3
+ʃ	ʃ	S	15
+ʃ$	ʃ	S	1

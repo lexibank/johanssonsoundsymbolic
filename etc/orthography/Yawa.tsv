@@ -1,28 +1,59 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		332	NULL	vo̞n;janiv;mo̞we̞nto̞;te̞nambe̞;paɾi
-$	NULL		332	NULL	vo̞n;janiv;mo̞we̞nto̞;te̞nambe̞;paɾi
-^o̞o̞$	o̞ː	U	1	1	o̞o̞
-a	a	A	513	379	janiv;te̞nambe̞;paɾi;mae̞ɾe̞_ko̞taɾ;mae̞ɾe̞_ko̞taɾ
-aa	aː	A	1	1	anaanambe̞
-v	v	B	59	46	vo̞n;janiv;kakai_mo̞ane̞ve̞;ko̞dave̞;mavu
-e̞	e̞	E	120	72	mo̞we̞nto̞;te̞nambe̞;te̞nambe̞;mae̞ɾe̞_ko̞taɾ;mae̞ɾe̞_ko̞taɾ
-I	I/i	I	1	1	nal_Iiltuije̞
-i	i	I	146	95	janiv;paɾi;mangkaɾasjin;akiɾin;akiɾin
-ii	iː	I	3	2	ɾadalii;piip;manjiijan
-j	j	J	108	88	janiv;mangkaɾasjin;njo̞_ke̞a;we̞je̞;jasjin
-g	g	K	27	27	mangkaɾasjin;akaɾi_kuga;ate̞_pugam;ɾaugav;tugae̞
-k	k	K	100	53	mae̞ɾe̞_ko̞taɾ;mangkaɾasjin;kapum;akiɾin;kakai_mo̞ane̞ve̞
-gg	gː	K	4	4	nggwaɾo̞;nggwam;nggwaɾavainj;nggwaɾavainj
-l	l	L	5	4	ɾadalii;nalso̞;nal_Iiltuije̞;nal_Iiltuije̞;nal_waɾe̞a
-m	m	M	149	61	mo̞we̞nto̞;te̞nambe̞;mae̞ɾe̞_ko̞taɾ;mangkaɾasjin;ane̞m
-n	n	N	205	133	vo̞n;janiv;mo̞we̞nto̞;te̞nambe̞;mangkaɾasjin
-b	b	P	37	30	te̞nambe̞;abusjin_e̞ame̞_ntabo̞;abusjin_e̞ame̞_ntabo̞;kakavimbe̞;badiɾiɾ
-p	p	P	43	12	paɾi;kapum;pana;paɾiman;ɾampunae̞
-ɾ	ɾ	R	91	47	paɾi;mae̞ɾe̞_ko̞taɾ;mae̞ɾe̞_ko̞taɾ;mangkaɾasjin;akiɾin
-s	s	S	40	25	mangkaɾasjin;jasjin;insani;kaɾisja;anasin
-d	d	T	19	17	ko̞dave̞;de̞;kaumande̞;ɾadalii;badiɾiɾ
-t	t	T	67	45	mo̞we̞nto̞;te̞nambe̞;mae̞ɾe̞_ko̞taɾ;ate̞;ɾatao̞
-o̞	o̞	U	105	58	vo̞n;mo̞we̞nto̞;mo̞we̞nto̞;mae̞ɾe̞_ko̞taɾ;kakai_mo̞ane̞ve̞
-w	w	W	36	24	mo̞we̞nto̞;we̞je̞;anawajo̞anto̞;nggwaɾo̞;nggwam
-u	u	Y	95	74	kapum;mavu;ɾampunae̞;kavuɾ;akaɾi_kuga
-_	+	_	31	31	mae̞ɾe̞_ko̞taɾ;kakai_mo̞ane̞ve̞;njo̞_ke̞a;mansae̞_anja;akaɾi_kuga
+Grapheme	IPA	SCA	Frequency
+I	I/i	I	1
+^a	a	A	97
+^b	b	P	7
+^d	d	T	2
+^e̞	e̞	E	2
+^i	i	I	7
+^j	j	J	7
+^k	k	K	46
+^m	m	M	40
+^n	n	N	30
+^o̞	o̞	U	4
+^o̞o̞$	o̞ː	U	1
+^p	p	P	13
+^s	s	S	9
+^t	t	T	16
+^u	u	Y	9
+^v	v	B	4
+^w	w	W	12
+^ɾ	ɾ	R	27
+_	+	_	31
+a	a	A	379
+a$	a	A	37
+aa	aː	A	1
+b	b	P	30
+d	d	T	17
+e̞	e̞	E	72
+e̞$	e̞	E	46
+g	g	K	27
+gg	gː	K	4
+i	i	I	95
+i$	i	I	44
+ii	iː	I	2
+ii$	iː	I	1
+j	j	J	88
+j$	j	J	13
+k	k	K	53
+k$	k	K	1
+l	l	L	4
+ls	l s	L S	1
+m	m	M	61
+m$	m	M	48
+n	n	N	133
+n$	n	N	37
+ns	n s	N S	5
+o̞	o̞	U	58
+o̞$	o̞	U	43
+p	p	P	12
+p$	p	P	18
+s	s	S	25
+t	t	T	45
+t$	t	T	6
+u	u	Y	74
+u$	u	Y	12
+v	v	B	46
+v$	v	B	9
+w	w	W	24
+ɾ	ɾ	R	47
+ɾ$	ɾ	R	17

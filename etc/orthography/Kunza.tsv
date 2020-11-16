@@ -1,41 +1,76 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		247	NULL	kʼito;kʼonatuɾ;tʼosti;kʼelinaɾ;sokʼe
-$	NULL		250	NULL	kʼito;kʼonatuɾ;tʼosti;kʼelinaɾ;sokʼe
-a	a	A	225	178	kʼonatuɾ;kʼelinaɾ;hualtʃeɾ;tʼʃʼakʼtʼʃʼastuɾ;tʼʃʼakʼtʼʃʼastuɾ
-aa	aː	A	6	6	laaɾi;haabu;kʼaaɾi;kʼaapiɾ;haalaɾ
-^v	v	B	1	1	vaquit
-e	e	E	46	35	kʼelinaɾ;sokʼe;sokʼe;hualtʃeɾ;bekʼnatuɾ
-ee	eː	E	1	1	kʼees
-h	h	H	28	6	hualtʃeɾ;haabu;honatuɾ;hautuɾ;hokʼoltuɾ
-i	i	I	175	100	kʼito;tʼosti;kʼelinaɾ;tʼʃʼili;tʼʃʼili
-j	j	J	20	14	ʃojo;hojɾi;kʼeleja;jeteʃalʃta;sulajie
-k	k	K	4	1	ke;gkatʃi;kuna;kuna
-q	q	K	1	1	vaquit
-^g	g	K	1	1	gkatʃi
-kʼ	kʼ	K	119	53	kʼito;kʼonatuɾ;kʼelinaɾ;sokʼe;sokʼe
-^kh	kʰ	K	1	1	khin
-kʼkʼ	k’ː	K	2	2	akʼkʼa;bakʼkʼa
-l	l	L	60	42	kʼelinaɾ;tʼʃʼili;tʃokʼlo;hualtʃeɾ;latʼʃʼiɾ
-m	m	M	31	20	muluɾ;molti;mokʼoɾ;lokʼma;holmtuɾ
-mm	mm/mː	M	2	2	semma;hammatuɾ
-n	n	N	77	62	kʼonatuɾ;kʼelinaɾ;nintʼʃʼikʼs;nintʼʃʼikʼs;kʼani
-nn	nn/nː	N	4	4	kʼonni;kʼannai;kʼannau;kʼonniɾ
-b	b	P	15	8	bekʼnatuɾ;haabu;besti;jebituɾ;kʼabatuɾ
-p	p	P	68	37	kʼapuɾ;pʼuputuɾ;pauna;laptuɾ;paluntuɾ
-pʼ	pʼ	P	7	3	pʼuputuɾ;ʃapʼin;sepʼi;pʼalama;sutʃta_pʼoja
-ɾ	ɾ	R	102	21	kʼonatuɾ;kʼelinaɾ;hualtʃeɾ;tʼʃʼakʼtʼʃʼastuɾ;kʼapuɾ
-s	s	S	47	9	tʼosti;sokʼe;sokʼe;tʼʃʼakʼtʼʃʼastuɾ;nintʼʃʼikʼs
-ʃ	ʃ	S	9	3	ʃojo;ʃapʼin;jeteʃalʃta;jeteʃalʃta;ʃojajne
-ss	ss/sː	S	3	3	mussuɾ;mossi;lassi
-ʃʃ	ʃʃ/ʃː	S	1	1	iʃʃu
-t	t	T	87	74	kʼito;kʼonatuɾ;tʼosti;tʼʃʼakʼtʼʃʼastuɾ;vaquit
-th	th/tʰ	T	1	1	balthituɾ
-tt	tt/tː	T	1	1	ittʃa
-tʃ	tʃ	T	9	6	tʃokʼlo;hualtʃeɾ;kʼeintʃa;sutʃta_sema;tʃalpa
-tʼ	tʼ	T	12	4	tʼosti;tʼanatuɾ;tʼanutakʼe;tʼaɾaɾ;tʼuɾi
-tʃʃ	tʃʃ/tʃː	T	1	1	pintʃʃo
-tʼʃʼ	tʃʼ	T	45	30	tʼʃʼili;tʼʃʼakʼtʼʃʼastuɾ;tʼʃʼakʼtʼʃʼastuɾ;nintʼʃʼikʼs;latʼʃʼiɾ
-o	o	U	54	48	kʼito;kʼonatuɾ;tʼosti;sokʼe;sokʼe
-oo	oː	U	3	2	kʼooli;hoopiɾ;tʼʃʼoo
-u	u	Y	126	104	kʼonatuɾ;hualtʃeɾ;tʼʃʼakʼtʼʃʼastuɾ;kʼokʼu;vaquit
-_	+	_	5	5	sutʃta_sema;likʼau_pauna;sutʃta_pʼoja;pahni_likʼau;pahni_likʼau
+Grapheme	IPA	SCA	Frequency
+^a	a	A	5
+^b	b	P	7
+^e	e	E	1
+^g	g	K	1
+^h	h	H	22
+^i	i	I	8
+^j	j	J	5
+^k	k	K	3
+^kh	kʰ	K	1
+^kʼ	kʼ	K	60
+^l	l	L	15
+^m	m	M	11
+^n	n	N	4
+^p	p	P	30
+^pʼ	pʼ	P	4
+^s	s	S	29
+^t	t	T	12
+^tʃ	tʃ	T	3
+^tʼ	tʼ	T	8
+^tʼʃʼ	tʃʼ	T	15
+^v	v	B	1
+^ʃ	ʃ	S	5
+_	+	_	5
+a	a	A	178
+a$	a	A	42
+aa	aː	A	6
+b	b	P	8
+e	e	E	35
+e$	e	E	10
+ee	eː	E	1
+h	h	H	6
+i	i	I	100
+i$	i	I	67
+j	j	J	14
+j$	j	J	1
+k	k	K	1
+kʼ	kʼ	K	53
+kʼ$	kʼ	K	1
+kʼkʼ	kʼː	K	2
+kʼs	kʼ s	K S	2
+kʼs$	kʼ s	K S	3
+l	l	L	42
+l$	l	L	2
+lʃ	l ʃ	L S	1
+m	m	M	20
+mm	mm/mː	M	2
+n	n	N	62
+n$	n	N	10
+nn	nn/nː	N	4
+ns	n s	N S	1
+o	o	U	48
+o$	o	U	6
+oo	oː	U	2
+oo$	oː	U	1
+p	p	P	37
+ps$	p s	P S	1
+pʼ	pʼ	P	3
+q	q	K	1
+s	s	S	9
+s$	s	S	2
+ss	ss/sː	S	3
+t	t	T	74
+t$	t	T	1
+th	th/tʰ	T	1
+tt	tt/tː	T	1
+tʃ	tʃ	T	6
+tʃʃ	tʃʃ/tʃː	T	1
+tʼ	tʼ	T	4
+tʼʃʼ	tʃʼ	T	30
+u	u	Y	104
+u$	u	Y	22
+ɾ	ɾ	R	21
+ɾ$	ɾ	R	81
+ʃ	ʃ	S	3
+ʃʃ	ʃʃ/ʃː	S	1

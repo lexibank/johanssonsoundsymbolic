@@ -1,47 +1,97 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		266	NULL	uik;pat;bəɲ;kadam_ndobo;kara
-$	NULL		271	NULL	uik;pat;bəɲ;kadam_ndobo;kara
-a	a	A	175	102	pat;kadam_ndobo;kadam_ndobo;kara;kara
-aa	aː	A	23	18	gaata;katapaaɲiŋ;aal;saap;ataandi
-c	c	C	8	4	cen;bic;kacɔwɛi;case;cəŋcəŋ
-ɟ	ɟ	C	10	6	ɟingər;ɟi;manɟɛ;ɟuk;anɟek
-ts	ts	C	1	1	sɔwɔtsɔwɔt
-e	e	E	23	18	cen;mble;et;mbakadeli;kaasek
-ə	ə	E	56	52	bəɲ;awəndi;ətit;dəkən;dəkən
-ɛ	ɛ	E	29	13	kwajɛ;rɛwa;ləutɛ;kamsɛ;mɛsi
-ee	eː	E	1	1	meeki
-^ɛɛ	ɛː	E	2	2	ɛɛs;ɛɛs
-i	i	I	119	53	uik;awəndi;katapaaɲiŋ;mbai;kosi
-ii	iː	I	7	6	siida;uiis;iid;diinde;adiikɛi
-j	j	J	19	9	aja;kwajɛ;jak;ajok;kwajɛ
-g	g	K	21	14	gaata;ɟingər;angoɲi;gaɲ;səngermi
-k	k	K	110	39	uik;kadam_ndobo;kara;kara;katapaaɲiŋ
-kk	kk/kː	K	1	1	itukkiŋba
-l	l	L	12	7	butulu;mble;aal;mbakadeli;ləutɛ
-m	m	M	46	17	kadam_ndobo;maŋ;mbai;mble;sam
-n	n	N	68	33	kadam_ndobo;awəndi;cen;dəkən;noos
-ŋ	ŋ	N	33	4	katapaaɲiŋ;maŋ;aŋ;itukkiŋba;kuɲuŋ
-ɲ	ɲ	N	42	17	bəɲ;katapaaɲiŋ;angoɲi;gaɲ;miɲ
-b	b	P	39	17	bəɲ;kadam_ndobo;butulu;mbai;mble
-p	p	P	7	3	pat;katapaaɲiŋ;pai;saap;dapai
-bb	bː	P	1	1	abbanɛ
-pp	pp/pː	P	1	1	kappɔɲaŋ
-r	r	R	39	15	kara;kara;ɟingər;aar;tokoor
-s	s	S	41	15	siida;kosi;noos;uiis;sam
-ss	ss/sː	S	1	1	assa
-ʃ$	ʃ	S	1	1	diʃ
-d	d	T	89	66	kadam_ndobo;kadam_ndobo;awəndi;siida;dai
-t	t	T	30	14	pat;gaata;katapaaɲiŋ;butulu;ətit
-ɗ	ɗ	T	2	1	ɗoŋɗoŋon;ɗoŋɗoŋon
-dd	dː	T	1	1	kaddɛl
-tt	tt/tː	T	1	1	attei
-o	o	U	36	26	kadam_ndobo;kadam_ndobo;kosi;angoɲi;tokoor
-ɔ	ɔ	U	26	19	sɔɔrɔ;abɔ;dɔdi;kacɔwɛi;sɔu
-oo	oː	U	4	3	noos;tokoor;oor;soondi
-ɔɔ	ɔː	U	1	1	sɔɔrɔ
-w	w	W	17	11	awəndi;rɛwa;waskan;nawar;kacɔwɛi
-u	u	Y	41	26	uik;butulu;butulu;butulu;nduk
-^uu	uː	Y	1	1	uut
-_	+	_	19	19	kadam_ndobo;angoɲi_juk;kakamkakam_ir;ndaa_kədiɲ;ndaa_kədiɲ
-gw	gw/g w	K W	2	2	ɲangwɛele;agwij
-^kw	kw/k w	K W	3	3	kwajɛ;kwajɛ;kwaingɔ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	38
+^aa	aː	A	5
+^b	b	P	21
+^c	c	C	3
+^d	d	T	17
+^e	e	E	1
+^g	g	K	7
+^i	i	I	11
+^ii	iː	I	1
+^j	j	J	9
+^k	k	K	49
+^kw	kw/k w	K W	3
+^l	l	L	3
+^m	m	M	18
+^n	n	N	21
+^o	o	U	1
+^oo	oː	U	1
+^p	p	P	3
+^r	r	R	5
+^s	s	S	15
+^t	t	T	7
+^u	u	Y	7
+^uu	uː	Y	1
+^w	w	W	5
+^ɔ	ɔ	U	2
+^ɗ	ɗ	T	1
+^ə	ə	E	4
+^ɛ	ɛ	E	2
+^ɛɛ	ɛː	E	2
+^ɟ	ɟ	C	4
+^ɲ	ɲ	N	5
+_	+	_	19
+a	a	A	102
+a$	a	A	35
+aa	aː	A	18
+b	b	P	17
+bb	bː	P	1
+bw	b w	P W	1
+c	c	C	4
+c$	c	C	1
+d	d	T	66
+d$	d	T	5
+dd	dː	T	1
+ds$	d s	T S	1
+e	e	E	18
+e$	e	E	4
+ee	eː	E	1
+g	g	K	14
+gw	gw/g w	K W	2
+i	i	I	53
+i$	i	I	55
+ii	iː	I	6
+j	j	J	9
+j$	j	J	1
+k	k	K	39
+k$	k	K	22
+kk	kk/kː	K	1
+l	l	L	7
+l$	l	L	2
+m	m	M	17
+m$	m	M	10
+ms	m s	M S	1
+n	n	N	33
+n$	n	N	14
+o	o	U	26
+o$	o	U	9
+oo	oː	U	3
+p	p	P	3
+p$	p	P	1
+pp	pp/pː	P	1
+r	r	R	15
+r$	r	R	18
+rs	r s	R S	1
+s	s	S	15
+s$	s	S	8
+ss	ss/sː	S	1
+t	t	T	14
+t$	t	T	9
+ts	ts	C	1
+tt	tt/tː	T	1
+u	u	Y	26
+u$	u	Y	8
+w	w	W	11
+ŋ	ŋ	N	4
+ŋ$	ŋ	N	29
+ɔ	ɔ	U	19
+ɔ$	ɔ	U	5
+ɔɔ	ɔː	U	1
+ɗ	ɗ	T	1
+ə	ə	E	52
+ɛ	ɛ	E	13
+ɛ$	ɛ	E	14
+ɟ	ɟ	C	6
+ɲ	ɲ	N	17
+ɲ$	ɲ	N	20
+ʃ$	ʃ	S	1

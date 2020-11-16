@@ -1,49 +1,96 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		289	NULL	t̪ʊʔlaŋ;kulijiil;adijaa;kəbaha;kuh_arɔɔr
-$	NULL		292	NULL	t̪ʊʔlaŋ;kulijiil;adijaa;kəbaha;gɨŋ
-a	a	A	109	79	t̪ʊʔlaŋ;adijaa;kəbaha;kəbaha;kuh_arɔɔr
-aa	aː	A	28	24	adijaa;cibʌ_kəmaadəh;kahaada;t̪aat̪iin;kaam
-c	c	C	27	6	cidʌ;cibʌ_kəmaadəh;ciin;cɔr;cii
-ɟ	ɟ	C	3	2	kəbaɟʊk;ɟɔɟa;ɟɔɟa
-e	e	E	8	7	nʌmehene;nʌmehene;nʌmehene;ceŋkʌmceŋkʌm;ceŋkʌmceŋkʌm
-ə	ə	E	37	37	kəbaha;kərəman;kərəman;jant̪ər;aləm
-ɛ	ɛ	E	42	34	t̪ɛk;ahɛh_wʌlwʌʔl;lɛlmʊk;int̪iŋɛrɛɛj;ibɛʔɛŋ
-ʌ	ʌ	E	79	61	kʌrʌŋ;kʌrʌŋ;nt̪ʌhi;kʌk;ahɛh_wʌlwʌʔl
-ee	eː	E	4	2	muluuleeŋ;wʌt̪ihee;kinee;kit̪iireel_kwaaɽək
-ɛɛ	ɛː	E	24	23	int̪iŋɛrɛɛj;ant̪ijɛɛn;ɪnt̪at̪ɪŋɛɛl;lɛɛm;inɛɛj
-ʌʌ	ʌː	E	3	2	ŋʌnʌʌk;kwʌʌ;t̪ʌʌhwʌj
-h	h	H	66	38	kəbaha;kuh_arɔɔr;nt̪ʌhi;ahɛh_wʌlwʌʔl;ahɛh_wʌlwʌʔl
-ʔ	ʔ	H	12	12	t̪ʊʔlaŋ;rɔʔɔr;ahɛh_wʌlwʌʔl;diʔil;ibɛʔɛŋ
-hw	hw/hʷ	H	2	2	ihwaaj;t̪ʌʌhwʌj
-i	i	I	125	79	kulijiil;adijaa;ilɔk;kidii;nt̪ʌhi
-ɨ	ɨ	I	15	15	gɨŋ;ihʌrɨndiik;kwʌrɨh;kɨdʌwun;pɨnʌ
-ɪ	ɪ	I	3	1	ɪnt̪at̪ɪŋɛɛl;ɪnt̪at̪ɪŋɛɛl;ɪntədakwalɔŋ
-ii	iː	I	23	13	kulijiil;kidii;ihʌrɨndiik;ciin;iinʌ
-j	j	J	37	26	kulijiil;adijaa;kan_bajʊk;jant̪ər;dijʌŋ
-k	k	K	149	27	kulijiil;kəbaha;kuh_arɔɔr;kan_bajʊk;kan_bajʊk
-^g	g	K	1	1	gɨŋ
-l	l	L	70	47	t̪ʊʔlaŋ;kulijiil;kulijiil;kalʊk;kalʊk
-^ll	lː	L	1	1	llo
-m	m	M	52	33	kərəman;aləm;cibʌ_kəmaadəh;kimidi;lɛlmʊk
-n	n	N	116	55	kan_bajʊk;ŋkɔɔnɔ;kuɽuun;nt̪ʌhi;kərəman
-ŋ	ŋ	N	58	13	t̪ʊʔlaŋ;gɨŋ;kʌrʌŋ;ŋkɔɔnɔ;kɔlɔŋ
-ɲ	ɲ	N	3	3	hiɲi;nadɔɔ_ɲɛdən;kɨmʌɲuk
-^ŋw	ŋw/ŋʷ	N	1	1	ŋwarak
-b	b	P	21	16	kəbaha;kan_bajʊk;cibʌ_kəmaadəh;kəbaɟʊk;bʊlɓa
-p	p	P	10	2	puli;t̪apaʔak;pɨnʌ;kʊdampaŋ;pan
-ɓ	ɓ	P	1	1	bʊlɓa
-r	r	R	41	23	kuh_arɔɔr;kuh_arɔɔr;rɔʔɔr;rɔʔɔr;kʌrʌŋ
-ɽ	ɽ	R	10	9	kuɽuun;kuuɽu;kut̪uɽuul;ʊt̪waaɽi;kwaaɽək
-d	d	T	67	47	adijaa;kidii;iduu;cidʌ;cibʌ_kəmaadəh
-t	t	T	1	1	ɪntədakwalɔŋ
-t̪	t̪	T	42	22	t̪ʊʔlaŋ;t̪ɛk;nt̪ʌhi;jant̪ər;t̪un
-o	o	U	6	4	kumoŋ;kɔdɔjon;t̪omo;t̪omo;llo
-ɔ	ɔ	U	34	29	ilɔk;rɔʔɔr;rɔʔɔr;ŋkɔɔnɔ;kɔlɔŋ
-oo	oː	U	3	3	ciboonin;hoohook;hoohook
-ɔɔ	ɔː	U	7	5	kuh_arɔɔr;ŋkɔɔnɔ;alakɔɔ;mɔɔk;nadɔɔ_ɲɛdən
-w	w	W	63	35	ahɛh_wʌlwʌʔl;ahɛh_wʌlwʌʔl;imʌnʌ_idʌwun;kɨdʌwun;walwal
-u	u	Y	87	78	kulijiil;kuh_arɔɔr;kuɽuun;t̪un;puli
-ʊ	ʊ	Y	31	24	t̪ʊʔlaŋ;kan_bajʊk;kalʊk;kalʊk;lɛlmʊk
-uu	uː	Y	9	7	kuɽuun;iduu;kuuɽu;kuu;kut̪uɽuul
-_	+	_	26	26	kuh_arɔɔr;kan_bajʊk;ahɛh_wʌlwʌʔl;cibʌ_kəmaadəh;imʌnʌ_idʌwun
-kw	kw/k w	K W	10	2	kwarəl;kwʌrɨh;kwɔnɔ;kwala;kwaləŋ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	11
+^b	b	P	5
+^c	c	C	21
+^d	d	T	20
+^g	g	K	1
+^h	h	H	14
+^i	i	I	24
+^ii	iː	I	1
+^j	j	J	4
+^k	k	K	86
+^kw	kw/k w	K W	8
+^l	l	L	8
+^ll	lː	L	1
+^m	m	M	13
+^n	n	N	8
+^p	p	P	8
+^r	r	R	5
+^t̪	t̪	T	18
+^w	w	W	24
+^ŋ	ŋ	N	3
+^ŋw	ŋw/ŋʷ	N	1
+^ɟ	ɟ	C	1
+^ɪ	ɪ	I	2
+^ɽ	ɽ	R	1
+^ʊ	ʊ	Y	1
+^ʌ	ʌ	E	3
+_	+	_	26
+a	a	A	79
+a$	a	A	19
+aa	aː	A	24
+aa$	aː	A	4
+b	b	P	16
+c	c	C	6
+d	d	T	47
+e	e	E	7
+e$	e	E	1
+ee	eː	E	2
+ee$	eː	E	2
+h	h	H	38
+h$	h	H	14
+hw	hw/hʷ	H	2
+i	i	I	79
+i$	i	I	22
+ii	iː	I	13
+ii$	iː	I	9
+j	j	J	26
+j$	j	J	7
+k	k	K	27
+k$	k	K	36
+kw	kw/k w	K W	2
+l	l	L	47
+l$	l	L	13
+lw	l w	L W	2
+m	m	M	33
+m$	m	M	6
+n	n	N	55
+n$	n	N	53
+o	o	U	4
+o$	o	U	2
+oo	oː	U	3
+p	p	P	2
+r	r	R	23
+r$	r	R	13
+t	t	T	1
+t̪	t̪	T	22
+t̪w	t̪ w	T W	2
+u	u	Y	78
+u$	u	Y	9
+uu	uː	Y	7
+uu$	uː	Y	2
+w	w	W	35
+ŋ	ŋ	N	13
+ŋ$	ŋ	N	42
+ɓ	ɓ	P	1
+ɔ	ɔ	U	29
+ɔ$	ɔ	U	5
+ɔɔ	ɔː	U	5
+ɔɔ$	ɔː	U	2
+ə	ə	E	37
+ɛ	ɛ	E	34
+ɛ$	ɛ	E	8
+ɛɛ	ɛː	E	23
+ɛɛ$	ɛː	E	1
+ɟ	ɟ	C	2
+ɨ	ɨ	I	15
+ɪ	ɪ	I	1
+ɲ	ɲ	N	3
+ɽ	ɽ	R	9
+ʊ	ʊ	Y	24
+ʊ$	ʊ	Y	6
+ʌ	ʌ	E	61
+ʌ$	ʌ	E	15
+ʌʌ	ʌː	E	2
+ʌʌ$	ʌː	E	1
+ʔ	ʔ	H	12

@@ -1,36 +1,76 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		298	NULL	taa;aŋgu;dʒegɔ;ndʒɔ_rɔja;maqata
-$	NULL		282	1	taa;aŋgu;dʒegɔ;ndʒɔ_rɔja;maqata
-a	a	A	198	109	aŋgu;ndʒɔ_rɔja;maqata;maqata;maqata
-aa	aː	A	11	3	taa;ŋgaa;tataa;ndaata;mbaa
-e	e	E	74	27	dʒegɔ;ŋgedi;lohare;maqe;reni_dana
-ɛ	ɛ	E	2	1	wɛel;mɔhɛ
-ɛɛ$	ɛː	E	3	3	qɛɛ;wɛɛ;dʒɔqɛɛ
-h	h	H	7	6	lohare;seliharu;hure;jrnohoge;mɔhɛ
-i	i	I	129	71	ŋgedi;reni_dana;ali;qili;qili
-ii$	iː	I	3	3	mii;gigii;dii
-j	j	J	27	14	ndʒɔ_rɔja;uja;jɔ;jɔ_ɔle_ni;ndaj
-g	g	K	54	47	aŋgu;dʒegɔ;ŋgedi;gɔ;bogo
-q	q	K	114	48	maqata;qa;qa;buqu;maqe
-l	l	L	28	26	lohare;ali;qili;quli;sili
-m	m	M	60	11	maqata;maqe;mɔtɔ;masu;mɔtɔ
-n	n	N	126	78	ndʒɔ_rɔja;nɔɔ;reni_dana;reni_dana;nduɲe
-ŋ	ŋ	N	30	20	aŋgu;ŋgedi;nuŋga;ŋgaa;ŋgali
-ɲ	ɲ	N	13	12	dʒuɲu;nduɲe;qɔɲɔ;quɲa;nuɲe
-b	b	P	40	22	buqu;bogo;abo;bisi;bambu
-p	p	P	1	1	qopi
-ɓ	ɓ	P	17	12	maɓo;quɓo;qɔɓe;ɓogo;aɓe
-r	r	R	31	21	ndʒɔ_rɔja;lohare;reni_dana;rogu;dɔgɔbidʒɔɔqare
-s	s	S	27	18	asu;masu;osi;ndisi;uga_qasi
-d	d	T	27	18	ŋgedi;reni_dana;nduɲe;ndisi;ndutu
-t	t	T	34	18	taa;maqata;mɔtɔ;qata;too
-dʒ	dʒ	T	45	35	dʒegɔ;ndʒɔ_rɔja;dʒa;dʒuɲu;qadʒaquma
-o	o	U	96	59	lohare;bogo;bogo;osi;abo
-ɔ	ɔ	U	39	23	dʒegɔ;ndʒɔ_rɔja;ndʒɔ_rɔja;gɔ;mɔtɔ
-ɔɔ	ɔː	U	7	2	nɔɔ;dɔgɔbidʒɔɔqare;sɔɔ;ŋgɔdʒɔɔ;dʒɔɔ
-oo$	oː	U	10	7	oo;too;oo;oo;dɔgɔbidʒɔɔdʒoo
-ɔɔɔ	ɔɔɔ/ɔː	U	1	1	wɔɔɔ
-w	w	W	9	1	aw;wɛel;wu;aw;gurwuj
-u	u	Y	61	28	aŋgu;buqu;buqu;asu;uja
-_	+	_	13	13	ndʒɔ_rɔja;reni_dana;uga_qasi;jɔ_ɔle_ni;jɔ_ɔle_ni
-__	+	_	8	8	monoŋgini__ni;monoŋgini__ni;monoŋgini__ni;monoŋgini__ni;mono__ni
+Grapheme	IPA	SCA	Frequency
+$	NULL	NULL	1
+^a	a	A	15
+^b	b	P	18
+^d	d	T	9
+^dʒ	dʒ	T	10
+^e	e	E	2
+^g	g	K	7
+^h	h	H	1
+^i	i	I	3
+^i$	i	I	1
+^j	j	J	9
+^l	l	L	1
+^m	m	M	43
+^n	n	N	46
+^n$	n	N	1
+^o	o	U	4
+^oo$	oː	U	3
+^q	q	K	66
+^r	r	R	9
+^s	s	S	9
+^t	t	T	16
+^u	u	Y	4
+^w	w	W	4
+^ŋ	ŋ	N	10
+^ɓ	ɓ	P	5
+^ɔ	ɔ	U	1
+^ɲ	ɲ	N	1
+_	+	_	13
+__	+	_	8
+a	a	A	109
+a$	a	A	74
+aa	aː	A	3
+aa$	aː	A	8
+b	b	P	22
+d	d	T	18
+dʒ	dʒ	T	35
+e	e	E	27
+e$	e	E	45
+g	g	K	47
+h	h	H	6
+i	i	I	71
+i$	i	I	54
+ii$	iː	I	3
+j	j	J	14
+j$	j	J	4
+l	l	L	26
+l$	l	L	1
+m	m	M	11
+m$	m	M	6
+n	n	N	78
+n$	n	N	1
+o	o	U	59
+o$	o	U	33
+oo$	oː	U	7
+p	p	P	1
+q	q	K	48
+r	r	R	21
+rw	r w	R W	1
+s	s	S	18
+t	t	T	18
+u	u	Y	28
+u$	u	Y	29
+w	w	W	1
+w$	w	W	3
+ŋ	ŋ	N	20
+ɓ	ɓ	P	12
+ɔ	ɔ	U	23
+ɔ$	ɔ	U	15
+ɔɔ	ɔː	U	2
+ɔɔ$	ɔː	U	5
+ɔɔɔ	ɔɔɔ/ɔː	U	1
+ɛ	ɛ	E	1
+ɛ$	ɛ	E	1
+ɛɛ$	ɛː	E	3
+ɲ	ɲ	N	12

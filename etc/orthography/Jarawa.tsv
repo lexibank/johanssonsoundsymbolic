@@ -1,55 +1,96 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		166	NULL	ənənpəʈha;biijiŋ;ənəhoʈəʈa;ero;caɖapa
-$	NULL		170	NULL	ənənpəʈha;biijiŋ;ənəhoʈəʈa;ero;caɖapa
-a	a	A	106	63	ənənpəʈha;ənəhoʈəʈa;caɖapa;caɖapa;caɖapa
-aa	aː	A	13	9	jaanə;ohaag;ənothaap;əŋkaab;əŋkaajaab
-v$	v	B	1	1	yaav
-c	c	C	5	2	caɖapa;ceŋ;pecame;incowa;ciləhe
-ɟ	ɟ	C	2	2	ənə_itəɟile;kaŋ_itəɟile
-e	e	E	45	18	ero;palahe;ənigine;ceŋ;ənəjale
-ə	ə	E	110	33	ənənpəʈha;ənənpəʈha;ənənpəʈha;ənəhoʈəʈa;ənəhoʈəʈa
-ee	eː	E	1	1	leeb
-əə	əː	E	1	1	wəəja
-h	h	H	30	22	ənəhoʈəʈa;palahe;nooha;hiɽu;əhubə
-hw	hw/hʷ	H	3	3	kuhwə;ənehwaɭ;ənuhwetaŋ
-^hw	hʷ	H	1	1	hwiijə
-i	i	I	67	36	biijiŋ;əninon;piʈhi;piʈhi;ipo
-ɨ	ɨ	I	5	4	ugikəɨʈhe;ugikəɨʈhe;pɨpə;ənɨnʈhug;ukɨ
-ii	iː	I	7	6	biijiŋ;hwiijə;əniipiil;əniipiil;ənijii
-j	j	J	38	34	biijiŋ;ənoŋgəjag;ənoŋgəjag;hwiijə;ənajkʈhə
-^y	y/j	J	1	1	yaav
-g	g	K	22	13	ənoŋgəjag;ənoŋgəjag;ənoŋgəjag;ənoŋgəjag;ənigine
-k	k	K	18	10	ənajkʈhə;kag;ugikəɨʈhe;ugikəɨʈhe;ahekana
-l	l	L	36	26	palahe;ələŋda;ənəjale;pela;ənə_itəɟile
-ɭ	ɭ	L	2	1	ənoɭaj;ənehwaɭ
-ll	ll/lː	L	3	3	allema;ullele;ulli
-m	m	M	15	9	allema;pecame;wəwəmə;ənɔm;əmpoəwə
-mm	mm/mː	M	2	2	ummə;ummə
-n	n	N	60	50	ənənpəʈha;ənənpəʈha;ənəhoʈəʈa;ənoŋgəjag;ənoŋgəjag
-ŋ	ŋ	N	24	12	biijiŋ;ənoŋgəjag;ənoŋgəjag;ceŋ;ələŋda
-ɲ	ɲ	N	4	3	ənɲanapo;ɲoɲo;ɲoɲo;iɲapo
-nh	nh/n̥	N	1	1	ənhowa
-nn	nn/nː	N	1	1	onne
-b	b	P	14	2	biijiŋ;əhubə;ʈhuhəb;boija;buʈhə
-p	p	P	28	20	ənənpəʈha;caɖapa;piʈhi;ipo;palahe
-r	r	R	3	3	ero;orgonʈho;gəro
-ɽ	ɽ	R	3	3	hiɽu;hoɽgidu;waɽa
-ʃ	ʃ	S	1	1	naʃa
-d	d	T	7	6	ələŋda;doojə;onodəhejə;chedali;hoɽgidu
-t	t	T	18	8	tawə;ita;ənopetaŋ;ənə_itəɟile;tahilə
-ɖ	ɖ	T	6	5	caɖapa;nooɖə;oɖə;naɖem;ənaɖal
-ʈ	ʈ	T	8	8	ənəhoʈəʈa;ənəhoʈəʈa;aʈiba;kiʈaje;aikhwaʈə
-ch	ch/tʃ	T	3	2	iche;nojche;chedali
-th	th/tʰ	T	5	2	ənothaap;thulə;thuwə;ənahothwag;ənaŋgthə
-ɖɖ	ɖː	T	1	1	uuɖɖu
-ʈh	ʈh/ʈʰ	T	15	15	ənənpəʈha;piʈhi;ənajkʈhə;uʈhu;oyaʈhe
-^ʈh	ʈʰ	T	2	2	ʈhuhəb;ʈhomaj
-o	o	U	50	27	ənəhoʈəʈa;ero;ənoŋgəjag;ənoŋgəjag;əninon
-ɔ	ɔ	U	1	1	ənɔm
-oo	oː	U	3	3	nooha;nooɖə;doojə
-w	w	W	18	12	ənhowa;tawə;wəwəmə;wəwəmə;incowa
-u	u	Y	35	18	uʈhu;uʈhu;hiɽu;əhubə;uuɖɖu
-y	y	Y	1	1	oyaʈhe
-^uu	uː	Y	1	1	uuɖɖu
-_	+	_	2	2	ənə_itəɟile;kaŋ_itəɟile
-khw	khw/kʰ w	K W	6	6	ənikhwa;aikhwa;aikhwaʈə;aikhwaʈə;aikhwaʈə
+Grapheme	IPA	SCA	Frequency
+^a	a	A	14
+^aa	aː	A	4
+^b	b	P	7
+^c	c	C	3
+^ch	ch/tʃ	T	1
+^d	d	T	1
+^e	e	E	3
+^g	g	K	1
+^h	h	H	8
+^hw	hʷ	H	1
+^i	i	I	12
+^j	j	J	2
+^k	k	K	8
+^l	l	L	7
+^m	m	M	4
+^n	n	N	7
+^o	o	U	9
+^p	p	P	7
+^t	t	T	10
+^th	th/tʰ	T	2
+^u	u	Y	10
+^uu	uː	Y	1
+^w	w	W	5
+^y	y/j	J	1
+^ŋ	ŋ	N	2
+^ə	ə	E	38
+^ɲ	ɲ	N	1
+^ʈh	ʈʰ	T	2
+_	+	_	2
+a	a	A	63
+a$	a	A	29
+aa	aː	A	9
+b	b	P	2
+b$	b	P	5
+c	c	C	2
+ch	ch/tʃ	T	2
+d	d	T	6
+e	e	E	18
+e$	e	E	24
+ee	eː	E	1
+g	g	K	13
+g$	g	K	8
+h	h	H	22
+hw	hw/hʷ	H	3
+i	i	I	36
+i$	i	I	19
+ii	iː	I	6
+ii$	iː	I	1
+j	j	J	34
+j$	j	J	2
+k	k	K	10
+khw	khw/kʰ w	K W	6
+l	l	L	26
+l$	l	L	3
+ll	ll/lː	L	3
+m	m	M	9
+m$	m	M	2
+mm	mm/mː	M	2
+n	n	N	50
+n$	n	N	3
+nh	nh/n̥	N	1
+nn	nn/nː	N	1
+o	o	U	27
+o$	o	U	14
+oo	oː	U	3
+p	p	P	20
+p$	p	P	1
+r	r	R	3
+t	t	T	8
+th	th/tʰ	T	2
+thw	th/tʰ w	T W	1
+u	u	Y	18
+u$	u	Y	7
+v$	v	B	1
+w	w	W	12
+y	y	Y	1
+ŋ	ŋ	N	12
+ŋ$	ŋ	N	10
+ɔ	ɔ	U	1
+ɖ	ɖ	T	5
+ɖ$	ɖ	T	1
+ɖɖ	ɖː	T	1
+ə	ə	E	33
+ə$	ə	E	39
+əə	əː	E	1
+ɟ	ɟ	C	2
+ɨ	ɨ	I	4
+ɨ$	ɨ	I	1
+ɭ	ɭ	L	1
+ɭ$	ɭ	L	1
+ɲ	ɲ	N	3
+ɽ	ɽ	R	3
+ʃ	ʃ	S	1
+ʈ	ʈ	T	8
+ʈh	ʈh/ʈʰ	T	15

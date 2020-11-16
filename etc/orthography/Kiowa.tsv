@@ -1,50 +1,98 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		187	NULL	mɔ̃;t̪ei;sãʔããd̪ei;mããʔd̪a;mããʔd̪a
-$	NULL		264	NULL	mɔ̃;kiɔt̪ɔ̃ʔ;khiɔgjɔ;t̪ei;sãʔããd̪ei
-a	a	A	74	38	mããʔd̪a;mããʔd̪a;t̪houpʼga;kuat̪ou;sae
-ã	ã	A	24	18	sãʔããd̪ei;pʼn̪ʔãʔmeii;mãn̪t̪s;ãn̪t̪haʔ;kʼãʔn̪d̪sapʼon̪jiɔ
-aa	aː	A	19	15	saaʔpʼɔ̃n̪;saaʔba;t̪ʼaaʔd̪ei;t̪ʼaaʔga;aaʔpiɔ
-ãã	ãː	A	15	12	sãʔããd̪ei;mããʔd̪a;mããʔd̪a;khããʔd̪ei;kããzõũn̪
-e	e	E	63	46	t̪ei;sãʔããd̪ei;khããʔd̪ei;eid̪l̪;pʼoud̪l̪ei
-ẽ	ẽ	E	21	14	t̪ʼẽĩʔm;zõũẽ;hẽĩʔm;t̪sẽĩhĩɔ̃;pʼɔ̃ẽ
-h	h	H	18	7	hẽĩʔm;t̪sẽĩhĩɔ̃;ẽĩhaʔ;kjɔ̃ʔẽhɔɔʔd̪ei;hɔɔʔt̪sou
-ʔ	ʔ	H	111	81	kiɔt̪ɔ̃ʔ;sãʔããd̪ei;mããʔd̪a;mããʔd̪a;saaʔpʼɔ̃n̪
-i	i	I	89	62	kiɔt̪ɔ̃ʔ;khiɔgjɔ;t̪ei;sãʔããd̪ei;khããʔd̪ei
-ĩ	ĩ	I	26	21	t̪ʼẽĩʔm;hẽĩʔm;t̪sẽĩhĩɔ̃;t̪sẽĩhĩɔ̃;jɔ̃t̪ʼsẽĩ
-ii$	iː	I	1	1	pʼn̪ʔãʔmeii
-j	j	J	51	46	khiɔgjɔ;khiɔjɔ;kʼougjɔp;khjɔɔʔgoup;jɔ̃t̪ʼsẽĩ
-g	g	K	47	38	khiɔgjɔ;goum;t̪houpʼga;gõũmbɔ;kʼougjɔp
-^k	k	K	14	14	kiɔt̪ɔ̃ʔ;kuat̪ou;kããzõũn̪;kiɔ;kout̪
-kh	kh/kʰ	K	2	2	mããkhãʔn̪;guat̪ʼkhou
-kʼ	kʼ	K	9	9	ɔɔʔkʼĩɔ̃ga;aaʔkʼã;beid̪l̪kʼae;eid̪l̪kʼiɔ;kapʼkʼougjɔ
-^kh	kʰ	K	14	14	khiɔgjɔ;khããʔd̪ei;khiɔjɔ;khjɔɔʔgoup;khããn̪ãt̪ʼsapʼoujiɔ
-^kʼ	kʼ	K	18	18	kʼõũ;kʼougjɔp;kʼiɔn̪hɔɔʔbɔ;kʼõũ;kʼiɔ
-l̪	l̪	L	35	12	eid̪l̪;zõũn̪t̪hɔd̪l̪;pʼoud̪l̪ei;t̪ʼɔɔd̪l̪iɔ;t̪ʼeid̪l̪
-m	m	M	28	10	mɔ̃;mããʔd̪a;mããʔd̪a;goum;gõũmbɔ
-mh	mh/m̥	M	1	1	ãmhjũʔmd̪ei
-n̪	n̪	N	36	17	saaʔpʼɔ̃n̪;zõũn̪t̪hɔd̪l̪;kããzõũn̪;mn̪ʔd̪ouʔ;pʼɔ̃n̪
-n̪h	n̪h/n̪̥	N	2	2	kʼiɔn̪hɔɔʔbɔ;pẽĩn̪hɔɔʔd̪a
-b	b	P	22	11	bout̪;gõũmbɔ;bout̪;t̪hɔt̪ʼbɔ;kʼiɔn̪hɔɔʔbɔ
-p	p	P	24	2	kʼougjɔp;khjɔɔʔgoup;zeip;t̪ʼɔp;paʔ
-ph	ph/pʰ	P	1	1	khʔouphãʔ
-pʼ	pʼ	P	25	10	saaʔpʼɔ̃n̪;t̪houpʼga;pʼoud̪l̪ei;pʼɔ̃n̪;pʼn̪ʔãʔmeii
-^ph	pʰ	P	8	8	pheit̪ʼɔ̃ʔ;phae;phaʔ;phaaʔsout̪;phiɔ
-s	s	S	29	3	sãʔããd̪ei;saaʔpʼɔ̃n̪;sae;saaʔba;jɔ̃t̪ʼsẽĩ
-z	z	S	9	1	zõũn̪t̪hɔd̪l̪;zeip;kããzõũn̪;zõũẽ;zeip
-d̪	d̪	T	78	69	sãʔããd̪ei;mããʔd̪a;mããʔd̪a;khããʔd̪ei;d̪õũʔm
-t̪	t̪	T	28	3	kiɔt̪ɔ̃ʔ;t̪ei;bout̪;bout̪;kuat̪ou
-t̪h	t̪h/t̪ʰ	T	7	7	zõũn̪t̪hɔd̪l̪;ãn̪t̪haʔ;pʼeipʼt̪hɔ̃ẽ;it̪heid̪l̪bõũʔ;sat̪hd̪ei
-t̪s	t̪s/ts̪	T	5	4	mãn̪t̪s;hɔɔʔt̪sou;zeipʼmãʔt̪sut̪;guet̪sou;sɔɔʔt̪soue
-t̪ʼ	t̪ʼ	T	41	20	t̪hɔt̪ʼbɔ;t̪ʼẽĩʔm;t̪ʼɔɔd̪l̪iɔ;t̪ʼõũ;t̪ʼeid̪l̪
-^t̪h	t̪ʰ	T	10	10	t̪houpʼga;t̪hɔt̪ʼbɔ;t̪hɔɔʔgjɔ;t̪hããʔd̪eisagjei;t̪haʔ
-^t̪s	ts̪	T	14	14	t̪sẽĩhĩɔ̃;t̪sou;t̪sei;t̪sout̪ʼd̪a;t̪sa
-t̪hs	t̪hs/ts̪ʰ	T	1	1	kat̪hsẽĩ
-o	o	U	43	42	goum;bout̪;t̪houpʼga;bout̪;kuat̪ou
-õ	õ	U	34	32	gõũmbɔ;d̪õũʔm;zõũn̪t̪hɔd̪l̪;kʼõũ;õũʔm
-ɔ	ɔ	U	95	31	kiɔt̪ɔ̃ʔ;khiɔgjɔ;khiɔgjɔ;gõũmbɔ;khiɔjɔ
-ɔɔ	ɔː	U	33	28	t̪ʼɔɔd̪l̪iɔ;khjɔɔʔgoup;kʼiɔn̪hɔɔʔbɔ;pɔɔʔt̪ʼɔ̃;ɔɔʔgaʔt̪
-ɔ̃	ɔ̃	U	32	18	mɔ̃;kiɔt̪ɔ̃ʔ;saaʔpʼɔ̃n̪;pʼɔ̃n̪;ɔ̃
-ɔ̃ɔ̃	ɔ̃	U	6	6	khjɔ̃ɔ̃_hĩʔɔ̃;pʼɔ̃ɔ̃ʔou;t̪ʼɔ̃ɔ̃ʔd̪ɔɔʔ;mɔ̃ɔ̃jĩɔ̃;t̪ʼɔ̃ɔ̃ʔgiɔ
-u	u	Y	50	40	goum;bout̪;t̪houpʼga;bout̪;kuat̪ou
-ũ	ũ	Y	36	26	gõũmbɔ;d̪õũʔm;zõũn̪t̪hɔd̪l̪;kʼõũ;õũʔm
-_	+	_	1	1	khjɔ̃ɔ̃_hĩʔɔ̃
+Grapheme	IPA	SCA	Frequency
+^a	a	A	7
+^a$	a	A	2
+^aa	aː	A	4
+^b	b	P	10
+^d̪	d̪	T	7
+^e	e	E	3
+^g	g	K	9
+^h	h	H	11
+^i	i	I	7
+^j	j	J	5
+^k	k	K	14
+^kh	kʰ	K	14
+^kʼ	kʼ	K	18
+^m	m	M	9
+^n̪	n̪	N	3
+^o	o	U	1
+^p	p	P	13
+^ph	pʰ	P	8
+^pʼ	pʼ	P	15
+^s	s	S	18
+^t̪	t̪	T	15
+^t̪h	t̪ʰ	T	10
+^t̪s	ts̪	T	14
+^t̪ʼ	t̪ʼ	T	18
+^z	z	S	8
+^ã	ã	A	5
+^õ	õ	U	2
+^ɔ	ɔ	U	2
+^ɔɔ	ɔː	U	5
+^ɔ̃	ɔ̃	U	1
+^ɔ̃$	ɔ̃	U	1
+^ʔ	ʔ	H	4
+^ẽ	ẽ	E	2
+_	+	_	1
+a	a	A	38
+a$	a	A	27
+aa	aː	A	15
+b	b	P	11
+b$	b	P	1
+d̪	d̪	T	69
+d̪$	d̪	T	1
+d̪s	d̪ s	T S	1
+e	e	E	46
+e$	e	E	14
+g	g	K	38
+h	h	H	7
+i	i	I	62
+i$	i	I	20
+ii$	iː	I	1
+j	j	J	46
+kh	kh/kʰ	K	2
+kʼ	kʼ	K	9
+l̪	l̪	L	12
+l̪$	l̪	L	23
+m	m	M	10
+m$	m	M	9
+mh	mh/m̥	M	1
+n̪	n̪	N	17
+n̪$	n̪	N	14
+n̪h	n̪h/n̪̊	N	2
+n̪s	n̪ s	N S	2
+o	o	U	42
+p	p	P	2
+p$	p	P	9
+ph	ph/pʰ	P	1
+pʼ	pʼ	P	10
+s	s	S	3
+t̪	t̪	T	3
+t̪$	t̪	T	10
+t̪h	t̪h/t̪ʰ	T	7
+t̪hs	t̪hs/ts̪ʰ	T	1
+t̪s	t̪s/ts̪	T	4
+t̪s$	t̪s/ts̪	T	1
+t̪ʼ	t̪ʼ	T	20
+t̪ʼs	t̪ʼ s	T S	3
+u	u	Y	40
+u$	u	Y	10
+z	z	S	1
+ã	ã	A	18
+ã$	ã	A	1
+ãã	ãː	A	12
+ãã$	ãː	A	3
+õ	õ	U	32
+ĩ	ĩ	I	21
+ĩ$	ĩ	I	5
+ũ	ũ	Y	26
+ũ$	ũ	Y	10
+ɔ	ɔ	U	31
+ɔ$	ɔ	U	62
+ɔɔ	ɔː	U	28
+ɔ̃	ɔ̃	U	18
+ɔ̃$	ɔ̃	U	12
+ɔ̃ɔ̃	ɔ̃	U	6
+ʔ	ʔ	H	81
+ʔ$	ʔ	H	24
+ẽ	ẽ	E	14
+ẽ$	ẽ	E	5

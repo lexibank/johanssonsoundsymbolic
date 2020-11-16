@@ -1,23 +1,44 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		317	NULL	e̞daɾo̞;i_jaɾasu;dubuɾo̞;uɾe̞_wuwu;ne̞sia
-$	NULL		317	NULL	e̞daɾo̞;i_jaɾasu;dubuɾo̞;uɾe̞_wuwu;ne̞sia
-a	a	A	390	204	e̞daɾo̞;i_jaɾasu;i_jaɾasu;ne̞sia;ibo̞_utasu
-ɸ	ɸ	B	30	21	ana_o̞ɸe̞;o̞ɸe̞;iɸuɾu_aɸuɾu;iɸuɾu_aɸuɾu;jaɸawe̞ɾe̞
-e̞	e̞	E	169	108	e̞daɾo̞;uɾe̞_wuwu;ne̞sia;e̞gi;age̞
-i	i	I	142	71	i_jaɾasu;ne̞sia;ibo̞_utasu;e̞gi;ubudi
-j	j	J	42	18	i_jaɾasu;jaɾasu;jaɸawe̞ɾe̞;ɸaija_me̞;jaɾu_utasu
-g	g	K	36	31	e̞gi;age̞;age̞;gasiɾa;dzo̞go̞no̞
-k	k	K	40	23	aubo̞ko̞;o̞ko̞no̞_uɾasu;ke̞ɾe̞u;ko̞wa;siko̞ɾu
-m	m	M	62	51	e̞minnaɾo̞;bado̞mu;amaɾa;ama;iga_me̞
-n	n	N	82	66	ne̞sia;de̞ɾe̞na;ana_o̞ɸe̞;dube̞naɾo̞;de̞sini
-nn	nn/nː	N	1	1	e̞minnaɾo̞
-b	b	P	88	58	dubuɾo̞;ibo̞_utasu;ubudi;bubu;bubu
-ɾ	ɾ	R	148	142	e̞daɾo̞;i_jaɾasu;dubuɾo̞;uɾe̞_wuwu;de̞ɾe̞na
-s	s	S	62	53	i_jaɾasu;ne̞sia;ibo̞_utasu;sio̞sa;sio̞sa
-z	z	S	9	9	dzo̞go̞no̞;ma_mumudze̞gaɾi;idzi;jadzigo̞;jadzaɾa
-d	d	T	51	30	e̞daɾo̞;dubuɾo̞;ubudi;de̞ɾe̞na;dube̞naɾo̞
-t	t	T	60	46	ibo̞_utasu;ubutasu;tai;uitasu;ubu_utasu
-o̞	o̞	U	115	66	e̞daɾo̞;dubuɾo̞;ibo̞_utasu;sio̞sa;ana_o̞ɸe̞
-w	w	W	68	55	uɾe̞_wuwu;uɾe̞_wuwu;dubawaɾu;iwa;dubawaɾu
-u	u	Y	194	103	i_jaɾasu;dubuɾo̞;dubuɾo̞;uɾe̞_wuwu;uɾe̞_wuwu
-_	+	_	55	55	i_jaɾasu;uɾe̞_wuwu;ibo̞_utasu;ana_o̞ɸe̞;ne̞no̞_sanasu
+Grapheme	IPA	SCA	Frequency
+^a	a	A	60
+^a$	a	A	1
+^b	b	P	30
+^d	d	T	21
+^e̞	e̞	E	21
+^g	g	K	5
+^i	i	I	26
+^j	j	J	24
+^k	k	K	17
+^m	m	M	11
+^n	n	N	16
+^o̞	o̞	U	17
+^s	s	S	9
+^t	t	T	14
+^u	u	Y	17
+^w	w	W	13
+^ɸ	ɸ	B	9
+^ɾ	ɾ	R	6
+_	+	_	55
+a	a	A	204
+a$	a	A	125
+b	b	P	58
+d	d	T	30
+e̞	e̞	E	108
+e̞$	e̞	E	40
+g	g	K	31
+i	i	I	71
+i$	i	I	45
+j	j	J	18
+k	k	K	23
+m	m	M	51
+n	n	N	66
+nn	nn/nː	N	1
+o̞	o̞	U	66
+o̞$	o̞	U	32
+s	s	S	53
+t	t	T	46
+u	u	Y	103
+u$	u	Y	74
+w	w	W	55
+z	z	S	9
+ɸ	ɸ	B	21
+ɾ	ɾ	R	142

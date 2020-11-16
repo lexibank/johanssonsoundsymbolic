@@ -1,38 +1,69 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		316	NULL	wamindindeɾi;aʔti;ajaʔ;watĩõjte;mbapeʔa
-$	NULL		316	NULL	wamindindeɾi;aʔti;ajaʔ;watĩõjte;mbapeʔa
-_$	NULL		1	1	noŋmbajo_mbottaʔ_mbottaʔ_mbapih_eʔaiwa_
-a	a	A	275	216	wamindindeɾi;aʔti;ajaʔ;ajaʔ;watĩõjte
-ã	ã	A	17	17	wãsõʔ;wakãŋgka;wãoŋgʔ;wendãʔ;ektĩõkẽãʔ
-aa	aː	A	1	1	waaiʔ
-e	e	E	159	92	wamindindeɾi;watĩõjte;mbapeʔa;ndakweaʔ;indpieʔnda
-ẽ	ẽ	E	26	16	tawĩɾẽʔ;kõniŋgẽpo;ẽʔwekopoʔ;ẽsĩwĩʔ;miɾẽ
-ẽẽ	ẽː	E	3	2	eʔpẽẽʔ;eʔmbojoŋgʔ_ẽẽʔ;ẽẽʔpati
-^ee	eː	E	1	1	eeʔ
-h	h	H	5	5	noŋmbajo_mbapaʔ_mbapih_eʔaiwa;mbotmbaʔ_wambaʔneŋ_waʔipih_eʔaiwa;noŋmbajo_mbottaʔ_mbottaʔ_mbapih_eʔaiwa_;noŋmbajo_mbottaʔ_mbapih_eʔaiwa;mbotmbaʔ_wambaʔneŋ_mbottaʔ_waʔipih_eʔaiwa
-ʔ	ʔ	H	212	97	aʔti;ajaʔ;mbapeʔa;wataʔpi;ndakweaʔ
-i	i	I	118	98	wamindindeɾi;wamindindeɾi;wamindindeɾi;aʔti;wambaŋgpi
-ĩ	ĩ	I	9	8	watĩõjte;tawĩɾẽʔ;ẽsĩwĩʔ;ẽsĩwĩʔ;ĩnda
-j	j	J	65	37	ajaʔ;watĩõjte;mbakoj;eʔtipoj;ajaŋg
-jj	jː	J	2	2	taʔnojjenʔ;ontojjoʔ
-g	g	K	54	41	wambaŋgpi;wambaŋgpi;kõniŋgẽpo;wakãŋgka;embiŋgʔ
-k	k	K	96	50	paɾokupo;kõniŋgẽpo;mbakoj;embok;wasik
-kk	kk/kː	K	5	5	ikken;wakkaʔweʔ;wakkuɾute;wauokkupiŋg;ikken
-m	m	M	109	73	wamindindeɾi;mbapeʔa;wambaŋgpi;wambaŋgpi;mboɾoʔ
-n	n	N	148	96	wamindindeɾi;wamindindeɾi;ndakweaʔ;indpieʔnda;indpieʔnda
-ŋ	ŋ	N	64	61	wambaŋgpi;wambaŋgpi;kõniŋgẽpo;wakãŋgka;embiŋgʔ
-nn	nn/nː	N	2	2	annoŋg;kennda
-b	b	P	81	81	mbapeʔa;wambaŋgpi;wambaŋgpi;mboɾoʔ;mbakoj
-p	p	P	87	64	mbapeʔa;wambaŋgpi;wambaŋgpi;paɾokupo;paɾokupo
-ɾ	ɾ	R	34	34	wamindindeɾi;paɾokupo;tawĩɾẽʔ;mboɾoʔ;wakuiɾiʔ
-s	s	S	50	36	wasik;wãsõʔ;wasiʔponda;soɾok_eweʔnda;ẽsĩwĩʔ
-d	d	T	92	80	wamindindeɾi;wamindindeɾi;ndakweaʔ;indpieʔnda;indpieʔnda
-t	t	T	58	39	aʔti;watĩõjte;watĩõjte;wataʔpi;tawĩɾẽʔ
-tt	tt/tː	T	10	10	mbottaʔ_mbottaʔ;mbottaʔ_mbottaʔ;wakittaʔ;noŋmbajo_mbottaʔ_mbottaʔ_mbapih_eʔaiwa_;noŋmbajo_mbottaʔ_mbottaʔ_mbapih_eʔaiwa_
-o	o	U	167	122	paɾokupo;paɾokupo;kõniŋgẽpo;taʔnojjenʔ;wandapo
-õ	õ	U	14	12	watĩõjte;kõniŋgẽpo;wãsõʔ;kẽɾõŋg;ektĩõkẽãʔ
-w	w	W	123	36	wamindindeɾi;watĩõjte;wambaŋgpi;wambaŋgpi;wataʔpi
-u	u	Y	60	58	paɾokupo;wakuiɾiʔ;mbutuk;mbutuk;eʔouʔ
-uu	uː	Y	2	1	uuʔ;puuŋg
-_	+	_	24	24	soɾok_eweʔnda;noŋmbajo_mbapaʔ_mbapih_eʔaiwa;noŋmbajo_mbapaʔ_mbapih_eʔaiwa;noŋmbajo_mbapaʔ_mbapih_eʔaiwa;mbotmbaʔ_wambaʔneŋ_waʔipih_eʔaiwa
-kw	kw/k w	K W	3	3	ndakweaʔ;wakwen;wandakweʔnda
+Grapheme	IPA	SCA	Frequency
+_$	NULL	NULL	1
+^a	a	A	16
+^e	e	E	59
+^ee	eː	E	1
+^i	i	I	7
+^j	j	J	4
+^k	k	K	17
+^m	m	M	36
+^n	n	N	40
+^o	o	U	11
+^p	p	P	23
+^s	s	S	9
+^t	t	T	6
+^uu	uː	Y	1
+^w	w	W	79
+^ĩ	ĩ	I	1
+^ẽ	ẽ	E	6
+^ẽẽ	ẽː	E	1
+_	+	_	24
+a	a	A	216
+a$	a	A	43
+aa	aː	A	1
+b	b	P	81
+d	d	T	80
+d$	d	T	12
+e	e	E	92
+e$	e	E	8
+g	g	K	41
+g$	g	K	13
+h	h	H	5
+i	i	I	98
+i$	i	I	13
+j	j	J	37
+j$	j	J	23
+jj	jː	J	2
+jw	j w	J W	1
+k	k	K	50
+k$	k	K	29
+kk	kk/kː	K	5
+kw	kw/k w	K W	3
+m	m	M	73
+n	n	N	96
+n$	n	N	12
+nn	nn/nː	N	2
+o	o	U	122
+o$	o	U	34
+p	p	P	64
+s	s	S	36
+s$	s	S	1
+t	t	T	39
+t$	t	T	13
+tt	tt/tː	T	10
+u	u	Y	58
+u$	u	Y	2
+uu	uː	Y	1
+w	w	W	36
+ã	ã	A	17
+õ	õ	U	12
+õ$	õ	U	2
+ĩ	ĩ	I	8
+ŋ	ŋ	N	61
+ŋ$	ŋ	N	3
+ɾ	ɾ	R	34
+ʔ	ʔ	H	97
+ʔ$	ʔ	H	104
+ẽ	ẽ	E	16
+ẽ$	ẽ	E	4
+ẽẽ	ẽː	E	2

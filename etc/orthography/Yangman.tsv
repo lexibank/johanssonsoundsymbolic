@@ -1,28 +1,56 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		297	NULL	galul;geŋmiji;guɾu;waɾ;buduɾ
-$	NULL		299	NULL	galul;geŋmiji;guɾu;waɾ;buduɾ
-a	a	A	293	217	galul;waɾ;lajin;waɭi;waɭi
-e	e	E	76	63	geŋmiji;medjem;medjem;meleman;meleman
-^h	h	H	1	1	hula
-i	i	I	173	147	geŋmiji;geŋmiji;lajin;midjbidjin;midjbidjin
-^I	I/i	I	1	1	Ia
-j	j	J	206	122	geŋmiji;lajin;midjbidjin;midjbidjin;joɖin
-g	g	K	105	58	galul;geŋmiji;guɾu;baŋgin;wunjdjug
-gg	gː	K	2	2	jiɾugguja;nuɾugguja
-l	l	L	59	43	galul;galul;lajin;meleman;bulilil
-ɭ	ɭ	L	26	23	waɭi;waɭi;gaɭaɭ;gaɭaɭ;maɭŋa
-m	m	M	80	45	geŋmiji;midjbidjin;bamŋa;djumba;medjem
-n	n	N	117	39	lajin;midjbidjin;joɖin;baŋgin;waɾiŋun
-ŋ	ŋ	N	96	50	geŋmiji;baŋgin;waɾiŋun;bamŋa;ŋabulu
-ɳ	ɳ	N	34	30	wuɳe;deɹɳgma;ŋawuɳen;waɳaɾ;maɳuŋuɾu
-ŋw	ŋw/ŋʷ	N	1	1	jiwaŋwal
-b	b	P	91	55	buduɾ;midjbidjin;baŋgin;bamŋa;buɾugawi
-p	p	P	2	1	ap;djapela
-ɹ	ɹ	R	13	13	daɹaŋ;bulbuɹuwuɹu;bulbuɹuwuɹu;baɹadj;deɹɳgma
-ɾ	ɾ	R	52	45	guɾu;waɾ;buduɾ;waɾiŋun;buɾugawi
-d	d	T	103	63	buduɾ;midjbidjin;midjbidjin;wunjdjug;djumba
-ɖ	ɖ	T	14	14	joɖin;waɖiɾg;gunuɖba;buɖeɖe;buɖeɖe
-o	o	U	44	42	joɖin;gojogin;gojogin;donjman;moɾ
-w	w	W	77	36	waɾ;waɭi;waɭi;waɾiŋun;wunjdjug
-u	u	Y	164	119	galul;guɾu;guɾu;buduɾ;buduɾ
-_	+	_	1	1	gan_gin
+Grapheme	IPA	SCA	Frequency
+^I	I/i	I	1
+^a	a	A	1
+^b	b	P	34
+^d	d	T	37
+^g	g	K	32
+^h	h	H	1
+^j	j	J	78
+^l	l	L	9
+^m	m	M	28
+^n	n	N	14
+^w	w	W	37
+^ŋ	ŋ	N	27
+_	+	_	1
+a	a	A	217
+a$	a	A	75
+b	b	P	55
+b$	b	P	2
+d	d	T	63
+d$	d	T	3
+e	e	E	63
+e$	e	E	13
+g	g	K	58
+g$	g	K	15
+gg	gː	K	2
+i	i	I	147
+i$	i	I	26
+j	j	J	122
+j$	j	J	6
+l	l	L	43
+l$	l	L	7
+m	m	M	45
+m$	m	M	7
+n	n	N	39
+n$	n	N	64
+o	o	U	42
+o$	o	U	2
+p	p	P	1
+p$	p	P	1
+u	u	Y	119
+u$	u	Y	45
+w	w	W	36
+w$	w	W	2
+ŋ	ŋ	N	50
+ŋ$	ŋ	N	19
+ŋw	ŋw/ŋʷ	N	1
+ɖ	ɖ	T	14
+ɭ	ɭ	L	23
+ɭ$	ɭ	L	3
+ɳ	ɳ	N	30
+ɳ$	ɳ	N	3
+ɳw	ɳ w	N W	1
+ɹ	ɹ	R	13
+ɾ	ɾ	R	45
+ɾ$	ɾ	R	6
+ɾw	ɾ w	R W	1

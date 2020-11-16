@@ -1,25 +1,53 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		287	NULL	aigap;ta_tapen;evi;iragi;man
-$	NULL		290	NULL	aigap;ta_tapen;evi;iragi;man
-a	a	A	383	215	aigap;aigap;ta_tapen;ta_tapen;iragi
-v	v	B	6	5	evi;tave;apan_tave;viwa;no_siavia
-e	e	E	233	187	ta_tapen;evi;koe;epiwa;nenip
-i	i	I	107	77	aigap;evi;iragi;iragi;ipip
-j	j	J	15	7	japapen;nani_jamu_jampo;nani_jamu_jampo;jame;nani_jamunaet
-g	g	K	71	53	aigap;iragi;atagin;gari;garip
-k	k	K	32	16	koe;akueramepen;bomunke;kaimewa;ikurup
-m	m	M	75	50	man;manap;akueramepen;pumpuni;bomunke
-n	n	N	215	110	ta_tapen;man;nani;nani;nani
-b	b	P	28	9	bagua;baita;bomunke;ni_benoa;bop_tapen
-p	p	P	114	85	aigap;ta_tapen;ipip;ipip;epiwa
-r	r	R	53	53	iragi;gari;garip;gauarap;akueramepen
-s	s	S	31	24	sisitae;sisitae;sesen_enapen;sesen_enapen;asewa
-d	d	T	43	21	denip;dana_dana_warapen;dana_dana_warapen;doronagepen;darine
-t	t	T	61	42	ta_tapen;ta_tapen;atagin;baita;sisitae
-o	o	U	63	48	koe;bomunke;orup_apan;ni_benoa;doronagepen
-w	w	W	117	91	epiwa;iwa;kaimewa;i_guinewa;amewa
-u	u	Y	118	94	bagua;gauarap;akueramepen;pumpuni;pumpuni
-^uu	uː	Y	1	1	uuni
-_	+	_	66	66	ta_tapen;orup_apan;i_guinewa;ni_benoa;dana_dana_warapen
-^gw	gw/g w	K W	1	1	gwat
-^kw	kw/k w	K W	1	1	kwisin
+Grapheme	IPA	SCA	Frequency
+^a	a	A	50
+^b	b	P	19
+^d	d	T	22
+^e	e	E	15
+^e$	e	E	2
+^g	g	K	18
+^gw	gw/g w	K W	1
+^i	i	I	13
+^i$	i	I	1
+^j	j	J	8
+^k	k	K	11
+^kw	kw/k w	K W	1
+^m	m	M	20
+^n	n	N	27
+^o	o	U	10
+^p	p	P	10
+^s	s	S	5
+^t	t	T	13
+^u	u	Y	16
+^uu	uː	Y	1
+^v	v	B	1
+^w	w	W	26
+_	+	_	66
+a	a	A	215
+a$	a	A	118
+b	b	P	9
+d	d	T	21
+e	e	E	187
+e$	e	E	29
+g	g	K	53
+i	i	I	77
+i$	i	I	16
+j	j	J	7
+k	k	K	16
+k$	k	K	5
+m	m	M	50
+m$	m	M	5
+n	n	N	110
+n$	n	N	76
+ns	n s	N S	2
+o	o	U	48
+o$	o	U	5
+p	p	P	85
+p$	p	P	19
+r	r	R	53
+s	s	S	24
+t	t	T	42
+t$	t	T	6
+u	u	Y	94
+u$	u	Y	8
+v	v	B	5
+w	w	W	91

@@ -1,52 +1,104 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		242	NULL	ruggitu;ʃaʕatuni;badʔdʔe;lool;binta
-$	NULL		246	NULL	ruggitu;ʃaʕatuni;badʔdʔe;lool;binta
-a	a	A	266	136	ʃaʕatuni;ʃaʕatuni;badʔdʔe;binta;tʃintʃaqe
-aa	aː	A	16	16	maara;baaχa;haaʃi;haaʃi;qaadʔile
-f	f	B	8	7	foolo;gufaʕ;afa;tafo;eefi
-ts	ts	C	9	2	tsaqam;tsan;tsii;tsaamitsa;tsaamitsa
-e	e	E	61	12	badʔdʔe;tʃintʃaqe;qaqqe;silbe_attomuni;tule
-ee	eː	E	4	2	ee;eefi;leeʕa;keesa
-χ	χ	G	11	7	ʃoχo;zaχ;baaχa;χaʔ;oχom
-ħ	ħ	H	16	6	baħada;ħar;ħadʒi;ħizza;ħaj
-ʔ	ʔ	H	18	11	badʔdʔe;badʔdʔe;iiʔa;iiʔa;gʔaʕ
-ʕ	ʕ	H	46	18	ʃaʕatuni;ʕadala;gaddaʕuni;gʔaʕ;baʕtʃe
-^h	h	H	5	5	haaʃi;haʃ;haaʃi;haw;haka
-h$	h	H	1	1	gʔoh
-i	i	I	87	51	ruggitu;ʃaʕatuni;binta;tʃintʃaqe;sidda
-ii	iː	I	11	4	iiʔa;iiʔa;ziiʔ;iiʔa;iiʔa
-j	j	J	27	23	boje;arrajke;bija;ajki;ħaj
-jj	jː	J	2	2	ajjane;ajjane
-g	g	K	23	5	bagattu;galla;gaddaʕuni;gʔaʕ;mizigitte
-k	k	K	37	22	karbo;arrajke;tʃak;wak;kara
-q	q	K	12	6	tʃintʃaqe;qaqqe;tsaqam;qaw;qane
-gg	gː	K	2	2	ruggitu;ruggitu
-kk	kk/kː	K	13	13	dʔakkamuni;terekko;tʃoma_akkalbano;ekkite;akkalbano
-qq	qq/qː	K	2	2	qaqqe;ʕiqqiʃiʔ
-l	l	L	19	15	lool;lool;ʕadala;silbe_attomuni;tule
-ll	ll/lː	L	1	1	galla
-m	m	M	35	20	tsaqam;dʔakkamuni;silbe_attomuni;mitʃa;maara
-n	n	N	62	52	ʃaʕatuni;binta;tʃintʃaqe;gaddaʕuni;dʔakkamuni
-nn	nn/nː	N	4	4	munnuʕuni;munnuʕuni;baaje_munnuʕuni;baaje_munnuʕuni
-b	b	P	60	31	badʔdʔe;binta;baħada;bagattu;buusa
-bb	bː	P	3	3	abba;abba;abba
-pp	pp/pː	P	1	1	sippa
-r	r	R	28	21	ruggitu;karbo;maara;gure;terekko
-rr	rr/rː	R	2	2	arrajke;berre
-s	s	S	19	5	sidda;buusa;silbe_attomuni;ista;sonqitte
-z	z	S	8	4	mizigitte;zaχ;ziiʔ;ħizge;zoguj
-ʃ	ʃ	S	21	11	ʃaʕatuni;ʃoχo;haaʃi;ʃoχe;haʃ
-zz	zz/zː	S	1	1	ħizza
-d	d	T	19	14	badʔdʔe;badʔdʔe;baħada;ʕadala;dʔakkamuni
-t	t	T	48	40	ruggitu;ʃaʕatuni;binta;tunaw;tule
-dd	dː	T	13	13	sidda;gaddaʕuni;gaddaʕuni;gaddaʕuni;addate
-dʒ	dʒ	T	9	1	dʒuuka;dʒiʔ;dʒiʔ;ħadʒi;dʒuta
-tt	tt/tː	T	7	7	bagattu;silbe_attomuni;mizigitte;sonqitte;kuttunko
-tʃ	tʃ	T	19	5	tʃintʃaqe;tʃintʃaqe;mitʃa;baʕtʃe;tʃaʕaw
-tʃtʃ	tʃtʃ/tʃː	T	1	1	itʃtʃama
-o	o	U	42	27	karbo;ʃoχo;ʃoχo;silbe_attomuni;foolo
-oo	oː	U	12	7	lool;foolo;roo;moora;ʃoon
-w	w	W	14	3	tunaw;qaw;tʃaʕaw;wowa;wowa
-u	u	Y	70	64	ruggitu;ruggitu;ʃaʕatuni;bagattu;gaddaʕuni
-uu	uː	Y	5	5	buusa;dʒuuka;tsuub;dʒuuka;dʒuuka
-_	+	_	7	7	silbe_attomuni;tʃoma_akkalbano;amato_iifa;tʃoma_lama;inta_akka
+Grapheme	IPA	SCA	Frequency
+^a	a	A	29
+^b	b	P	26
+^d	d	T	2
+^dʒ	dʒ	T	8
+^e	e	E	2
+^ee	eː	E	1
+^ee$	eː	E	1
+^f	f	B	1
+^g	g	K	16
+^h	h	H	5
+^i	i	I	7
+^ii	iː	I	6
+^j	j	J	2
+^k	k	K	13
+^l	l	L	3
+^m	m	M	12
+^n	n	N	5
+^o	o	U	1
+^oo	oː	U	4
+^q	q	K	4
+^r	r	R	6
+^s	s	S	11
+^t	t	T	8
+^ts	ts	C	7
+^tʃ	tʃ	T	14
+^w	w	W	5
+^z	z	S	4
+^ħ	ħ	H	10
+^ʃ	ʃ	S	9
+^ʕ	ʕ	H	22
+^χ	χ	G	3
+_	+	_	7
+a	a	A	136
+a$	a	A	101
+aa	aː	A	16
+b	b	P	31
+b$	b	P	3
+bb	bː	P	3
+d	d	T	14
+d$	d	T	3
+dd	dː	T	13
+dʒ	dʒ	T	1
+e	e	E	12
+e$	e	E	47
+ee	eː	E	2
+f	f	B	7
+g	g	K	5
+g$	g	K	2
+gg	gː	K	2
+h$	h	H	1
+i	i	I	51
+i$	i	I	29
+ii	iː	I	4
+ii$	iː	I	1
+j	j	J	23
+j$	j	J	2
+jj	jː	J	2
+k	k	K	22
+k$	k	K	2
+kk	kk/kː	K	13
+l	l	L	15
+l$	l	L	1
+ll	ll/lː	L	1
+m	m	M	20
+m$	m	M	3
+n	n	N	52
+n$	n	N	4
+nn	nn/nː	N	4
+ns	n s	N S	1
+o	o	U	27
+o$	o	U	14
+oo	oː	U	7
+oo$	oː	U	1
+pp	pp/pː	P	1
+q	q	K	6
+q$	q	K	2
+qq	qq/qː	K	2
+r	r	R	21
+r$	r	R	1
+rr	rr/rː	R	2
+s	s	S	5
+s$	s	S	2
+t	t	T	40
+ts	ts	C	2
+tt	tt/tː	T	7
+tʃ	tʃ	T	5
+tʃtʃ	tʃtʃ/tʃː	T	1
+u	u	Y	64
+u$	u	Y	6
+uu	uː	Y	5
+w	w	W	3
+w$	w	W	6
+z	z	S	4
+zz	zz/zː	S	1
+ħ	ħ	H	6
+ʃ	ʃ	S	11
+ʃ$	ʃ	S	1
+ʔ	ʔ	H	11
+ʔ$	ʔ	H	7
+ʕ	ʕ	H	18
+ʕ$	ʕ	H	6
+χ	χ	G	7
+χ$	χ	G	1

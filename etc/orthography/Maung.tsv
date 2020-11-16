@@ -1,26 +1,60 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		273	NULL	kimuʈpin;kiɽk;kiliɽiɲmin;imawuɽ;imawuɽ
-$	NULL		273	NULL	kimuʈpin;kiɽk;kiliɽiɲmin;imawuɽ;imawuɽ
-a	a	A	354	301	imawuɽ;imawuɽ;kiɽwaɹa;kiɽwaɹa;maŋiɹi
-aa	aː	A	1	1	waaɹak
-c	c	C	65	42	maŋunci;niɲŋicalk;jaɲcuk;maŋawc;juɭŋaɽcuɭŋaɽ
-ɛ	ɛ	E	8	8	iwɛɽ;kɛljutpa;kɛljakpin;kɛmpicin;mɛɽk
-ɣ	ɣ	G	12	10	wiɹɳɣak;waɽɣa;kamanɲaɭɣunta;juɹɳɣ;ŋalɣic
-i	i	I	211	146	kimuʈpin;kimuʈpin;kiɽk;kiliɽiɲmin;kiliɽiɲmin
-j	j	J	39	21	juɽwiɹi;iŋpuɽkuɭjak;maɽjun_putaɽ;jaɲcuk;kujinu
-k	k	K	182	66	kimuʈpin;kiɽk;kiɽk;kiliɽiɲmin;kiɽwaɹa
-l	l	L	82	69	kiliɽiɲmin;la;wulaɽut;kapal;nulakputiɽi
-ɭ	ɭ	L	48	43	iŋpuɽkuɭjak;kiwaɭkpaɽan;ɭawɭaw;ɭawɭaw;juɭŋaɽcuɭŋaɽ
-m	m	M	101	65	kimuʈpin;kiliɽiɲmin;imawuɽ;imawuɽ;numuɽunti
-n	n	N	96	40	kimuʈpin;kiliɽiɲmin;numuɽunti;numuɽunti;kaɽkpin
-ŋ	ŋ	N	65	39	maŋiɹi;iŋpuɽkuɭjak;maŋunci;maniŋul;niɲŋicalk
-ɲ	ɲ	N	40	34	kiliɽiɲmin;niɲŋicalk;jaɲcuk;munuɲ;kiŋuncaɲmin
-ɳ	ɳ	N	22	17	wiɹɳɣak;waɳalaj;laɳŋalk;wuɽkamac_juɳu_la_ŋaɽkaɽk_la_ŋaɽkaɽk;juɳu
-p	p	P	83	68	kimuʈpin;iŋpuɽkuɭjak;kapal;kaɽkpin;nulakputiɽi
-ɹ	ɹ	R	33	32	juɽwiɹi;kiɽwaɹa;maŋiɹi;kuɹak;wiɹɳɣak
-ɽ	ɽ	R	92	71	kiɽk;kiliɽiɲmin;imawuɽ;imawuɽ;juɽwiɹi
-t	t	T	39	20	numuɽunti;wulaɽut;nulakputiɽi;maɽjun_putaɽ;kit
-ʈ	ʈ	T	8	5	kimuʈpin;maɹuʈuʈ;maɹuʈuʈ;kiniwaʈpalmuni;muɽuʈ
-w	w	W	93	46	imawuɽ;imawuɽ;juɽwiɹi;kiɽwaɹa;wulaɽut
-u	u	Y	193	163	kimuʈpin;imawuɽ;imawuɽ;juɽwiɹi;numuɽunti
-_	+	_	14	14	maɽjun_putaɽ;wuɽkamac_juɳu_la_ŋaɽkaɽk_la_ŋaɽkaɽk;wuɽkamac_juɳu_la_ŋaɽkaɽk_la_ŋaɽkaɽk;wuɽkamac_juɳu_la_ŋaɽkaɽk_la_ŋaɽkaɽk;wuɽkamac_juɳu_la_ŋaɽkaɽk_la_ŋaɽkaɽk
+Grapheme	IPA	SCA	Frequency
+^a	a	A	20
+^c	c	C	9
+^i	i	I	22
+^j	j	J	17
+^k	k	K	65
+^l	l	L	6
+^m	m	M	34
+^n	n	N	31
+^p	p	P	10
+^t	t	T	2
+^u	u	Y	1
+^w	w	W	39
+^ŋ	ŋ	N	16
+^ɭ	ɭ	L	1
+_	+	_	14
+a	a	A	301
+a$	a	A	33
+aa	aː	A	1
+c	c	C	42
+c$	c	C	14
+i	i	I	146
+i$	i	I	43
+j	j	J	21
+j$	j	J	1
+k	k	K	66
+k$	k	K	51
+l	l	L	69
+l$	l	L	7
+m	m	M	65
+m$	m	M	2
+n	n	N	40
+n$	n	N	25
+p	p	P	68
+p$	p	P	5
+t	t	T	20
+t$	t	T	17
+u	u	Y	163
+u$	u	Y	29
+w	w	W	46
+w$	w	W	1
+ŋ	ŋ	N	39
+ŋ$	ŋ	N	10
+ɛ	ɛ	E	8
+ɣ	ɣ	G	10
+ɣ$	ɣ	G	2
+ɭ	ɭ	L	43
+ɭ$	ɭ	L	1
+ɭw	ɭ w	L W	3
+ɲ	ɲ	N	34
+ɲ$	ɲ	N	6
+ɳ	ɳ	N	17
+ɳ$	ɳ	N	5
+ɹ	ɹ	R	32
+ɹw	ɹ w	R W	1
+ɽ	ɽ	R	71
+ɽ$	ɽ	R	18
+ɽw	ɽ w	R W	3
+ʈ	ʈ	T	5
+ʈ$	ʈ	T	3

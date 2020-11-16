@@ -1,22 +1,48 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		291	NULL	hɑeɑ;hɑhɑ;t̪o_t̪ɛ;ɛɑ;ɑpɑimɛn̪e
-$	NULL		291	NULL	hɑeɑ;hɑhɑ;t̪o_t̪ɛ;ɛɑ;ɑpɑimɛn̪e
-ɑ	ɑ	A	276	171	hɑeɑ;hɑeɑ;hɑhɑ;hɑhɑ;ɛɑ
-ɑɑ	ɑː	A	1	1	kɑt̪ɑhɑ_mɑɑkɑ
-e	e	E	74	35	hɑeɑ;ɑpɑimɛn̪e;hemen̪e;hemen̪e;hemen̪e
-ɛ	ɛ	E	80	53	t̪o_t̪ɛ;ɛɑ;ɑpɑimɛn̪e;hɛɾɛn̪ɛ;hɛɾɛn̪ɛ
-h	h	H	113	56	hɑeɑ;hɑhɑ;hɑhɑ;hemen̪e;hɛɾɛn̪ɛ
-i	i	I	134	60	ɑpɑimɛn̪e;hekɑɾi;kɑmɑn̪i;mɑkɑhin̪ɛ;kɑɾimuɑ_t̪ɛ
-j	j	J	6	1	jɔ;jɑɾɑ;jɛi;jupɔn̪ɛikɔ;pɑɾi_jɑikɑ
-k	k	K	139	93	hekɔt̪ɑ;hekɔt̪ɑ;hekɑɾi;kot̪o;kɑmɑn̪i
-m	m	M	78	57	ɑpɑimɛn̪e;hemen̪e;kɑmɑn̪i;mɑkɑhin̪ɛ;mɛ
-n̪	n̪	N	45	36	ɑpɑimɛn̪e;hemen̪e;hɛɾɛn̪ɛ;kɑmɑn̪i;mɑkɑhin̪ɛ
-p	p	P	86	53	ɑpɑimɛn̪e;wɔwɔpi;kɛihɔpuɾi;kihɔpuɾi;mɑpo_me
-ɾ	ɾ	R	85	68	hɛɾɛn̪ɛ;heɾe;hekɑɾi;kɑɾimuɑ_t̪ɛ;hɑɾo
-s	s	S	2	2	ɑsiɛ_kɛkɑ;isu
-t̪	t̪	T	56	35	t̪o_t̪ɛ;t̪o_t̪ɛ;hekɔt̪ɑ;hekɔt̪ɑ;kot̪o
-o	o	U	56	25	t̪o_t̪ɛ;kot̪o;kot̪o;hohoke;hohoke
-ɔ	ɔ	U	95	60	hekɔt̪ɑ;hekɔt̪ɑ;jɔ;mɔɾiɔ_mɔɾiɔ_mɛt̪ɛ_t̪ɛ;mɔɾiɔ_mɔɾiɔ_mɛt̪ɛ_t̪ɛ
-w	w	W	32	8	wɔwɔpi;wɔwɔpi;wɔt̪u_me;wɔin̪ɔ;wɑɾe
-u	u	Y	79	45	kɑɾimuɑ_t̪ɛ;kɛihɔpuɾi;hukɑ;kihɔpuɾi;u_mɑho
-_	+	_	50	50	t̪o_t̪ɛ;kɑɾimuɑ_t̪ɛ;mɔɾiɔ_mɔɾiɔ_mɛt̪ɛ_t̪ɛ;mɔɾiɔ_mɔɾiɔ_mɛt̪ɛ_t̪ɛ;mɔɾiɔ_mɔɾiɔ_mɛt̪ɛ_t̪ɛ
+Grapheme	IPA	SCA	Frequency
+^e	e	E	5
+^e$	e	E	1
+^h	h	H	57
+^i	i	I	4
+^i$	i	I	2
+^j	j	J	5
+^k	k	K	46
+^m	m	M	21
+^n̪	n̪	N	9
+^o	o	U	4
+^o$	o	U	1
+^p	p	P	33
+^t̪	t̪	T	21
+^u	u	Y	8
+^u$	u	Y	1
+^w	w	W	23
+^ɑ	ɑ	A	18
+^ɔ	ɔ	U	7
+^ɛ	ɛ	E	9
+^ɾ	ɾ	R	16
+_	+	_	50
+e	e	E	35
+e$	e	E	33
+h	h	H	56
+i	i	I	60
+i$	i	I	68
+j	j	J	1
+k	k	K	93
+m	m	M	57
+n̪	n̪	N	36
+o	o	U	25
+o$	o	U	26
+p	p	P	53
+s	s	S	2
+t̪	t̪	T	35
+u	u	Y	45
+u$	u	Y	25
+w	w	W	8
+ɑ	ɑ	A	171
+ɑ$	ɑ	A	87
+ɑɑ	ɑː	A	1
+ɔ	ɔ	U	60
+ɔ$	ɔ	U	28
+ɛ	ɛ	E	53
+ɛ$	ɛ	E	18
+ɾ	ɾ	R	68
+ɾw$	ɾ w	R W	1

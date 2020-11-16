@@ -1,44 +1,100 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		243	NULL	takʼ;niw;hau;altiil;tsʔhinitsʔhanx
-$	NULL		257	NULL	takʼ;niw;hau;altiil;tsʔhinitsʔhanx
-a	a	A	174	133	takʼ;hau;altiil;tsʔhinitsʔhanx;pupan
-aa	aː	A	22	11	xaa;waat;haaii;taa;tʼkaa
-aaa	aaa/aː	A	1	1	paaal
-ts	ts	C	12	5	tsʔhinitsʔhanx;tsʔhinitsʔhanx;iltsʔhakʍ;tsʔhixi;tsʔhɛlɛiitʼkʼ
-ɛ	ɛ	E	49	42	khɛlɛii;khɛlɛii;tʼkaltʼkilixtɛkʼ;jɛkwɛkw;jɛkwɛkw
-ɛɛ	ɛː	E	4	2	pɛɛ;tɛɛhal;pɛɛ;pɛɛm
-x	x	G	46	10	tsʔhinitsʔhanx;kʼopx;xa;tʼkaltʼkilixtɛkʼ;xaa
-xw	xw/xʷ	G	1	1	kɨxwii
-h	h	H	33	7	hau;hawa;mahai;hax;haaii
-ʔh	ʔh/ʔʰ	H	12	12	tsʔhinitsʔhanx;tsʔhinitsʔhanx;iltsʔhakʍ;tsʔhixi;tsʔhɛlɛiitʼkʼ
-i	i	I	105	52	niw;tsʔhinitsʔhanx;tsʔhinitsʔhanx;iltsʔhakʍ;tin
-ɨ	ɨ	I	4	4	kɨxwii;tɛtsʔhɨku;hɨlɨɨn;tɛtsʔhɨku
-ii	iː	I	18	10	altiil;khɛlɛii;haaii;haiixin;tsʔhɛlɛiitʼkʼ
-ɨɨ	ɨː	I	1	1	hɨlɨɨn
-j	j	J	23	11	jɛkwɛkw;joom;jookʍ;kajaw;khijik
-k	k	K	59	31	iltsʔhakʍ;tʼkaltʼkilixtɛkʼ;tʼkaltʼkilixtɛkʼ;tʼkɛm;jookʍ
-kh	kh/kʰ	K	2	2	juukhalx;khokhokʼ
-kʼ	kʼ	K	17	1	takʼ;kʼopx;tʼkaltʼkilixtɛkʼ;kʼopx;tsʔhɛlɛiitʼkʼ
-^kh	kʰ	K	12	12	khɛlɛii;khijik;khijix;khokhokʼ;khas
-kw$	kw/kʷ	K	3	3	jɛkwɛkw;ukw;sajankw
-l	l	L	71	40	altiil;altiil;iltsʔhakʍ;khɛlɛii;tʼkaltʼkilixtɛkʼ
-m	m	M	43	20	mahai;tʼkɛm;joom;paxam;tʼkɛmɛthiau
-ʍ	ʍ	M	3	1	iltsʔhakʍ;jookʍ;xakʍan
-n	n	N	42	13	niw;tsʔhinitsʔhanx;tsʔhinitsʔhanx;pupan;pupan
-p	p	P	38	14	pupan;pupan;pupan;pupan;kʼopx
-ph	ph/pʰ	P	1	1	japha
-pʼ	pʼ	P	9	4	pʼoopʼau;pʼoopʼau;tɛtʼulupʼ;hiipʼal;tʼkapʼ
-^ph	pʰ	P	3	3	phii;phaantʼkʼ;phahan
-s	s	S	42	5	sajankw;lɛpsi;puus;tɛskɛtʼa;paals
-ʃ	ʃ	S	13	2	ʃuux;ʃunʃ;ʃunʃ;ʃal;altʼkiʃamtʼ
-t	t	T	60	25	takʼ;altiil;tuu;tin;tʼkaltʼkilixtɛkʼ
-th	th/tʰ	T	6	2	tʼkɛmɛthiau;thɛla;thai;lomthi;thpan
-tʼ	tʼ	T	34	12	tʼkaltʼkilixtɛkʼ;tʼkaltʼkilixtɛkʼ;tʼkɛm;tɛtʼulupʼ;tʼkunuk
-o	o	U	24	22	kʼopx;lohoi;lohoi;kʼopx;okoji
-oo	oː	U	8	5	joom;pʼoopʼau;jookʍ;poo;noox
-w	w	W	37	26	niw;hawa;waat;kɛwax;kajaw
-u	u	Y	27	20	hau;pupan;pupan;pʼoopʼau;tɛtʼulupʼ
-uu	uː	Y	13	10	tuu;ʃuux;xuul;puus;tuu
-kw	kw/k w	K W	13	7	jɛkwɛkw;kwɛl;kwɛl;kwata;kwaan
-khw	khw/kʰ w	K W	1	1	jokhwoj
-^khw	khw/kʰ w	K W	2	2	khwaaii;khwaltʼa
+Grapheme	IPA	SCA	Frequency
+^a	a	A	9
+^h	h	H	25
+^i	i	I	2
+^ii$	iː	I	2
+^j	j	J	10
+^k	k	K	23
+^kh	kʰ	K	12
+^khw	khw/kʰ w	K W	2
+^kw	kw/k w	K W	6
+^kʼ	kʼ	K	8
+^l	l	L	10
+^m	m	M	6
+^n	n	N	5
+^o	o	U	1
+^oo	oː	U	2
+^p	p	P	17
+^ph	pʰ	P	3
+^pʼ	pʼ	P	2
+^s	s	S	18
+^t	t	T	28
+^th	th/tʰ	T	3
+^th$	th/tʰ	T	1
+^ts	ts	C	7
+^tʼ	tʼ	T	19
+^u	u	Y	1
+^uu	uː	Y	1
+^w	w	W	8
+^x	x	G	19
+^x$	x	G	1
+^ɛ	ɛ	E	2
+^ʃ	ʃ	S	7
+a	a	A	133
+a$	a	A	32
+aa	aː	A	11
+aa$	aː	A	11
+aaa	aaa/aː	A	1
+h	h	H	7
+h$	h	H	1
+i	i	I	52
+i$	i	I	51
+ii	iː	I	10
+ii$	iː	I	6
+j	j	J	11
+j$	j	J	2
+k	k	K	31
+k$	k	K	4
+kh	kh/kʰ	K	2
+khw	khw/kʰ w	K W	1
+kw	kw/k w	K W	7
+kw$	kw/kʷ	K	3
+kʃ	k ʃ	K S	1
+kʼ	kʼ	K	1
+kʼ$	kʼ	K	8
+l	l	L	40
+l$	l	L	20
+ls$	l s	L S	1
+m	m	M	20
+m$	m	M	17
+n	n	N	13
+n$	n	N	23
+nʃ$	n ʃ	N S	1
+o	o	U	22
+o$	o	U	1
+oo	oː	U	5
+oo$	oː	U	1
+p	p	P	14
+p$	p	P	6
+ph	ph/pʰ	P	1
+ps	p s	P S	1
+pʼ	pʼ	P	4
+pʼ$	pʼ	P	3
+s	s	S	5
+s$	s	S	17
+t	t	T	25
+t$	t	T	7
+th	th/tʰ	T	2
+ts	ts	C	5
+tʼ	tʼ	T	12
+tʼ$	tʼ	T	3
+u	u	Y	20
+u$	u	Y	6
+uu	uː	Y	10
+uu$	uː	Y	2
+w	w	W	26
+w$	w	W	3
+x	x	G	10
+x$	x	G	16
+xw	xw/xʷ	G	1
+ɛ	ɛ	E	42
+ɛ$	ɛ	E	5
+ɛɛ	ɛː	E	2
+ɛɛ$	ɛː	E	2
+ɨ	ɨ	I	4
+ɨɨ	ɨː	I	1
+ʃ	ʃ	S	2
+ʃ$	ʃ	S	2
+ʍ	ʍ	M	1
+ʍ$	ʍ	M	2
+ʔh	ʔh/ʔʰ	H	12

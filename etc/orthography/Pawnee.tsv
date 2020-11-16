@@ -1,19 +1,50 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		309	NULL	atskat;ɾiɾu;wii;apitaaɾahak;kituuʔuʔ
-$	NULL		309	NULL	atskat;ɾiɾu;wii;apitaaɾahak;kituuʔuʔ
-a	a	A	267	189	atskat;atskat;apitaaɾahak;apitaaɾahak;apitaaɾahak
-aa	aː	A	117	105	apitaaɾahak;waɾaatsiks;ɾahuɾaahki;kaɾaaktuuhtsʔ;ɾitstaakuʔ
-ts	ts	C	83	56	atskat;waɾaatsiks;kaɾaaktuuhtsʔ;ɾitstaakuʔ;ɾaakitskuusʔ
-h	h	H	87	61	apitaaɾahak;ɾahuɾaahki;ɾahuɾaahki;kaɾaaktuuhtsʔ;aɾaawihiɾiʔ
-ʔ	ʔ	H	130	40	kituuʔuʔ;kituuʔuʔ;pitaɾuʔ;piiɾuʔ;piiɾuʔ
-hw	hw/hʷ	H	1	1	huɾahwihiɾʔ
-i	i	I	240	192	ɾiɾu;apitaaɾahak;kituuʔuʔ;waɾaatsiks;ɾahuɾaahki
-ii	iː	I	93	73	wii;piiɾuʔ;piiɾuʔ;kaatiit;taɾiiʔuus
-k	k	K	267	147	atskat;apitaaɾahak;kituuʔuʔ;waɾaatsiks;ɾahuɾaahki
-p	p	P	54	28	apitaaɾahak;pitaɾuʔ;piiɾuʔ;piiɾuʔ;paatuʔ
-ɾ	ɾ	R	184	133	ɾiɾu;ɾiɾu;apitaaɾahak;waɾaatsiks;ɾahuɾaahki
-s	s	S	106	41	waɾaatsiks;ɾaakitskuusʔ;kuskitawi;awikatasa;taɾiiʔuus
-t	t	T	176	108	atskat;apitaaɾahak;kituuʔuʔ;pitaɾuʔ;kaɾaaktuuhtsʔ
-w	w	W	45	35	wii;waɾaatsiks;kuskitawi;aɾaawihiɾiʔ;awikatasa
-u	u	Y	114	100	ɾiɾu;kituuʔuʔ;ɾahuɾaahki;pitaɾuʔ;piiɾuʔ
-uu	uː	Y	47	39	kituuʔuʔ;kaɾaaktuuhtsʔ;ɾaakitskuusʔ;huuwatuɾika;ɾihuuɾ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	54
+^a$	a	A	1
+^aa	aː	A	4
+^aa$	aː	A	1
+^h	h	H	22
+^i	i	I	24
+^ii	iː	I	8
+^ii$	iː	I	2
+^k	k	K	65
+^ks	k s	K S	3
+^p	p	P	26
+^s	s	S	3
+^t	t	T	30
+^ts	ts	C	11
+^u	u	Y	3
+^uu	uː	Y	5
+^w	w	W	10
+^ɾ	ɾ	R	37
+a	a	A	189
+a$	a	A	23
+aa	aː	A	105
+aa$	aː	A	7
+h	h	H	61
+h$	h	H	4
+hw	hw/hʷ	H	1
+i	i	I	192
+i$	i	I	24
+ii	iː	I	73
+ii$	iː	I	10
+k	k	K	147
+k$	k	K	23
+ks	k s	K S	17
+ks$	k s	K S	12
+p	p	P	28
+s	s	S	41
+s$	s	S	30
+t	t	T	108
+t$	t	T	38
+ts	ts	C	56
+ts$	ts	C	16
+u	u	Y	100
+u$	u	Y	11
+uu	uː	Y	39
+uu$	uː	Y	3
+w	w	W	35
+ɾ	ɾ	R	133
+ɾ$	ɾ	R	14
+ʔ	ʔ	H	40
+ʔ$	ʔ	H	90

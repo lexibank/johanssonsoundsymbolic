@@ -1,29 +1,47 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		306	NULL	kako;j̃iuuj̃iatenu;nuwaj̃i;paɾatu;puetunuj̃uanaa
-$	NULL		306	NULL	kako;j̃iuuj̃iatenu;nuwaj̃i;paɾatu;puetunuj̃uanaa
-a	a	A	372	232	kako;j̃iuuj̃iatenu;nuwaj̃i;paɾatu;paɾatu
-aa	aː	A	54	44	puetunuj̃uanaa;j̃uaaj̃ia;kasaa;sesaaka;naana_ko
-e	e	E	53	46	j̃iuuj̃iatenu;puetunuj̃uanaa;sesaaka;pueɾeetuuka;mueɾuuka
-ee	eː	E	15	14	pueɾeetuuka;j̃ooj̃eeka;saa_kakweetakaj̃a;neeɾuuka;kwmeeka
-i	i	I	231	211	j̃iuuj̃iatenu;j̃iuuj̃iatenu;nuwaj̃i;j̃uaaj̃ia;maniniu
-ii	iː	I	12	12	piikwia;ʃiitia;ʃiniitia;kwɾiituuka;miiniu
-j	j	J	33	33	j̃ijakoma;ʃijoj̃ua;kwakweja;muejokwau;j̃ija
-j̃	j̃	J	125	71	j̃iuuj̃iatenu;j̃iuuj̃iatenu;nuwaj̃i;puetunuj̃uanaa;j̃uaaj̃ia
-k	k	K	94	67	kako;kako;kasaa;j̃uaka;sesaaka
-kw$	kw/kʷ	K	3	3	nukw;kaʃakw;kaʃakw
-^kwkw	kwkw/kʷː	K	1	1	kwkwenu
-m	m	M	65	25	numatu;numatu;maniniu;tamaj̃iɾia;j̃ijakoma
-n	n	N	200	144	j̃iuuj̃iatenu;nuwaj̃i;puetunuj̃uanaa;puetunuj̃uanaa;numatu
-p	p	P	25	7	paɾatu;puetunuj̃uanaa;pueɾeetuuka;piikwia;panu
-ɾ	ɾ	R	88	62	paɾatu;tamaj̃iɾia;saɾaka;pueɾeetuuka;mueɾuuka
-s	s	S	43	23	kasaa;sesaaka;sesaaka;saɾaka;saaniu
-ʃ	ʃ	S	30	15	ʃijoj̃ua;ʃiitia;ʃiniitia;ʃuutia;niniʃikwi
-t	t	T	69	51	j̃iuuj̃iatenu;paɾatu;puetunuj̃uanaa;numatu;numatu
-o	o	U	76	57	kako;naana_ko;takoj̃i;j̃ijakoma;ʃijoj̃ua
-oo	oː	U	5	4	nooniu;j̃ooj̃eeka;j̃ooj̃oj̃ua;moo;ʃiij̃ioonenu
-w	w	W	9	9	nuwaj̃i;ɾiuwa;kowaj̃akwe;niowaka;kowaj̃a
-u	u	Y	179	74	j̃iuuj̃iatenu;nuwaj̃i;paɾatu;puetunuj̃uanaa;puetunuj̃uanaa
-uu	uː	Y	20	18	j̃iuuj̃iatenu;pueɾeetuuka;mueɾuuka;nentuuka;suj̃uunenu
-_	+	_	10	10	naana_ko;saa_kakweetakaj̃a;maaj̃i_samiɾiu;pueɾeetuuka_ʃoniniakw_kaminia;pueɾeetuuka_ʃoniniakw_kaminia
-^kws	kw/kʷ s	K S	2	2	kwsekaj̃a;kwsonu
-kw	kw/k w	K W	102	69	piikwia;kwakweja;kwakweja;muejokwau;j̃iɾikwia
+Grapheme	IPA	SCA	Frequency
+^j̃	j̃	J	53
+^k	k	K	27
+^kw	kw/k w	K W	33
+^kwkw	kwkw/kʷː	K	1
+^kws	kw/kʷ s	K S	2
+^m	m	M	40
+^n	n	N	56
+^p	p	P	18
+^s	s	S	20
+^t	t	T	18
+^ɾ	ɾ	R	26
+^ʃ	ʃ	S	15
+_	+	_	10
+a	a	A	232
+a$	a	A	140
+aa	aː	A	44
+aa$	aː	A	10
+e	e	E	46
+e$	e	E	7
+ee	eː	E	14
+ee$	eː	E	1
+i	i	I	211
+i$	i	I	20
+ii	iː	I	12
+j	j	J	33
+j̃	j̃	J	71
+j̃$	j̃	J	1
+k	k	K	67
+kw	kw/k w	K W	69
+kw$	kw/kʷ	K	3
+m	m	M	25
+n	n	N	144
+o	o	U	57
+o$	o	U	19
+oo	oː	U	4
+oo$	oː	U	1
+p	p	P	7
+s	s	S	23
+t	t	T	51
+u	u	Y	74
+u$	u	Y	105
+uu	uː	Y	18
+uu$	uː	Y	2
+w	w	W	9
+ɾ	ɾ	R	62
+ʃ	ʃ	S	15

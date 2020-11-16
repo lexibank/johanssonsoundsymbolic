@@ -1,47 +1,85 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		315	NULL	pot̪a_wie;mus̪eowohat̪a;hue;koŋki;mot̪u
-$	NULL		332	NULL	pot̪a_wie;mus̪eowohat̪a;hue;koŋki;mot̪u
-^patʔʃul$	p a t ʔ ʃ u l	P A T H S Y L	1	1	patʔʃul
-a	a	A	258	171	pot̪a_wie;mus̪eowohat̪a;mus̪eowohat̪a;hwan̪at̪a;hwan̪at̪a
-e	e	E	125	99	pot̪a_wie;mus̪eowohat̪a;hue;n̪amukʔeophtʃil;ki_tʔæmun̪e
-æ	æ	E	33	23	kæmi;tʃæ;ki_tʔæmun̪e;pæ;ui_aræe
-h	h	H	27	6	mus̪eowohat̪a;hue;hat̪a;høs̪ækh;hæŋpokhan̪
-ʔ	ʔ	H	36	36	n̪amukʔeophtʃil;ki_tʔæmun̪e;s̪ʔɯn̪;pʔjeo;kʔækʔɯthan̪
-hw	hw/hʷ	H	1	1	kohwan̪
-^hw	hʷ	H	1	1	hwan̪at̪a
-i	i	I	111	59	pot̪a_wie;koŋki;kæmi;tʃotʃhi_an̪tha;n̪amukʔeophtʃil
-ɯ	ɯ	I	62	61	t̪ɯŋ;arɯmt̪aun̪;khɯn̪;s̪ʔɯn̪;keomɯn̪
-j	j	J	45	30	ui_jeophe;pʔjeo;s̪on̪jeon̪;jeot̪eol;jeolhan̪a
-k	k	K	81	43	koŋki;koŋki;kæmi;n̪amukʔeophtʃil;ki_tʔæmun̪e
-kh	kh/kʰ	K	36	27	t̪otʃhakhat̪a;tʃeoŋhwakhan̪;tʃukht̪a;meokht̪a;s̪oŋarakh
-^kh	kʰ	K	4	4	khɯn̪;kheotʃit̪a;kho;khorɯl_kolt̪a
-l	l	L	58	28	t̪oŋmul;phal;phal;n̪amukʔeophtʃil;mult̪a
-lh	lh/l̥	L	2	2	jeolhan̪a;malhat̪a
-ll	ll/lː	L	11	11	meolli;t̪allit̪a;thɯllin̪;tʃilljeo;tʃilljeo
-m	m	M	93	51	mus̪eowohat̪a;mot̪u;t̪oŋmul;kæmi;n̪amukʔeophtʃil
-mh	mh/m̥	M	2	2	kitʃhimhat̪a;haphumhat̪a
-ŋ	ŋ	N	32	15	koŋki;t̪oŋmul;t̪ɯŋ;eoŋt̪eoŋi;eoŋt̪eoŋi
-n̪	n̪	N	151	38	hwan̪at̪a;tʃotʃhi_an̪tha;n̪amukʔeophtʃil;arɯmt̪aun̪;ki_tʔæmun̪e
-ŋh	ŋh/ŋ̊	N	3	3	phjeoŋphjeoŋhan̪;tʃojoŋhan̪;s̪ujeoŋhat̪a
-n̪h	n̪h/n̪̥	N	2	2	t̪an̪t̪an̪han̪;won̪hat̪a
-ŋhw	ŋh/ŋ̥ʷ	N	1	1	tʃeoŋhwakhan̪
-n̪n̪	n̪n̪/n̪ː	N	5	5	eon̪n̪i;s̪on̪n̪jeo;s̪on̪n̪jeo;s̪on̪n̪jeo;s̪on̪n̪jeo
-p	p	P	42	17	pot̪a_wie;pæ;pult̪a;pʔjeo;pin̪
-ph	ph/pʰ	P	16	8	n̪amukʔeophtʃil;ui_jeophe;kipht̪a;s̪on̪thoph;phjeoŋphjeoŋhan̪
-^ph	pʰ	P	9	9	phal;phal;phi;pharan̪;phjeoŋphjeoŋhan̪
-r	r	R	41	41	arɯmt̪aun̪;ui_aræe;pharan̪;kurɯm;t̪eoreoun̪
-s̪	s̪	S	61	12	mus̪eowohat̪a;s̪wie;s̪aie;s̪æ;s̪ʔɯn̪
-t	t	T	11	5	ki_tʔæmun̪e;tʔaŋ;tʔeoreotʃit̪a;kitʔeol;tʔærit̪a
-th	th/tʰ	T	31	13	tʃotʃhi_an̪tha;that̪a;kʔækʔɯthan̪;n̪ath;mjeoth
-tʃ	tʃ	T	80	46	tʃæ;tʃotʃhi_an̪tha;n̪amukʔeophtʃil;tʃeon̪e;tʃeoŋhwakhan̪
-t̪	t̪	T	96	76	pot̪a_wie;mus̪eowohat̪a;mot̪u;hwan̪at̪a;t̪oŋmul
-tʃh	tʃh/tʃʰ	T	14	14	tʃotʃhi_an̪tha;t̪otʃhakhat̪a;kitʃhimhat̪a;kat̪ɯkh_tʃhan̪;keotʃhin̪
-^tʃh	tʃʰ	T	3	3	tʃhan̪;tʃheon̪t̪uŋ;tʃhia
-ths̪	ths̪/ts̪ʰ	T	1	1	moths̪æŋkin̪
-o	o	U	200	173	pot̪a_wie;mus̪eowohat̪a;mus̪eowohat̪a;koŋki;mot̪u
-ø	ø	U	7	1	n̪ø;høs̪ækh;øn̪tʃʔokui;øs̪amtʃhon̪;øs̪amtʃhon̪
-w	w	W	6	2	pot̪a_wie;mus̪eowohat̪a;s̪wie;s̪ums̪wit̪a;won̪hat̪a
-u	u	Y	66	59	mus̪eowohat̪a;hue;mot̪u;t̪oŋmul;n̪amukʔeophtʃil
-uu	uː	Y	1	1	eot̪uun̪
-_	+	_	23	23	pot̪a_wie;tʃotʃhi_an̪tha;ki_tʔæmun̪e;ui_aræe;ui_jeophe
-kw	kw/k w	K W	2	1	kwi;s̪eoŋkwaŋje
+Grapheme	IPA	SCA	Frequency
+^a	a	A	13
+^e	e	E	10
+^h	h	H	21
+^hw	hʷ	H	1
+^i	i	I	13
+^j	j	J	15
+^k	k	K	38
+^kh	kʰ	K	4
+^kw	kw/k w	K W	1
+^m	m	M	30
+^n̪	n̪	N	32
+^o	o	U	2
+^p	p	P	26
+^patʔʃul$	p a t ʔ ʃ u l	N	1
+^ph	pʰ	P	9
+^s̪	s̪	S	38
+^s̪w	s̪ w	S W	1
+^t	t	T	7
+^th	th/tʰ	T	4
+^tʃ	tʃ	T	34
+^tʃh	tʃʰ	T	3
+^t̪	t̪	T	20
+^u	u	Y	4
+^w	w	W	2
+^ø	ø	U	5
+_	+	_	23
+a	a	A	171
+a$	a	A	75
+e	e	E	99
+e$	e	E	16
+h	h	H	6
+hw	hw/hʷ	H	1
+i	i	I	59
+i$	i	I	39
+j	j	J	30
+k	k	K	43
+kh	kh/kʰ	K	27
+kh$	kh/kʰ	K	8
+khs̪	kh/kʰ s̪	K S	1
+kw	kw/k w	K W	1
+l	l	L	28
+l$	l	L	31
+lh	lh/l̥	L	2
+ll	ll/lː	L	11
+m	m	M	51
+m$	m	M	10
+mh	mh/m̥	M	2
+ms̪	m s̪	M S	1
+ms̪w	m s̪ w	M S W	1
+n̪	n̪	N	38
+n̪$	n̪	N	81
+n̪h	n̪h/n̪̊	N	2
+n̪n̪	n̪n̪/n̪ː	N	5
+o	o	U	173
+o$	o	U	25
+p	p	P	17
+ph	ph/pʰ	P	8
+ph$	ph/pʰ	P	7
+phs̪	ph/pʰ s̪	P S	1
+r	r	R	41
+s̪	s̪	S	12
+t	t	T	5
+th	th/tʰ	T	13
+th$	th/tʰ	T	14
+ths̪	ths̪/ts̪ʰ	T	1
+tʃ	tʃ	T	46
+tʃh	tʃh/tʃʰ	T	14
+t̪	t̪	T	76
+u	u	Y	59
+u$	u	Y	4
+uu	uː	Y	1
+w	w	W	2
+æ	æ	E	23
+æ$	æ	E	10
+ø	ø	U	1
+ø$	ø	U	1
+ŋ	ŋ	N	15
+ŋ$	ŋ	N	11
+ŋh	ŋh/ŋ̊	N	3
+ŋhw	ŋh/ŋ̊ʷ	N	1
+ŋs̪	ŋ s̪	N S	6
+ɯ	ɯ	I	61
+ɯ$	ɯ	I	1
+ʔ	ʔ	H	36

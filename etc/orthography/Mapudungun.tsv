@@ -1,33 +1,73 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		296	NULL	wen̪t̪e;ʎikan̪;rupan̪;kɯrɯf;kom
-$	NULL		337	NULL	wen̪t̪e;ʎikan̪;rupan̪;kɯrɯf;kom
-a	a	A	168	119	ʎikan̪;rupan̪;koʎeʎa;l̪ipaŋ;l̪ipaŋ
-aa	aː	A	1	1	weθaaθ
-f	f	B	61	22	kɯrɯf;ʈʂufken̪;furi;ʈʂol̪ɯf;fejmew
-ʈʂ	ʈʂ	C	27	14	ʈʂufken̪;ʈʂol̪ɯf;pɯʈʂa;moʈʂo;ʈʂawa
-θ	θ	D	23	17	weθa;kɯmeaθ;kuθi_mew_rul̪pa;poθ;pitʃiθomo
-e	e	E	172	109	wen̪t̪e;wen̪t̪e;koʎeʎa;ʈʂufken̪;weθa
-ɣ	ɣ	G	6	3	n̪aɣel̪t̪u;ɣɯɲɯm;ɣɯn̪at̪u;ɯʈʂɯfn̪aɣɯ;reɣl̪e
-i	i	I	94	58	ʎikan̪;iʎkun̪;kuʎiɲ;l̪ipaŋ;l̪ipaŋ
-ɯ	ɯ	I	123	78	kɯrɯf;kɯrɯf;ʈʂol̪ɯf;kɯmeaθ;pɯʈʂa
-j	j	J	38	26	fejmew;mojo;n̪ejen̪;rajen̪;jiwiɲ
-k	k	K	98	48	ʎikan̪;kɯrɯf;kom;iʎkun̪;kuʎiɲ
-ʎ	ʎ	L	34	29	ʎikan̪;iʎkun̪;kuʎiɲ;koʎeʎa;koʎeʎa
-l̪	l̪	L	70	47	l̪ipaŋ;l̪ipaŋ;ʈʂol̪ɯf;n̪aɣel̪t̪u;l̪upɯmt̪uku
-m	m	M	80	39	kom;kɯmeaθ;fejmew;ɣɯɲɯm;moʎfɯɲ
-ŋ	ŋ	N	21	16	l̪ipaŋ;l̪ipaŋ;ŋɯma;ŋe;tʃaŋɯʎ_kuwɯ
-ɲ	ɲ	N	40	24	kuʎiɲ;ɣɯɲɯm;moʎfɯɲ;mari_kiɲe;pitʃuɲ
-n̪	n̪	N	98	51	wen̪t̪e;ʎikan̪;rupan̪;iʎkun̪;ʈʂufken̪
-p	p	P	75	30	rupan̪;l̪ipaŋ;l̪ipaŋ;pɯʈʂa;pimu
-r	r	R	44	31	rupan̪;kɯrɯf;furi;furit̪u;fɯre
-s	s	S	3	1	kuse;paɲus;paɲus
-ʃ	ʃ	S	1	1	kaʃu
-^t	t	T	1	1	tufa
-tʃ	tʃ	T	38	38	pitʃi_wen̪ʈʂu;pitʃuɲ;pitʃi;ketʃu;pitʃiθomo
-t̪	t̪	T	26	26	wen̪t̪e;furit̪u;n̪aɣel̪t̪u;fɯt̪a;ɣɯn̪at̪u
-^tʃ	tʃ	T	32	32	tʃafo;tʃaŋɯʎ_kuwɯ;tʃaʎwa;tʃumwetʃi;tʃaŋ
-^t̪	t̪	T	8	8	t̪ufamew;t̪apɯl̪;t̪ɯn̪;t̪ofkɯ;t̪ufej
-o	o	U	53	38	kom;koʎeʎa;ʈʂol̪ɯf;moʎfɯɲ;moʈʂo
-w	w	W	67	31	wen̪t̪e;weθa;fejmew;ʈʂawa;pitʃi_wen̪ʈʂu
-u	u	Y	158	82	rupan̪;iʎkun̪;kuʎiɲ;ʈʂufken̪;furi
-_	+	_	27	27	pitʃi_wen̪ʈʂu;kuθi_mew_rul̪pa;kuθi_mew_rul̪pa;mari_kiɲe;tʃaŋɯʎ_kuwɯ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	16
+^e	e	E	8
+^f	f	B	29
+^i	i	I	10
+^i$	i	I	1
+^j	j	J	7
+^k	k	K	50
+^l̪	l̪	L	16
+^m	m	M	31
+^n̪	n̪	N	7
+^p	p	P	45
+^r	r	R	10
+^t	t	T	1
+^tʃ	tʃ	T	32
+^t̪	t̪	T	8
+^u	u	Y	7
+^w	w	W	24
+^ŋ	ŋ	N	2
+^ɣ	ɣ	G	2
+^ɯ	ɯ	I	5
+^ɲ	ɲ	N	8
+^ʈʂ	ʈʂ	C	13
+^ʎ	ʎ	L	4
+^θ	θ	D	1
+_	+	_	27
+a	a	A	119
+a$	a	A	33
+aa	aː	A	1
+e	e	E	109
+e$	e	E	55
+f	f	B	22
+f$	f	B	10
+i	i	I	58
+i$	i	I	25
+j	j	J	26
+j$	j	J	5
+k	k	K	48
+l̪	l̪	L	47
+l̪$	l̪	L	7
+m	m	M	39
+m$	m	M	8
+mw	m w	M W	2
+n̪	n̪	N	51
+n̪$	n̪	N	39
+n̪w	n̪ w	N W	1
+o	o	U	38
+o$	o	U	15
+p	p	P	30
+r	r	R	31
+r$	r	R	3
+s	s	S	1
+s$	s	S	2
+tʃ	tʃ	T	38
+t̪	t̪	T	26
+u	u	Y	82
+u$	u	Y	69
+w	w	W	31
+w$	w	W	8
+ŋ	ŋ	N	16
+ŋ$	ŋ	N	3
+ɣ	ɣ	G	3
+ɣ$	ɣ	G	1
+ɯ	ɯ	I	78
+ɯ$	ɯ	I	40
+ɲ	ɲ	N	24
+ɲ$	ɲ	N	8
+ʃ	ʃ	S	1
+ʈʂ	ʈʂ	C	14
+ʎ	ʎ	L	29
+ʎw	ʎ w	L W	1
+θ	θ	D	17
+θ$	θ	D	5

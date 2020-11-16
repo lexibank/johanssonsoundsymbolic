@@ -1,34 +1,68 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		325	NULL	aɾiwa;tinoka;haiɬe;ɓaɾa;sutuka
-$	NULL		324	NULL	aɾiwa;tinoka;haiɬe;ɓaɾa;sutuka
-a	a	A	365	218	aɾiwa;aɾiwa;tinoka;haiɬe;ɓaɾa
-v	v	B	1	1	tuuvus
-β	β	B	17	14	βeʔeβus;βeʔeβus;haβuɬna;suβu;taβaloɓakwani
-e	e	E	103	72	haiɬe;tʃiheɬ;βeʔeβus;βeʔeβus;umʔɓe
-ee$	eː	E	2	2	nosdee;nosdee
-h	h	H	61	20	haiɬe;tʃiheɬ;hiɾanni;hasɬawanɾa;hoʔme
-ʔ	ʔ	H	85	74	βeʔeβus;umʔɓe;toɓenʔkwa;janʔlo;meɾeʔe
-ʔh	ʔh/ʔʰ	H	1	1	laʔhemes
-i	i	I	199	111	aɾiwa;tinoka;haiɬe;popoikwa;tʃiheɬ
-j	j	J	54	24	janʔlo;ɗitʃije;hajau;ɓejas;hiji
-k	k	K	68	51	tinoka;sutuka;ɬoukateʔe;hiloka;kusi
-l	l	L	50	37	janʔlo;alpanɬe;lamʔna;loɓaɓa;taβaloɓakwani
-ɬ	ɬ	L	44	31	haiɬe;tʃiheɬ;hasɬawanɾa;alpanɬe;haβuɬna
-m	m	M	43	30	umʔɓe;mosisi;meɾeʔe;hoʔme;lamʔna
-mm	mm/mː	M	2	2	hemme;ɗimmokwa
-n	n	N	154	136	tinoka;toɓenʔkwa;hasɬawanɾa;janʔlo;alpanɬe
-nn	nn/nː	N	5	5	hiɾanni;tunni;tinno;hanne;tinnonaʔa
-p	p	P	27	14	popoikwa;popoikwa;alpanɬe;peɾesɬeʔe;penʔna
-ɓ	ɓ	P	38	14	ɓaɾa;ɓosakwa;ɓosakwa;umʔɓe;toɓenʔkwa
-^b	b	P	1	1	bakwakwa
-ɾ	ɾ	R	53	47	aɾiwa;ɓaɾa;hiɾanni;ɓuɾaɗa;hasɬawanɾa
-s	s	S	65	37	sutuka;ɓosakwa;ɓosakwa;βeʔeβus;mosisi
-d	d	T	2	2	nosdee;nosdee
-t	t	T	44	15	tinoka;sutuka;toɓenʔkwa;tunni;taβaloɓakwani
-ɗ	ɗ	T	50	17	ɗuɗukwa;ɗuɗukwa;ɓuɾaɗa;ɗonʔi;ɗitʃije
-tʃ	tʃ	T	41	24	tʃiheɬ;ɗitʃije;tʃahkwa;tʃonlo;tʃoesni
-o	o	U	170	118	tinoka;popoikwa;popoikwa;ɓosakwa;ɓosakwa
-w	w	W	24	16	aɾiwa;hasɬawanɾa;hiwawa;hiwawa;howokwa
-u	u	Y	80	60	sutuka;sutuka;βeʔeβus;ɗuɗukwa;ɗuɗukwa
-uu	uː	Y	1	1	tuuvus
-kw	kw/k w	K W	55	51	popoikwa;ɓosakwa;ɓosakwa;ɗuɗukwa;toɓenʔkwa
+Grapheme	IPA	SCA	Frequency
+^a	a	A	21
+^b	b	P	1
+^e	e	E	5
+^h	h	H	35
+^i	i	I	13
+^j	j	J	29
+^k	k	K	17
+^kw	kw/k w	K W	4
+^l	l	L	10
+^m	m	M	13
+^n	n	N	15
+^o	o	U	13
+^p	p	P	13
+^s	s	S	13
+^t	t	T	28
+^tʃ	tʃ	T	17
+^u	u	Y	3
+^w	w	W	5
+^ɓ	ɓ	P	24
+^ɗ	ɗ	T	33
+^ɬ	ɬ	L	5
+^ɾ	ɾ	R	6
+^β	β	B	3
+a	a	A	218
+a$	a	A	126
+d	d	T	2
+e	e	E	72
+e$	e	E	26
+ee$	eː	E	2
+h	h	H	20
+h$	h	H	6
+i	i	I	111
+i$	i	I	75
+j	j	J	24
+j$	j	J	1
+k	k	K	51
+kw	kw/k w	K W	51
+l	l	L	37
+l$	l	L	3
+m	m	M	30
+mm	mm/mː	M	2
+n	n	N	136
+nn	nn/nː	N	5
+ns	n s	N S	2
+nw	n w	N W	1
+o	o	U	118
+o$	o	U	39
+p	p	P	14
+s	s	S	37
+s$	s	S	13
+t	t	T	15
+t$	t	T	1
+tʃ	tʃ	T	24
+u	u	Y	60
+u$	u	Y	17
+uu	uː	Y	1
+v	v	B	1
+w	w	W	16
+ɓ	ɓ	P	14
+ɗ	ɗ	T	17
+ɬ	ɬ	L	31
+ɬ$	ɬ	L	8
+ɾ	ɾ	R	47
+ʔ	ʔ	H	74
+ʔ$	ʔ	H	9
+ʔh	ʔh/ʔʰ	H	1
+β	β	B	14

@@ -1,43 +1,89 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		332	NULL	qɔran̪;qariɣa;ii;bɨɮd̪a;qəʝbæs̪
-$	NULL		324	NULL	əət̪;qɔran̪;qariɣa;ii;bɨɮd̪a
-_$	NULL		7	7	aqt̪a_d̪aan̪_;d̪ɔq_;kiʔs̪_;s̪ik_;qimd̪ɨɮ_
-a	a	A	152	103	qɔran̪;qariɣa;qariɣa;bɨɮd̪a;as̪s̪æɮ
-aa	aː	A	5	4	aqt̪a_d̪aan̪_;d̪aan̪;aaŋ;baat̪;baam
-β	β	B	3	3	qɔβæt̪;aqt̪a_bin̪gaβæt̪;s̪æɮ_bin̪gaβæt̪
-æ	æ	E	84	66	qəʝbæs̪;as̪s̪æɮ;qɔβæt̪;s̪æɮ;aqt̪a_bin̪gaβæt̪
-ə	ə	E	41	36	qəʝbæs̪;qən̪t̪;qəɮaŋ;s̪əʔn̪;kəʔɮ
-^əə	əː	E	2	1	əət̪;əə
-əə$	əː	E	1	1	s̪əə
-ɣ	ɣ	G	15	14	qariɣa;s̪iɣit̪;qus̪am_əɣam_qɔ;d̪əɣas̪iŋ;əɣ
-h	h	H	47	4	hɨʝ;hɨt̪ka;higd̪ɨɮ;hin̪git̪;hɔʁ
-ʔ	ʔ	H	41	33	qaʔ;s̪əʔn̪;aʔt̪;d̪ɔʔŋ;maʔm
-i	i	I	97	79	qariɣa;iŋɔɮt̪;aqt̪a_bin̪gaβæt̪;d̪iŋt̪a;qɔt̪iɮs̪
-ɨ	ɨ	I	35	30	bɨɮd̪a;hɨʝ;hɨt̪ka;ɨɮga;higd̪ɨɮ
-ii	iː	I	2	1	ii;qiiɮ
-^ɨɨ	ɨː	I	2	2	ɨɨɮ;ɨɨɮ
-ɨɨ$	ɨː	I	1	1	s̪ɨɨ
-g	g	K	15	15	aqt̪a_bin̪gaβæt̪;kaɮga;ɨɮga;higd̪ɨɮ;igbæs̪
-k	k	K	43	8	kaɮga;hɨt̪ka;kæŋas̪s̪æɮ;kit̪;kɔʔt̪
-q	q	K	115	20	qɔran̪;qariɣa;qəʝbæs̪;qən̪t̪;qɔɮan̪
-ɢ	ɢ	K	1	1	iŋɢus̪
-ɮ	ɮ	L	64	38	bɨɮd̪a;as̪s̪æɮ;ɨɨɮ;ɨɨɮ;qɔɮan̪
-m	m	M	53	24	t̪um;maʔm;maʔm;qaqt̪ɨm;qaqt̪ɨmæʝ
-ŋ	ŋ	N	50	14	iŋɔɮt̪;d̪iŋt̪a;kæŋas̪s̪æɮ;qəɮaŋ;d̪ɔʔŋ
-n̪	n̪	N	53	22	qɔran̪;qən̪t̪;qɔɮan̪;aqt̪a_bin̪gaβæt̪;s̪əʔn̪
-b	b	P	47	23	bɨɮd̪a;qəʝbæs̪;aqt̪a_bin̪gaβæt̪;bæʝ;iɮbæt̪
-p	p	P	25	4	ɮapt̪aq;æs̪puɮ;t̪ip;d̪ɔp;qɔɮæp
-r	r	R	17	13	qɔran̪;qariɣa;hɔrbæt̪;qɔræŋ;bær
-ʁ	ʁ	R	6	2	in̪ɔʁat̪;hɔʁ;t̪ɔʁɔʝiŋ;d̪aʁ;t̪ɔʁ
-ʝ	ʝ	S	46	11	qəʝbæs̪;hɨʝ;bæʝ;qaqt̪ɨmæʝ;t̪ɔʁɔʝiŋ
-s̪	s̪	S	67	19	qəʝbæs̪;s̪æɮ;qɔt̪iɮs̪;s̪uɮ;s̪əʔn̪
-s̪s̪	s̪s̪/s̪ː	S	2	2	as̪s̪æɮ;kæŋas̪s̪æɮ
-ʔs̪$	ʔs̪/ˀs̪	S	4	4	huʔs̪;bɨʔs̪;t̪əʔs̪;kæʔs̪
-d̪	d̪	T	24	8	bɨɮd̪a;d̪iŋt̪a;higd̪ɨɮ;d̪ɔʔŋ;d̪æn̪
-t̪	t̪	T	122	42	əət̪;qən̪t̪;qɔβæt̪;iŋɔɮt̪;aqt̪a_bin̪gaβæt̪
-t̪t̪	t̪t̪/t̪ː	T	1	1	kɔt̪t̪æʝ
-^t̪t̪	t̪ː	T	1	1	t̪t̪n̪
-ɔ	ɔ	U	82	67	qɔran̪;qɔɮan̪;qɔβæt̪;iŋɔɮt̪;qɔt̪iɮs̪
-u	u	Y	43	26	t̪um;s̪uɮ;æs̪puɮ;t̪um;s̪in̪t̪u
-uu	uː	Y	3	1	huu;uuɮ;huut̪
-_	+	_	23	23	aqt̪a_bin̪gaβæt̪;ɨn̪am_bən̪s̪aŋ_qɔ;ɨn̪am_bən̪s̪aŋ_qɔ;qus̪am_əɣam_qɔ;qus̪am_əɣam_qɔ
+Grapheme	IPA	SCA	Frequency
+_$	NULL	NULL	7
+^a	a	A	22
+^a$	a	A	2
+^aa	aː	A	1
+^b	b	P	24
+^d̪	d̪	T	16
+^h	h	H	43
+^i	i	I	15
+^i$	i	I	2
+^ii$	iː	I	1
+^k	k	K	25
+^m	m	M	5
+^q	q	K	79
+^s̪	s̪	S	22
+^t̪	t̪	T	26
+^t̪t̪	t̪ː	T	1
+^u	u	Y	11
+^u$	u	Y	1
+^uu	uː	Y	1
+^æ	æ	E	13
+^ɔ	ɔ	U	8
+^ə	ə	E	5
+^əə	əː	E	1
+^əə$	əː	E	1
+^ɨ	ɨ	I	5
+^ɨɨ	ɨː	I	2
+^ɮ	ɮ	L	5
+_	+	_	23
+a	a	A	103
+a$	a	A	25
+aa	aː	A	4
+b	b	P	23
+d̪	d̪	T	8
+g	g	K	15
+h	h	H	4
+i	i	I	79
+i$	i	I	1
+ii	iː	I	1
+k	k	K	8
+k$	k	K	7
+ks̪	k s̪	K S	2
+ks̪$	k s̪	K S	1
+m	m	M	24
+m$	m	M	24
+n̪	n̪	N	22
+n̪$	n̪	N	27
+n̪s̪	n̪ s̪	N S	4
+p	p	P	4
+p$	p	P	21
+q	q	K	20
+q$	q	K	15
+qs̪	q s̪	K S	1
+r	r	R	13
+r$	r	R	4
+s̪	s̪	S	19
+s̪$	s̪	S	16
+s̪s̪	s̪s̪/s̪ː	S	2
+t̪	t̪	T	42
+t̪$	t̪	T	54
+t̪t̪	t̪t̪/t̪ː	T	1
+u	u	Y	26
+u$	u	Y	5
+uu	uː	Y	1
+uu$	uː	Y	1
+æ	æ	E	66
+æ$	æ	E	5
+ŋ	ŋ	N	14
+ŋ$	ŋ	N	36
+ɔ	ɔ	U	67
+ɔ$	ɔ	U	7
+ə	ə	E	36
+əə$	əː	E	1
+ɢ	ɢ	K	1
+ɣ	ɣ	G	14
+ɣ$	ɣ	G	1
+ɨ	ɨ	I	30
+ɨɨ$	ɨː	I	1
+ɮ	ɮ	L	38
+ɮ$	ɮ	L	20
+ɮs̪$	ɮ s̪	L S	1
+ʁ	ʁ	R	2
+ʁ$	ʁ	R	4
+ʔ	ʔ	H	33
+ʔ$	ʔ	H	7
+ʔs̪$	ʔs̪/ˀs̪	S	4
+ʝ	ʝ	S	11
+ʝ$	ʝ	S	35
+β	β	B	3

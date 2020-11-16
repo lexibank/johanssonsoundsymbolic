@@ -1,29 +1,63 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		304	NULL	ijana;maɾaɾima;pelen;wuiŋtru;atataɾi
-$	NULL		303	NULL	ijana;maɾaɾima;pelen;wuiŋtru;atataɾi
-a	a	A	439	286	ijana;ijana;maɾaɾima;maɾaɾima;maɾaɾima
-c	c	C	55	32	kacilan;kulcakulca;kulcakulca;cuŋkuŋa;cuwin
-ɟ	ɟ	C	1	1	meɟeɾi_eɾi
-e	e	E	54	39	pelen;pelen;elku;lewaɾa;aŋulalijen
-i	i	I	186	109	ijana;maɾaɾima;wuiŋtru;atataɾi;kacilan
-j	j	J	36	23	ijana;ŋoj;aŋulalijen;ajapan;kejŋa
-k	k	K	91	59	malko;anaoku;anaoku;kona;kacilan
-l	l	L	121	92	pelen;malko;kacilan;laŋataŋata;imalala
-ɭ	ɭ	L	6	2	tuɭi;apaɭ;awaɭ;katuɭkatuɭ;katuɭkatuɭ
-ʎ	ʎ	L	3	3	aʎa;aʎa;caʎa
-ll$	ll/lː	L	1	1	kull
-m	m	M	112	64	maɾaɾima;maɾaɾima;malko;imalala;kalamunti
-n	n	N	129	84	ijana;pelen;anaoku;anaoku;kona
-ŋ	ŋ	N	91	71	wuiŋtru;laŋataŋata;laŋataŋata;amuŋul;wataŋɾaɾ
-ɲ	ɲ	N	22	13	ɲamaɾut;ɲimaŋaɾi;miɲi;miɲi;ɲampala
-ɳ	ɳ	N	3	3	kaɳki;amilɳpimilɳpi;amilɳpimilɳpi
-p	p	P	76	41	pelen;ampala;pu;tuput;kupan
-r	r	R	14	9	wuiŋtru;onar;elar;karat;olir
-ɻ	ɻ	R	1	1	meɻeɾi
-ɾ	ɾ	R	74	69	maɾaɾima;maɾaɾima;atataɾi;anaɾu;wataŋɾaɾ
-t	t	T	107	73	wuiŋtru;atataɾi;atataɾi;laŋataŋata;laŋataŋata
-ɖ	ɖ	T	3	1	tateɖaɖ;tateɖaɖ;muɖ
-o	o	U	32	27	malko;anaoku;anaoku;kona;onar
-w	w	W	51	28	wuiŋtru;wataŋɾaɾ;awuŋun;iwawala;iwawala
-u	u	Y	149	113	wuiŋtru;wuiŋtru;anaoku;anaoku;anaɾu
-_	+	_	11	11	meɟeɾi_eɾi;aŋkunta_ɲinti;aŋkunta_ɲinti;mimi_ɲinti;mimi_ɲinti
+Grapheme	IPA	SCA	Frequency
+^a	a	A	61
+^c	c	C	20
+^e	e	E	10
+^i	i	I	6
+^j	j	J	6
+^k	k	K	31
+^l	l	L	6
+^m	m	M	48
+^n	n	N	6
+^o	o	U	3
+^p	p	P	35
+^t	t	T	23
+^u	u	Y	1
+^w	w	W	19
+^ŋ	ŋ	N	18
+^ɲ	ɲ	N	9
+^ɾ	ɾ	R	2
+_	+	_	11
+a	a	A	286
+a$	a	A	92
+c	c	C	32
+c$	c	C	3
+e	e	E	39
+e$	e	E	5
+i	i	I	109
+i$	i	I	71
+j	j	J	23
+j$	j	J	6
+jw	j w	J W	1
+k	k	K	59
+k$	k	K	1
+l	l	L	92
+l$	l	L	21
+ll$	ll/lː	L	1
+lw	l w	L W	2
+m	m	M	64
+n	n	N	84
+n$	n	N	39
+o	o	U	27
+o$	o	U	2
+p	p	P	41
+r	r	R	9
+r$	r	R	5
+t	t	T	73
+t$	t	T	11
+u	u	Y	113
+u$	u	Y	35
+w	w	W	28
+w$	w	W	1
+ŋ	ŋ	N	71
+ŋ$	ŋ	N	2
+ɖ	ɖ	T	1
+ɖ$	ɖ	T	2
+ɟ	ɟ	C	1
+ɭ	ɭ	L	2
+ɭ$	ɭ	L	4
+ɲ	ɲ	N	13
+ɳ	ɳ	N	3
+ɻ	ɻ	R	1
+ɾ	ɾ	R	69
+ɾ$	ɾ	R	3
+ʎ	ʎ	L	3

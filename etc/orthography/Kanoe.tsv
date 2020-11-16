@@ -1,34 +1,80 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		259	NULL	atsie;mipo;opeɾa;kwa;kwa
-$	NULL		261	NULL	atsie;mipo;opeɾa;kwa;kwa
-^æ̃æ̃$	æ̃ː	E	1	1	æ̃æ̃
-^y$	y	Y	1	1	y
-a	a	A	101	57	atsie;opeɾa;kwa;kwa;tekwa
-ã	ã	A	21	2	ã;utã;iɾãw;wãko;ikwã
-β	β	B	21	13	βoɾo;iβetsi;βoɾo;nũβe;βoɾo
-c	c	C	2	1	cinco;cinco
-ts	ts	C	41	30	atsie;iβetsi;tsonu;tatsunu;itetsi
-e	e	E	109	46	atsie;opeɾa;kjete;kjete;moɾe
-ẽ	ẽ	E	26	23	nutẽtẽ;nutẽtẽ;tẽky;pwẽkỹj;tẽpũ
-æ̃	æ̃	E	29	3	itæ̃;pæ̃ɾæ̃;pæ̃ɾæ̃;æ̃ɾæ̃ɾæ̃;æ̃ɾæ̃ɾæ̃
-x	x	G	2	2	exexe;exexe
-i	i	I	118	38	atsie;mipo;ĩkuni;piɾa;iβetsi
-ĩ	ĩ	I	7	2	ĩkuni;minĩ;tsĩ_nikeɾe;atsitsĩ;twĩ
-j	j	J	59	22	kũkũj;kjete;pyej;ej;pejae
-^y	y/j	J	2	2	ype;ytse
-k	k	K	99	66	kũkũj;kũkũj;ko;kjete;mũko
-m	m	M	48	17	mipo;moɾe;mũko;mama;mama
-n	n	N	63	50	ĩkuni;kani;tsonu;tunini;tunini
-ɲ	ɲ	N	14	14	iteɲu;iɲaj;pateɲu;nuoɲu;ikaɲu
-p	p	P	38	16	mipo;opeɾa;pyej;piɾa;pejae
-ɾ	ɾ	R	50	47	opeɾa;moɾe;βoɾo;piɾa;iaɾi
-t	t	T	96	71	kjete;tõ;tekwa;utã;tunini
-o	o	U	104	76	mipo;opeɾa;ko;moɾe;mũko
-õ	õ	U	9	2	tõ;õkwa;põ;õ;mõ
-w	w	W	24	11	mow_mow_mow_mow;mow_mow_mow_mow;mow_mow_mow_mow;mow_mow_mow_mow;iɾãw
-u	u	Y	70	48	ĩkuni;utã;tsonu;tunini;iteɲu
-y	y	Y	34	23	pyej;ty;tepy;kuky;jy
-ũ	ũ	Y	25	16	kũkũj;kũkũj;mũko;nũβe;tũ
-ỹ	ỹ	Y	4	4	kỹj;pwẽkỹj;æ̃βo_tẽpũkỹj;akikỹj
-_	+	_	33	33	mow_mow_mow_mow;mow_mow_mow_mow;mow_mow_mow_mow;mow_mow;aɾa_k
-kw	kw/k w	K W	21	17	kwa;kwa;tekwa;õkwa;kwini
+Grapheme	IPA	SCA	Frequency
+^a	a	A	10
+^a$	a	A	1
+^c	c	C	1
+^e	e	E	10
+^e$	e	E	1
+^i	i	I	47
+^i$	i	I	1
+^j	j	J	9
+^k	k	K	29
+^kw	kw/k w	K W	4
+^m	m	M	31
+^n	n	N	12
+^o	o	U	5
+^o$	o	U	1
+^p	p	P	21
+^pw	p w	P W	1
+^t	t	T	22
+^ts	ts	C	11
+^tw	t w	T W	2
+^u	u	Y	4
+^w	w	W	1
+^y	y/j	J	2
+^y$	y	Y	1
+^ã	ã	A	8
+^ã$	ã	A	1
+^æ̃	æ̃	E	8
+^æ̃$	æ̃	E	1
+^æ̃æ̃$	æ̃ː	E	1
+^õ	õ	U	1
+^õ$	õ	U	1
+^ĩ	ĩ	I	1
+^ũ	ũ	Y	3
+^ɾ	ɾ	R	3
+^β	β	B	8
+_	+	_	33
+a	a	A	57
+a$	a	A	33
+c	c	C	1
+e	e	E	46
+e$	e	E	52
+i	i	I	38
+i$	i	I	32
+j	j	J	22
+j$	j	J	28
+k	k	K	66
+k$	k	K	4
+kw	kw/k w	K W	17
+m	m	M	17
+n	n	N	50
+n$	n	N	1
+o	o	U	76
+o$	o	U	22
+p	p	P	16
+t	t	T	71
+ts	ts	C	30
+tw	t w	T W	1
+u	u	Y	48
+u$	u	Y	18
+w	w	W	11
+w$	w	W	8
+x	x	G	2
+y	y	Y	23
+y$	y	Y	11
+ã	ã	A	2
+ã$	ã	A	10
+æ̃	æ̃	E	3
+æ̃$	æ̃	E	17
+õ	õ	U	2
+õ$	õ	U	5
+ĩ	ĩ	I	2
+ĩ$	ĩ	I	4
+ũ	ũ	Y	16
+ũ$	ũ	Y	6
+ɲ	ɲ	N	14
+ɾ	ɾ	R	47
+β	β	B	13
+ẽ	ẽ	E	23
+ẽ$	ẽ	E	3
+ỹ	ỹ	Y	4

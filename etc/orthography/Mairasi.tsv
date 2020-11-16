@@ -1,32 +1,67 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		200	NULL	aŋgoar;lnjom;atarar;otu_seen;sas_warenai
-$	NULL		200	NULL	aŋgoar;lnjom;atarar;otu_seen;sas_warenai
-a	a	A	273	195	aŋgoar;aŋgoar;atarar;atarar;atarar
-f	f	B	14	7	a_faru;oifiris;fuenai;fo;orfamoi_nei_taŋgau
-v	v	B	62	39	ivor_uta;nava;avetargwar;avwer;tuvu
-e	e	E	71	50	sas_warenai;avetargwar;avwer;magwer_anasiar;isere
-ee	eː	E	2	1	otu_seen;eete
-ʔ	ʔ	H	6	6	taʔnaidʒar;nomaʔl;buʔel;namnaʔai;nomaʔl
-i	i	I	85	45	sas_warenai;ivor_uta;namoria;taʔnaidʒar;oifiris
-ii$	iː	I	2	2	ansii;nii
-j	j	J	5	5	lnjom;amamoi_njai;natnjaere;ajom;amanjat
-g	g	K	21	16	aŋgoar;nargwaŋga;nargwaŋga;aŋgun;amaŋgirar
-^k	k	K	2	2	kosoŋ;keme
-l	l	L	17	9	lnjom;nalambi;nomaʔl;sadʒorlin;nalamb_nasa
-m	m	M	66	46	lnjom;namoria;amaŋgirar;magwer_anasiar;nalambi
-n	n	N	106	48	lnjom;otu_seen;sas_warenai;nargwaŋga;nargwaŋga
-ŋ	ŋ	N	18	17	aŋgoar;nargwaŋga;nargwaŋga;aŋgun;amaŋgirar
-b	b	P	11	9	nalambi;nambutu;imbion;matambura;nalamb_nasa
-r	r	R	95	69	aŋgoar;atarar;atarar;sas_warenai;nargwaŋga
-ɾ	ɾ	R	7	7	ivoɾo;ai_aiwaɾa;ivoɾai;ivoɾamoi;oɾfamoi
-s	s	S	50	30	otu_seen;sas_warenai;sas_warenai;ototos;oifiris
-ʒ	ʒ	S	3	1	oɾfamoi_neiʒ_amoiʒ;oɾfamoi_neiʒ_amoiʒ;ʒaŋgwatmai
-d	d	T	12	10	navir_anda;dedere;dedere;anden;andan
-t	t	T	93	70	atarar;otu_seen;ivor_uta;natot;natot
-dʒ	dʒ	T	12	7	taʔnaidʒar;dʒoug_sas;ardʒeri;dʒeot;awarirdʒas
-o	o	U	113	86	aŋgoar;lnjom;otu_seen;ivor_uta;natot
-oo	oː	U	3	3	oro_oom;woofo_avisinar;mooŋgal
-w	w	W	24	6	sas_warenai;avwer;ivorar_waviom;naswav;werei_sieri
-u	u	Y	65	34	otu_seen;ivor_uta;aŋgun;a_faru;fuenai
-_	+	_	47	47	otu_seen;sas_warenai;ivor_uta;a_faru;magwer_anasiar
-gw	gw/g w	K W	11	11	nargwaŋga;nargwaŋga;avetargwar;magwer_anasiar;uŋguŋgwemoi
+Grapheme	IPA	SCA	Frequency
+^a	a	A	51
+^b	b	P	1
+^d	d	T	1
+^dʒ	dʒ	T	5
+^e	e	E	8
+^ee	eː	E	1
+^f	f	B	7
+^i	i	I	15
+^k	k	K	2
+^l	l	L	1
+^m	m	M	9
+^n	n	N	42
+^o	o	U	16
+^s	s	S	10
+^t	t	T	17
+^u	u	Y	4
+^w	w	W	11
+^ʒ	ʒ	S	1
+_	+	_	47
+a	a	A	195
+a$	a	A	27
+b	b	P	9
+b$	b	P	1
+d	d	T	10
+d$	d	T	1
+dʒ	dʒ	T	7
+e	e	E	50
+e$	e	E	13
+ee	eː	E	1
+f	f	B	7
+g	g	K	16
+g$	g	K	5
+gw	gw/g w	K W	11
+i	i	I	45
+i$	i	I	25
+ii$	iː	I	2
+j	j	J	5
+l	l	L	9
+l$	l	L	7
+m	m	M	46
+m$	m	M	11
+n	n	N	48
+n$	n	N	14
+ns	n s	N S	2
+o	o	U	86
+o$	o	U	11
+oo	oː	U	3
+r	r	R	69
+r$	r	R	26
+s	s	S	30
+s$	s	S	7
+sw	s w	S W	1
+t	t	T	70
+t$	t	T	6
+u	u	Y	34
+u$	u	Y	27
+v	v	B	39
+v$	v	B	17
+vw	v w	B W	6
+w	w	W	6
+ŋ	ŋ	N	17
+ŋ$	ŋ	N	1
+ɾ	ɾ	R	7
+ʒ	ʒ	S	1
+ʒ$	ʒ	S	1
+ʔ	ʔ	H	6

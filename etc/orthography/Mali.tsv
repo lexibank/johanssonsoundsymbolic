@@ -1,29 +1,61 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		301	NULL	βuk;auluβək_mət;nasɔt;saŋgaska;mɔ
-$	NULL		301	NULL	βuk;auluβək_mət;nasɔt;saŋgaska;mɔ
-^ii$	iː	I	1	1	ii
-a	a	A	340	156	auluβək_mət;nasɔt;saŋgaska;saŋgaska;saŋgaska
-β	β	B	54	38	βuk;auluβək_mət;βurəɣaɣa;aŋguβaŋ;dəβəɹik
-ə	ə	E	171	166	auluβək_mət;auluβək_mət;burɛmbəm;βurəɣaɣa;aŋəɹiki
-ɛ	ɛ	E	73	72	burɛmbəm;tnɛs;sərɛn;pɛs;buɛl_mət
-ɣ	ɣ	G	78	66	βurəɣaɣa;βurəɣaɣa;ɣinap;aɣluiŋ;ɣəɹiaɣa
-i	i	I	159	90	aŋəɹiki;aŋəɹiki;aŋəɹiki;aŋəɹiki;ɣinap
-ɪ	ɪ	I	7	7	aŋəɹɪkβɛt_da_adəβauŋ;aŋəɹɪkisəm_da_səgək;aŋəɹɪkβɛt_da_alɛβaβɛt;aŋəɹɪkβɛt_da_aungiɔm;aŋəɹɪkβɛt_da_səgək
-j	j	J	2	2	ajar;ajaɣungi
-g	g	K	59	54	saŋgaska;aŋguβaŋ;sarumgi;mugurəp;isəmga
-k	k	K	99	56	βuk;auluβək_mət;saŋgaska;aŋəɹiki;aŋəɹiki
-l	l	L	74	61	auluβək_mət;aluat;mali;aɣluiŋ;buɛl_mət
-m	m	M	100	60	auluβək_mət;mɔ;burɛmbəm;burɛmbəm;mamər
-n	n	N	74	52	nasɔt;ɣinap;nasɔt;imani;tnɛs
-ŋ	ŋ	N	82	58	saŋgaska;aŋəɹiki;aŋəɹiki;ɹəŋ;aŋguβaŋ
-b	b	P	24	13	burɛmbəm;burɛmbəm;biaska;buɛl_mət;arɛmbəm
-p	p	P	31	12	ɣinap;mugurəp;pɛs;sləpki;pais
-r	r	R	72	55	burɛmbəm;βurəɣaɣa;mamər;sarumgi;mugurəp
-ɹ	ɹ	R	47	42	aŋəɹiki;aŋəɹiki;ɹəŋ;dəβəɹik;ɣəɹiaɣa
-ɾ	ɾ	R	1	1	aɾuɣa_ma_tɛmga
-s	s	S	74	39	nasɔt;saŋgaska;saŋgaska;nasɔt;sarumgi
-d	d	T	31	20	dəβəɹik;ɣədəŋəm;daŋ_mət;dən;sdamər
-t	t	T	65	14	auluβək_mət;nasɔt;aluat;nasɔt;tnɛs
-ɔ	ɔ	U	35	26	nasɔt;mɔ;nasɔt;amɔr;aɣəlɔl
-u	u	Y	103	94	βuk;auluβək_mət;auluβək_mət;burɛmbəm;βurəɣaɣa
-_	+	_	36	36	auluβək_mət;buɛl_mət;daŋ_mət;siɣirki_mət;aŋəɹɪkβɛt_da_adəβauŋ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	124
+^b	b	P	11
+^d	d	T	11
+^g	g	K	5
+^i	i	I	8
+^i$	i	I	1
+^ii$	iː	I	1
+^k	k	K	18
+^l	l	L	4
+^m	m	M	22
+^n	n	N	9
+^p	p	P	9
+^r	r	R	1
+^s	s	S	15
+^t	t	T	20
+^u	u	Y	4
+^ŋ	ŋ	N	6
+^ɣ	ɣ	G	12
+^ɹ	ɹ	R	5
+^β	β	B	16
+_	+	_	36
+a	a	A	156
+a$	a	A	60
+b	b	P	13
+d	d	T	20
+g	g	K	54
+i	i	I	90
+i$	i	I	60
+j	j	J	2
+k	k	K	56
+k$	k	K	25
+l	l	L	61
+l$	l	L	9
+m	m	M	60
+m$	m	M	18
+n	n	N	52
+n$	n	N	13
+p	p	P	12
+p$	p	P	10
+r	r	R	55
+r$	r	R	16
+s	s	S	39
+s$	s	S	20
+t	t	T	14
+t$	t	T	31
+u	u	Y	94
+u$	u	Y	5
+ŋ	ŋ	N	58
+ŋ$	ŋ	N	18
+ɔ	ɔ	U	26
+ɔ$	ɔ	U	9
+ə	ə	E	166
+ə$	ə	E	5
+ɛ	ɛ	E	72
+ɛ$	ɛ	E	1
+ɣ	ɣ	G	66
+ɪ	ɪ	I	7
+ɹ	ɹ	R	42
+ɾ	ɾ	R	1
+β	β	B	38

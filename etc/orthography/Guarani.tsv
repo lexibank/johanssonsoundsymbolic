@@ -1,39 +1,70 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		338	NULL	aɾi;kɨhɨɟe;upeɾiɾe;ɨʋɨtu;maɨma
-$	NULL		336	NULL	aɾi;kɨhɨɟe;upeɾiɾe;ɨʋɨtu;maɨma
-a	a	A	253	147	aɾi;maɨma;maɨma;tɨmba;tahɨi
-ã	ã	A	25	7	poɾã;kãŋɣwe;mitãkuimbaʔe;oĩpoɾã;kã
-aa$	aː	A	2	2	kakuaa;kuaa
-v	v	B	1	1	haʔevete
-ɟ	ɟ	C	40	23	kɨhɨɟe;ɟɨʋa;ɟɨʋa;peɟu;ɟu
-e	e	E	200	143	kɨhɨɟe;upeɾiɾe;upeɾiɾe;ape;ape
-ẽ	ẽ	E	10	2	kaɾẽ;pɨapẽ;henɨhẽ;meʔẽ;pehẽŋwe
-ɣ	ɣ	G	3	3	oɣa;ãɣa;ɨʋaɣa
-ɣw	ɣw/ɣʷ	G	13	13	tuɣwɨ;kãŋɣwe;ɟaɣwa;taɣwe;taɣwe
-^ɣw	ɣʷ	G	5	5	ɣwi;ɣwɨpe;ɣwɨɾa;ɣwapɨ;ɣweʔẽ
-h	h	H	65	35	kɨhɨɟe;tahɨi;hũ;hoʋɨ;hakuaʔɨ̃ʋa
-ʔ	ʔ	H	65	65	kuʔa;suʔu;hakuaʔɨ̃ʋa;mitãkuimbaʔe;apɨtuʔũ
-i	i	I	90	51	aɾi;upeɾiɾe;tahɨi;tanimbu;ɣwi
-ĩ	ĩ	I	15	3	potĩ;oĩpoɾã;pateĩ;tatĩ;aɣwĩ
-ɨ	ɨ	I	175	94	kɨhɨɟe;kɨhɨɟe;ɨʋɨtu;ɨʋɨtu;maɨma
-ɨ̃	ɨ̃	I	6	5	hakuaʔɨ̃ʋa;taʔɨ̃i;sɨ̃i;ikaɾeʔɨ̃ʋa;hekopeʔɨ̃
-g	g	K	1	1	maɾaŋgatu
-k	k	K	90	57	kɨhɨɟe;tapɨkue;kuʔa;ɨkepe;hakuaʔɨ̃ʋa
-m	m	M	74	40	maɨma;maɨma;tɨmba;tanimbu;mbɨtepe
-n	n	N	31	25	tanimbu;tenonde;tenonde;mano;nambi
-ŋ	ŋ	N	5	5	kãŋɣwe;maɾaŋgatu;huŋɨ;akãŋeta;kaŋɨ
-ɲ	ɲ	N	18	7	ɲaɲa;ɲaɲa;mitãkuɲa;ɲana;ɲandɨ
-ŋw	ŋw/ŋʷ	N	17	17	pehẽŋwe;peheŋwe_ɾaɟɨ;peheŋwe_ɾaɟɨ;peheŋwe_ɾaɟɨ;peheŋwe_ɾaɟɨ
-b	b	P	37	37	tɨmba;tanimbu;mbɨtepe;mitãkuimbaʔe;ɨʋɨtimbo
-p	p	P	102	40	upeɾiɾe;potʃɨ;ape;ape;poɾã
-ɾ	ɾ	R	106	101	aɾi;upeɾiɾe;upeɾiɾe;poɾã;ɣwɨɾa
-s	s	S	24	10	suʔu;ɟoso;tesa;asu;hesakã
-d	d	T	15	15	tenonde;nandi;iɾundɨ;ɲandɨ;hendu
-t	t	T	104	45	ɨʋɨtu;tɨmba;tahɨi;tanimbu;tenonde
-tʃ	tʃ	T	12	7	potʃɨ;tuitʃa;mbaʔeitʃa;tʃe;koɾotʃo
-o	o	U	71	44	potʃɨ;poɾã;tenonde;ɾo;hoʋɨ
-õ	õ	U	14	4	ɾõ;pokõi;pakõi;mokõipa;mokõi
-ʋ	ʋ	W	43	40	ɨʋɨtu;ɟɨʋa;ɟɨʋa;hoʋɨ;hakuaʔɨ̃ʋa
-u	u	Y	99	69	upeɾiɾe;ɨʋɨtu;tanimbu;tapɨkue;kuʔa
-ũ$	ũ	Y	5	5	hũ;apɨtuʔũ;ɨpɨtũ;huʔũ;kũ
-_	+	_	40	40	ɲeʔã_ʋeʋui;kaɾai_tuɟa;kuɲa_ɣwãiɣwĩ;sɨ_ɾɨke;sɨ_ɾɨke
+Grapheme	IPA	SCA	Frequency
+^a	a	A	27
+^a$	a	A	2
+^e$	e	E	1
+^h	h	H	30
+^i	i	I	4
+^k	k	K	33
+^m	m	M	34
+^n	n	N	6
+^o	o	U	4
+^p	p	P	62
+^s	s	S	14
+^t	t	T	59
+^tʃ	tʃ	T	5
+^u	u	Y	3
+^u$	u	Y	2
+^ã	ã	A	1
+^ɟ	ɟ	C	17
+^ɣw	ɣʷ	G	5
+^ɨ	ɨ	I	14
+^ɨ$	ɨ	I	1
+^ɲ	ɲ	N	11
+^ɾ	ɾ	R	5
+^ʋ	ʋ	W	3
+_	+	_	40
+a	a	A	147
+a$	a	A	77
+aa$	aː	A	2
+b	b	P	37
+d	d	T	15
+e	e	E	143
+e$	e	E	56
+g	g	K	1
+h	h	H	35
+i	i	I	51
+i$	i	I	35
+k	k	K	57
+m	m	M	40
+n	n	N	25
+o	o	U	44
+o$	o	U	23
+p	p	P	40
+s	s	S	10
+t	t	T	45
+tʃ	tʃ	T	7
+u	u	Y	69
+u$	u	Y	25
+v	v	B	1
+ã	ã	A	7
+ã$	ã	A	17
+õ	õ	U	4
+õ$	õ	U	10
+ĩ	ĩ	I	3
+ĩ$	ĩ	I	12
+ŋ	ŋ	N	5
+ŋw	ŋw/ŋʷ	N	17
+ũ$	ũ	Y	5
+ɟ	ɟ	C	23
+ɣ	ɣ	G	3
+ɣw	ɣw/ɣʷ	G	13
+ɨ	ɨ	I	94
+ɨ$	ɨ	I	66
+ɨ̃	ɨ̃	I	5
+ɨ̃$	ɨ̃	I	1
+ɲ	ɲ	N	7
+ɾ	ɾ	R	101
+ʋ	ʋ	W	40
+ʔ	ʔ	H	65
+ẽ	ẽ	E	2
+ẽ$	ẽ	E	8

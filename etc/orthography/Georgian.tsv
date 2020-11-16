@@ -1,43 +1,88 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		317	NULL	zemotʼ;ʃiʃi;ʃemdeg;qʼvela;gabrazebuli
-$	NULL		343	NULL	zemotʼ;ʃiʃi;ʃemdeg;haeri;qʼvela
-a	a	A	249	128	haeri;qʼvela;gabrazebuli;gabrazebuli;tʼʃʼianththʃvela
-v	v	B	122	113	qʼvela;cxoveli;tʼʃʼianththʃvela;mkhlavi;mkhlavi
-c	c	C	25	13	cxoveli;cudi;muceli;civi;khvercxi
-^ts	ts	C	1	1	tsudi
-e	e	E	138	113	zemotʼ;ʃemdeg;ʃemdeg;haeri;qʼvela
-x	x	G	38	31	cxoveli;sisxli;xvela;moxrili;khvercxi
-ɣ	ɣ	G	12	6	ɣrubeli;dɣe;ɣrma;dzaɣli;maɣali
-^h	h	H	1	1	haeri
-i	i	I	349	166	ʃiʃi;ʃiʃi;haeri;gabrazebuli;cxoveli
-g	g	K	28	8	ʃemdeg;gabrazebuli;zurgi;blagvi;gatʼʃʼqʼletha
-q	q	K	1	1	bardzaqi
-kh	kh/kʰ	K	11	11	mkhlavi;mkhlavi;ukhan;mkherdi;mokhvdoma
-kʼ	kʼ	K	25	14	kʼerkʼi;kʼerkʼi;kʼveʃ;suntʼkʼva;mukʼi
-qʼ	qʼ	K	15	9	qʼvela;gatʼʃʼqʼletha;tʼʃʼuthtʼʃʼqʼiani;qʼuri;qʼvavili
-^kh	kʰ	K	12	12	khbena;khetʼeba;khvercxi;khargi;khoni
-l	l	L	120	118	qʼvela;gabrazebuli;cxoveli;tʼʃʼianththʃvela;mkhlavi
-m	m	M	102	56	zemotʼ;ʃemdeg;mkhlavi;mkhlavi;lamazi
-n	n	N	57	40	tʼʃʼianththʃvela;tʼsʼin;ukhan;tʼan;pʼrinveli
-b	b	P	57	38	gabrazebuli;gabrazebuli;khbena;daberva;blagvi
-ph	ph/pʰ	P	5	5	tʼʃʼiphi;phapha;phapha;phapha;phapha
-pʼ	pʼ	P	22	9	pʼerpʼli;pʼerpʼli;pʼrinveli;supʼtʼa;stʼsʼrapʼi
-^ph	pʰ	P	7	7	phiri;phathara;phexis_thithi;phapha;phapha
-r	r	R	101	86	haeri;gabrazebuli;pʼerpʼli;zurgi;kʼerkʼi
-s	s	S	73	20	ʃoris;sisxli;sisxli;suntʼkʼva;supʼtʼa
-z	z	S	36	33	zemotʼ;gabrazebuli;zurgi;lamazi;dzvali
-ʃ	ʃ	S	60	24	ʃiʃi;ʃiʃi;ʃemdeg;tʼʃʼianththʃvela;kʼveʃ
-ʒ	ʒ	S	3	3	ddʒdoma;vaʒiʃvili;vaʒiʃvili
-d	d	T	92	54	ʃemdeg;cudi;didi;didi;daberva
-dʒ	dʒ	T	12	4	lurdʒi;mardʒvena;mdʒave;maxindʒi;dʒmisʃvili
-th	th/tʰ	T	25	17	imithom_rom;thani;thvini;gatʼʃʼqʼletha;thirili
-tʼ	tʼ	T	40	21	zemotʼ;tʼan;suntʼkʼva;tʼareba;supʼtʼa
-^dd	dː	T	1	1	ddʒdoma
-thʃ	thʃ/tʃʰ	T	2	2	pʼrthʃxili;thuthʃebi
-thth	tʰː	T	1	1	tʼʃʼianththʃvela
-tʼsʼ	tsʼ	T	22	10	tʼsʼin;mtʼsʼare;tʼsʼva;stʼsʼori;gatʼsʼmenda
-tʼʃʼ	tʃʼ	T	8	4	tʼʃʼianththʃvela;bitʼʃʼi;gatʼʃʼqʼletha;tʼʃʼuthtʼʃʼqʼiani;tʼʃʼuthtʼʃʼqʼiani
-o	o	U	44	37	zemotʼ;cxoveli;imithom_rom;imithom_rom;ʃoris
-u	u	Y	40	36	gabrazebuli;zurgi;cudi;ukhan;muceli
-_	+	_	7	7	imithom_rom;skhesobrivi_kʼavʃiri;ɣia_pʼerisa;dzudzus_thavi;cxviris_cemineba
-^thʃ	th/tʰ ʃ	T S	4	4	thʃapʼuʃva;thʃrdili;thʃven;thʃven
+Grapheme	IPA	SCA	Frequency
+^a	a	A	11
+^b	b	P	19
+^c	c	C	12
+^d	d	T	37
+^dd	dː	T	1
+^dʒ	dʒ	T	8
+^e	e	E	7
+^g	g	K	19
+^h	h	H	1
+^i	i	I	5
+^kh	kʰ	K	12
+^kʼ	kʼ	K	8
+^l	l	L	2
+^m	m	M	44
+^ms	m s	M S	1
+^n	n	N	5
+^o	o	U	4
+^ph	pʰ	P	7
+^pʼ	pʼ	P	13
+^qʼ	qʼ	K	6
+^r	r	R	10
+^s	s	S	22
+^th	th/tʰ	T	8
+^thʃ	th/tʰ ʃ	T S	4
+^ts	ts	C	1
+^tʼ	tʼ	T	17
+^tʼsʼ	tsʼ	T	12
+^tʼʃʼ	tʃʼ	T	4
+^u	u	Y	3
+^v	v	B	6
+^x	x	G	7
+^z	z	S	3
+^ɣ	ɣ	G	6
+^ʃ	ʃ	S	18
+_	+	_	7
+a	a	A	128
+a$	a	A	110
+b	b	P	38
+c	c	C	13
+d	d	T	54
+d$	d	T	1
+dʒ	dʒ	T	4
+e	e	E	113
+e$	e	E	18
+g	g	K	8
+g$	g	K	1
+i	i	I	166
+i$	i	I	178
+kh	kh/kʰ	K	11
+kʼ	kʼ	K	14
+kʼ$	kʼ	K	3
+l	l	L	118
+m	m	M	56
+m$	m	M	1
+n	n	N	40
+n$	n	N	12
+o	o	U	37
+o$	o	U	3
+ph	ph/pʰ	P	5
+pʼ	pʼ	P	9
+q	q	K	1
+qʼ	qʼ	K	9
+r	r	R	86
+r$	r	R	2
+rs	r s	R S	2
+rs$	r s	R S	1
+s	s	S	20
+s$	s	S	9
+sʃ	s ʃ	S S	16
+th	th/tʰ	T	17
+thth	tʰː	T	1
+thʃ	thʃ/tʃʰ	T	2
+tʼ	tʼ	T	21
+tʼ$	tʼ	T	2
+tʼsʼ	tsʼ	T	10
+tʼʃʼ	tʃʼ	T	4
+u	u	Y	36
+u$	u	Y	1
+v	v	B	113
+vs	v s	B S	2
+vʃ	v ʃ	B S	1
+x	x	G	31
+z	z	S	33
+ɣ	ɣ	G	6
+ʃ	ʃ	S	24
+ʃ$	ʃ	S	1
+ʒ	ʒ	S	3

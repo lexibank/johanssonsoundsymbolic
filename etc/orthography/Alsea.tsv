@@ -1,51 +1,108 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		283	NULL	qauʔx;tʔimuu;jaiʔxtəx;aʔmta;xaʔlxaɕ
-$	NULL		277	NULL	qauʔx;tʔimuu;jaiʔxtəx;aʔmta;xaʔlxaɕ
-a	a	A	170	135	qauʔx;jaiʔxtəx;aʔmta;aʔmta;xaʔlxaɕ
-aa	aː	A	57	51	ɕaanq;maaiiʔtɕit;laaʔɬta;kakaaʔja;paaʔqɕt
-aã	aã/ãː	A	1	1	aqaãt
-ãã$	ãː	A	1	1	ɬkwãã
-ç	ç	C	1	1	pçiʔnt
-tɕ	tɕ	C	57	26	maaiiʔtɕit;haxuuʔtɕ;tɕkwiiʔɕiɕt;maʔhatɕ;kwiʔtakutɕ
-e	e	E	13	13	tekwaiiʔɕaljuɕtʔ;lewiiʔ;ɕauuʔtiɕt_temaxa_xam;qaʔteə;kueiʔntei
-ə	ə	E	36	35	jaiʔxtəx;puʔɕtəx;tkəlɬtɕʔ;mətɕaʔntɕinɕt;qõõʔtʔəmxt
-ẽ	ẽ	E	1	1	xweẽɕiijuu
-ee	eː	E	12	11	qeeʔxan;qeeʔkuɕ;ɬqweeʔɕloo;tɕweetɬ;haaleeʔtxauu
-ẽẽ	ẽː	E	1	1	qẽẽʔhiɕt
-x	x	G	47	35	qauʔx;jaiʔxtəx;jaiʔxtəx;xaʔlxaɕ;xaʔlxaɕ
-xw	xw/xʷ	G	3	1	kjiʔxwalauɕ;xweẽɕiijuu;xwaɕ
-h	h	H	26	4	haxuuʔtɕ;hiit;haɕkj;hiilku;hajaʔniijuɕtʔ
-ʔ	ʔ	H	190	160	qauʔx;tʔimuu;jaiʔxtəx;aʔmta;xaʔlxaɕ
-ʔh	ʔh/ʔʰ	H	7	7	maʔhatɕ;qẽẽʔhiɕt;jaaʔhal;mũʔhuu;paʔhalt
-ʔʔ$	ʔʔ/ʔː	H	1	1	tʔəliʔʔ
-i	i	I	93	89	tʔimuu;jaiʔxtəx;ɬaʔquɕiu;maaiiʔtɕit;tɕkwiiʔɕiɕt
-ĩ	ĩ	I	2	2	tɕkjiĩʔtɕii;tɕiɕiĩʔt
-ii	iː	I	67	56	piija;maaiiʔtɕit;qɕiiʔqɕoout;tɕkwiiʔɕiɕt;hiit
-ĩĩ	ĩː	I	2	1	hĩĩɕkj;hĩĩ
-iiii	iiii/iː	I	1	1	ɬkwiiiiʔntɕinɕt
-j	j	J	70	43	jaiʔxtəx;piija;kakaaʔja;pilaʔtkwajuu;haɕkj
-k	k	K	75	51	kakaaʔja;kakaaʔja;qeeʔkuɕ;kwiʔtakutɕ;tkəlɬtɕʔ
-q	q	K	49	18	qauʔx;ɕaanq;ɬaʔquɕiu;qalooʔna;qeeʔxan
-qw	qw/qʷ	K	4	1	ɬqweeʔɕloo;qwaʔnɬiijuu;qwaan;qwaan
-l	l	L	64	47	xaʔlxaɕ;laaʔɬta;qalooʔna;tkəlɬtɕʔ;pilaʔtkwajuu
-ɬ	ɬ	L	56	29	ɬaʔquɕiu;laaʔɬta;aʔɬtuxt;ɬkwãã;tkəlɬtɕʔ
-lh	lh/l̥	L	3	3	palhu;ɕuuʔlhakj;wuʔlhaiɕ
-m	m	M	68	40	tʔimuu;aʔmta;maaiiʔtɕit;maʔhatɕ;piiʔtɕkum
-n	n	N	53	24	ɕaanq;qalooʔna;qeeʔxan;tʔiɬn;ain
-nh	nh/n̥	N	2	2	qaʔnhaʔɬ;qaʔnhaʔɬ
-p	p	P	50	12	piija;palhu;puʔɕtəx;puu;paaʔqɕt
-ɕ	ɕ	S	111	33	xaʔlxaɕ;ɕaanq;ɬaʔquɕiu;qɕiiʔqɕoout;qɕiiʔqɕoout
-ʔɕ$	ʔɕ/ˀɕ	S	4	4	tɕuudaiiʔɕ;aitɕaiʔɕ;qamɬiiʔɕ;kjeliiʔɕ
-d	d	T	2	2	tɕuudaiiʔɕ;ɕuudaaʔɕt
-t	t	T	168	47	tʔimuu;jaiʔxtəx;aʔmta;maaiiʔtɕit;laaʔɬta
-o	o	U	11	11	ɬowaʔqat;qaʔloɕiɕ;ɬowa;tomiʔɬa;tomiʔɬa
-oo	oː	U	16	13	qalooʔna;qɕiiʔqɕoout;ɬqweeʔɕloo;hakjaiiʔkjɕloo;ooʔxun
-õõ	õ	U	1	1	qõõʔtʔəmxt
-ooo	ooo/oː	U	1	1	ɬoooʔkuɕt
-w	w	W	12	6	wiil;tɕweetɬ;ɬowaʔqat;lewiiʔ;wiil
-u	u	Y	53	37	qauʔx;ɬaʔquɕiu;ɬaʔquɕiu;aʔɬtuxt;palhu
-ũ	ũ	Y	2	2	mũʔhuu;mũʔhuu
-uu	uː	Y	44	26	tʔimuu;haxuuʔtɕ;puu;pilaʔtkwajuu;txuutxuu
-uuu	uuu/uː	Y	2	2	puuuʔt;qɕuuuʔt
-_	+	_	7	7	pɕinɬx_laqaiʔɕt;ɕauuʔtiɕt_temaxa_xam;ɕauuʔtiɕt_temaxa_xam;ɕauuʔtiɕt_temaxa_xeʔɬkj;ɕauuʔtiɕt_temaxa_xeʔɬkj
-kw	kw/k w	K W	11	8	tɕkwiiʔɕiɕt;kwiʔtakutɕ;ɬkwãã;pilaʔtkwajuu;tekwaiiʔɕaljuɕtʔ
+Grapheme	IPA	SCA	Frequency
+^a	a	A	12
+^aa	aː	A	2
+^h	h	H	22
+^i	i	I	1
+^ii	iː	I	6
+^ii$	iː	I	1
+^j	j	J	7
+^k	k	K	22
+^kw	kw/k w	K W	3
+^l	l	L	3
+^m	m	M	18
+^n	n	N	8
+^oo	oː	U	1
+^p	p	P	29
+^pɕ	p ɕ	P S	2
+^q	q	K	21
+^qw	qw/qʷ	K	3
+^qɕ	q ɕ	K S	3
+^t	t	T	52
+^tɕ	tɕ	C	14
+^tɕw	tɕ w	C W	1
+^w	w	W	4
+^x	x	G	4
+^xw	xw/xʷ	G	2
+^ɕ	ɕ	S	21
+^ɬ	ɬ	L	21
+_	+	_	7
+a	a	A	135
+a$	a	A	23
+aa	aː	A	51
+aa$	aː	A	4
+aã	aã/ãː	A	1
+d	d	T	2
+e	e	E	13
+ee	eː	E	11
+ee$	eː	E	1
+h	h	H	4
+i	i	I	89
+i$	i	I	3
+ii	iː	I	56
+ii$	iː	I	4
+iiii	iiii/iː	I	1
+j	j	J	43
+j$	j	J	17
+jɕ	j ɕ	J S	3
+k	k	K	51
+k$	k	K	2
+kw	kw/k w	K W	8
+l	l	L	47
+l$	l	L	12
+lh	lh/l̥	L	3
+lɕ	l ɕ	L S	2
+m	m	M	40
+m$	m	M	8
+mw	m w	M W	1
+mɕ$	m ɕ	M S	1
+n	n	N	24
+n$	n	N	17
+nh	nh/n̥	N	2
+nɕ	n ɕ	N S	3
+nɕ$	n ɕ	N S	1
+o	o	U	11
+oo	oː	U	13
+oo$	oː	U	2
+ooo	ooo/oː	U	1
+p	p	P	12
+p$	p	P	5
+pɕ	p ɕ	P S	1
+pɕ$	p ɕ	P S	1
+q	q	K	18
+q$	q	K	2
+qw	qw/qʷ	K	1
+qɕ	q ɕ	K S	5
+t	t	T	47
+t$	t	T	69
+tɕ	tɕ	C	26
+tɕ$	tɕ	C	16
+u	u	Y	37
+u$	u	Y	16
+uu	uː	Y	26
+uu$	uː	Y	18
+uuu	uuu/uː	Y	2
+w	w	W	6
+x	x	G	35
+x$	x	G	7
+xw	xw/xʷ	G	1
+xɕ$	x ɕ	G S	1
+ãã$	ãː	A	1
+ç	ç	C	1
+õõ	õ	U	1
+ĩ	ĩ	I	2
+ĩĩ	ĩː	I	1
+ĩĩ$	ĩː	I	1
+ũ	ũ	Y	2
+ɕ	ɕ	S	33
+ɕ$	ɕ	S	21
+ə	ə	E	35
+ə$	ə	E	1
+ɬ	ɬ	L	29
+ɬ$	ɬ	L	6
+ʔ	ʔ	H	160
+ʔ$	ʔ	H	17
+ʔh	ʔh/ʔʰ	H	7
+ʔɕ$	ʔɕ/ˀɕ	S	4
+ʔʔ$	ʔʔ/ʔː	H	1
+ẽ	ẽ	E	1
+ẽẽ	ẽː	E	1

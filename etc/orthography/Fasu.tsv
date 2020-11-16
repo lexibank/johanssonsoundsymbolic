@@ -1,28 +1,63 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		277	NULL	hutuɾu;ɸoɸɑɾaka;su;himu_sisipu;makatɑ_kakajiɑ
-$	NULL		275	NULL	hutuɾu;ɸoɸɑɾaka;su;himu_sisipu;makatɑ_kakajiɑ
-a	a	A	315	199	ɸoɸɑɾaka;ɸoɸɑɾaka;makatɑ_kakajiɑ;makatɑ_kakajiɑ;makatɑ_kakajiɑ
-ã	ã	A	7	6	mãijɑ;mã_ĩjã;mã_ĩjã;kãejãko;kãejãko
-ɑ	ɑ	A	126	67	ɸoɸɑɾaka;makatɑ_kakajiɑ;makatɑ_kakajiɑ;ɸanɑ;pateɾɑ
-ɸ	ɸ	B	19	12	ɸoɸɑɾaka;ɸoɸɑɾaka;ɸanɑ;tuɸɑsa;kitaɸene̞
-e	e	E	59	41	esẽ̞se;esẽ̞se;pateɾɑ;menɑ;ɾukunenɑka
-e̞	e̞	E	50	20	kate̞ma_ko̞;e̞ɾesa;kenaɾe̞;e̞ɾesa;se̞ɾe
-ẽ̞	ẽ̞	E	6	3	esẽ̞se;kẽ̞;hẽ̞_tawɑɾa;hɑẽ̞;hẽ̞_tapuɾɑka
-h	h	H	44	9	hutuɾu;himu_sisipu;apo̞ɾo_hokosɑ;hoko̞;hasiɾaka
-i	i	I	114	71	himu_sisipu;himu_sisipu;himu_sisipu;makatɑ_kakajiɑ;mati
-ĩ	ĩ	I	5	3	hĩ;tĩmakatɑ;mã_ĩjã;tɑku_hĩ;mã_ĩjã_mɑmo
-j	j	J	22	12	makatɑ_kakajiɑ;japi;jojoko̞ɾaka;jojoko̞ɾaka;jame̞no
-k	k	K	189	137	ɸoɸɑɾaka;makatɑ_kakajiɑ;makatɑ_kakajiɑ;makatɑ_kakajiɑ;koko̞no
-m	m	M	86	46	himu_sisipu;makatɑ_kakajiɑ;kate̞ma_ko̞;mati;kaniamo̞
-n	n	N	53	47	koko̞no;koko̞no;kaniamo̞;ɸanɑ;katukunu
-p	p	P	60	40	himu_sisipu;pateɾɑ;japi;apo̞ɾo_hokosɑ;peɾɑka
-ɾ	ɾ	R	92	84	hutuɾu;ɸoɸɑɾaka;pateɾɑ;atuɾa;kɑɾa
-s	s	S	88	71	su;himu_sisipu;himu_sisipu;esẽ̞se;esẽ̞se
-t	t	T	56	45	hutuɾu;makatɑ_kakajiɑ;kate̞ma_ko̞;mati;watikisa
-o	o	U	78	56	ɸoɸɑɾaka;koko̞no;koko̞no;koko̞no;koko̞no
-o̞	o̞	U	30	17	koko̞no;koko̞no;kate̞ma_ko̞;kaniamo̞;apo̞ɾo_hokosɑ
-õ̞	õ̞	U	2	1	ɸõ̞ɾaka;kau_hõ̞
-w	w	W	20	15	watikisa;ɾawɑɾosa;uniwai;wate̞;waɾe̞ke
-u	u	Y	89	62	hutuɾu;hutuɾu;hutuɾu;su;himu_sisipu
-ũ$	ũ	Y	2	1	ũ;kũ
-_	+	_	31	31	himu_sisipu;makatɑ_kakajiɑ;kate̞ma_ko̞;apo̞ɾo_hokosɑ;hoko̞no_sikini
+Grapheme	IPA	SCA	Frequency
+^a	a	A	31
+^e	e	E	5
+^e̞	e̞	E	3
+^e̞$	e̞	E	1
+^h	h	H	35
+^i	i	I	11
+^i$	i	I	1
+^j	j	J	10
+^k	k	K	52
+^m	m	M	39
+^n	n	N	6
+^o	o	U	2
+^o̞	o̞	U	1
+^o̞$	o̞	U	1
+^p	p	P	20
+^s	s	S	17
+^t	t	T	11
+^u	u	Y	3
+^w	w	W	5
+^ũ$	ũ	Y	1
+^ɑ	ɑ	A	5
+^ɑ$	ɑ	A	2
+^ɸ	ɸ	B	7
+^ɾ	ɾ	R	8
+_	+	_	31
+a	a	A	199
+a$	a	A	85
+e	e	E	41
+e$	e	E	13
+e̞	e̞	E	20
+e̞$	e̞	E	26
+h	h	H	9
+i	i	I	71
+i$	i	I	31
+j	j	J	12
+k	k	K	137
+m	m	M	46
+m$	m	M	1
+n	n	N	47
+o	o	U	56
+o$	o	U	20
+o̞	o̞	U	17
+o̞$	o̞	U	11
+p	p	P	40
+s	s	S	71
+t	t	T	45
+u	u	Y	62
+u$	u	Y	24
+w	w	W	15
+ã	ã	A	6
+ã$	ã	A	1
+õ̞	õ̞	U	1
+õ̞$	õ̞	U	1
+ĩ	ĩ	I	3
+ĩ$	ĩ	I	2
+ũ$	ũ	Y	1
+ɑ	ɑ	A	67
+ɑ$	ɑ	A	52
+ɸ	ɸ	B	12
+ɾ	ɾ	R	84
+ẽ̞	ẽ̞	E	3
+ẽ̞$	ẽ̞	E	3

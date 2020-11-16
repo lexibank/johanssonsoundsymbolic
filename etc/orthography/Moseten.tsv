@@ -1,49 +1,100 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		305	NULL	tʃeʔeʋe;noijedjeʔ;nohno;tkiʔma;eɾehtum
-$	NULL		322	NULL	tʃeʔeʋe;noijedjeʔ;nohno;tkiʔma;eɾehtum
-a	a	A	177	121	tkiʔma;fʋakoi;hebakdje;kastkitki;əɲja
-ã	ã	A	7	3	ãa;tdãɾã;tdãɾã;jã;mãjedjeʔ
-aa	aː	A	4	4	saasa;haame;taaʃin;haatʃihki
-f	f	B	12	4	fʋakoi;eefe;fen;feɾehkjei;fin
-ts	ts	C	28	10	tatstʃe;tsinkatts;atsih;kətsis;tsih
-e	e	E	139	91	tʃeʔeʋe;tʃeʔeʋe;tʃeʔeʋe;noijedjeʔ;noijedjeʔ
-ə	ə	E	38	35	əɲja;əɲja;məɾehɾika;həkiʋe;bikəkis
-ẽ	ẽ	E	3	2	majẽdjeʔ;joẽ;tsedjẽdjeʔ
-ee	eː	E	2	1	eefe;neemaki
-h	h	H	118	55	nohno;eɾehtum;hebakdje;məɾehɾika;ham_hemdsi
-ʔ	ʔ	H	68	33	tʃeʔeʋe;noijedjeʔ;tkiʔma;ʃoʔpaʔ;ʃoʔpaʔ
-ʔh	ʔh/ʔʰ	H	3	3	maʔhodje;khiʔho;maʔhe
-i	i	I	233	149	noijedjeʔ;tkiʔma;fʋakoi;kastkitki;kastkitki
-ĩ	ĩ	I	3	2	ĩhtsi;tĩdjeʔ;hatahjĩka
-ɨ	ɨ	I	17	15	ʋɨsɨki;ʋɨsɨki;jɨka;ttʃijɨ;mɨdje_tomʔsi
-^ii	iː	I	3	3	iits;iits;iits
-j	j	J	100	83	noijedjeʔ;noijedjeʔ;hebakdje;əɲja;əɲja
-j̃	j̃	J	1	1	ttʃeij̃aʔ
-g	g	K	1	1	dgijaʔ
-k	k	K	117	80	tkiʔma;fʋakoi;hebakdje;kastkitki;kastkitki
-kh	kh/kʰ	K	3	3	kheɲkhaɲ;okhaɲ;jəkhiɲi
-^kh	kʰ	K	6	6	kheɲkhaɲ;khanam;khiph;khin;khəɾi
-m	m	M	68	23	tkiʔma;eɾehtum;tʃim;məɾehɾika;ham_hemdsi
-n	n	N	47	24	noijedjeʔ;nohno;nohno;tsinkatts;njuʃnjos
-ɲ	ɲ	N	36	17	əɲja;əɲja;kakaiɲ;hihoʔɲe;mətʃ_kaiɲ
-nh	nh/n̥	N	1	1	həinhoi
-b	b	P	23	15	hebakdje;teɾebutʃ;be;bikəkis;eɾubuje
-p	p	P	18	6	ʃoʔpaʔ;puhje;pədai;paiɲ;patki
-ph	ph/pʰ	P	4	3	khiph;iʃu_pheɲ;taphe;sapheʔ
-^ph	pʰ	P	1	1	pheɲ
-ɾ	ɾ	R	38	37	eɾehtum;məɾehɾika;məɾehɾika;teɾebutʃ;deɾsi
-ɾh	ɾh/ɾ̥	R	2	2	feɾhki;hamfeɾhki
-s	s	S	49	12	kastkitki;ham_hemdsi;deɾsi;bikəkis;tsinkatts
-ʃ	ʃ	S	34	19	ʃoʔpaʔ;tʃeʃ;njuʃnjos;təekəeʃ;aʔttʃi
-d	d	T	37	29	noijedjeʔ;hebakdje;ham_hemdsi;deɾsi;dgijaʔ
-t	t	T	71	40	tkiʔma;eɾehtum;kastkitki;kastkitki;hemtki
-th	th/tʰ	T	1	1	mointhã
-tt	tt/tː	T	9	9	tsinkatts;aʔttʃi;muttʃ;mottʃatk;ttʃuttʃui
-tʃ	tʃ	T	31	9	tʃeʔeʋe;tʃim;tatstʃe;teɾebutʃ;tʃeʃ
-^tt	tː	T	6	6	ttʃikaksi;ttʃijɨ;ttʃeij̃aʔ;ttʃuttʃui;ttʃoi
-o	o	U	67	56	noijedjeʔ;nohno;nohno;fʋakoi;ʃoʔpaʔ
-õ	õ	U	7	4	hõtʃai;sõʔmeje;tʃõ;tʃõ;oɾoikohkõi
-ʋ	ʋ	W	33	12	tʃeʔeʋe;fʋakoi;həkiʋe;ʋiti;ʋek
-^w	w	W	1	1	watjeke
-u	u	Y	53	44	eɾehtum;teɾebutʃ;muihja;kaɾauheʔ;puhje
-_	+	_	15	15	ham_hemdsi;mətʃ_kaiɲ;jiɾitak_jiɾi_hiji;jiɾitak_jiɾi_hiji;mɨdje_tomʔsi
+Grapheme	IPA	SCA	Frequency
+^a	a	A	15
+^b	b	P	8
+^d	d	T	6
+^e	e	E	3
+^ee	eː	E	1
+^f	f	B	8
+^h	h	H	54
+^i	i	I	9
+^i$	i	I	1
+^ii	iː	I	3
+^j	j	J	17
+^k	k	K	20
+^kh	kʰ	K	6
+^m	m	M	36
+^n	n	N	10
+^o	o	U	4
+^p	p	P	12
+^ph	pʰ	P	1
+^s	s	S	6
+^t	t	T	27
+^ts	ts	C	13
+^tt	tː	T	6
+^tʃ	tʃ	T	16
+^u	u	Y	4
+^w	w	W	1
+^ã	ã	A	1
+^õ	õ	U	1
+^ĩ	ĩ	I	1
+^ə	ə	E	2
+^ɲ	ɲ	N	1
+^ʃ	ʃ	S	8
+^ʋ	ʋ	W	21
+_	+	_	15
+a	a	A	121
+a$	a	A	41
+aa	aː	A	4
+b	b	P	15
+d	d	T	29
+ds	d s	T S	2
+e	e	E	91
+e$	e	E	45
+ee	eː	E	1
+f	f	B	4
+g	g	K	1
+h	h	H	55
+h$	h	H	9
+i	i	I	149
+i$	i	I	74
+j	j	J	83
+j̃	j̃	J	1
+k	k	K	80
+k$	k	K	14
+kh	kh/kʰ	K	3
+ks	k s	K S	3
+m	m	M	23
+m$	m	M	9
+n	n	N	24
+n$	n	N	13
+nh	nh/n̥	N	1
+o	o	U	56
+o$	o	U	7
+p	p	P	6
+ph	ph/pʰ	P	3
+ph$	ph/pʰ	P	1
+s	s	S	12
+s$	s	S	22
+t	t	T	40
+t$	t	T	4
+th	th/tʰ	T	1
+ts	ts	C	10
+ts$	ts	C	5
+tt	tt/tː	T	9
+tʃ	tʃ	T	9
+tʃ$	tʃ	T	6
+u	u	Y	44
+u$	u	Y	5
+ã	ã	A	3
+ã$	ã	A	3
+õ	õ	U	4
+õ$	õ	U	2
+ĩ	ĩ	I	2
+ə	ə	E	35
+ə$	ə	E	1
+ɨ	ɨ	I	15
+ɨ$	ɨ	I	2
+ɲ	ɲ	N	17
+ɲ$	ɲ	N	18
+ɾ	ɾ	R	37
+ɾh	ɾh/ɾ̥	R	2
+ɾs	ɾ s	R S	1
+ʃ	ʃ	S	19
+ʃ$	ʃ	S	6
+ʃs	ʃ s	S S	1
+ʋ	ʋ	W	12
+ʔ	ʔ	H	33
+ʔ$	ʔ	H	33
+ʔh	ʔh/ʔʰ	H	3
+ẽ	ẽ	E	2
+ẽ$	ẽ	E	1

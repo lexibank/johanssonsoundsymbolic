@@ -1,32 +1,68 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		194	NULL	nim;or;sino;maskwa;suge
-$	NULL		198	NULL	nim;ɲu;or;sino;maskwa
-a	a	A	65	35	maskwa;maskwa;kweda;wari;nak
-f	f	B	2	1	mufit;far
-e	e	E	53	27	suge;kweda;we;sebelum;sebelum
-h	h	H	1	1	tahun
-i	i	I	51	20	nim;sino;ʃim;ʃim;ibit
-j	j	J	9	2	jebris;ja;ajna;jeŋgras;je
-g	g	K	20	11	suge;gre;git;gro;ŋgon
-k	k	K	44	6	nak;ka;ku;kam;muʃu_dik_sop_dik
-l	l	L	1	1	sebelum
-m	m	M	57	14	nim;maskwa;ʃim;ʃim;sebelum
-n	n	N	46	6	nim;sino;on;nak;mo_ndet
-ŋ	ŋ	N	11	7	muŋgwo;buŋa;ŋgon;ŋgwot;jeŋgras
-^ɲ	ɲ	N	5	5	ɲu;ɲaŋgon;ɲaŋgon;ɲaŋgon;ɲaŋgon
-nn	nn/nː	N	1	1	dʒirnnot
-b	b	P	16	7	ibit;sebelum;jebris;ben;dabe
-p	p	P	13	5	kwop;muʃu_dik_sop_dik;sopkwa;sopkwa_bris;pu
-r	r	R	32	18	or;wari;jebris;gre;ndar
-s	s	S	32	5	sino;maskwa;suge;sebelum;jebris
-ʃ	ʃ	S	13	4	ʃim;ʃim;ʃe;muʃu_dik_sop_dik;ʃo
-z$	z	S	1	1	rz
-d	d	T	28	20	kweda;mo_ndet;ndam;ndo;de
-t	t	T	19	1	ibit;mo_ndet;te;git;rut
-dʒ	dʒ	T	12	6	ndʒau;dʒam;dʒi;dʒam;sukndʒep
-o	o	U	72	47	or;sino;on;mo_ndet;ndo
-w	w	W	21	12	we;wari;wo;wa;mwa
-u	u	Y	44	26	ɲu;suge;sebelum;ndʒau;ku
-_	+	_	24	24	mo_ndet;na_ma;muʃu_dik_sop_dik;muʃu_dik_sop_dik;muʃu_dik_sop_dik
-gw	gw/g w	K W	7	2	muŋgwo;gwes;gwa;gwes;gwes
-kw	kw/k w	K W	8	3	maskwa;kweda;kwop;sopkwa;sopkwa_bris
+Grapheme	IPA	SCA	Frequency
+^a	a	A	6
+^b	b	P	9
+^d	d	T	8
+^dʒ	dʒ	T	6
+^e	e	E	2
+^e$	e	E	1
+^f	f	B	1
+^g	g	K	9
+^gw	gw/g w	K W	5
+^i	i	I	12
+^i$	i	I	2
+^j	j	J	6
+^k	k	K	18
+^kw	kw/k w	K W	5
+^m	m	M	22
+^mw	m w	M W	1
+^n	n	N	20
+^o	o	U	8
+^p	p	P	6
+^r	r	R	6
+^s	s	S	16
+^t	t	T	4
+^w	w	W	8
+^ŋ	ŋ	N	4
+^ɲ	ɲ	N	5
+^ʃ	ʃ	S	9
+_	+	_	24
+a	a	A	35
+a$	a	A	24
+b	b	P	7
+d	d	T	20
+dʒ	dʒ	T	6
+e	e	E	27
+e$	e	E	23
+f	f	B	1
+g	g	K	11
+gw	gw/g w	K W	2
+h	h	H	1
+i	i	I	20
+i$	i	I	17
+j	j	J	2
+j$	j	J	1
+k	k	K	6
+k$	k	K	20
+kw	kw/k w	K W	3
+l	l	L	1
+m	m	M	14
+m$	m	M	20
+n	n	N	6
+n$	n	N	20
+nn	nn/nː	N	1
+o	o	U	47
+o$	o	U	17
+p	p	P	5
+p$	p	P	2
+r	r	R	18
+r$	r	R	8
+s	s	S	5
+s$	s	S	11
+t	t	T	1
+t$	t	T	14
+u	u	Y	26
+u$	u	Y	18
+w	w	W	12
+z$	z	S	1
+ŋ	ŋ	N	7
+ʃ	ʃ	S	4

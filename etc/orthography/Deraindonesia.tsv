@@ -1,31 +1,64 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		213	NULL	n̪umami;suŋgu;n̪a;n̪agi;kn̪i
-$	NULL		224	NULL	n̪umami;suŋgu;n̪a;n̪agi;kn̪i
-a	a	A	224	108	n̪umami;n̪a;n̪agi;d̪aki;walat̪apa
-f	f	B	40	32	afat̪u;fo̞fo̞;fo̞fo̞;d̪afuhu;fi
-e̞	e̞	E	26	20	t̪it̪e̞;hwe̞la;re̞wambi;hje̞mla;e̞fu
-h	h	H	44	13	hai_ko̞ko̞;gihjamu;hambala;hlua;d̪afuhu
-hw	hw/hʷ	H	1	1	hwahwa
-^hw	hʷ	H	12	12	hwe̞la;hwambo̞;hwila;hwalfe̞hima;hwan̪i
-i	i	I	108	34	n̪umami;n̪agi;kn̪i;d̪aki;hai_ko̞ko̞
-ɨ$	ɨ	I	1	1	aran̪ɨ
-j	j	J	28	16	gihjamu;kjau;hje̞mla;jan̪in̪o̞ma;jafle̞i
-g	g	K	20	9	suŋgu;n̪agi;gihjamu;gihalfi;iŋgin̪ambo̞
-k	k	K	19	13	kn̪i;d̪aki;hai_ko̞ko̞;hai_ko̞ko̞;kjau
-q	q	K	4	4	d̪o̞qo̞ra;d̪o̞qo̞ra;d̪o̞qo̞ra;d̪o̞qo̞ra
-l	l	L	57	55	walat̪apa;hwe̞la;hambala;n̪umbala;hlua
-m	m	M	65	56	n̪umami;n̪umami;gihjamu;hwambo̞;hambala
-ŋ	ŋ	N	10	10	suŋgu;n̪umuŋgwa;iŋgin̪ambo̞;jaŋgla;ruŋgu
-n̪	n̪	N	62	40	n̪umami;n̪a;n̪agi;kn̪i;n̪umbala
-b	b	P	38	21	hwambo̞;hambala;re̞wambi;bukwa;n̪umbala
-p	p	P	16	10	walat̪apa;we̞pi;iplwa;pi;bapli
-r	r	R	20	17	re̞wambi;aran̪ɨ;se̞r;barala;amria
-s	s	S	31	4	suŋgu;same̞fi;sa;sumban̪i;simi
-d̪	d̪	T	14	3	d̪aki;d̪afuhu;d̪an̪i;d̪la;walad̪aki
-t̪	t̪	T	40	27	walat̪apa;t̪it̪e̞;t̪it̪e̞;afat̪u;t̪u
-o̞	o̞	U	52	33	hai_ko̞ko̞;hai_ko̞ko̞;hwambo̞;fo̞fo̞;fo̞fo̞
-w	w	W	18	4	walat̪apa;re̞wambi;we̞pi;walalu;t̪ikjawi
-u	u	Y	95	54	n̪umami;suŋgu;suŋgu;gihjamu;afat̪u
-_	+	_	3	3	hai_ko̞ko̞;pe̞t̪wa_jan̪i;pe̞t̪wa_an̪gwag
-gw	gw/g w	K W	3	3	n̪umuŋgwa;pe̞t̪wa_an̪gwag;huŋgwa
-kw	kw/k w	K W	7	6	bukwa;ho̞mbakwala;imbalkwa;fan̪kwe̞k;bakwa
+Grapheme	IPA	SCA	Frequency
+^a	a	A	32
+^b	b	P	17
+^d̪	d̪	T	11
+^e̞	e̞	E	2
+^f	f	B	5
+^g	g	K	9
+^h	h	H	30
+^h$	h	H	1
+^hw	hʷ	H	12
+^i	i	I	5
+^j	j	J	12
+^k	k	K	5
+^kw	kw/k w	K W	1
+^l	l	L	1
+^m	m	M	8
+^n̪	n̪	N	22
+^p	p	P	6
+^r	r	R	2
+^s	s	S	26
+^s$	s	S	1
+^t̪	t̪	T	9
+^u	u	Y	1
+^w	w	W	7
+_	+	_	3
+a	a	A	108
+a$	a	A	84
+b	b	P	21
+d̪	d̪	T	3
+e̞	e̞	E	20
+e̞$	e̞	E	4
+f	f	B	32
+f$	f	B	1
+fw	f w	B W	2
+g	g	K	9
+g$	g	K	2
+gw	gw/g w	K W	3
+h	h	H	13
+hw	hw/hʷ	H	1
+i	i	I	34
+i$	i	I	69
+j	j	J	16
+k	k	K	13
+k$	k	K	1
+kw	kw/k w	K W	6
+l	l	L	55
+lw	l w	L W	1
+m	m	M	56
+m$	m	M	1
+n̪	n̪	N	40
+o̞	o̞	U	33
+o̞$	o̞	U	19
+p	p	P	10
+q	q	K	4
+r	r	R	17
+r$	r	R	1
+s	s	S	4
+t̪	t̪	T	27
+t̪w	t̪ w	T W	4
+u	u	Y	54
+u$	u	Y	40
+w	w	W	4
+ŋ	ŋ	N	10
+ɨ$	ɨ	I	1

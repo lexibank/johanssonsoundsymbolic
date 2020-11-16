@@ -1,54 +1,94 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		204	NULL	kolheɔb;umeõi;gikau;nho;kaao
-$	NULL		212	NULL	umeõi;gikau;phaai;nho;kaao
-a	a	A	47	46	gikau;kaiho;kaidde;kaʔiug;komeniaŋ
-ã	ã	A	1	1	hẽãŋ
-aa	aː	A	128	118	phaai;kaao;nɛphoaai;okaad;kaaʔeem
-ãã	ãː	A	13	8	okhoãão;kohããt;hein_hããi;pĩ_ããi;xeaaidãão
-ɸ	ɸ	B	7	4	heɸuoi;ɸiɟou;aakaaiɸɛ̃i;ɸuoiɟ;ɸeaau_gɦaau
-c	c	C	18	9	ocuog;hecaag;cuou;ceog;calhoaag
-ɟ	ɟ	C	18	11	khiɟaaj;kuiɟaag;lokuɟaai;ɟob;ɸiɟou
-e	e	E	67	60	kolheɔb;umeõi;kaidde;heɸuoi;komeniaŋ
-ɛ	ɛ	E	11	8	nɛphoaai;bɛtiaau;hecɛŋ;njɛŋ;gouduekhɛg
-ẽ	ẽ	E	3	2	hẽãŋ;pẽaab;baatoẽ
-ee	eː	E	3	1	kaaʔeem;eem;eem
-ɛ̃	ɛ̃	E	3	3	tɛ̃j;aakaaiɸɛ̃i;tĩɛ̃u
-^x	x	G	2	2	xeaaidãão;xiug
-^ɣ	ɣ	G	1	1	ɣiɸiu
-h	h	H	30	9	kaiho;heɸuoi;hũigimau;hẽãŋ;hecaag
-ɦ	ɦ	H	3	3	heiagɦe;gɦiaau;ɸeaau_gɦaau
-ʔ	ʔ	H	6	6	kaʔiug;kaaʔeem;aauʔe;kaaʔoõi;heʔugaao
-i	i	I	120	62	umeõi;gikau;phaai;kaiho;kaidde
-ĩ	ĩ	I	3	2	pĩ_ããi;tĩɛ̃u;ĩãão
-j	j	J	12	3	kalhoj;kaajaab;kaajtaai;khiɟaaj;thugaaj
-g	g	K	59	22	gikau;ocuog;kaʔiug;hũigimau;kaiug_kao
-k	k	K	80	18	kolheɔb;gikau;kaao;kaiho;kaidde
-kh	kh/kʰ	K	4	4	okhoãão;gouduekhɛg;gekhaaŋ;okheaag
-kk	kk/kː	K	1	1	hekkao
-^kh	kʰ	K	4	4	khiɟaaj;kheaai;khougaau;kheu
-l	l	L	7	3	lokuɟaai;lahaai;heleun;lɔi;lau
-lh	lh/l̥	L	3	3	kolheɔb;kalhoj;calhoaag
-m	m	M	29	10	umeõi;komeniaŋ;kaaʔeem;hũigimau;badgam
-^mh	mh/m̥	M	2	2	mhou;mheaaŋ
-n	n	N	24	6	nɛphoaai;komeniaŋ;ŋuinaau;naaŋ;nuaam
-ŋ	ŋ	N	23	7	komeniaŋ;hẽãŋ;ŋuinaau;naaŋ;nuŋaai
-ɲ	ɲ	N	1	1	hiɲaao
-nh	nh/n̥	N	7	6	nho;inhõ;ginhaau;tanhaai;tanhaai
-p	p	P	7	3	pẽaab;kupeaauŋ;pĩ_ããi;kaapuaau;pein
-^b	b	P	5	5	badgam;bɛtiaau;baataaiaag;bɛtuaau;baatoẽ
-b$	b	P	10	10	kolheɔb;tiub;kaajaab;kaab;giob
-ph	ph/pʰ	P	1	1	nɛphoaai
-^ph	pʰ	P	5	5	phaai;phugaai;phoŋaau;phoaai;phiŋuaain
-r	r	R	1	1	urio
-d	d	T	16	10	okaad;badgam;uduaai;kaaduoi;cuoid
-t	t	T	39	12	tiub;touoi;kaajtaai;tagai_to_hõ;tagai_to_hõ
-dd	dː	T	1	1	kaidde
-th	th/tʰ	T	2	1	thugaaj;mɛthou
-o	o	U	105	81	kolheɔb;nho;kaao;ocuog;ocuog
-õ	õ	U	8	4	umeõi;tagai_to_hõ;kaaʔoõi;eihõ;inhõ
-ɔ	ɔ	U	11	3	kolheɔb;lɔi;okɔj;kokeɔ;kokeɔ
-oo	oː	U	1	1	kaahooi
-ɔ̃$	ɔ̃	U	1	1	iɔ̃
-u	u	Y	125	77	umeõi;gikau;ocuog;heɸuoi;kaʔiug
-ũ	ũ	Y	2	2	hũigimau;cũoi
-_	+	_	9	9	kaiug_kao;tagai_to_hõ;tagai_to_hõ;meaaŋ_no_hoj;meaaŋ_no_hoj
+Grapheme	IPA	SCA	Frequency
+^a	a	A	1
+^aa	aː	A	5
+^b	b	P	5
+^c	c	C	9
+^d	d	T	3
+^e	e	E	2
+^ee	eː	E	2
+^g	g	K	9
+^h	h	H	21
+^i	i	I	8
+^k	k	K	62
+^kh	kʰ	K	4
+^l	l	L	4
+^m	m	M	12
+^mh	mh/m̥	M	2
+^n	n	N	11
+^nh	nh/n̥	N	1
+^o	o	U	5
+^p	p	P	4
+^ph	pʰ	P	5
+^t	t	T	26
+^th	th/tʰ	T	1
+^u	u	Y	5
+^x	x	G	2
+^ãã	ãː	A	1
+^ĩ	ĩ	I	1
+^ŋ	ŋ	N	3
+^ɛ	ɛ	E	3
+^ɟ	ɟ	C	2
+^ɣ	ɣ	G	1
+^ɸ	ɸ	B	3
+_	+	_	9
+a	a	A	46
+aa	aː	A	118
+aa$	aː	A	5
+b$	b	P	10
+c	c	C	9
+d	d	T	10
+d$	d	T	3
+dd	dː	T	1
+e	e	E	60
+e$	e	E	5
+ee	eː	E	1
+g	g	K	22
+g$	g	K	28
+h	h	H	9
+i	i	I	62
+i$	i	I	50
+j	j	J	3
+j$	j	J	9
+k	k	K	18
+kh	kh/kʰ	K	4
+kk	kk/kː	K	1
+l	l	L	3
+lh	lh/l̥	L	3
+m	m	M	10
+m$	m	M	7
+n	n	N	6
+n$	n	N	7
+nh	nh/n̥	N	6
+o	o	U	81
+o$	o	U	19
+oo	oː	U	1
+p	p	P	3
+ph	ph/pʰ	P	1
+r	r	R	1
+t	t	T	12
+t$	t	T	1
+th	th/tʰ	T	1
+u	u	Y	77
+u$	u	Y	43
+ã	ã	A	1
+ãã	ãː	A	8
+ãã$	ãː	A	4
+õ	õ	U	4
+õ$	õ	U	4
+ĩ	ĩ	I	2
+ŋ	ŋ	N	7
+ŋ$	ŋ	N	13
+ũ	ũ	Y	2
+ɔ	ɔ	U	3
+ɔ$	ɔ	U	8
+ɔ̃$	ɔ̃	U	1
+ɛ	ɛ	E	8
+ɛ̃	ɛ̃	E	3
+ɟ	ɟ	C	11
+ɟ$	ɟ	C	5
+ɦ	ɦ	H	3
+ɲ	ɲ	N	1
+ɸ	ɸ	B	4
+ʔ	ʔ	H	6
+ẽ	ẽ	E	2
+ẽ$	ẽ	E	1

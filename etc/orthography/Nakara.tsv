@@ -1,27 +1,43 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		281	NULL	kakaɖa;waɽawuma;naka;djiramija;naŋaɽa
-$	NULL		281	NULL	kakaɖa;waɽawuma;naka;djiramija;naŋaɽa
-a	a	A	688	418	kakaɖa;kakaɖa;kakaɖa;waɽawuma;waɽawuma
-e	e	E	36	36	meɳda;meɳda;kebbara;nakeja;kendjara
-i	i	I	59	58	djiramija;djiramija;ɖoɖbalkkalija;wunamiɭa;ndjira
-j	j	J	160	153	djiramija;djiramija;ɖoɖbalkkalija;nadjola;ndjira
-k	k	K	120	49	kakaɖa;kakaɖa;naka;koɽama;nkoɽa
-kk	kk/kː	K	25	25	ɖoɖbalkkalija;nmakkukka;nmakkukka;warikka;makkara
-l	l	L	30	26	ɖoɖbalkkalija;ɖoɖbalkkalija;nadjola;nakumbala;ndjamala
-ɭ	ɭ	L	19	19	nmunabaɭa;wunamiɭa;nmunabaɭa;nbaɭa;djaraɭma
-m	m	M	94	46	waɽawuma;djiramija;meɳda;meɳda;nmunabaɭa
-n	n	N	159	88	naka;naŋaɽa;naboɽa;nmunabaɭa;nmunabaɭa
-ŋ	ŋ	N	63	34	naŋaɽa;ŋaɖawa;njiŋa;ŋindja;ŋunjŋunjamija
-ɲ	ɲ	N	1	1	namandjaɖa_baɽɲa
-ɳ	ɳ	N	6	6	meɳda;meɳda;miɳdamija;maɳduɳda;maɳduɳda
-b	b	P	67	51	naboɽa;nmunabaɭa;nbaɖabaɖa;nbaɖabaɖa;ɖoɖbalkkalija
-bb	bː	P	23	23	kebbara;burbba;nakorbbaɽaka;nakabba;ŋaɽabba
-r	r	R	69	68	djiramija;kebbara;ndjira;narara;narara
-ɽ	ɽ	R	44	43	waɽawuma;naŋaɽa;naboɽa;koɽama;nkoɽa
-d	d	T	73	56	djiramija;meɳda;meɳda;nadjola;ndjira
-ɖ	ɖ	T	50	46	kakaɖa;nbaɖabaɖa;nbaɖabaɖa;ɖoɖbalkkalija;ɖoɖbalkkalija
-dd	dː	T	10	10	naɖiddja;muddja;djiddaja;koɭadda;nakaddjaɽa
-o	o	U	39	39	naboɽa;koɽama;nkoɽa;ɖoɖbalkkalija;nadjola
-w	w	W	60	41	waɽawuma;waɽawuma;ŋaɖawa;wunamiɭa;nmuɖamuɖawara
-u	u	Y	60	57	waɽawuma;nmunabaɭa;kunaɽa;wunamiɭa;nakumbala
-_	+	_	9	9	ɖawa_koɽaja;naŋaɖa_djara;kakaɖa_kendjara;koɭa_naŋaɖa;kinbaɭoŋa_ɖawa
+Grapheme	IPA	SCA	Frequency
+^b	b	P	16
+^d	d	T	17
+^j	j	J	7
+^k	k	K	71
+^l	l	L	4
+^m	m	M	43
+^n	n	N	70
+^r	r	R	1
+^w	w	W	19
+^ŋ	ŋ	N	28
+^ɖ	ɖ	T	4
+^ɽ	ɽ	R	1
+_	+	_	9
+a	a	A	418
+a$	a	A	270
+b	b	P	51
+bb	bː	P	23
+d	d	T	56
+dd	dː	T	10
+e	e	E	36
+i	i	I	58
+i$	i	I	1
+j	j	J	153
+k	k	K	49
+kk	kk/kː	K	25
+l	l	L	26
+m	m	M	46
+m$	m	M	5
+n	n	N	88
+n$	n	N	1
+o	o	U	39
+r	r	R	68
+u	u	Y	57
+u$	u	Y	3
+w	w	W	41
+ŋ	ŋ	N	34
+ŋ$	ŋ	N	1
+ɖ	ɖ	T	46
+ɭ	ɭ	L	19
+ɲ	ɲ	N	1
+ɳ	ɳ	N	6
+ɽ	ɽ	R	43

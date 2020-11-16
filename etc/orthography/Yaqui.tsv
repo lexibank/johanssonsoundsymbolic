@@ -1,40 +1,75 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		322	NULL	βe̞pa;majaiɾi;tʃukula;je̞e̞ka;siʔime̞
-$	NULL		340	NULL	βe̞pa;majaiɾi;tʃukula;je̞e̞ka;siʔime̞
-a	a	A	360	211	βe̞pa;majaiɾi;majaiɾi;tʃukula;je̞e̞ka
-aa	aː	A	38	30	kaa_tuʔi;takaa;kaa_jaiti_maatʃi;kaa_jaiti_maatʃi;naamu
-β	β	B	55	25	βe̞pa;βe̞e̞a;βitʃapo̞;βe̞tuku;tʃiiβu
-e	e	E	4	2	rojikte;xeʔotʃim;bea;siise
-e̞	e̞	E	121	72	βe̞pa;siʔime̞;e̞e̞je̞;bwe̞ʔituk;βe̞tuku
-e̞e̞	e̞ː	E	16	15	je̞e̞ka;e̞e̞je̞;βe̞e̞a;βe̞e̞te̞;se̞e̞wa
-^x	x	G	1	1	xeʔotʃim
-ʔ	ʔ	H	74	74	siʔime̞;jo̞o̞ʔo̞;kaa_tuʔi;tutuʔuli;bwe̞ʔituk
-i	i	I	196	102	majaiɾi;majaiɾi;siʔime̞;siʔime̞;o̞mtia
-ii	iː	I	9	9	wiikit;tʃiiβu;iliiki;siika;jaiti_jiia
-j	j	J	96	34	majaiɾi;je̞e̞ka;e̞e̞je̞;jo̞o̞ʔo̞;o̞jβo̞
-k	k	K	114	77	tʃukula;je̞e̞ka;kaa_tuʔi;bwe̞ʔituk;βe̞tuku
-kk	kk/kː	K	8	8	me̞kka_ko̞ʔo̞mi;me̞kka;jikkaja;mikko̞ʔim;kaa_me̞kka
-l	l	L	48	46	tʃukula;tutuʔuli;tʃukuli;te̞we̞li;tʃukuli
-ll	ll/lː	L	1	1	alle̞a
-m	m	M	102	56	majaiɾi;siʔime̞;o̞mtia;mamam;mamam
-n	n	N	53	35	napo̞sa;to̞ʔo̞na;nasuk;naamu;bwaana
-^ŋ	ŋ	N	1	1	ŋɔkɔ
-p	p	P	39	28	βe̞pa;napo̞sa;βitʃapo̞;amapo̞;pujta
-^b	b	P	15	1	bwe̞ʔituk;bwe̞ʔu;bwaana;bwita;bwia
-ɾ	ɾ	R	32	30	majaiɾi;ɾumui;o̞ʔo̞ɾe̞am;awiɾa;e̞ʔe̞ɾia
-^r	r	R	1	1	rojikte
-s	s	S	64	34	siʔime̞;napo̞sa;nasuk;usi_juʔubwa_jo̞ʔo̞tume̞;se̞βe̞
-ʃ	ʃ	S	1	1	ilittʃi
-t	t	T	95	58	o̞mtia;kaa_tuʔi;tutuʔuli;tutuʔuli;bwe̞ʔituk
-tt	tt/tː	T	7	7	to̞ttia;βe̞tte̞;kaa_βe̞tte̞;ilittʃi;tʃikwatte̞
-tʃ	tʃ	T	44	26	tʃukula;βitʃapo̞;tʃakaʔaku;tʃiiβu;tʃukuli
-o	o	U	2	2	rojikte;xeʔotʃim
-ɔ	ɔ	U	2	1	ŋɔkɔ;ŋɔkɔ
-o̞	o̞	U	103	73	o̞mtia;napo̞sa;jo̞o̞ʔo̞;βitʃapo̞;amapo̞
-o̞o̞	o̞ː	U	7	7	jo̞o̞ʔo̞;jo̞o̞a;to̞o̞tʃia;tʃo̞o̞nim;βo̞o̞ʔo̞
-w	w	W	53	19	bwe̞ʔituk;bwe̞ʔu;wiikit;te̞we̞li;we̞ija
-u	u	Y	109	87	tʃukula;tʃukula;kaa_tuʔi;tutuʔuli;tutuʔuli
-uu	uː	Y	7	6	tuuse̞;muuke̞;tʃuuʔu;puusim;juujam
-_	+	_	31	31	kaa_tuʔi;usi_juʔubwa_jo̞ʔo̞tume̞;usi_juʔubwa_jo̞ʔo̞tume̞;kaa_jaiti_maatʃi;kaa_jaiti_maatʃi
-kw	kw/k w	K W	1	1	tʃikwatte̞
-bw	b w	P W	4	4	usi_juʔubwa_jo̞ʔo̞tume̞;jiʔibwa;kaa_bwasi;uusi_juʔubwa_jo̞ʔo̞tume̞
+Grapheme	IPA	SCA	Frequency
+^a	a	A	24
+^aa	aː	A	3
+^b	b	P	1
+^bw	b w	P W	14
+^e̞	e̞	E	5
+^e̞e̞	e̞ː	E	1
+^i	i	I	10
+^j	j	J	61
+^k	k	K	31
+^l	l	L	2
+^m	m	M	17
+^n	n	N	17
+^o̞	o̞	U	9
+^p	p	P	10
+^r	r	R	1
+^s	s	S	28
+^t	t	T	33
+^tʃ	tʃ	T	18
+^u	u	Y	2
+^uu	uː	Y	1
+^w	w	W	18
+^x	x	G	1
+^ŋ	ŋ	N	1
+^ɾ	ɾ	R	2
+^β	β	B	30
+_	+	_	31
+a	a	A	211
+a$	a	A	125
+aa	aː	A	30
+aa$	aː	A	5
+bw	b w	P W	4
+e	e	E	2
+e$	e	E	2
+e̞	e̞	E	72
+e̞$	e̞	E	44
+e̞e̞	e̞ː	E	15
+i	i	I	102
+i$	i	I	84
+ii	iː	I	9
+j	j	J	34
+jw	j w	J W	1
+k	k	K	77
+k$	k	K	5
+kk	kk/kː	K	8
+ks	k s	K S	1
+kw	kw/k w	K W	1
+l	l	L	46
+ll	ll/lː	L	1
+m	m	M	56
+m$	m	M	29
+n	n	N	35
+n$	n	N	1
+o	o	U	2
+o̞	o̞	U	73
+o̞$	o̞	U	21
+o̞o̞	o̞ː	U	7
+p	p	P	28
+ps	p s	P S	1
+s	s	S	34
+t	t	T	58
+t$	t	T	3
+tt	tt/tː	T	7
+tw	t w	T W	1
+tʃ	tʃ	T	26
+u	u	Y	87
+u$	u	Y	20
+uu	uː	Y	6
+w	w	W	19
+ɔ	ɔ	U	1
+ɔ$	ɔ	U	1
+ɾ	ɾ	R	30
+ʃ	ʃ	S	1
+ʔ	ʔ	H	74
+β	β	B	25

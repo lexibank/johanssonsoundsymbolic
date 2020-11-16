@@ -1,49 +1,96 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		311	NULL	mbaru_wo;uuwi;dumoj̃_wo;sumo;bee
-$	NULL		314	2	mbaru_wo;uuwi;dumoj̃_wo;sumo;bee
-a	a	A	131	94	mbaru_wo;kɛndɛ_bar̃a;kɛndɛ_bar̃a;ɔr̃ɔɔ_nama;ɔr̃ɔɔ_nama
-aa	aː	A	34	13	nanaar̃aj̃;haana;gaaraj;jaa;w̃aaw̃
-ɟ	ɟ	C	15	6	ɟɛmɛj̃;ɟesu;ɟɛmɛj̃;nɟerum;ɟeɟeⁿm
-^c	c	C	4	4	ceri_wo;cija;cer_wo;cir̃e
-e	e	E	57	39	gire;pire;ceri_wo;ɟesu;kir̃ej
-ɛ	ɛ	E	76	56	kɛndɛ_bar̃a;kɛndɛ_bar̃a;ɛsum;ɟɛmɛj̃;ɟɛmɛj̃
-ee	eː	E	4	2	bee;pijee;teesum;ɟeeɟi
-eⁿ	eⁿ/ẽ	E	1	1	ɟeɟeⁿm
-ɛɛ	ɛː	E	8	4	pɛɛru_tuma;gɛndɛɛ;pɛɛ;pɛɛ;pɛɛru
-^h	h	H	2	2	haana;huja_kaŋ
-i	i	I	101	74	uuwi;gire;pire;ceri_wo;dij̃aw̃
-ii	iː	I	15	5	diiraj;diiraj;nɔɔnii;miini;tarii
-iiⁿ	ĩː	I	2	2	ziiⁿ;siiⁿ
-iⁿ$	iⁿ/ĩ	I	1	1	suziⁿ
-j	j	J	71	38	diiraj;diiraj;kir̃ej;ar̃ajim;jɛlɛlɛ
-jj	jː	J	1	1	ejje
-j̃	j̃	J	24	10	dumoj̃_wo;dɔj̃ɔj̃;dɔj̃ɔj̃;dij̃aw̃;ɟɛmɛj̃
-g	g	K	38	19	gogoŋgurom;gogoŋgurom;gogoŋgurom;gire;gandu_wo
-k	k	K	38	12	kɛndɛ_bar̃a;kokombuu;kokombuu;kuwo;kir̃ej
-kk	kk/kː	K	1	1	ɟɔkkɔlɛm
-l	l	L	8	5	bulabula;bulabula;jɛlɛlɛ;jɛlɛlɛ;lɛmbirɛ
-m	m	M	125	32	mbaru_wo;dumoj̃_wo;sumo;ɔr̃ɔɔ_nama;gogoŋgurom
-mm	mm/mː	M	1	1	nummuj̃
-n	n	N	86	37	kɛndɛ_bar̃a;ɔr̃ɔɔ_nama;tundu;tundu_wo;bondoo
-ŋ	ŋ	N	22	11	gogoŋgurom;goŋgoro;kaŋ;taŋga;huja_kaŋ
-ɲ	ɲ	N	6	1	ɲinnii;ɲan;ɲɛj̃;ɲir̃ɛ;lɛɛru_aŋgu_ɲaŋ
-nn	nn/nː	N	4	4	ɲinnii;denni;anni;ɲinnii
-ŋŋ	ŋŋ/ŋː	N	1	1	niŋŋej̃
-b	b	P	39	18	mbaru_wo;bee;kɛndɛ_bar̃a;mbɔsu;kokombuu
-p	p	P	35	5	pire;puur̃i;pusumu;pijee;pɛɛru_tuma
-r	r	R	74	73	mbaru_wo;gogoŋgurom;diiraj;diiraj;gire
-r̃	r̃	R	30	30	kɛndɛ_bar̃a;ɔr̃ɔɔ_nama;puur̃i;kir̃ej;ar̃ajim
-s	s	S	84	60	sumo;mbɔsu;ɛsum;sabu;ɟesu
-z	z	S	12	8	suziⁿ;ziiⁿ;zɔri;kizi;zuwa
-d	d	T	74	50	dumoj̃_wo;kɛndɛ_bar̃a;diiraj;diiraj;dɔj̃ɔj̃
-t	t	T	31	6	tundu;tundu_wo;tiwɛ;tarii;pɛɛru_tuma
-o	o	U	68	42	mbaru_wo;dumoj̃_wo;dumoj̃_wo;sumo;gogoŋgurom
-ɔ	ɔ	U	50	33	ɔr̃ɔɔ_nama;dɔj̃ɔj̃;dɔj̃ɔj̃;mbɔsu;sumɔ_sumɔ
-oo	oː	U	10	5	bondoo;goo;giroo;toor̃um;kinde_gooroj
-ɔɔ	ɔː	U	14	9	ɔr̃ɔɔ_nama;nɔɔnii;nɔɔw̃;naasirii_kɔɔrɔɔ;naasirii_kɔɔrɔɔ
-w	w	W	26	22	mbaru_wo;uuwi;dumoj̃_wo;tundu_wo;ceri_wo
-w̃	w̃	W	5	1	dij̃aw̃;nɔɔw̃;w̃aaw̃;w̃aaw̃;ɔw̃m
-wⁿ$	wⁿ/w̃	W	2	2	mawⁿ;mawⁿ
-u	u	Y	106	79	mbaru_wo;dumoj̃_wo;sumo;gogoŋgurom;tundu
-uu	uː	Y	9	3	uuwi;kokombuu;puur̃i;buu;kuu
-_	+	_	43	43	mbaru_wo;dumoj̃_wo;kɛndɛ_bar̃a;ɔr̃ɔɔ_nama;tundu_wo
+Grapheme	IPA	SCA	Frequency
+$	NULL	NULL	2
+^a	a	A	10
+^b	b	P	21
+^c	c	C	4
+^d	d	T	24
+^e	e	E	1
+^g	g	K	19
+^h	h	H	2
+^i	i	I	2
+^ii$	iː	I	1
+^j	j	J	15
+^k	k	K	26
+^l	l	L	3
+^m	m	M	15
+^n	n	N	44
+^o	o	U	5
+^p	p	P	30
+^s	s	S	23
+^t	t	T	25
+^u	u	Y	5
+^uu	uː	Y	1
+^w	w	W	3
+^w̃	w̃	W	1
+^z	z	S	4
+^ŋ	ŋ	N	6
+^ɔ	ɔ	U	7
+^ɛ	ɛ	E	6
+^ɟ	ɟ	C	9
+^ɲ	ɲ	N	5
+_	+	_	43
+a	a	A	94
+a$	a	A	27
+aa	aː	A	13
+aa$	aː	A	21
+b	b	P	18
+d	d	T	50
+e	e	E	39
+e$	e	E	17
+ee	eː	E	2
+ee$	eː	E	2
+eⁿ	eⁿ/ẽ	E	1
+g	g	K	19
+i	i	I	74
+i$	i	I	25
+ii	iː	I	5
+ii$	iː	I	9
+iiⁿ	ĩː	I	2
+iⁿ$	iⁿ/ĩ	I	1
+j	j	J	38
+j$	j	J	18
+jj	jː	J	1
+j̃	j̃	J	10
+j̃$	j̃	J	14
+k	k	K	12
+kk	kk/kː	K	1
+l	l	L	5
+m	m	M	32
+m$	m	M	78
+mm	mm/mː	M	1
+n	n	N	37
+n$	n	N	5
+nn	nn/nː	N	4
+o	o	U	42
+o$	o	U	21
+oo	oː	U	5
+oo$	oː	U	5
+p	p	P	5
+r	r	R	73
+rs	r s	R S	1
+r̃	r̃	R	30
+s	s	S	60
+t	t	T	6
+u	u	Y	79
+u$	u	Y	22
+uu	uː	Y	3
+uu$	uː	Y	5
+w	w	W	22
+w$	w	W	1
+w̃	w̃	W	1
+w̃$	w̃	W	3
+wⁿ$	wⁿ/w̃	W	2
+z	z	S	8
+ŋ	ŋ	N	11
+ŋ$	ŋ	N	5
+ŋŋ	ŋŋ/ŋː	N	1
+ɔ	ɔ	U	33
+ɔ$	ɔ	U	10
+ɔɔ	ɔː	U	9
+ɔɔ$	ɔː	U	5
+ɛ	ɛ	E	56
+ɛ$	ɛ	E	14
+ɛɛ	ɛː	E	4
+ɛɛ$	ɛː	E	4
+ɟ	ɟ	C	6
+ɲ	ɲ	N	1

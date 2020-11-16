@@ -1,26 +1,55 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		305	NULL	ito;ouruati;ragu;auru;turu
-$	NULL		296	NULL	ito;ouruati;ragu;auru;turu
-a	a	A	165	85	ouruati;ragu;auru;aku;aku
-ɑ	ɑ	A	1	1	keitɑko_luugo
-aa	aː	A	26	16	maari;kaana;mooraake;raati;raa
-e	e	E	70	26	peu;muure;emukoo;ere;ere
-ee	eː	E	6	3	reeree;reeree;eekio;eetano;teete
-i	i	I	108	44	ito;ouruati;moriro_to;kiro;pigu
-ii	iː	I	12	3	iipu;iitupa;iiana;ii;miikui
-g	g	K	72	72	ragu;pigu;uga;maigiŋ;tantaga
-k	k	K	89	39	aku;aku;kiro;katua;emukoo
-l	l	L	2	2	noikei_luugo;keitɑko_luugo
-m	m	M	82	30	moriro_to;muure;emukoo;nomororo;muu
-n	n	N	54	38	tana;nomororo;tukunu;koino;kaana
-^ŋ	ŋ	N	2	1	ŋkagu;ŋ
-nn	nn/nː	N	5	5	inna;nunno;innaguru;nanna;nanna
-ŋ$	ŋ	N	11	11	maigiŋ;koŋ;muguŋ;muŋ;miŋ
-p	p	P	64	41	peu;pigu;kopiro;perekupa;perekupa
-r	r	R	154	100	ouruati;ragu;auru;turu;moriro_to
-t	t	T	85	59	ito;ouruati;turu;moriro_to;katua
-o	o	U	164	93	ito;ouruati;moriro_to;moriro_to;moriro_to
-oo	oː	U	8	3	emukoo;mooraake;moo;mootina;aporoo
-u	u	Y	187	111	ouruati;ouruati;ragu;auru;auru
-uu	uː	Y	15	6	muure;muu;uupu;muu;noikei_luugo
-_	+	_	3	3	moriro_to;noikei_luugo;keitɑko_luugo
+Grapheme	IPA	SCA	Frequency
+^a	a	A	17
+^aa	aː	A	7
+^aa$	aː	A	1
+^e	e	E	4
+^e$	e	E	1
+^ee	eː	E	2
+^i	i	I	12
+^ii	iː	I	8
+^ii$	iː	I	1
+^k	k	K	50
+^m	m	M	52
+^n	n	N	16
+^o	o	U	15
+^o$	o	U	2
+^oo$	oː	U	1
+^p	p	P	23
+^r	r	R	54
+^t	t	T	26
+^u	u	Y	9
+^u$	u	Y	2
+^uu	uː	Y	2
+^ŋ	ŋ	N	1
+^ŋ$	ŋ	N	1
+_	+	_	3
+a	a	A	85
+a$	a	A	63
+aa	aː	A	16
+aa$	aː	A	2
+e	e	E	26
+e$	e	E	39
+ee	eː	E	3
+ee$	eː	E	1
+g	g	K	72
+i	i	I	44
+i$	i	I	52
+ii	iː	I	3
+k	k	K	39
+l	l	L	2
+m	m	M	30
+n	n	N	38
+nn	nn/nː	N	5
+o	o	U	93
+o$	o	U	54
+oo	oː	U	3
+oo$	oː	U	4
+p	p	P	41
+r	r	R	100
+t	t	T	59
+u	u	Y	111
+u$	u	Y	65
+uu	uː	Y	6
+uu$	uː	Y	7
+ŋ$	ŋ	N	11
+ɑ	ɑ	A	1

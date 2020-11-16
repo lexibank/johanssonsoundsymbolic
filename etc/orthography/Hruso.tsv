@@ -1,47 +1,93 @@
-Grapheme	IPA	SCA	FREQUENCY	Frequency	EXAMPLES
-^	NULL		211	NULL	uɟugo;si;vjeu;lusuvu;huhxespu
-$	NULL		217	NULL	uɟugo;si;vjeu;lusuvu;huhxespu
-a	a	A	61	17	mau;housa;sihxau;mazhiu;muxusa
-f	f	B	2	2	ifu;ufou
-v	v	B	3	2	vjeu;lusuvu;livziu
-c	c	C	6	2	ciu;hubjc;ɟimciu;ətcu;cei
-ɟ	ɟ	C	20	10	uɟugo;olhxəɟə;kiɟeɲ;ɟiu;ɟeɟe
-cc	cː	C	1	1	ecchə
-ts	ts	C	9	4	otsibo;tsiu;tsau;egzətsə;tsilo
-tz	tz/ts	C	1	1	sətzə
-e	e	E	56	23	vjeu;huhxespu;re;chige;deu
-ə	ə	E	40	19	olhxəɟə;olhxəɟə;iʃʃə;əso;ŋəu
-x	x	G	21	19	huhxespu;ʃohxu;olhxəɟə;sihxau;muxusa
-h	h	H	25	14	huhxespu;huhxespu;ʃohxu;housa;sihxau
-i	i	I	102	65	si;otsibo;chige;sihxau;giu
-j	j	J	19	18	vjeu;erbje;səljo;ʁijoa;bije
-g	g	K	24	10	uɟugo;chige;giu;gimrou;giu
-k	k	K	9	1	kiɟeɲ;ɲiskriɲiu;kuchou;laksiu;mukʃə
-l	l	L	18	8	lusuvu;səljo;liu;laksiu;livziu
-lh	lh/l̥	L	1	1	olhxəɟə
-m	m	M	37	12	mau;musu;gimrou;mazhiu;muxusa
-n	n	N	13	4	nuhxuruw;no;puin;no;nəna
-ŋ	ŋ	N	2	1	ŋəu;iməŋa
-ɲ	ɲ	N	26	8	kiɟeɲ;ɲetho;dzaɲe;ɲiskriɲiu;ɲiskriɲiu
-b	b	P	13	9	otsibo;erbje;ʃeba;bije;sibzi
-p	p	P	3	1	huhxespu;puin;pseu
-ph	ph/pʰ	P	6	6	aphu;ithəphro;əʃiphə;aphu;aphije
-^ph	pʰ	P	3	3	phiri;phudeu;phje
-r	r	R	31	19	re;gimrou;erbje;riu;nuhxuruw
-^ʁ	ʁ	R	3	3	ʁijoa;ʁi;ʁijoksi
-s	s	S	31	15	si;lusuvu;huhxespu;housa;musu
-z	z	S	18	15	dzaɲe;sigzi;egzətsə;egzi;dzixu
-ʃ	ʃ	S	15	6	ʃohxu;ʃeba;iʃi;ʃiu;ʃiu
-zh	zh/zʰ	S	1	1	mazhiu
-ʃʃ	ʃʃ/ʃː	S	1	1	iʃʃə
-^zh	zʰ	S	1	1	zhiu
-d	d	T	20	11	deu;dzaɲe;dau;dɟu;dzixu
-t	t	T	1	1	ətcu
-ch	ch/tʃ	T	8	2	chige;kuchou;chi;echi;chige
-dh	dh/dʰ	T	1	1	adha
-th	th/tʰ	T	7	4	ɲetho;thu;ithəphro;luthou;sthi
-o	o	U	56	36	uɟugo;otsibo;otsibo;ʃohxu;housa
-w$	w	W	3	3	nuhxuruw;guw;tsuw
-u	u	Y	131	33	uɟugo;uɟugo;vjeu;lusuvu;lusuvu
-^fw	f w	B W	1	1	fwu
-^phw	pʰ w	P W	1	1	phwa
+Grapheme	IPA	SCA	Frequency
+^a	a	A	17
+^a$	a	A	1
+^b	b	P	4
+^c	c	C	3
+^ch	ch/tʃ	T	6
+^d	d	T	9
+^e	e	E	10
+^fw	f w	B W	1
+^g	g	K	14
+^h	h	H	11
+^i	i	I	8
+^i$	i	I	1
+^j	j	J	1
+^k	k	K	4
+^ks	k s	K S	1
+^l	l	L	10
+^m	m	M	17
+^n	n	N	7
+^o	o	U	3
+^p	p	P	1
+^ph	pʰ	P	3
+^phw	pʰ w	P W	1
+^ps	p s	P S	1
+^r	r	R	12
+^s	s	S	10
+^th	th/tʰ	T	3
+^ts	ts	C	5
+^u	u	Y	3
+^u$	u	Y	2
+^v	v	B	1
+^x	x	G	2
+^z	z	S	3
+^zh	zʰ	S	1
+^ŋ	ŋ	N	1
+^ə	ə	E	8
+^ɟ	ɟ	C	10
+^ɲ	ɲ	N	14
+^ʁ	ʁ	R	3
+^ʃ	ʃ	S	8
+a	a	A	17
+a$	a	A	26
+b	b	P	9
+c	c	C	2
+c$	c	C	1
+cc	cː	C	1
+ch	ch/tʃ	T	2
+d	d	T	11
+dh	dh/dʰ	T	1
+e	e	E	23
+e$	e	E	23
+f	f	B	2
+g	g	K	10
+h	h	H	14
+i	i	I	65
+i$	i	I	28
+j	j	J	18
+k	k	K	1
+ks	k s	K S	2
+kʃ	k ʃ	K S	1
+l	l	L	8
+lh	lh/l̥	L	1
+m	m	M	12
+m$	m	M	7
+ms	m s	M S	1
+n	n	N	4
+n$	n	N	1
+ns	n s	N S	1
+o	o	U	36
+o$	o	U	17
+p	p	P	1
+ph	ph/pʰ	P	6
+r	r	R	19
+s	s	S	15
+t	t	T	1
+th	th/tʰ	T	4
+ts	ts	C	4
+tz	tz/ts	C	1
+u	u	Y	33
+u$	u	Y	93
+v	v	B	2
+w$	w	W	3
+x	x	G	19
+z	z	S	15
+zh	zh/zʰ	S	1
+ŋ	ŋ	N	1
+ə	ə	E	19
+ə$	ə	E	13
+ɟ	ɟ	C	10
+ɲ	ɲ	N	8
+ɲ$	ɲ	N	4
+ʃ	ʃ	S	6
+ʃʃ	ʃʃ/ʃː	S	1
