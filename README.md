@@ -27,15 +27,12 @@ Conceptlists in Concepticon:
 - **Sources:** 240
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 368,449
-- **Segments:** 452 (0 BIPA errors, 1 CTLS sound class errors, 452 CLTS modified)
-- **Inventory size (avg):** 35.30
+- **Tokens:** 377,004
+- **Segments:** 451 (0 BIPA errors, 0 CTLS sound class errors, 451 CLTS modified)
+- **Inventory size (avg):** 35.27
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Lenca-Salvador [lenc1244](http://glottolog.org/resource/languoid/id/lenc1244)
-  - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
 - Entries missing sources: 914/69963 (1.31%)

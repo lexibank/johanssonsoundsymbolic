@@ -37,7 +37,7 @@ U	u/u	kUffŋam	kitja	1	U+0055
 ^P	P/p	Pin	nisenan	1	U+005e U+0050
 ^S	S/s	Saliit̪ɨ, Secə	northernsierramiwok, natchez	2	U+005e U+0053
 ^W	W/w	Wəʃkup	natchez	1	U+005e U+0057
-^_	+	_ɔʈhotoaʈhuekaʈa, _pas	tiwi, greatandamanese, alabama, yana, wari, taushiro, kekchi, southernpomo	14	U+005e U+005f
+^_	NULL	_ɔʈhotoaʈhuekaʈa, _pas	tiwi, greatandamanese, alabama, yana, wari, taushiro, kekchi, southernpomo	14	U+005e U+005f
 ^a	a	aɾi, ariba	sanapanaangaite, ineseno, muinane, enapaworomaipu, toaripi, swedish, mongolian, japanese, warao, timucua, suri, aguaruna, pawnee, amarakaeri, katcha, alawa, qawasqar, maasai, aymara, ambulas, zarma, mairasi, limilngan, soo, terei, urarina, cofan, tima, rikbaktsa, gununakune, haidanorthern, suabo, nivacle, bororo, taushiro, imbaburaquechua, basque, hatam, takelma, mali, yimas, alsea, mojave, yuracare, movima, atakapa, krenak, kamula, wayuu, warapu, guahibo, kwaza, warembori, northalaskaninupiatun, ngarinyin, northernembera, guhusamane, tarifit, muruihuitoto, guarani, karok, ket, kanoe, mailu, sarakabanaa, awtuw, daga, alabama, berta, ainu, oroqen, sheko	100	U+005e U+0061
 ^a$	a	a	sumerian, warapu, atakapa, toaripi, kiowa, kamula, nama, guarani, ket, lule, limilngan, soo, juhoan, yuwana, rikbaktsa, panoankatukina, haidanorthern, bororo, berik, muniche, guahibo, kwaza, pawnee, warembori, southeastijo, hruso, tarifit, gumuz, mandinka, bambassi, zarma, grasskoiari, kanoe, manange, yareba, kaluli, waorani, ainu, sentani	57	U+005e U+0061 U+0024
 ^aa	aː	aar, aas	gaam, bari, baruya, tehuelche, achumawi, rungakibet, maasai, bambassi, tamil, ayoreo, adyghe, shompeng, muinane, kiowa, ahtena, yaqui, alabama, xicotepecdejuareztotonac, mojave, atakapa, northalaskaninupiatun, sheko, muruihuitoto, washo, karok, shasta, kekchi, oroqen, terei, alsea, wayuu, huave, pawnee, katcha, teiwa, guhusamane, ket	100	U+005e U+0061 U+0061
@@ -471,6 +471,8 @@ _	+	maa_bimɛ_ji_wɛ, tʃũʔ_n̪d̪iʔĩ_l̪a	chatino, bangime, vietnamese, ban
 _!	+ ǃ	koa_!ʔan_ke, ʒu_!kʼxʼa_taʔm_ǀkʼxʼau	juhoan	2	U+005f U+0021
 _$	NULL	ngawo̞_be̞n_, lɛwd̪a_	ket, quileute, kanuri, achumawi, vietnamese, zarma, amarakaeri, guhusamane, muruihuitoto, swahili, taushiro, imbaburaquechua, lakota, gaam	26	U+005f U+0024
 __	+	monoŋgini__ni, mono__ni	sarakabanaa, hupde	9	U+005f U+005f
+_$	NULL
+^_	NULL
 _ᵑǂ	_ ⁿǂ	ᶢǂqhẽẽ_ᵑǀan, thame̞si_ᵑǁo̞su	taa, sandawe	2	U+005f U+1d51
 _ᵑ!	+ ⁿǃ	ᵑ!ani_ku_ᵑ!ani_ku_ᵑ!ani, ᵑ!ani_ku_ᵑ!ani	juhoan	5	U+005f U+1d51 U+0021
 _ᶢǁ	+ gǁ		o_ᶢǁoʕniᶢ!u	juhoan	1	U+005f U+1da2
@@ -705,8 +707,8 @@ nw$	n w	tʃhonw, ponw	klamath	2	U+006e U+0077 U+0024
 nɕ	n ɕ	mətɕaʔntɕinɕt, ɬkwiiiiʔntɕinɕt	alsea	3	U+006e U+0255
 nɕ$	n ɕ	nuunɕ	alsea	1	U+006e U+0255 U+0024
 nʂ$	n ʂ	ʂoʂknʂ	sheko	1	U+006e U+0282 U+0024
-nʃ	nʃ	panʃika_ʔajiʔ, inʃinan_kɨɾan	tarifit, wari, bari, seri, krenak, esselen, candoshishapra, wayuu, nivacle, natchez, berta, kekchi, chayahuita	15	U+006e U+0283
-nʃ$	nʃ	phalanʃ, thonʃ	chipaya, takelma, sheko	8	U+006e U+0283 U+0024
+nʃ	n ʃ	panʃika_ʔajiʔ, inʃinan_kɨɾan	tarifit, wari, bari, seri, krenak, esselen, candoshishapra, wayuu, nivacle, natchez, berta, kekchi, chayahuita	15	U+006e U+0283
+nʃ$	n ʃ	phalanʃ, thonʃ	chipaya, takelma, sheko	8	U+006e U+0283 U+0024
 nʒ	n ʒ	θaħənʒiaθ, aħənʒia	tarifit, sheko	3	U+006e U+0292
 n̥	n̥	aan̥ame, in̥oŋama	ayoreo, klamath	45	U+006e U+0325
 n̪	n̪	jan̪ɯn̪d̪a, laman̪e	turkish, tehuelche, itelmen, yana, rumu, haidanorthern, mongolian, yele, highlandoaxacachontal, korean, huave, sentani, chatino, nimboran, zuni, achumawi, mapudungun, shasta, bororo, tol, waris, ket, vietnamese, hadza, garrwa, basque, whitehmong, southernpomo, deraindonesia, nara, purepecha	100	U+006e U+032a

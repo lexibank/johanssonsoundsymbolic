@@ -85,7 +85,7 @@ e̞e̞	e̞ː	6
 ^aa	aː	3
 tʃ$	tʃ	1
 ms	m s	1
-nʃ	nʃ	1
+nʃ	n ʃ	1
 ^e̞$	e̞	2
 p$	p	1
 qw	qw/qʷ	1
@@ -96,6 +96,6 @@ g	g	1
 tʼ	tʼ	1
 mʃ	m ʃ	1
 ʔw	ʔw/ˀw	1
-^_	+	1
+^_	NULL	1
 b	b	2
 ^ii$	iː	8

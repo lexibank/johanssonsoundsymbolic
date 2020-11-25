@@ -53,7 +53,7 @@ w	w	11
 mm	mm/mː	4
 ^b	b	12
 pp	pp/pː	1
-^_	+	2
+^_	NULL	2
 ʃ	ʃ	2
 nh	nh/n̥	3
 sw	s w	3
@@ -63,6 +63,6 @@ t$	t	1
 ll	ll/lː	6
 ww	ww/wː	1
 tʃh	tʃh/tʃʰ	1
-^ĩ	ĩ	11
+^ĩ	ĩ	11
 s$	s	1
 th	th/tʰ	1
