@@ -1,4 +1,12 @@
 Grapheme	IPA	Frequency
+ay	ai
+ey	ei
+oy	oi
+uy	ui
+^ay	ai
+^ey	ei
+^oy	oi
+^uy	ui
 ^nh	nh/n̥	1
 a	a	89
 m$	m	30
@@ -35,7 +43,6 @@ l	l	13
 n	n	12
 ^n	n	49
 o$	o	5
-y	y	13
 t$	t	23
 t	t	27
 p$	p	14
@@ -45,7 +52,6 @@ a$	a	14
 _	+	5
 g$	g	7
 m	m	21
-y$	y	4
 ^d	d	6
 b$	b	13
 p	p	14
