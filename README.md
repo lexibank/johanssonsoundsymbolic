@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 - **Sources:** 240
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 378,486
-- **Segments:** 447 (0 BIPA errors, 0 CTLS sound class errors, 447 CLTS modified)
+- **Tokens:** 378,473
+- **Segments:** 448 (2 BIPA errors, 2 CTLS sound class errors, 446 CLTS modified)
 - **Inventory size (avg):** 35.04
 
 ## Possible Improvements:
@@ -44,7 +44,7 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description| Role
 --- | --- | --- | ---
-Sacha Beniamine | @XachaB | maintainer | Other
+Sacha Beniamine | @XachaB | | Other
 Erben Johansson | | publication author | Author
 Kristina Pianykh | @Kristina-Pianykh | concept mapping | Other
 Johann-Mattis List | @lingulist | maintainer, cldf conversion, profile | Other
