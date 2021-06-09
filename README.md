@@ -1,8 +1,14 @@
 # CLDF dataset derived from the Johansson et al.'s "The typology of sound symbolism" from 2020 
 
-Cite the source dataset as
+## How to cite
 
-> Erben Johansson, N., Anikin, A., Carling, G., & Holmer, A. (2020). The typology of sound symbolism: Defining macro-concepts via their semantic and phonetic features, Linguistic Typology , 24(2), 253-310. doi: https://doi.org/10.1515/lingty-2020-2034
+If you use these data please cite
+- the original source
+  > Erben Johansson, N., Anikin, A., Carling, G., & Holmer, A. (2020). The typology of sound symbolism: Defining macro-concepts via their semantic and phonetic features, Linguistic Typology , 24(2), 253-310. doi: https://doi.org/10.1515/lingty-2020-2034
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC BY-NC 4.0 license
 
@@ -27,9 +33,9 @@ Conceptlists in Concepticon:
 - **Sources:** 240
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 378,473
-- **Segments:** 448 (2 BIPA errors, 2 CTLS sound class errors, 446 CLTS modified)
-- **Inventory size (avg):** 35.04
+- **Tokens:** 378,472
+- **Segments:** 446 (0 BIPA errors, 0 CTLS sound class errors, 446 CLTS modified)
+- **Inventory size (avg):** 35.03
 
 ## Possible Improvements:
 
@@ -50,3 +56,10 @@ Kristina Pianykh | @Kristina-Pianykh | concept mapping | Other
 Johann-Mattis List | @lingulist | maintainer, cldf conversion, profile | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
