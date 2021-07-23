@@ -1,5 +1,7 @@
 # CLDF dataset derived from the Johansson et al.'s "The typology of sound symbolism" from 2020 
 
+[![CLDF validation](https://github.com/lexibank/johanssonsoundsymbolic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/johanssonsoundsymbolic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -10,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a CC BY-NC 4.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://osf.io/3dsn6/
 
@@ -20,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/johanssonsoundsymbolic.svg?branch=master)](https://travis-ci.org/lexibank/johanssonsoundsymbolic)
+[![CLDF validation](https://github.com/lexibank/johanssonsoundsymbolic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/johanssonsoundsymbolic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 83%](https://img.shields.io/badge/Concepticon-83%25-yellowgreen.svg "Concepticon: 83%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-green.svg "Source: 99%")
