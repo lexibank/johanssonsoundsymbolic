@@ -8,7 +8,7 @@ Ainu,Ainu,ainu1240,Hokkaido Ainu,ain,Eurasia,43.633654,142.46167,Ainu
 Alabama,Alabama,alab1237,Alabama,akz,North America,30.76738,-94.62848,Muskogean
 Alawa,Alawa,alaw1244,Alawa,alh,Australia,-15.5458,134.282,Mangarrayi-Maran
 Allentiac,Allentiac,alle1238,Allentiac,,South America,-33.480938,-68.096924,Huarpean
-Alsea,Alsea,alse1251,Alsea-Yaquina,aes,North America,44.408,-123.94,Alsea
+Alsea,Alsea,alse1251,Alsea-Yaquina,aes,North America,44.408,-123.94,Alsea-Yaquina
 Amarakaeri,Amarakaeri,amar1274,Amarakaeri,amr,South America,-12.4931,-70.5533,Harakmbut
 Ambulas,Ambulas,ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu
 Andaqui,Andaqui,anda1286,Andaqui,ana,South America,2.74999,-76.0,Andaqui
@@ -55,7 +55,7 @@ Estonian,Estonian,esto1258,Estonian,ekk,Eurasia,58.55,25.82,Uralic
 Fasu,Fasu,fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu
 Fur,Fur,furr1244,Fur,fvr,Africa,12.0455,23.6401,Furan
 Gaam,Gaam,gaam1241,Gaam,tbi,Africa,11.4674,33.9797,Eastern Jebel
-Gagadu,Gagadu,gaga1251,Gaagudju,gbu,Australia,-12.5176,132.643,Gagadu
+Gagadu,Gagadu,gaga1251,Gaagudju,gbu,Australia,-12.5176,132.643,Gaagudju
 Garrwa,Garrwa,gara1269,Garrwa,wrk,Australia,-17.4504,137.72014,Garrwan
 Georgian,Georgian,nucl1302,Georgian,kat,Eurasia,41.850397,43.78613,Kartvelian
 Gooniyandi,Gooniyandi,goon1238,Gooniyandi,gni,Australia,-18.4073,126.351,Bunaban
@@ -90,7 +90,7 @@ Kanoe,Kanoê,kano1245,Kanoê,kxo,South America,-12.1789,-64.5812,Kanoê
 Kanuri,Kanuri,cent2050,Central Kanuri,knc,Africa,11.8,13.13,Saharan
 Karaja,Karajá,kara1500,Karajá,kpj,South America,-11.1881,-50.3492,Nuclear-Macro-Je
 Karas,Karas,kara1499,Kalamang,kgv,Papunesia,-3.47037,132.678,West Bomberai
-Karok,Karok,karo1304,Karok,kyh,North America,41.8228,-123.315,Karok
+Karok,Karok,karo1304,Karok,kyh,North America,41.8228,-123.315,Karuk
 Katcha,Katcha,katc1249,Katcha-Kadugli-Miri,xtc,Africa,10.8423,29.4914,Kadugli-Krongo
 Kayardild,Kayardild,kaya1319,Kayardild,gyd,Australia,-17.0695,139.489,Tangkic
 Kekchi,Kekchí,kekc1242,Kekchí,kek,North America,15.3788,-89.2452,Mayan
@@ -121,7 +121,7 @@ Maranunggu,Maranunggu,mara1386,Maranunggu,zmr,Australia,-13.6754,130.12,Western 
 Marind,Marind,nucl1622,Marind,mrz,Papunesia,-8.15651,140.009,Anim
 Maung,Maung,maun1240,Mawng,mph,Australia,-11.66,133.376,Iwaidjan Proper
 Maxakali,Maxakalí,maxa1247,Maxakalí,mbl,South America,-16.9402,-40.7891,Nuclear-Macro-Je
-Maybrat,Maybrat,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat
+Maybrat,Maybrat,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon
 Meriam,Meriam,meri1244,Meriam,ulk,Papunesia,-9.59575,143.773,Eastern Trans-Fly
 Miskito,Miskito,misk1235,Mískito,miq,North America,15.1576,-84.2942,Misumalpan
 Mocovi,Mocoví,moco1246,Mocoví,moc,South America,-28.097,-60.4145,Guaicuruan
@@ -238,9 +238,9 @@ Yaqui,Yaqui,yaqu1251,Yaqui,yaq,North America,29.9446,-110.681,Uto-Aztecan
 Yareba,Yareba,yare1248,Yareba,yrb,Papunesia,-9.50651,148.605,Yareban
 Yawa,Yawa,nucl1454,Yawa,yva,Papunesia,-1.77196,136.263,Yawa-Saweru
 Yele,Yele,yele1255,Yele,yle,Papunesia,-11.3796,154.127,Yele
-Yimas,Yimas,yima1243,Yimas,yee,Papunesia,-4.71731,143.572,Lower Sepik-Ramu
+Yimas,Yimas,yima1243,Yimas,yee,Papunesia,-4.71731,143.572,Lower Sepik
 Yukaghir,Yukaghir,sout2750,Southern Yukaghir,yux,Eurasia,64.218,154.375,Yukaghir
 Yuracare,Yuracaré,yura1255,Yuracaré,yuz,South America,-16.7479,-65.1224,Yuracaré
-Yuwana,Yuwana,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Yuwana
+Yuwana,Yuwana,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Hoti
 Zarma,Zarma,zarm1239,Zarma-Kaado,dje,Africa,12.8554,2.41173,Songhay
 Zuni,Zuni,zuni1245,Zuni,zun,North America,35.0056,-108.782,Zuni
