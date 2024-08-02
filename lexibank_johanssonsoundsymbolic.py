@@ -14,7 +14,7 @@ class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "johanssonsoundsymbolic"
     lexeme_class = CustomLexeme
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     # register custom data types here (or languge_class, lexeme_class, cognate_class):
     # concept_class = Concept
 

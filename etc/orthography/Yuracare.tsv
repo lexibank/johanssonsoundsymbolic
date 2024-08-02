@@ -17,7 +17,7 @@ Grapheme	IPA	SCA	Frequency
 ^tʃ	tʃ	T	16
 ^u	u	Y	3
 ^w	w	W	4
-^y	y/j	J	12
+^y	j	J	12
 ^ʃ	ʃ	S	1
 _	+	_	7
 a	a	A	89
@@ -56,8 +56,8 @@ u	u	Y	70
 u$	u	Y	10
 uu	uː	Y	1
 w	w	W	7
-y	y	Y	22
-y$	y	Y	1
+y	j	Y	22
+y$	j	Y	1
 ɲ	ɲ	N	4
 ʂ	ʂ	S	1
 ʃ	ʃ	S	1

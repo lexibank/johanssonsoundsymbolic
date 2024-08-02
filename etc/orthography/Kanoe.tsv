@@ -20,8 +20,8 @@ Grapheme	IPA	SCA	Frequency
 ^tw	t w	T W	2
 ^u	u	Y	4
 ^w	w	W	1
-^y	y/j	J	2
-^y$	y	Y	1
+^y	j	J	2
+^y$	j	Y	1
 ^ã	ã	A	8
 ^ã$	ã	A	1
 ^æ̃	æ̃	E	8
@@ -60,8 +60,8 @@ u$	u	Y	18
 w	w	W	11
 w$	w	W	8
 x	x	G	2
-y	y	Y	23
-y$	y	Y	11
+y	j	Y	23
+y$	j	Y	11
 ã	ã	A	2
 ã$	ã	A	10
 æ̃	æ̃	E	3
@@ -77,4 +77,4 @@ y$	y	Y	11
 β	β	B	13
 ẽ	ẽ	E	23
 ẽ$	ẽ	E	3
-ỹ	ỹ	Y	4
+ỹ	ĩ	Y	4

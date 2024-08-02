@@ -29,15 +29,15 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 245
-- **Concepts:** 344
+- **Varieties:** 245 (linked to 245 different Glottocodes)
+- **Concepts:** 344 (linked to 284 different Concepticon concept sets)
 - **Lexemes:** 69,963
 - **Sources:** 240
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 378,472
 - **Segments:** 446 (0 BIPA errors, 0 CLTS sound class errors, 446 CLTS modified)
-- **Inventory size (avg):** 35.03
+- **Inventory size (avg):** 34.98
 
 ## Possible Improvements:
 
@@ -52,7 +52,7 @@ Name | GitHub user | Description| Role
 Sacha Beniamine | @XachaB | | Other
 Erben Johansson | | publication author | Author
 Kristina Pianykh | @Kristina-Pianykh | concept mapping | Other
-Johann-Mattis List | @lingulist | maintainer, cldf conversion, profile | Other
+Johann-Mattis List | @lingulist | maintainer, cldf conversion, profile | Editor
 
 
 
