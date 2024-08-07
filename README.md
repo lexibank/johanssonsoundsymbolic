@@ -37,7 +37,7 @@ Conceptlists in Concepticon:
 - **Invalid lexemes:** 0
 - **Tokens:** 378,472
 - **Segments:** 446 (0 BIPA errors, 0 CLTS sound class errors, 446 CLTS modified)
-- **Inventory size (avg):** 34.98
+- **Inventory size (avg):** 34.97
 
 ## Possible Improvements:
 
