@@ -29,8 +29,7 @@ class Dataset(pylexibank.Dataset):
     )
 
     def cmd_download(self, args):
-        self.raw_dir.download("https://osf.io/3dsn6/download",
-                              "SupMaterials2_RawLinguisticForms.xlsx")
+        self.raw_dir.download("https://osf.io/3dsn6/download", "SupMaterials2_RawLinguisticForms.xlsx")
         self.raw_dir.xls2csv("SupMaterials2_RawLinguisticForms.xlsx")
 
     def cmd_makecldf(self, args):
